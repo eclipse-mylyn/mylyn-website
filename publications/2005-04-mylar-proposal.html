@@ -1,0 +1,253 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Graphical Modeling Framework Project Proposal</title>
+<link type="text/css" rel="stylesheet" href="http://www.eclipse.org/proposals/eclipse-webtools/templates/eclipse/eclipse.css">
+</head>
+
+<body>
+
+<TABLE cellSpacing=5 cellPadding=2 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD align=left width="60%"><FONT class=indextop>Mylar</FONT>
+    <BR><FONT class=indexsub>A Technology Project Proposal</FONT></TD>
+    <TD width="40%"><IMG height=86 hspace=50 src="http://eclipse.org/images/Idea.jpg" 
+      width=120 align=center></TD></TR></TBODY></TABLE>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table10">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0"><b>
+		<font color="#ffffff">Introduction</font></b></td>
+	</tr>
+	</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table3">
+	<tr>
+		<td>
+The Mylar Project is a proposed open source 
+project under the <a href="http://www.eclipse.org/technology/">Eclipse 
+Technology Project</a>.
+<p>This proposal is in the Project Proposal Phase (as defined in the
+<a href="http://www.eclipse.org/org/documents/Eclipse%20Development%20Process%202003_11_09%20FINAL.pdf">
+Eclipse Development Process document</a>) and is written to declare its intent 
+and scope. This proposal is written to solicit additional participation and 
+input from the Eclipse community. You are invited to comment on and/or join the 
+project. Please send all feedback to the
+<a href="news://news.eclipse.org/eclipse.technology.mylar">
+news://news.eclipse.org/eclipse.technology.mylar</a> newsgroup.<br>
+&nbsp; </td>
+	</tr>
+	</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table9">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0"><b>
+		<font color="#ffffff">Background</font></b></td>
+	</tr>
+	<tr>
+		<td>
+When used on large systems, Eclipse views become overloaded with elements.&nbsp; 
+Tree views often contain deep hierarchies with thousands of nodes, search 
+results often contain hundreds of elements, and each needs to be inspected 
+carefully to find elements related to the task-at-hand.&nbsp; The end result is 
+that developers spend more time looking for the information they need to get a 
+task done than they do programming.&nbsp; Although the Eclipse IDE is better 
+than most for working on large systems, features such as working sets still 
+burden the developer with manual configuration as tasks change.&nbsp; The 
+problem is that the current IDE user interface, 
+which shows system wide slices of program structure, does not scale to very 
+large systems.&nbsp; As systems continue to grow, this problem will continue to 
+get worse.&nbsp; But no matter how complex a system is, for any task that 
+developers work on--any defect they fix or feature they add--developers only care about a subset of the system.&nbsp; 
+Mylar proposes that the Eclipse user interface only needs to show developers 
+what they are working on. 
+<p>The current Mylar prototype makes working with very large Java and plug-in projects in Eclipse as easy as it is to 
+work with small projects.&nbsp; It does this by encoding developers' editing and 
+navigation activity in a degree-of-interest model and using the standard Eclipse 
+views to show only the relevant elements.&nbsp; It also finds related 
+information by actively searching 
+the source code and related artifacts.&nbsp; The result is that the Mylar 
+plug-in 
+dramatically reduces the need to navigate, search, inspect, and scroll around 
+looking for the information needed for the task-at-hand.&nbsp; We propose Mylar 
+as an Eclipse Technology Project with the intent of demonstrating how the core 
+pieces of this technology are relevant to the Eclipse platform and tools 
+projects, and in the process creating a useful plug-in with an active community.&nbsp; </p>
+<p>Version 0.1 of Mylar was tested in an August 2004 user study at IBM Toronto, 
+where 6 senior developers working on enterprise applications and plug-ins 
+used the tool during one week of their daily work.&nbsp; As reported in the
+		<a href="http://kerstens.org/mik/publications/mylar-aosd2005.pdf">AOSD 
+2005 Mylar paper</a>, the tool resulted in a substantial productivity 
+improvement.&nbsp; The
+		<a href="http://www.cs.ubc.ca/~mylar/presentations/mylar-eclipsecon2005.ppt">
+		first public presentation of Mylar</a> was given at EclipseCon 2005 and 
+		was very well received.&nbsp; Email 
+		feedback includes statements such as &quot;I thought Mylar was the most 
+		exciting technology I saw at the conference (including all the 
+		commercial vendor offerings)!&quot; [Sean Woodhouse, Technical Director of Verasta]. Several blog entries have also featured Mylar, including: </p>
+		<ul>
+			<li>
+			<a title="Permanent Link: The coolest plug-in you&#8217;re not using" rel="bookmark" href="http://www.eclipsepowered.org/archives/2005/03/03/the-coolest-plug-in-youre-not-using/">
+			The coolest plug-in you&#8217;re not using</a> (eclipsepowered.org)</li>
+			<li><a href="http://jroller.com/page/werner/20050303">Mylar : 
+			eclipse plugin to avoid information blindness</a> (jroller.com/page/werner)</li>
+		</ul> </td>
+	</tr>
+	</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table7">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0"><b>
+		<font color="#ffffff">Scope</font></b></td>
+	</tr>
+	<tr>
+		<td>
+		<p align="left">The objectives of the Mylar project are to: </p>
+		<ul>
+			<li>
+			<p align="left">Demonstrate that modeling task context is a core 
+			concern of the IDE platform, and that it can be seamlessly 
+			integrated into Eclipse to better support developers working with 
+			large workspaces.</p></li>
+			<li>
+			<p align="left">Build the core models, infrastructure, and UI 
+			components required to model and expose task context.&nbsp; The 
+			reference implementation will be tools for Java and Eclipse plug-in 
+			development.</p></li>
+			<li>
+			<p align="left">Solicit contributions to extend the interest model 
+			to additional Eclipse development platforms as C/C++ and J2EE, and 
+			to additional tools such as those for task management and 
+			information visualization. </p></li>
+			<li>
+			<p align="left">Provide a platform for ideas and prototypes that help 
+			scale the Eclipse user interface to very large systems.</p></li>
+		</ul>
+		</td>
+	</tr>
+</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table8">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0"><b>
+		<font color="#ffffff">Description</font></b></td>
+	</tr>
+	<tr>
+		<td>
+		<p align="left">The prototype implementation of Mylar is documented in the
+		<a href="http://www.cs.ubc.ca/~mylar/presentations/mylar-eclipsecon2005.ppt">
+		EclipseCon presentation</a>.&nbsp; The core Mylar component monitors the 
+		developer's editing and navigation activity and builds a 
+		degree-of-interest model.&nbsp; It exposes the degree-of-interest API, used by the Mylar UI 
+		to 
+		provide generic facilities for exposing interest in Eclipse workbench views and 
+		editors.&nbsp; These facilities provide 
+		interest-based highlighters, filters, sorters, and decorators.&nbsp; </p>
+		<p align="left">Additional Mylar tools extend the core model and UI facilities 
+		and add tool-specific interest encoding and search 
+		facilities.&nbsp; For example, the Java development support provides Mylar extensions of views such as the Package Explorer, Type 
+		Hierarchy and Java Editor, and drives the JDT's search.&nbsp; AOP support does the same for AJDT.&nbsp; 
+		XML-specific extensions support J2EE and plug-in development.&nbsp; Task management support integrates issue tracking systems such as 
+		Bugzilla.&nbsp; Future extensions include debugging support, Dynamic 
+		Help integration, interest model visualization and C/C++ development 
+		support.<br>
+&nbsp; </p>
+		</td>
+	</tr>
+</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table5">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0"><b>
+		<font color="#ffffff">Organization</font></b></td>
+	</tr>
+	<tr>
+		<td>
+		<p align="left"><b>Initial committers</b></p>
+		<p align="left">The initial committers will focus on evolving and 
+		hardening the Mylar model by delivering support for 
+		Java development.&nbsp; Our agile development process will 
+		follow eclipse.org's standards for openness and transparency.&nbsp; Our 
+		goal is to provide the 
+		infrastructure and APIs needed to integrate task and degree-of-interest 
+		centric UIs to any Eclipse plug-ins whose users experience information 
+		overload.&nbsp;As such we will actively encourage contributions to 
+		Mylar.&nbsp; We also plan to help improve the Eclipse platform by 
+		submitting patches and extension point suggestions.&nbsp; The initial committers are:</p>
+		<ul>
+			<li>
+			<p align="left"><b><span style="font-weight: 400">Mik Kersten (UBC): </span></b>project lead </li>
+			<li>
+			<p align="left"><b><span style="font-weight: 400">Gail Murphy</span> <span style="font-weight: 400">(UBC): </span></b>project manager </li>
+			<li>
+			<p align="left"><b><span style="font-weight: 400">Shawn Minto</span> <span style="font-weight: 400">(UBC)</span></b>: component owner of Bugzilla integration and XML 
+			support</li>
+		</ul>
+		<p align="left"><b>Interested parties</b><p align="left">The following 
+		projects have expressed interest extending the model or tools, 
+		contributing ideas, guidance and discussion. Key contacts listed.<ul>
+			<li>
+			<p align="left">CHISEL lab (University of Victoria): Margaret-Anne 
+			Storey</li>
+			<li>
+			<p align="left">JDT (IBM): Philippe Mulet</li>
+			<li>
+			<p align="left">AspectJ/AJDT (IBM Hursley): Adrian Colyer</li>
+			<li>
+			<p align="left">CDT (Texas Instruments Canada): Winnie Lai</li>
+			<li>
+			<p align="left">Rational (IBM): Jin Li</li>
+		</ul>
+		<p align="left"><b>Developer community</b><p align="left">We expect to 
+		extend the initial set of committers by actively supporting a developer 
+		community.&nbsp; The initial community outside of UBC will 
+		include 
+		Margaret-Anne Storey's CHISEL lab, which is planning to extend Mylar to 
+		their work on software visualization.&nbsp; We have two additional 
+		developers working on Bugzilla integration, and will be working with CDT 
+		developers to extend support to C/C++.&nbsp; Our goal is to have the 
+		initial developer community harden the core Mylar APIs to the point 
+		where it is easy for any other plug-in to incorporate the technology, 
+		and we will encourage all active contributors to become committers.&nbsp; We will make it easy for interested parties to take an active role in the 
+		project by making our planning and process transparent and remotely accessible.&nbsp;<p align="left">
+		<b>User community</b><p align="left">
+		Mylar is a new technology that 
+		promises to improve the user interface and interaction model of Eclipse.&nbsp; 
+		As such, supporting and soliciting feedback from a large user community 
+		of commercial developers is critical to creating a scalable model and 
+		usable UIs.&nbsp; We plan on doing this by using 
+		the standard eclipse.org mechanisms of supporting an open project and community of early adopters.&nbsp; In addition, we will collect user feedback in the form of remotely conducted 
+		user studies.&nbsp; These will take a similar form to the one 
+		reported on in the
+		<a href="http://kerstens.org/mik/publications/mylar-aosd2005.pdf">AOSD 
+2005 Mylar paper</a>, and will involve users sending their feedback and usage 
+		statistics on a weekly basis.&nbsp; This data will provide us with 
+		detailed information on view usage, navigation patterns, and the 
+		accuracy and predictability of the Mylar model.<p align="left">Since 
+		the EclipseCon presentation over 75 people have signed up for the 
+		summer user study.&nbsp; Those individuals will form our initial user community. &nbsp;With 
+		the input of the study we plan on tuning the Mylar model and UIs, 
+		and subsequently growing our user and developer communities.&nbsp; For information on 
+		the user user study please refer to the
+		<a href="http://www.cs.ubc.ca/~mylar/">Mylar page</a>.<br>
+&nbsp; </td>
+	</tr>
+</table>
+<table cellSpacing="5" cellPadding="2" width="100%" border="0" id="table6">
+	<tr>
+		<td vAlign="top" align="left" bgColor="#0080c0" colSpan="3"><b>
+		<font color="#ffffff">Tentative Plan</font></b></td>
+	</tr>
+	<tr>
+		<td colSpan="3">
+		<p><font color="#808080">2004-08 v0.1: internal release for IBM Toronto 
+		user study<br>
+		2005-02 v0.2: internal release for EclipseCon presentation</font><br>
+		2005-04 v0.3: internal bootstrap release<br>
+		2005-06 v0.4: public release for user study </td>
+	</tr>
+</table>
+
+<p><b><span style="font-weight: 400; font-style:italic">&quot;Mylar&quot; is:</span></b><i><br>
+a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
+b) A user interface and interaction &#8216;skin&#8217; used to avoid information blindness 
+when staring at Eclipse</i></p>
+
+</body>
+
+</html>

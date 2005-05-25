@@ -119,7 +119,7 @@ TH { font:13px Verdana, Arial, Helvetica, sans-serif;
 
 .paragraph { margin-left:5px; margin-right:5px; font:13px Verdana, Arial, Helvetica, sans-serif;  }
 
-.smallParagraph { font:11px Verdana, Arial, Helvetica, sans-serif;  }
+.smallParagraph { margin-left:5px; font:11px Verdana, Arial, Helvetica, sans-serif;  }
 
 .code { }
 

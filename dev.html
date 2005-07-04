@@ -134,7 +134,7 @@
             <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
               <TR>
                 <td height=20><p align="left" class="smallParagraph"><b>
-                <font color="#666666">building</font></b></p></td>
+                <font color="#666666">mylar workspace</font></b></p></td>
 			  </TR>
             </TABLE>
          </TD>          
@@ -206,6 +206,98 @@
 
 
 
+
+
+
+
+
+ <TR>
+        <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
+          <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+          <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td>
+          <TD BGCOLOR="#C8CEDC" width="*">
+            <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
+              <TR>
+                <td height=20><p align="left" class="smallParagraph"><b>
+                <font color="#666666">bugzilla feature</font></b></p></td>
+			  </TR>
+            </TABLE>
+         </TD>          
+         <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+         <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td> 	
+         <TD ALIGN="left" VALIGN="top" BGCOLOR="#FFFFFF"></TD>
+        </TR>
+        
+        <TR>
+        	<TD ALIGN="left" VALIGN="top" width=10 height=1 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 height=1 border=0 alt=""></TD>
+          
+          <TD ALIGN="left" VALIGN="top" COLSPAN="3" BGCOLOR="#999999">
+            <IMG alt="" src="images/clearDot.gif" border=0 width="1" height="1"></TD>
+        </TR>  
+        <TR>
+        <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
+          <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+          <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td>
+          <TD BGCOLOR="#ffffff" width="*">
+            <TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" width="100%">
+
+              
+              
+              <!-- START CONTENT -->
+             <TR>
+                <TD class=smallParagraph>
+					<table CELLPADDING="0" CELLSPACING="0" border="0"width="100%">
+                      <tr>
+                        <td class=smallParagraph width="100%">
+					<table border="0" cellpadding="4" width="100%" id="table3">
+                      <tr>
+                        <td width="100%">
+	<table border="0" cellpadding="0" width="100%" id="table4">
+							<tr>
+								<td class=smallParagraph align="left" valign="top">
+								<p class="smallParagraph">Decoupled from the 
+								rest of Mylar and can be built independently:<br>
+								- Add CVS location as above<br>
+								- Check out all of the 
+								org.eclipse.mylar.bugzilla projects</td>
+							</tr>
+							</table>
+						</td>
+                      </tr>
+                      </table>
+						</td>
+                      </tr>
+                      </table>
+				</TD>
+              </TR>
+
+              <!-- END CONTENT --> 
+            </TABLE>
+         </TD>          
+         <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+         <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td> 	
+         <TD ALIGN="left" VALIGN="top" BGCOLOR="#FFFFFF"></TD>
+        </TR>
+
+        <TR>
+          <TD ALIGN="left" VALIGN="top" width=10 height=1 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 height=1 border=0 alt=""></TD>
+          <TD ALIGN="left" VALIGN="top" COLSPAN="3" BGCOLOR="#999999">
+            <IMG alt="" src="images/clearDot.gif" border=0 width="1" height="1"></TD>
+        </TR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <TR>
         <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
           <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
@@ -214,7 +306,7 @@
             <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
               <TR>
                 <td height=20><p align="left" class="smallParagraph"><b>
-                <font color="#666666">monitor</font></b></p></td>
+                <font color="#666666">monitor feature</font></b></p></td>
 			  </TR>
             </TABLE>
          </TD>          
@@ -249,12 +341,12 @@
 	<table border="0" cellpadding="0" width="100%" id="table8">
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
-								<p class="smallParagraph">The monitor component is used 
-						for running the user study, and will be hosted at UBC 
+								<p class="smallParagraph">Used 
+						for running the user study, and hosted at UBC 
 								for the duration of the study.&nbsp; If you have 
 								access to the UBC repository:<br>
 						- Add CVS location: cascade.cs.ubc.ca /isd/se2/project/mylar/cvs<br>
-						- Check out the 4 org.eclips.mylar.monitor projects</td>
+								- Check out all of the org.eclips.mylar.monitor projects</td>
 							</tr>
 							</table>
 						</td>
@@ -320,18 +412,22 @@
 							<!-- MSTableType="nolayout" -->
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
-								<p class="smallParagraph">- With the default 
-								Eclipse 3.1 compile options there should be no 
-								warnings after a build.<br>
-								- For handling exceptions and logging use 
-								MylarPlugin.log(..) or MylarPlugin.fail(..)<br>
+								<p class="smallParagraph">Bugzilla<br>
+								- Priorities: P1: do this week, P2: should do 
+								this week, P3: considered for next week, P4: 
+								later, P5: requires usage input to be 
+								prioritized <br>
 								- To create a patch, right-click the 
 								corresponding project and select Team -&gt; Create 
 								Patch.&nbsp; Repeat for each project, naming the 
 								patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
-								Please submit a unit test along with the patch.
-								<br>
-								- In CVS files ending with .mmap are
+								Please submit a unit test along with the patch.<p class="smallParagraph">
+								Building and sources<br>
+								- With the default Eclipse 3.1 compile options 
+								there should be no warnings after a build.<br>
+								- For handling exceptions and logging use 
+								MylarPlugin.log(..) or MylarPlugin.fail(..) <br>
+								- In CVS, files ending with .mmap are
 								<a href="http://www.mindjet.com">MindManager</a> 
 								mind maps (there is a
 								<a href="http://ftp2.mindjet.com/download/signed/MMX52-E-343_Viewer.exe">
@@ -373,7 +469,7 @@
               <TR>
                 <TD height=20>
                   <FONT class=smallParagraph>&nbsp;<font color="#999999">Last 
-					modified on June 30, 2005.&nbsp; Please report comments to
+					modified on July 4, 2005.&nbsp; Please report comments to
 					<a href="mailto:mylar-dev@eclipse.org">
 					<font color="#888888">mylar-dev@eclipse.org</font></a> &nbsp;
                   </font></TD>

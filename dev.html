@@ -134,7 +134,7 @@
             <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
               <TR>
                 <td height=20><p align="left" class="smallParagraph"><b>
-                <font color="#666666">mylar workspace</font></b></p></td>
+                <font color="#666666">workspace setup</font></b></p></td>
 			  </TR>
             </TABLE>
          </TD>          
@@ -176,7 +176,9 @@
 								- Add CVS location: dev.eclipse.org 
 								/home/technology<br>
 								- Check out all of the projects under 
-								org.eclipse.mylar</td>
+								org.eclipse.mylar (EXCEPT org.eclipse.mylar.aspectj, which has additional 
+								dependencies)<br>
+								- Everything should compile without any warnings</td>
 							</tr>
 							</table>
 						</td>
@@ -211,7 +213,7 @@
 
 
 
- <TR>
+     <TR>
         <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
           <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
           <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td>
@@ -219,7 +221,7 @@
             <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
               <TR>
                 <td height=20><p align="left" class="smallParagraph"><b>
-                <font color="#666666">bugzilla &amp; tasks components</font></b></p></td>
+                <font color="#666666">developing bugzilla support</font></b></p></td>
 			  </TR>
             </TABLE>
          </TD>          
@@ -255,8 +257,8 @@
 	<table border="0" cellpadding="0" width="100%" id="table4">
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
-								<p class="smallParagraph">Decoupled from the 
-								rest of Mylar and can be built independently:<br>
+								<p class="smallParagraph">Bugzilla support can 
+								be built independently of the Mylar UI:<br>
 								- Add CVS location as above<br>
 								- Check out org.eclipse.mylar: bugzilla.core, 
 								bugzilla.ui, bugzilla.test, tasks, core</td>
@@ -297,6 +299,91 @@
 
 
 
+        
+        
+         <TR>
+        <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
+          <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+          <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td>
+          <TD BGCOLOR="#C8CEDC" width="*">
+            <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
+              <TR>
+                <td height=20><p align="left" class="smallParagraph"><b>
+                <font color="#666666">developing aspectj support</font></b></p></td>
+			  </TR>
+            </TABLE>
+         </TD>          
+         <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+         <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td> 	
+         <TD ALIGN="left" VALIGN="top" BGCOLOR="#FFFFFF"></TD>
+        </TR>
+        
+        <TR>
+        	<TD ALIGN="left" VALIGN="top" width=10 height=1 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 height=1 border=0 alt=""></TD>
+          
+          <TD ALIGN="left" VALIGN="top" COLSPAN="3" BGCOLOR="#999999">
+            <IMG alt="" src="images/clearDot.gif" border=0 width="1" height="1"></TD>
+        </TR>  
+        <TR>
+        <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
+          <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+          <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td>
+          <TD BGCOLOR="#ffffff" width="*">
+            <TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" width="100%">
+              <!-- START CONTENT -->
+                            
+      
+              <TR>
+                <TD class=smallParagraph>
+					<table border="0" CELLPADDING="0" CELLSPACING="0" width="100%">
+                      <tr>
+                        <td class=paragraph width="100%">
+					<table border="0" cellpadding="4" width="100%" id="table7">
+                      <tr>
+                        <td width="100%">
+	<table border="0" cellpadding="0" width="100%" id="table8">
+							<tr>
+								<td class=smallParagraph align="left" valign="top">
+								<p class="smallParagraph">Building 
+								org.eclipse.mylar.aspectj support requires the 
+								AJDT plug-ins to be installed:<br>
+								- Create a fresh Eclipse (e.g. eclipse-3.1-ajdt) 
+								and install the AJDT plug-in<br>
+								- In your original Eclipse: File -&gt; Import -&gt; 
+								Existing Plug-ins, then specify the Plug-in 
+								location and hit Next<br>
+								- Select the following plug-ins: 
+								org.aspectj.ajde, org.aspectj.runtime, 
+								org.eclipse.ajdt.core, org.eclipse.ajdt.ui</td>
+							</tr>
+							</table>
+						</td>
+                      </tr>
+                      </table></td>
+                      </tr>
+                      </table>
+				</TD>
+              </TR>
+
+              <!-- END CONTENT --> 
+            </TABLE>
+         </TD>          
+         <td ALIGN="left" VALIGN="top" width="1" bgcolor="#999999">
+         <IMG src="images/clearDot.gif" border=0 alt="" width="1" height="1"></td> 	
+         <TD ALIGN="left" VALIGN="top" BGCOLOR="#FFFFFF"></TD>
+        </TR>
+
+        <TR>
+          <TD ALIGN="left" VALIGN="top" width=10 height=1 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 height=1 border=0 alt=""></TD>
+          <TD ALIGN="left" VALIGN="top" COLSPAN="3" BGCOLOR="#999999">
+            <IMG alt="" src="images/clearDot.gif" border=0 width="1" height="1"></TD>
+        </TR>
+
+
+
+
+
+
 
       <TR>
         <TD ALIGN="left" VALIGN="top" width=10 BGCOLOR="#FFFFFF"><IMG src="images/clearDot.gif" width=5 border=0 alt=""></TD>
@@ -306,7 +393,7 @@
             <TABLE align=center CELLPADDING="0" CELLSPACING="0" BORDER="0">
               <TR>
                 <td height=20><p align="left" class="smallParagraph"><b>
-                <font color="#666666">monitor component</font></b></p></td>
+                <font color="#666666">developing the monitor </font></b></p></td>
 			  </TR>
             </TABLE>
          </TD>          
@@ -348,7 +435,8 @@
 								uploads usage statistics to a UBC server.&nbsp; 
 								To assure the integrity of the study data the 
 								sources are on a non-public UBC server for the 
-								duration of the study. If you have a UBC account 
+								duration of the study, but will be on 
+								eclipse.org soon. If you have a UBC account 
 								you can access:<br>
 						- Add CVS location: cascade.cs.ubc.ca /isd/se2/project/mylar/cvs<br>
 								- Check out all of the org.eclips.mylar.monitor projects</td>
@@ -375,6 +463,18 @@
           <TD ALIGN="left" VALIGN="top" COLSPAN="3" BGCOLOR="#999999">
             <IMG alt="" src="images/clearDot.gif" border=0 width="1" height="1"></TD>
         </TR>
+        
+        
+        
+
+
+
+
+
+
+
+        
+        
 
 
 
@@ -417,8 +517,8 @@
 							<!-- MSTableType="nolayout" -->
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
-								<p class="smallParagraph">Bugzilla<br>
-								- Priorities: P1: do this week, P2: should do 
+								<p class="smallParagraph">Developer notes<br>
+								- Bugzilla priorities: P1: do this week, P2: should do 
 								this week, P3: considered for next week, P4: 
 								later, P5: requires usage input to be 
 								prioritized.<br>
@@ -431,16 +531,11 @@
 								Patch.&nbsp; Repeat for each project, naming the 
 								patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
 								Please submit a unit test along with the patch.<p class="smallParagraph">
-								Building and sources<br>
-								- With the default Eclipse 3.1 compile options 
-								there should be no warnings after a build.<br>
+								Committer notes<br>
 								- For handling exceptions and logging use 
 								MylarPlugin.log(..) or MylarPlugin.fail(..) <br>
-								- In CVS, files ending with .mmap are
-								<a href="http://www.mindjet.com">MindManager</a> 
-								mind maps (there is a
-								<a href="http://ftp2.mindjet.com/download/signed/MMX52-E-343_Viewer.exe">
-								free viewer</a> for Windows).<br>
+								- Before committing run 
+								org.eclipse.mylar.tests.AllTests<br>
 								<br>
 &nbsp; </td>
 							</tr>

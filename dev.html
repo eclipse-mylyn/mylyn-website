@@ -84,14 +84,15 @@
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
 								<p class="smallParagraph">Mylar is evolving rapidly, and
-								<font color="#666666"><b>provides no fixed APIs</b></font>.&nbsp; We expect to 
-								announce some stability in the APIs and publish 
-								extension points by September, and until then the policy is 
-								extend at your own risk and make sure to 
-								subscribe to
+								slowly stabilizing initial APIs and extension 
+								points.&nbsp; If you plan on extending the tool 
+								we suggest that you bring this up as a 
+								discussion on
 								<a href="mailto:mylar-dev@eclipse.org">
-								mylar-dev@eclipse.org</a> for news about any 
-								major refactorings. </td>
+								mylar-dev@eclipse.org</a>.&nbsp; Also consider 
+								looking at the bugzilla
+								<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=[discussion]">
+								discussions of new and planned feature</a>.</td>
 							</tr>
 							</table>
 						</td>
@@ -523,21 +524,20 @@
 							<!-- MSTableType="nolayout" -->
 							<tr>
 								<td class=smallParagraph align="left" valign="top">
-								<p class="smallParagraph">Developer notes<br>
-								- Bugzilla priorities: P1: do this week, P2: should do 
+								<p class="smallParagraph" align="left">- <b>
+								<font color="#666666">Bugzilla priorities</font></b>: P1: do this week, P2: should do 
 								this week, P3: considered for next week, P4: 
-								later, P5: requires usage input to be 
+								later, P5: requires user input to be 
 								prioritized.<br>
-								- Releases: for the duration of the study, a 
-								stable minor-minor version number rev happens 
-								each Friday, and minor rev on the first Friday 
-								of each month.<br>
-								- To create a patch, right-click the 
+								- <b><font color="#666666">Releases</font></b>: 
+								for the duration of the study, a stable 
+								minor-minor version number rev happen each 
+								Friday.<br>
+								- <b><font color="#666666">Patches</font></b>: right-click the 
 								corresponding project and select Team -&gt; Create 
 								Patch.&nbsp; Repeat for each project, naming the 
 								patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
-								Please submit a unit test along with the patch.<p class="smallParagraph">
-								Committer notes<br>
+								Please submit a unit test along with the patch.<br>
 								- For handling exceptions and logging use 
 								MylarPlugin.log(..) or MylarPlugin.fail(..) <br>
 								- Before committing run 

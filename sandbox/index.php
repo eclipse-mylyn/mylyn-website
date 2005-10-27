@@ -45,7 +45,7 @@
 						left). 
 				</td>
 				<td>
-                	&nbsp;
+                	&nbsp;&nbsp;&nbsp;
                	</td>
               </tr>
           </table>

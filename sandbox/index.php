@@ -44,11 +44,62 @@
 				</td>
               </tr>
           </table>
+          
+        <h3>Community</h3>
+        					<table border="0" cellpadding="4" width="100%">
+                      <tr>
+                        <td class=smallParagraph width="100%">
+						Please report bugs and feature requests to
+						<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+						Bugzilla</a>.<table cellSpacing="4" cellPadding="3" width="100%" border="0" bordercolor="#111111" id="table2">
+                      	<tr>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-announce@eclipse.org</a></td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        release and event announcements, low traffic mailing 
+						list</td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a></td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
+						archive</a></td>
+                      	</tr>
+						<tr>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-users@eclipse.org</a></td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        user discussions, questions, and suggestions</td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a></td>
+                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">
+						archive</a></td>
+                      	</tr>
+                      	<tr>
+                        <td width="30%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="mailto:mylar-dev@eclipse.org">
+						mylar-dev@eclipse.org</a></td>
+                        <td width="*" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        developer discussions, higher traffic mailing list</td>
+                        <td width="10%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">subscribe/unsubscribe</a></td>
+                        <td width="10%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">
+						archive</a></td>
+                      </tr>
+                      	</table></td>
+                      </tr>
+                      </table>
+          
 		<div class="homeitem" id="rightcolumn">
 			<h3>News & blogs</h3>
 			<ul>
-				<li><a href="#">Mylar 0.4 released</a> bla bla <span class="dates">October 28, 2005</span></li>
-				<li><a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a> by Ed Burnette<span class="dates">July 2005</span></li>
+				<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
+				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>
+				<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span></li>
+				<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
 			</ul>
 		</div>
 		<hr class="clearer" />

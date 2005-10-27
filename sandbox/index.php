@@ -94,7 +94,7 @@
                   </table></td>
 				</tr>
                 </table>
-          
+        </div>
 		<div class="homeitem" id="rightcolumn">
 			<h3>News & blogs</h3>
 			<ul>

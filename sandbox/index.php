@@ -27,10 +27,10 @@
 		<div align="center"><h1>$pageTitle</h1></div>
 			<table border="0" cellpadding="4">
               <tr>
-                <td>
+                <td width="20%">
                 	<img border=0 src="../images/screenshot-mylar-small.gif">
                	</td>
-                <td>
+                <td width="50%">
 						<p class="smallParagraph">
 						The goal of the Mylar Technology project is to 
 						help the Eclipse UI scale gracefully to very 

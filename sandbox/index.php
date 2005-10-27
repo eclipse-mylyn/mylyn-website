@@ -25,10 +25,9 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Open Source Community</h2>
 			<table border="0" cellpadding="4" width="100%">
               <tr>
-                <td class=paragraph width="5%"><img border=0 src="images/screenshot-mylar-small.gif"></td>
+                <td class=paragraph width="5%"><img border=0 src="../images/screenshot-mylar-small.gif"></td>
                 <td class=paragraph width="40%">
 						<p class="smallParagraph">
 						The goal of the Mylar Technology project is to 
@@ -41,19 +40,8 @@
 						extends the Eclipse UI to focus on the elements 
 						of interest (e.g. by filtering uninteresting 
 						nodes from the Package Explorer, visible to the 
-						left). Currently the best way to 
-				get an overview of the tool and technology is by looking at the
-						<a href="publications/2005-03-mylar-eclipsecon-web.ppt">EclipseCon 
-				presentation</a>.<p class="smallParagraph">
-						<b>
-						<font color="#6F7A92">Availability:</font></b> 
-						the preview release is still underway, and involves 
-						participating in a user study to help us improve 
-						the usability of the tool before making it 
-						generally available from eclipse.org.
-						<a href="mailto:mylar@cs.ubc.ca?subject=please notify me of the mylar pre-release">
-						L</a><b><span style="font-weight: 400"><a href="mailto:mylar@cs.ubc.ca?subject=please notify me of the mylar pre-release">et us know</a> if you 
-						would like an invitation to participate.</span></b></td>
+						left). 
+				</td>
                 <td class=smallParagraph width="30%" align="right" valign="top">
 				<table id="table4" borderColor="#111111" cellSpacing="4" cellPadding="3" border="0">
 					<tr>
@@ -128,19 +116,6 @@
 				<li><a href="#">Legal</a></li>
 				<li><a href="#">Eclipse Roadmap</a></li>
 				<li><a href="#">Document</a></li>
-			</ul>
-		</div>
-		<div class="sideitem">
-			<h6>Project Links</h6>
-			<ul>
-				<li><a href="#">Business Intelligence and Reporting</a></li>
-				<li><a href="#">Platform</a></li>
-				<li><a href="#">Technology Project</a></li>
-				<li><a href="#">Test &amp; Performance Tools Platform</a></li>
-				<li><a href="#">Web Tools</a></li>
-				<li><a href="#">Project Proposals</a></li>
-				<li><img src="images/jdj.jpg" width="40" height="42" class="inset" /><a href="#">Cast your vote for Eclipse</a></li>
-				<li><a href="#">Eclipse wins Jolt Award</a><br /><img src="images/jolt.jpg" width="100" height="68" /></li>
 			</ul>
 		</div>
 	</div>

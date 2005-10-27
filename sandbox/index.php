@@ -42,55 +42,6 @@
 						nodes from the Package Explorer, visible to the 
 						left). 
 				</td>
-                <td class=smallParagraph width="30%" align="right" valign="top">
-				<table id="table4" borderColor="#111111" cellSpacing="4" cellPadding="3" border="0">
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" bordercolor="#F1F3F5" colspan="2" bgcolor="#F8F3F4">
-						<b>
-        				<font color="#666666">news and blogs</font></b></td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="30" bordercolor="#F1F3F5">
-						<font color="#888888"><i>Oct.</i></font></td>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						<font color="#888888"><i>Planned public release (v0.4)</i></font></td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="30" bordercolor="#F1F3F5">
-						Sep.</td>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						Preview release continues (v0.3.7)</td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="30" bordercolor="#F1F3F5">
-						Aug.</td>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						<a href="http://eclipse.org/mylar/zest.html">
-						Zest</a> component created</td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="30" bordercolor="#F1F3F5" rowspan="3">
-						July</td>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						<a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a></td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						<a href="http://www.eclipsezone.com/forums/thread.jspa?messageID=91847719&#91847719">
-						Bugzilla plug-ins</a></td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7" bordercolor="#F1F3F5">
-						<b><span style="font-weight: 400">Preview started (v0.3.1)</span></b></td>
-					</tr>
-					<tr>
-						<td class="smallParagraph" vAlign="top" align="left" width="30">
-						June</td>
-						<td class="smallParagraph" vAlign="top" align="left" width="*" bgColor="#F4F5F7">
-						Eclipse.org project created</td>
-					</tr>
-					</table>
-				</td>
               </tr>
           </table>
 		<div class="homeitem" id="rightcolumn">

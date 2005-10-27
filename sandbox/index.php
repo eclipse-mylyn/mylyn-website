@@ -24,7 +24,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<h1>$pageTitle</h1>
+		<div align="centre"><h1>$pageTitle</h1></div>
 			<table border="0" cellpadding="4">
               <tr>
                 <td class=paragraph>

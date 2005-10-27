@@ -94,10 +94,10 @@
               </tr>
           </table>
 		<div class="homeitem" id="rightcolumn">
-			<h3>Community News</h3>
+			<h3>News & blogs</h3>
 			<ul>
-				<li><a href="#">Mylar 0.4 released</a> bla bla <span class="dates">02/05/05</span></li>
-				<li><a href="#">Eclipse Magazin, Volume 3 - Titelthema: Eclipse Rich Clients</a>. Zudem stellt das Eclipse Magazin seine <a href="#">'Eclipse Plug-in Collection'</a> vor, die ab sofort online verf&uuml;gbar ist. <span class="dates">02/05/05</span></li>
+				<li><a href="#">Mylar 0.4 released</a> bla bla <span class="dates">October 28, 2005</span></li>
+				<li><a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a> by Ed Burnette<span class="dates">July 2005</span></li>
 			</ul>
 		</div>
 		<hr class="clearer" />

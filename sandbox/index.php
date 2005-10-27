@@ -25,10 +25,12 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-			<table border="0" cellpadding="4" width="100%">
+			<table border="0" cellpadding="4">
               <tr>
-                <td class=paragraph width="5%"><img border=0 src="../images/screenshot-mylar-small.gif"></td>
-                <td class=paragraph width="40%">
+                <td class=paragraph>
+                	<img border=0 src="../images/screenshot-mylar-small.gif">
+               	</td>
+                <td class=paragraph>
 						<p class="smallParagraph">
 						The goal of the Mylar Technology project is to 
 						help the Eclipse UI scale gracefully to very 
@@ -46,27 +48,27 @@
           </table>
           
         <h3>Community</h3>
-        					<table border="0" cellpadding="4" width="100%">
+        		<table border="0" cellpadding="4>
                       <tr>
-                        <td class=smallParagraph width="100%">
+                        <td>
 						Please report bugs and feature requests to
 						<a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 						Bugzilla</a>.<table cellSpacing="4" cellPadding="3" width="100%" border="0" bordercolor="#111111" id="table2">
                       	<tr>
-                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <td bgcolor="#F4F5F7">
                         <a href="mailto:mylar-users@eclipse.org">
 						mylar-announce@eclipse.org</a></td>
                         <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
                         release and event announcements, low traffic mailing 
 						list</td>
-                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <td bgcolor="#F4F5F7">
                         <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a></td>
                         <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
                         <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
 						archive</a></td>
                       	</tr>
 						<tr>
-                        <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <td bgcolor="#F4F5F7">
                         <a href="mailto:mylar-users@eclipse.org">
 						mylar-users@eclipse.org</a></td>
                         <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
@@ -78,7 +80,7 @@
 						archive</a></td>
                       	</tr>
                       	<tr>
-                        <td width="30%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+                        <td bgcolor="#F4F5F7">
                         <a href="mailto:mylar-dev@eclipse.org">
 						mylar-dev@eclipse.org</a></td>
                         <td width="*" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
@@ -89,9 +91,9 @@
                         <a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">
 						archive</a></td>
                       </tr>
-                      	</table></td>
-                      </tr>
-                      </table>
+                  </table></td>
+				</tr>
+                </table>
           
 		<div class="homeitem" id="rightcolumn">
 			<h3>News & blogs</h3>

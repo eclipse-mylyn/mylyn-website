@@ -93,7 +93,7 @@
 				</td>
               </tr>
           </table>
-		<div class="homeitem">
+		<div class="homeitem" id=rightcolumn>
 			<h3>Community News</h3>
 			<ul>
 				<li><a href="#">Eclipse Magazin, Volume 3 - Titelthema: Eclipse Rich Clients</a>. Zudem stellt das Eclipse Magazin seine <a href="#">'Eclipse Plug-in Collection'</a> vor, die ab sofort online verf&uuml;gbar ist. <span class="dates">02/05/05</span></li>
@@ -103,21 +103,6 @@
 			</ul>
 		</div>
 		<hr class="clearer" />
-	</div>
-	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>New to Eclipse?</h6>
-			<ul>
-				<li><a href="#">Community Resources</a></li>
-				<li><a href="#">News Corner</a></li>
-				<li><a href="#">Newsgroup</a></li>
-				<li><a href="#">Registration</a></li>
-				<li><a href="#">Downloads</a></li>
-				<li><a href="#">Legal</a></li>
-				<li><a href="#">Eclipse Roadmap</a></li>
-				<li><a href="#">Document</a></li>
-			</ul>
-		</div>
 	</div>
 </div>
 

@@ -74,18 +74,17 @@
 			newsgroup archive</a>)</li>
 			</ul>
 		</div>
+		
+		<div class="sideitem" id="rightcolumn">
+			<h3>News & blogs</h3>
+			<ul>
+				<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
+				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>
+				<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span></li>
+				<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
+			</ul>
+		</div>
 	</div>
-	
-	<div class="sideitem" id="rightcolumn">
-		<h3>News & blogs</h3>
-		<ul>
-			<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
-			<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>
-			<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span></li>
-			<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
-		</ul>
-	</div>
-	
 	<hr class="clearer" />
 </div>
 EOHTML;

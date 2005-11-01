@@ -20,19 +20,75 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	$filename = "main.html" ;
-    $dataFile = fopen( $filename, "r" ) ;
+	$html = <<<EOHTML
   
-    if ( $dataFile )  {
-     while (!feof($dataFile))   {
-         $html .= fgets($dataFile, 4096);
-     }
-     fclose($dataFile);
-    }
-    else  {
-     die( "fopen failed for $filename" ) ;
-    } 
+<div id="maincontent">
+	<div id="midcolumn">
+		<div align="center"><h1>$pageTitle</h1></div>
+			<table border="0" cellpadding="4">
+	          <tr>
+	            <td width="20%">
+	            	<img border=0 src="../images/screenshot-mylar-small.gif">
+	           	</td>
+	            <td width="50%">
+						<p class="MsoNormal">Mylar is an information focusing UI 
+						layer seamlessly integrated over Eclipse.&nbsp; It makes 
+						working with very large workspaces much easier by 
+						monitoring your interaction with Eclipse, and creating a 
+						context from the subset of the system that is relevant 
+						to the task at hand.&nbsp; Once explicit, this <i>task 
+						context</i> drives the Eclipse UI to highlight the 
+						interesting elements, filter out the uninteresting, and 
+						actively search for related information.&nbsp; The result is 
+						a significant reduction in the amount of scrolling, 
+						navigating, and searching required to complete a task.&nbsp; 
+						Mylar’s facilities for working with task contexts also 
+						facilitate task planning, context switching, reusing 
+						past efforts, and sharing expertise.</td>
+				<td>
+	            	&nbsp;&nbsp;&nbsp;
+	           	</td>
+	          </tr>
+	        </table>
+    	</div>
 
+		<div class="homeitem">
+			<h3>User Community</h3>
+			<ul>
+				<li>
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-announce@eclipse.org</a> release and event 
+				announcements, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
+						archive</a>)</li>
+				<li>
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-users@eclipse.org</a>
+                        user discussions, questions, and suggestions, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">
+						archive</a>)</li>
+				<li><a href="news://news.eclipse.org/eclipse.technology.mylar">
+				news://news.eclipse .org/eclipse.technology.mylar</a> not used 
+				frequently (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.mylar">simple web interface</a>,
+				<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">
+			newsgroup archive</a>)</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="sideitem" id="rightcolumn">
+		<h3>News & blogs</h3>
+		<ul>
+			<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
+			<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>
+			<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span></li>
+			<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
+		</ul>
+	</div>
+	
+	<hr class="clearer" />
+</div>
+EOHTML;
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

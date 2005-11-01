@@ -14,16 +14,15 @@
 		discussions of new and planned features</a>.  
           
         <h3>Conventions</h3>
+		<p>Every task that results in code or resource modification should 
+		correspond to a bugzilla report, and should be performed using Mylar.</p>
         
         - <b>Bugzilla priorities</b>: P1: do this week, P2: should do 
-		this week, P3: considered for next week, P4: 
-		later, P5: requires user input to be 
+		this week, P3: considered for next week, P4 &amp; P5: requires user input to be 
 		prioritized.<br>
-		- <b>Releases</b>: 
-		a stable 
-		minor-minor version number rev is planned for 
-		each Friday.<br>
-		- <b>Patches</b>: right-click the 
+		- <b>Planning</b>: the week's plan is sent out each Monday, if you would 
+		like a task included mark the report P2 or higher.<br>
+		- <b>Creating patches</b>: right-click the 
 		corresponding project and select Team -&gt; Create 
 		Patch.&nbsp; Repeat for each project, naming the 
 		patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
@@ -31,11 +30,8 @@
 		- <b>Before committing: </b>
 		make sure that there are no warnings, and that org.eclipse.mylar.tests.AllTests 
 		passes with no console output<br>
-		- For handling exceptions and logging use 
-		MylarPlugin.log(..) or MylarPlugin.fail(..)
-          
-          
-        <h3>Workspace Setup</h3>
+		- <b>Committing</b>: paste the bug report number and title into the 
+		comment, no other description required.<h3>Workspace Setup</h3>
         
         Building Mylar from 
 		HEAD requires Eclipse 

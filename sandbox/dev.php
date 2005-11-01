@@ -18,15 +18,9 @@
 
 	# End: page-specific settings
 	#
-	
-	<?php include("dev.html"); ?>
 		
 	# Paste your HTML content between the EOHTML markers!	
-	$html = <<<EOHTML
-	
-	foo
-
-EOHTML;
+	$html = include("dev.html");
 
 
 	# Generate the web page

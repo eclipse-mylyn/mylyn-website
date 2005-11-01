@@ -28,9 +28,6 @@
 			<table border="0" cellpadding="4">
 	          <tr>
 	            <td valign="top">
-	            	<img border=0 src="../images/screenshot-mylar-small.gif">
-	           	</td>
-	            <td valign="top">
 						<p class="MsoNormal">Mylar is an information focusing UI 
 						layer seamlessly integrated over Eclipse.  It makes 
 						working with very large workspaces much easier by 
@@ -46,6 +43,9 @@
 						facilitate task planning, context switching, reusing 
 						past efforts, and sharing expertise.
 			  	</td>
+			  	<td valign="top">
+	            	<img border=0 src="../images/screenshot-mylar-small.gif">
+	           	</td>
 	          </tr>
 	        </table>
     	</div>
@@ -54,14 +54,13 @@
 			<h3>User Community</h3>
 			<ul>
 				<li>
-                    <a href="mailto:mylar-users@eclipse.org">
-					mylar-announce@eclipse.org</a> release and event announcements<br>
-					(<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
-                    <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>)</li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
+					mylar-announce@eclipse.org</a> release and event announcements
+                    (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>)</li>
 				<li>
-                    <a href="mailto:mylar-users@eclipse.org">
-					mylar-users@eclipse.org</a>user discussions, questions, and suggestions(<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
-					<br><a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">
+					mylar-users@eclipse.org</a>questions, discussions and suggestions
+					(<a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla report discussions</a> are used to discuss ideas, enhancements, and UI issues.</li>
 			</ul>
@@ -78,9 +77,8 @@
 			<div class="sideitem">
 				<h6>News</h6>
 				<ul>
-					<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
 					<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span><br>&nbsp;</li>
-					<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span><br>&nbsp;</li>
+					<li><a href="#">User study started</a><span class="dates"> (July 11, 2005)</span><br>&nbsp;</li>
 					<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span><br>&nbsp;</li>
 				</ul>
 			</div>

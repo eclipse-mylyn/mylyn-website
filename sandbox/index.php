@@ -32,14 +32,14 @@
 	           	</td>
 	            <td width="50%">
 						<p class="MsoNormal">Mylar is an information focusing UI 
-						layer seamlessly integrated over Eclipse.&nbsp; It makes 
+						layer seamlessly integrated over Eclipse.  It makes 
 						working with very large workspaces much easier by 
 						monitoring your interaction with Eclipse, and creating a 
 						context from the subset of the system that is relevant 
-						to the task at hand.&nbsp; Once explicit, this <i>task 
+						to the task at hand. Once explicit, this <i>task 
 						context</i> drives the Eclipse UI to highlight the 
 						interesting elements, filter out the uninteresting, and 
-						actively search for related information.&nbsp; The result is 
+						actively search for related information. The result is 
 						a significant reduction in the amount of scrolling, 
 						navigating, and searching required to complete a task.&nbsp; 
 						Mylar’s facilities for working with task contexts also 
@@ -74,9 +74,32 @@
 			newsgroup archive</a>)</li>
 			</ul>
 		</div>
+
+		<div class="homeitem">
+			<h3>User Community</h3>
+			<ul>
+				<li>
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-announce@eclipse.org</a> release and event 
+				announcements, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
+						archive</a>)</li>
+				<li>
+                        <a href="mailto:mylar-users@eclipse.org">
+						mylar-users@eclipse.org</a>
+                        user discussions, questions, and suggestions, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
+                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">
+						archive</a>)</li>
+				<li><a href="news://news.eclipse.org/eclipse.technology.mylar">
+				news://news.eclipse .org/eclipse.technology.mylar</a> not used 
+				frequently (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.mylar">simple web interface</a>,
+				<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">
+			newsgroup archive</a>)</li>
+			</ul>
+		</div>
 		
-		<div class="sideitem" id="rightcolumn">
-			<h3>News & blogs</h3>
+		<div class="sideitem">
+			<h6>News</h6>
 			<ul>
 				<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>

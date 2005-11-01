@@ -20,9 +20,18 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	$html = <<<EOHTML
-
-EOHTML;
+	$filename = "main.html" ;
+    $dataFile = fopen( $filename, "r" ) ;
+  
+    if ( $dataFile )  {
+     while (!feof($dataFile))   {
+         $html .= fgets($dataFile, 4096);
+     }
+     fclose($dataFile);
+    }
+    else  {
+     die( "fopen failed for $filename" ) ;
+    } 
 
 
 	# Generate the web page

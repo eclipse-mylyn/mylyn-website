@@ -31,7 +31,7 @@
 	
 	$filename = "dev.html" ;
     $dataFile = fopen( $filename, "r" ) ;
- 
+  
     if ( $dataFile )  {
      while (!feof($dataFile))   {
          $html .= fgets($dataFile, 4096);
@@ -41,8 +41,6 @@
     else  {
      die( "fopen failed for $filename" ) ;
     }
-	
-
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

@@ -75,9 +75,6 @@
 					<li><a href="#">Mylar 0.3.12</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
 				</ul>
 			</div>
-		</div>
-		
-		<div id="rightcolumn">
 			<div class="sideitem">
 				<h6>News</h6>
 				<ul>

@@ -48,7 +48,7 @@
                 	&nbsp;&nbsp;&nbsp;
                	</td>
               </tr>
-          </table>
+            </table>
           
         <h3>Community</h3>
         		<table border="0" cellpadding="4>

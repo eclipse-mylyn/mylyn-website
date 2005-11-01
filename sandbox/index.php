@@ -97,7 +97,9 @@
 			newsgroup archive</a>)</li>
 			</ul>
 		</div>
-		
+	</div>
+	
+	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>News</h6>
 			<ul>

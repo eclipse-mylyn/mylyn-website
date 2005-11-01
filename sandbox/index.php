@@ -25,30 +25,29 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-			<table border="0" cellpadding="4">
-	          <tr>
-	          	<td valign="top">
-	            	<img border=0 src="../images/screenshot-mylar-small.gif">
-	           	</td>
-	            <td valign="top">
-						<p class="MsoNormal">Mylar is an information focusing UI 
-						layer seamlessly integrated over Eclipse.  It makes 
-						working with very large workspaces much easier by 
-						monitoring your interaction with Eclipse, and creating a 
-						context from the subset of the system that is relevant 
-						to the task at hand. Once explicit, this <i>task 
-						context</i> drives the Eclipse UI to highlight the 
-						interesting elements, filter out the uninteresting, and 
-						actively search for related information. The result is 
-						a significant reduction in the amount of scrolling, 
-						navigating, and searching required to complete a task.&nbsp; 
-						Mylar’s facilities for working with task contexts also 
-						facilitate task planning, context switching, reusing 
-						past efforts, and sharing expertise.
-			  	</td>
-	          </tr>
-	        </table>
-    	</div>
+		<table border="0" cellpadding="4">
+          <tr>
+          	<td valign="top">
+            	<img border=0 src="../images/screenshot-mylar-small.gif">
+           	</td>
+            <td valign="top">
+					<p class="MsoNormal">Mylar is an information focusing UI 
+					layer seamlessly integrated over Eclipse.  It makes 
+					working with very large workspaces much easier by 
+					monitoring your interaction with Eclipse, and creating a 
+					context from the subset of the system that is relevant 
+					to the task at hand. Once explicit, this <i>task 
+					context</i> drives the Eclipse UI to highlight the 
+					interesting elements, filter out the uninteresting, and 
+					actively search for related information. The result is 
+					a significant reduction in the amount of scrolling, 
+					navigating, and searching required to complete a task.&nbsp; 
+					Mylar’s facilities for working with task contexts also 
+					facilitate task planning, context switching, reusing 
+					past efforts, and sharing expertise.
+		  	</td>
+          </tr>
+        </table>
 
 		<div class="homeitem">
 			<h3>User Community</h3>
@@ -67,18 +66,15 @@
 		</div>
 
 		<div class="homeitem">
-			<h3>User Community</h3>
+			<h3>Events</h3>
 			<ul>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org: </a> release and event announcements
-                    (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>)</li>
+					Mylar tutorial</a> proposed for EclipseCon 2006</li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">
 					mylar-users@eclipse.org: </a>questions, discussions and suggestions
 					(<a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla report discussions</a> are used to discuss ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div>
 	</div>

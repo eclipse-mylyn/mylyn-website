@@ -54,46 +54,27 @@
 			<h3>User Community</h3>
 			<ul>
 				<li>
-                        <a href="mailto:mylar-users@eclipse.org">
-						mylar-announce@eclipse.org</a> release and event 
-				announcements, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
-                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
-						archive</a>)</li>
+                    <a href="mailto:mylar-users@eclipse.org">
+					mylar-announce@eclipse.org</a> release and event announcements<br>
+					(<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
+                    <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>)</li>
 				<li>
-                        <a href="mailto:mylar-users@eclipse.org">
-						mylar-users@eclipse.org</a>
-                        user discussions, questions, and suggestions, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
-                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">
-						archive</a>)</li>
-				<li><a href="news://news.eclipse.org/eclipse.technology.mylar">
-				news://news.eclipse .org/eclipse.technology.mylar</a> not used 
-				frequently (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.mylar">simple web interface</a>,
-				<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">
-			newsgroup archive</a>)</li>
+                    <a href="mailto:mylar-users@eclipse.org">
+					mylar-users@eclipse.org</a>user discussions, questions, and suggestions(<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
+					<br><a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla report discussions</a> are used to discuss ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div>
 
-		<div class="homeitem">
-			<h3>User Community</h3>
-			<ul>
-				<li>
-                        <a href="mailto:mylar-users@eclipse.org">
-						mylar-announce@eclipse.org</a> release and event 
-				announcements, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">subscribe/unsubscribe</a>,
-                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">
-						archive</a>)</li>
-				<li>
-                        <a href="mailto:mylar-users@eclipse.org">
-						mylar-users@eclipse.org</a>
-                        user discussions, questions, and suggestions, (<a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">subscribe/unsubscribe</a>,
-                        <a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">
-						archive</a>)</li>
-				<li><a href="news://news.eclipse.org/eclipse.technology.mylar">
-				news://news.eclipse .org/eclipse.technology.mylar</a> not used 
-				frequently (<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.mylar">simple web interface</a>,
-				<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">
-			newsgroup archive</a>)</li>
-			</ul>
+		<div id="rightcolumn">
+			<div class="sideitem">
+				<h6>Releases</h6>
+				<ul>
+					<li><a href="#">Mylar 0.4.0</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
+					<li><a href="#">Mylar 0.3.12</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
+				</ul>
+			</div>
 		</div>
 		
 		<div id="rightcolumn">
@@ -107,6 +88,7 @@
 				</ul>
 			</div>
 		</div>
+
 	</div>
 	
 

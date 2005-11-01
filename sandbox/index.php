@@ -27,10 +27,10 @@
 		<div align="center"><h1>$pageTitle</h1></div>
 			<table border="0" cellpadding="4">
 	          <tr>
-	            <td width="20%">
+	            <td valign="top">
 	            	<img border=0 src="../images/screenshot-mylar-small.gif">
 	           	</td>
-	            <td width="50%">
+	            <td valign="top">
 						<p class="MsoNormal">Mylar is an information focusing UI 
 						layer seamlessly integrated over Eclipse.  It makes 
 						working with very large workspaces much easier by 
@@ -44,10 +44,8 @@
 						navigating, and searching required to complete a task.&nbsp; 
 						Mylar’s facilities for working with task contexts also 
 						facilitate task planning, context switching, reusing 
-						past efforts, and sharing expertise.</td>
-				<td>
-	            	&nbsp;&nbsp;&nbsp;
-	           	</td>
+						past efforts, and sharing expertise.
+			  	</td>
 	          </tr>
 	        </table>
     	</div>
@@ -102,10 +100,10 @@
 			<div class="sideitem">
 				<h6>News</h6>
 				<ul>
-					<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span></li>
-					<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span></li>
-					<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span></li>
-					<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
+					<li><a href="#">First public release</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
+					<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span><br>&nbsp;</li>
+					<li><a href="#">User study preview release</a><span class="dates"> (July 11, 2005)</span><br>&nbsp;</li>
+					<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span><br>&nbsp;</li>
 				</ul>
 			</div>
 		</div>

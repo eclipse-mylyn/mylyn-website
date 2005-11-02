@@ -93,7 +93,7 @@
 			</ul> 
 		</div> 
 		<div class="sideitem">
-			<h6>News</h6>
+			<h6>News & Blogs</h6>
 			<ul>
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a>
 				<br><span class="dates">(Nov. 1, 2005)</span><br>&nbsp;</li>

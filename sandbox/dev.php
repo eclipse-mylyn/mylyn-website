@@ -52,7 +52,7 @@
 			</ul>
 		</div>        
 
-		<div class="homeitem2col">
+		<div class="homeitem3col">
 			<h3>Conventions</h3>
 			<ul>
 				<li>Every task that results in code or resource modification should 

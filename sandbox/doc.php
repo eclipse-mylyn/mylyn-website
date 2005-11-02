@@ -28,8 +28,6 @@
           
         Mylar documentation is distributed with the release, but will soon be made available online as well.
 
-        <h3>Flash Demos</h3>
-
         <div class="homeitem">
 			<h3>Flash Demos</h3>
 			<ul>
@@ -46,14 +44,14 @@
 			<h3>Presentations and Publications</h3>
 			<ul>
 				<li>
-                    May 2005: <a href="publications/2005-05-mylar-creation-review.ppt">Mylar eclipse.org project creation review 
+                    May 2005, Mylar eclipse.org project creation review <br><a href="publications/2005-05-mylar-creation-review.ppt">
 					(PPT presentation)</a>&nbsp;
 					<a href="publications/2005-04-mylar-proposal.html">(HTML 
 					proposal)</a>
                 </li>
                 <li>
-                	March 2005, EclipseCon talk:
-		            <a href="publications/2005-03-mylar-eclipsecon-web.ppt">Mylar: a degree-of-interest model for Eclipse (PPT presentation)</a>
+                	March 2005, EclipseCon talk: Mylar: a degree-of-interest model for Eclipse 
+		            <a href="publications/2005-03-mylar-eclipsecon-web.ppt">(PPT presentation)</a>
                 </li>
                 <li>
                 	March 2005, AOSD talk:
@@ -64,8 +62,6 @@
 			</ul>
 		</div>        
 
- 
- 
 		<hr class="clearer" />
 	</div>
 </div>

@@ -71,17 +71,15 @@
 			</ul>
 		</div>     
           
-		<h3>Workspace Setup</h3>
-        Building Mylar feature from HEAD requires Eclipse 
-		SDK 3.2M2 and JDK 1.5.&nbsp; To set up a workspace 
-		for mylar development:<br>
+		<h4>Workspace Setup</h4>
+        - Building Mylar feature from HEAD requires Eclipse 
+		SDK 3.2M2 and JDK 1.5.&nbsp; <br>
 		- Add CVS location: dev.eclipse.org 
 		/home/technology<br>
 		- Check out all of the projects under 
 		org.eclipse.mylar (except mylar.aspectj, 
 		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
 		dependencies)<br>
-		- Everything should compile without any warnings<br>
 		
 		<h4>Building for Eclipse 3.1</h4>
 		- Right-click the org.eclipse.mylar.java 
@@ -89,7 +87,7 @@
 		Refresh the Branches and select eclipse_3_1
         
         <h4>Building the Bugzilla Client</h4>
-        Bugzilla support can be built independently of the Mylar UI:<br>
+        - Bugzilla support can be built independently of the Mylar UI:<br>
 		- Add CVS location as above, Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
 		mylar.tasklist, mylar.core
 		

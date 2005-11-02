@@ -66,15 +66,16 @@
 					<a href="publications/2005-03-mylar-aosd.pdf">[PDF paper]</a>
                 </li>
 			</ul> 
-		</div>        
-
-		<p>nbsp;</p>
-
-		<p>nbsp;</p>
-
-		<p>nbsp;</p>
+		</div>       
 
 		<hr class="clearer" />
+		
+		<p>&nbsp;</p>
+
+		<p>&nbsp;</p>
+		
+		<p>&nbsp;</p>
+		
 	</div>
 </div>
 

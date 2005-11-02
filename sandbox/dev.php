@@ -28,19 +28,93 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	#$html = include("dev.html");
-	
-	$filename = "dev.html" ;
-    $dataFile = fopen( $filename, "r" ) ;
-  
-    if ( $dataFile )  {
-     while (!feof($dataFile))   {
-         $html .= fgets($dataFile, 4096);
-     }
-     fclose($dataFile);
-    }
-    else  {
-     die( "fopen failed for $filename" ) ;
-    }
+	$html = <<<EOHTML	
+
+<div id="maincontent">
+	<div id="midcolumn">
+		<div align="center"><h1>$pageTitle</h1></div>
+
+        Mylar is evolving 
+		rapidly, and slowly stabilizing initial APIs and extension points. If you plan on extending 
+		the tool we suggest that you bring this up as a discussion on
+		<a href="mailto:mylar-dev@eclipse.org">
+		mylar-dev@eclipse.org</a>.
+          
+		<div class="homeitem">
+			<h3>Developer Community</h3>
+			<ul>
+				<li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+					mylar-dev@eclipse.org:</a> releases and events
+                    (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>)</li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla reports marked helpwanted</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
+				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+					Submit bug reports</a> for problems and enhancement requests.</li>
+			</ul>
+		</div>        
+          
+        <h3>Conventions</h3>
+		<p>Every task that results in code or resource modification should 
+		correspond to a bugzilla report, and should be performed using Mylar.</p>
+        
+        - <b>Bugzilla priorities</b>: P1: do this week, P2: should do 
+		this week, P3: considered for next week, P4 &amp; P5: requires user input to be 
+		prioritized.<br>
+		- <b>Planning</b>: the weekly plan is sent out each Monday, if you would 
+		like a task included mark the report P2 or higher.<br>
+		- <b>Creating patches</b>: right-click the 
+		corresponding project and select Team -&gt; Create 
+		Patch.&nbsp; Repeat for each project, naming the 
+		patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
+		Please submit a unit test along with the patch.<br>
+		- <b>Before committing: </b>
+		make sure that there are no warnings, and that org.eclipse.mylar.tests.AllTests 
+		passes with no console output<br>
+		- <b>Committing</b>: paste the bug report number and title into the 
+		comment, no other description required.<h3>Workspace Setup</h3>
+        
+        Building Mylar feature from 
+		HEAD requires Eclipse 
+		SDK 3.2M2 and JDK 1.5.&nbsp; To set up a workspace 
+		for mylar development:<br>
+		- Add CVS location: dev.eclipse.org 
+		/home/technology<br>
+		- Check out all of the projects under 
+		org.eclipse.mylar (except mylar.aspectj, 
+		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
+		dependencies)<br>
+		- Everything should compile without any warnings<br>
+		<br>
+		Eclipse 3.1 requires checking out a branch: <br>
+		- Right-click the org.eclipse.mylar.java 
+		project, Team -&gt; Switch to Another Branch...<br>
+		- Refresh the Branches and select eclipse_3_1
+        		
+        <p>Bugzilla support can be built independently of the Mylar UI:<br>
+		- Add CVS location as above
+		<br>
+		- Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
+		mylar.tasklist, mylar.core </p>
+		AspectJ support requires the 
+		AJDT plug-ins to be installed:<br>
+		- Create a fresh Eclipse (e.g. eclipse-3.1-ajdt) 
+		and install the AJDT plug-in from 
+		download.eclipse.org/technology/ajdt/31/dev/update<br>
+		- In your original Eclipse: File -&gt; Import -&gt; 
+		Existing Plug-ins, then specify the Plug-in 
+		location and hit Next<br>
+		- Select the following 7 plug-ins: 
+		org.aspectj.ajde+runtime, 
+		org.eclipse.ajdt.core+ui, 
+		org.eclipse.contribution.visualiser+xref
+ 
+		<hr class="clearer" />
+	</div>
+</div>
+EOHTML;
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

@@ -45,7 +45,7 @@
 				facilitate task planning, context switching, reusing 
 				past efforts, and sharing expertise.</p>
 				<p><i>Please note that the Mylar site uses the still experimental
-				<a href="http://eclipse.org/phoenix/"Phoenix infrastructure.<a></i></p>
+				<a href="http://eclipse.org/phoenix/">Phoenix infrastructure.<a></i></p>
 		  	</td>
           </tr>
         </table>

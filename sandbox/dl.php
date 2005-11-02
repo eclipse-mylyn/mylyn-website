@@ -43,19 +43,19 @@
 		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release.&nbsp; 
 		For the time being Mylar <i>only runs in a Java 5 VM</i>, but we are 
 		exploring support for JDK 1.4 VMs.</p>
+		
 		<h3>Known Limitations</h3>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 
 		will show uninteresting elements when enabled.</p>
+		
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102663">Bug 
 		102663</a>&nbsp; Multiple workbench windows are not supported and Mylar will 
 		not work properly if you have more than one window open.</p>
+		
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102848">Bug 
 		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
-		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=109314">Bug 
-		109314</a>&nbsp; Folding must be toggled off in order to view all the 
-		matches for &quot;mark occurrences&quot;.&nbsp; This is not a Mylar-specific 
-		limitation but is more noticeable when Automatic Folding is enabled.</p>		
+	
 		<hr class="clearer" />
 	</div>
 </div>

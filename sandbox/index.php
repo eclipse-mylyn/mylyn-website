@@ -95,12 +95,12 @@
 		<div class="sideitem">
 			<h6>News</h6>
 			<ul>
-				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a><
-				span class="dates"><br>(Nov. 1, 2005)</span><br>&nbsp;</li>
+				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a>
+				<br><span class="dates">(Nov. 1, 2005)</span><br>&nbsp;</li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
-				<span class="dates"><br>(July 28, 2005)</span><br>&nbsp;</li>
-				<li>User study started<span class="dates"><br>(July 11, 2005)</span><br>&nbsp;</li>
-				<li>Eclipse.org project created<span class="dates"><br>(June 13, 2005)</span></li>
+				<br><span class="dates">(July 28, 2005)</span><br>&nbsp;</li>
+				<li>User study started<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>
+				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
 			</ul>
 		</div>
 	</div>	

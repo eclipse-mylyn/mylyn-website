@@ -84,9 +84,9 @@
 
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Latest release</h6>
+			<h6>Latest Release</h6>
 			<ul>
-				<li><a href="dl.php">Mylar 0.4.0</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
+				<li><a href="dl.php">Mylar 0.4.0</a><span class="dates"> (October 28, 2005)</span></li>
 			</ul>
 		</div>
 		<div class="sideitem">
@@ -94,7 +94,7 @@
 			<ul>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse..</a><span class="dates"> (July 2005)</span><br>&nbsp;</li>
 				<li><a href="#">User study started</a><span class="dates"> (July 11, 2005)</span><br>&nbsp;</li>
-				<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span><br>&nbsp;</li>
+				<li><a href="#">Eclipse.org project created</a><span class="dates"> (June 13, 2005)</span></li>
 			</ul>
 		</div>
 	</div>	

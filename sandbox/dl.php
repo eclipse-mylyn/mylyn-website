@@ -29,8 +29,6 @@
         <table>
         	<tr>
         		<td><img src="images/feature.gif"></td>
-        	</tr>
-        	<tr>
         		<td>	
 		        The Mylar features can be downloaded using the following update sites.  Please note that an updated Mylar
 		        release is made available almost every Friday, so check for updates often or turn
@@ -49,7 +47,7 @@
 		
 		<h3>Supported Platforms</h3>
 		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release.&nbsp; 
-		At this time Mylar <i>only runs in a Java 5 VM</i></p>
+		At this time Mylar <i><b>only runs in a Java 5 VM</b></i></p>
 		
 		<h3>Known Limitations</h3>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 

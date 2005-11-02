@@ -102,7 +102,8 @@
 	</div>	
 
 	<hr class="clearer" />
-	
+
+	<p>&nbsp;</p>	
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>

@@ -29,6 +29,7 @@
         <table>
         	<tr>
         		<td><img src="images/feature.gif"></td>
+        		<td>&nbsp;</td>
         		<td>	
 		        The Mylar features can be downloaded using the following update sites.  Please note that an updated Mylar
 		        release is made available almost every Friday, so check for updates often or turn
@@ -61,7 +62,7 @@
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102848">Bug 
 		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
 	
-		<hr class="clearer" />
+		
 	</div>
 </div>
 

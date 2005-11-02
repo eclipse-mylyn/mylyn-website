@@ -31,9 +31,9 @@
         		<td><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
-		        The Mylar features can be downloaded using the following update sites.  Please note that an updated Mylar
-		        release is made available almost every Friday, so check for updates often or turn
-		        on automatic updates to ensure that you are using the latest.</td>
+		        Mylar features can be downloaded using the following update sites.  An updated Mylar
+		        release is made available almost every Friday, so turning on automatic updates
+		        is recommended.</td>
 		    </tr>
 		</table>
         
@@ -61,9 +61,11 @@
 		
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102848">Bug 
 		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
-	
-		<p>Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		Submit bug reports</a> for any problems and enhancement requests.</p>
+		
+		<p>&nbsp;</p>
+		
+		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+		Please submit bug reports</a> for any problems and enhancement requests.</p>
 	</div>
 </div>
 

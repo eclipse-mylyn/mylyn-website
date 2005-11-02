@@ -26,7 +26,10 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        Mylar documentation is distributed with the release, but will soon be made available online as well.
+        <p>Mylar documentation is distributed with the release, but will soon be made available 
+        online as well.<p>
+        
+        <p>The flash videos are stale and will be updated by November 4th.<p>
 
         <div class="homeitem">
 			<h3>Flash Demos</h3>

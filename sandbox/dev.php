@@ -58,7 +58,7 @@
 		<div class="homeitem">
 			<h3>Conventions</h3>
 			<ul>
-				<li>Bugzilla priorities: P1: do this week, P2: should do 
+				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
 				this week, P3: considered for next week, P4/5: requires user input</li>
 				<li>Planning: the weekly plan is sent out each Monday, if you would 
 				like a task included mark the report P2 or higher.</li>

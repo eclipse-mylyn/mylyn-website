@@ -23,7 +23,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
+	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
           
         <p>Mylar documentation is distributed with the release, but will soon be made available 

@@ -44,16 +44,16 @@
 			<ul>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
-					mylar-dev@eclipse.org:</a> releases and events
+					mylar-dev@eclipse.org:</a> developer discussion
                     (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>)</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla reports marked helpwanted</a></li>
+					See bugzilla reports marked helpwanted</a> if you are interested in contributing</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
+					See bugzilla discussions</a> to chime in on of ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div>        
 
-		<div class="homeitem">
+		<div class="homeitem2col">
 			<h3>Conventions</h3>
 			<ul>
 				<li>Every task that results in code or resource modification should 

@@ -29,10 +29,14 @@
         Download Mylar using the following update sites.  Please note that an updated Mylar
         release is made available almost every Friday, so check for updates often or turn
         on automatic updates to ensure that you are using the latest.
-        <ul>
-        	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2</li>
-			<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
-		</ul>   
+        
+        <div class="homeitem">
+			<h3>Update Sites</h3>
+			<ul>
+	        	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2</li>
+				<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
+			</ul>
+		</div>
 		
 		<h4>Supported Platforms</h4>
 		<p>Mylar supports Eclipse 3.1 final and Eclipse 3.2 milestone releases.&nbsp; 

@@ -26,18 +26,21 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
         
-        Download Mylar using the following update sites.
+        Download Mylar using the following update sites.  Please note that an updated Mylar
+        release is made available almost every Friday, so check for updates often or turn
+        on automatic updates to ensure that you are using the latest.
         <ul>
         	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2</li>
 			<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
 		</ul>   
 		
+		<h4>Supported Platforms</h4>
 		<p>Mylar supports Eclipse 3.1 final and Eclipse 3.2 milestone releases.&nbsp; 
 		For the time being Mylar <i>only runs in a Java 5 VM</i>, but we are 
 		exploring support for JDK 1.4 VMs.</p>
 		<h3>What are the known limitations?</h3>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
-		The Package Explorer's hierarchical layout is not supported properly yet and 
+		The Package Explorer hierarchical layout is not supported properly yet and 
 		will show uninteresting elements when enabled.</p>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102663">Bug 
 		102663</a>&nbsp; Multiple workbench windows are not supported and Mylar will 
@@ -48,7 +51,6 @@
 		109314</a>&nbsp; Folding must be toggled off in order to view all the 
 		matches for &quot;mark occurrences&quot;.&nbsp; This is not a Mylar-specific 
 		limitation but is more noticeable when Automatic Folding is enabled.</p>		
- 
 		<hr class="clearer" />
 	</div>
 </div>

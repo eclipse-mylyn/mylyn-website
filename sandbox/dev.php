@@ -28,7 +28,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	#$html = include("dev.html");
-	$html = <<<EOHTML	
+	$html = <<<EOHTML
 
 <div id="maincontent">
 	<div id="midcolumn">
@@ -114,6 +114,7 @@
 		<hr class="clearer" />
 	</div>
 </div>
+
 EOHTML;
 
 	# Generate the web page

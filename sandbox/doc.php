@@ -26,8 +26,48 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        <h3>Community</h3>
+        <h3>Presentations and Publications</h3>
         		
+ 		<table cellSpacing="4" cellPadding="3" width="100%" border="0" bordercolor="#111111" id="table3">
+          	<tr>
+            <td width="8%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            May 2005</td>
+            <td width="60%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            <a href="publications/2005-05-mylar-creation-review.ppt">Mylar eclipse.org project creation review 
+			(PPT presentation)</a>&nbsp;
+			<a href="publications/2005-04-mylar-proposal.html">(HTML 
+			proposal)</a></td>
+            <td width="30%" class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            <a href="http://kerstens.org/mik">Mik Kersten</a>, 
+			<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> 
+			and Shawn Minto</td>
+          </tr>
+          	<tr>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F8F3F4">
+            Mar. 2005</td>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F8F3F4">
+            EclipseCon 2005:
+            <a href="publications/2005-03-mylar-eclipsecon-web.ppt">Mylar: a 
+			degree-of-interest model for Eclipse (PPT presentation)</a></td>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F8F3F4">
+            <a href="http://kerstens.org/mik">Mik Kersten</a>, 
+			<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> 
+			and Shawn Minto</td>
+          </tr>
+          <tr>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            Mar. 2005</td>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            AOSD 2005:
+			<a href="publications/2005-03-mylar-aosd-web.ppt">Mylar: a 
+			degree-of-interest model for IDEs (PPT presentation)</a>&nbsp;
+			<a href="publications/2005-03-mylar-aosd.pdf">(PDF paper)</a></td>
+            <td class="smallParagraph" align="left" valign="top" bgcolor="#F4F5F7">
+            <a href="http://kerstens.org/mik">Mik Kersten</a> and 
+			<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a></td>
+          </tr>
+        </table>
+ 
  
 		<hr class="clearer" />
 	</div>

@@ -61,7 +61,9 @@
 					mylar-users@eclipse.org</a>questions, discussions and suggestions
 					(<a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla report discussions</a> are used to discuss ideas, enhancements, and UI issues.</li>
+					Bugzilla report discussions</a> are used for ideas, enhancements, and UI issues.</li>
+				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+					Submit a new bug report</a> for any bugs and enhancement requests.</li>
 			</ul>
 		</div>
 
@@ -82,10 +84,9 @@
 
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Releases</h6>
+			<h6>Latest release</h6>
 			<ul>
-				<li><a href="#">Mylar 0.4.0</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
-				<li><a href="#">Mylar 0.3.12</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
+				<li><a href="dl.php">Mylar 0.4.0</a><span class="dates"> (October 28, 2005)</span><br>&nbsp;</li>
 			</ul>
 		</div>
 		<div class="sideitem">

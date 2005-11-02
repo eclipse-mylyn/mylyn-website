@@ -27,7 +27,6 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	#$html = include("dev.html");
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -47,37 +46,37 @@
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> releases and events
                     (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>)</li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla reports marked helpwanted</a></li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
-				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-					Submit bug reports</a> for problems and enhancement requests.</li>
 			</ul>
 		</div>        
+
+		<div class="homeitem">
+			<h3>Conventions</h3>
+			<ul>
+				<li>Every task that results in code or resource modification should 
+				correspond to a bugzilla report, and should be performed using Mylar.</li>
+				<li>Bugzilla priorities: P1: do this week, P2: should do 
+				this week, P3: considered for next week, P4 &amp; P5: requires user input to be 
+				prioritized</li>
+				<li>Planning: the weekly plan is sent out each Monday, if you would 
+				like a task included mark the report P2 or higher.</li>
+				<li>Patches</b>: right-click the 
+				corresponding project and select Team -&gt; Create 
+				Patch.&nbsp; Repeat for each project, naming the 
+				patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
+				Please submit a unit test along with the patch.</li>
+				<li>Committing:
+				make sure that there are no warnings, and that org.eclipse.mylar.tests.AllTests 
+				passes with no console output.  Paste the bug report number and title into 
+				the comment.</li>
+			</ul>
+		</div>     
           
-        <h3>Conventions</h3>
-		<p>Every task that results in code or resource modification should 
-		correspond to a bugzilla report, and should be performed using Mylar.</p>
-        
-        - <b>Bugzilla priorities</b>: P1: do this week, P2: should do 
-		this week, P3: considered for next week, P4 &amp; P5: requires user input to be 
-		prioritized.<br>
-		- <b>Planning</b>: the weekly plan is sent out each Monday, if you would 
-		like a task included mark the report P2 or higher.<br>
-		- <b>Creating patches</b>: right-click the 
-		corresponding project and select Team -&gt; Create 
-		Patch.&nbsp; Repeat for each project, naming the 
-		patch accordingly (e.g. patch-core.txt, patch-core.tests.txt). 
-		Please submit a unit test along with the patch.<br>
-		- <b>Before committing: </b>
-		make sure that there are no warnings, and that org.eclipse.mylar.tests.AllTests 
-		passes with no console output<br>
-		- <b>Committing</b>: paste the bug report number and title into the 
-		comment, no other description required.<h3>Workspace Setup</h3>
-        
-        Building Mylar feature from 
-		HEAD requires Eclipse 
+		<h3>Workspace Setup</h3>
+        Building Mylar feature from HEAD requires Eclipse 
 		SDK 3.2M2 and JDK 1.5.&nbsp; To set up a workspace 
 		for mylar development:<br>
 		- Add CVS location: dev.eclipse.org 
@@ -111,7 +110,7 @@
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
  
-		<hr class="clearer" />
+		<hr class="clearer"/>
 	</div>
 </div>
 

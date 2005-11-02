@@ -30,7 +30,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
+	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
 
         Mylar is evolving 
@@ -66,10 +66,8 @@
 				corresponding project and select Team -&gt; Create 
 				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
 				</li>
-				<li>Committing:
-				make sure that there are no warnings, and that org.eclipse.mylar.tests.AllTests 
-				passes with no console output.  Paste the bug report number and title into 
-				the comment.</li>
+				<li>Committing: enure no warnings, and that org.eclipse.mylar.tests.AllTests 
+				passes with no console output.</li>
 			</ul>
 		</div>     
           

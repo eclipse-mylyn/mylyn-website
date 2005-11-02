@@ -49,24 +49,24 @@
 					mylar-dev@eclipse.org:</a> developer discussion
                     (<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>)</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					See bugzilla reports marked helpwanted</a> if you are interested in contributing</li>
+					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					See bugzilla discussions</a> to chime in on of ideas, enhancements, and UI issues.</li>
+					Bugzilla discussions</a> are used for ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div>        
 
 		<div class="homeitem">
 			<h3>Conventions</h3>
 			<ul>
+				<li><b>Planning:</b> the weekly plan is sent out each Monday, if you would 
+				like a task included mark the report P2 or higher.</li>
 				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
 				this week, P3: considered for next week, P4/5: requires user input</li>
-				<li>Planning: the weekly plan is sent out each Monday, if you would 
-				like a task included mark the report P2 or higher.</li>
-				<li>Patches</b>: right-click the 
+				<li><b>Patches</b>: right-click the 
 				corresponding project and select Team -&gt; Create 
 				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
 				</li>
-				<li>Committing: enure no warnings, and that org.eclipse.mylar.tests.AllTests 
+				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
 				passes with no console output.</li>
 			</ul>
 		</div>     

@@ -30,21 +30,24 @@
           	<td valign="top">
             	<img border=0 src="../images/screenshot-mylar-small.gif">
            	</td>
+          	<td valign="top">
+            	&nbsp;
+           	</td>
             <td valign="top">
-					<p>Mylar is an information focusing UI 
-					layer seamlessly integrated over Eclipse.  It makes 
-					working with very large workspaces much easier by 
-					monitoring your interaction with Eclipse, and creating a 
-					context from the subset of the system that is relevant 
-					to the task at hand. Once explicit, this <i>task 
-					context</i> drives the Eclipse UI to highlight the 
-					interesting elements, filter out the uninteresting, and 
-					actively search for related information. The result is 
-					a significant reduction in the amount of scrolling, 
-					navigating, and searching required to complete a task.&nbsp; 
-					Mylar’s facilities for working with task contexts also 
-					facilitate task planning, context switching, reusing 
-					past efforts, and sharing expertise.</p>
+				<p>Mylar is an information focusing UI 
+				layer seamlessly integrated over Eclipse.  It makes 
+				working with very large workspaces much easier by 
+				monitoring your interaction with Eclipse, and creating a 
+				context from the subset of the system that is relevant 
+				to the task at hand. Once explicit, this <i>task 
+				context</i> drives the Eclipse UI to highlight the 
+				interesting elements, filter out the uninteresting, and 
+				actively search for related information. The result is 
+				a significant reduction in the amount of scrolling, 
+				navigating, and searching required to complete a task.&nbsp; 
+				Mylar’s facilities for working with task contexts also 
+				facilitate task planning, context switching, reusing 
+				past efforts, and sharing expertise.</p>
 		  	</td>
           </tr>
         </table>

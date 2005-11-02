@@ -26,24 +26,24 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
         
-        Download Mylar using the following update sites.  Please note that an updated Mylar
+        Mylar can be downloaded using the following update sites.  Please note that an updated Mylar
         release is made available almost every Friday, so check for updates often or turn
         on automatic updates to ensure that you are using the latest.
         
         <div class="homeitem3col">
-			<h3>Mylar 0.4</h3>
+			<h3>Mylar 0.4.0</h3>
 			<ul>
-	        	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2<br>
-	        	<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
+	        	<li>Eclipse 3.2 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
+	        	<li>Eclipse 3.1 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
 	        	<li><a href="doc/new.html">New & Noteworthy</a></li>
 			</ul>
 		</div>
 		
 		<h3>Supported Platforms</h3>
-		<p>Mylar supports Eclipse 3.1 final and Eclipse 3.2 milestone releases.&nbsp; 
+		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release.&nbsp; 
 		For the time being Mylar <i>only runs in a Java 5 VM</i>, but we are 
 		exploring support for JDK 1.4 VMs.</p>
-		<h3>Known limitations?</h3>
+		<h3>Known Limitations</h3>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 
 		will show uninteresting elements when enabled.</p>

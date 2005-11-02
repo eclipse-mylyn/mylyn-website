@@ -69,12 +69,13 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					Mylar tutorial</a> proposed for EclipseCon 2006</li>
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=41">
+                    Mylar tutorial</a> proposed for EclipseCon 2006
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=41">(vote here)</a></li>
 				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">
-					mylar-users@eclipse.org: </a>questions, discussions and suggestions
-					(<a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>)</li>
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">
+                    Mylar talk</a> proposed for EclipseCon 2006
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">(vote here)</a></li>
 			</ul>
 		</div>
 	</div>

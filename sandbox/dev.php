@@ -87,15 +87,13 @@
 		dependencies)<br>
 		- Everything should compile without any warnings<br>
 		<br>
-		Eclipse 3.1 requires checking out a branch: <br>
+		Building for Eclipse 3.1 requires checking out a branch: <br>
 		- Right-click the org.eclipse.mylar.java 
-		project, Team -&gt; Switch to Another Branch...<br>
-		- Refresh the Branches and select eclipse_3_1
+		project, Team -&gt; Switch to Another Branch..., then 
+		Refresh the Branches and select eclipse_3_1
         		
         <p>Bugzilla support can be built independently of the Mylar UI:<br>
-		- Add CVS location as above
-		<br>
-		- Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
+		- Add CVS location as above, Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
 		mylar.tasklist, mylar.core </p>
 		AspectJ support requires the 
 		AJDT plug-ins to be installed:<br>

@@ -68,6 +68,21 @@
 					Submit bug reports</a> for problems and enhancement requests.</li>
 			</ul>
 		</div>
+		
+		<div class="homeitem">
+			<h3>Events</h3>
+			<ul>
+				<li>
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=41">
+                    Mylar tutorial</a> proposed for EclipseCon 2006
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=41">(vote here)</a></li>
+				<li>
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">
+                    Mylar talk</a> proposed for EclipseCon 2006
+                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">(vote here)</a></li>
+			</ul>
+		</div>
+		
 		<hr class="clearer"/>
 	</div>
 

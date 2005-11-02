@@ -26,16 +26,24 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
         
-        Mylar can be downloaded using the following update sites.  Please note that an updated Mylar
-        release is made available almost every Friday, so check for updates often or turn
-        on automatic updates to ensure that you are using the latest.  
+        <table>
+        	<tr>
+        		<td><img src="images/feature.gif"></td>
+        	</tr>
+        	<tr>
+        		<td>	
+		        The Mylar features can be downloaded using the following update sites.  Please note that an updated Mylar
+		        release is made available almost every Friday, so check for updates often or turn
+		        on automatic updates to ensure that you are using the latest.</td>
+		    </tr>
+		</table>
         
         <div class="homeitem3col">
 			<h3>Mylar 0.4.0</h3>
 			<ul>
 	        	<li>Eclipse 3.2 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
 	        	<li>Eclipse 3.1 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
-	        	<li><img src="images/feature.gif"><a href="doc/new.html">New & Noteworthy</a></li>
+	        	<li><a href="doc/new.html">New & Noteworthy</a></li>
 			</ul>
 		</div>
 		

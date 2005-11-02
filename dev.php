@@ -102,8 +102,6 @@
 		org.aspectj.ajde+runtime, 
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
-		
-		<hr class="clearer"/>
 	</div>
 </div>
 

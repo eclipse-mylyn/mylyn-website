@@ -101,11 +101,7 @@
 				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
 			</ul>
 		</div>
-	</div>	
-	<p>&nbsp;</p>	
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	<p>&nbsp;</p> 
+	</div>
 </div>
 
 EOHTML;

@@ -31,10 +31,11 @@
         on automatic updates to ensure that you are using the latest.
         
         <div class="homeitem">
-			<h3>Update Sites</h3>
+			<h3>Mylar 0.4</h3>
 			<ul>
-	        	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2</li>
-				<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
+	        	<li>Eclipse 3.2 users: download.eclipse.org/technology/mylar/update-site/e3.2<br>
+	        	<li>Eclipse 3.1 users: download.eclipse.org/technology/mylar/update-site/e3.1</li>
+	        	<li><a href="doc/new.html">New & Noteworthy</a></li>
 			</ul>
 		</div>
 		
@@ -42,7 +43,7 @@
 		<p>Mylar supports Eclipse 3.1 final and Eclipse 3.2 milestone releases.&nbsp; 
 		For the time being Mylar <i>only runs in a Java 5 VM</i>, but we are 
 		exploring support for JDK 1.4 VMs.</p>
-		<h3>What are the known limitations?</h3>
+		<h4>Known limitations?</h4>
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 
 		will show uninteresting elements when enabled.</p>

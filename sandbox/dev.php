@@ -84,28 +84,29 @@
 		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
 		dependencies)<br>
 		- Everything should compile without any warnings<br>
-		<br>
-		Building for Eclipse 3.1 requires checking out a branch: <br>
+		
+		<h4>Building for Eclipse 3.1</h4>
 		- Right-click the org.eclipse.mylar.java 
 		project, Team -&gt; Switch to Another Branch..., then 
 		Refresh the Branches and select eclipse_3_1
-        		
-        <p>Bugzilla support can be built independently of the Mylar UI:<br>
+        
+        <h4>Building the Bugzilla Client</h4>
+        Bugzilla support can be built independently of the Mylar UI:<br>
 		- Add CVS location as above, Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
-		mylar.tasklist, mylar.core </p>
+		mylar.tasklist, mylar.core
+		
+		<h4>Building AspectJ Support</h4>
 		AspectJ support requires the 
 		AJDT plug-ins to be installed:<br>
-		- Create a fresh Eclipse (e.g. eclipse-3.1-ajdt) 
-		and install the AJDT plug-in from 
+		- Create a fresh Eclipse (e.g. eclipse-3.1-ajdt) and install the AJDT plug-in from 
 		download.eclipse.org/technology/ajdt/31/dev/update<br>
-		- In your original Eclipse: File -&gt; Import -&gt; 
-		Existing Plug-ins, then specify the Plug-in 
+		- In your original Eclipse: File -&gt; Import -&gt; Existing Plug-ins, then specify the Plug-in 
 		location and hit Next<br>
 		- Select the following 7 plug-ins: 
 		org.aspectj.ajde+runtime, 
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
- 
+		
 		<hr class="clearer"/>
 	</div>
 </div>

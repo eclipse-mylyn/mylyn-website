@@ -66,6 +66,10 @@
 		
 		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 		Please submit bug reports</a> for any problems and enhancement requests.</p>
+
+		<p>&nbsp;</p>
+		
+		<hr class="clearer" />
 	</div>
 </div>
 

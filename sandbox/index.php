@@ -31,7 +31,7 @@
             	<img border=0 src="../images/screenshot-mylar-small.gif">
            	</td>
             <td valign="top">
-					<p class="MsoNormal">Mylar is an information focusing UI 
+					<p>Mylar is an information focusing UI 
 					layer seamlessly integrated over Eclipse.  It makes 
 					working with very large workspaces much easier by 
 					monitoring your interaction with Eclipse, and creating a 
@@ -44,7 +44,7 @@
 					navigating, and searching required to complete a task.&nbsp; 
 					Mylar’s facilities for working with task contexts also 
 					facilitate task planning, context switching, reusing 
-					past efforts, and sharing expertise.
+					past efforts, and sharing expertise.</p>
 		  	</td>
           </tr>
         </table>

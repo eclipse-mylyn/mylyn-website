@@ -29,7 +29,8 @@
         <p>Mylar documentation is distributed with the release, but will soon be made available 
         online as well.<p>
         
-        <p>The flash videos are stale and will be updated by November 4th.<p>
+        <p>The flash videos are stale and will be updated by November 4th.  
+        Check the <a href="doc/new.html">New & Noteworthy</a> for documentation of the latest features.<p>
 
         <div class="homeitem">
 			<h3>Flash Demos</h3>

@@ -67,9 +67,6 @@
                 </li>
 			</ul> 
 		</div>       
-
-		<hr class="clearer" />
-		
 	</div>
 </div>
 

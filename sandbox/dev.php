@@ -36,8 +36,7 @@
         Mylar is evolving 
 		rapidly, and slowly stabilizing initial APIs and extension points. If you plan on extending 
 		the tool we suggest that you bring this up as a discussion on
-		<a href="mailto:mylar-dev@eclipse.org">
-		mylar-dev@eclipse.org</a>.
+		<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a>.
           
 		<div class="homeitem">
 			<h3>Developer Community</h3>

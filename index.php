@@ -79,6 +79,12 @@
                     <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">(vote here)</a></li>
 			</ul>
 		</div> 
+
+		<p>&nbsp;</p>	
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p> 
+		
 	</div> 
 
 	<div id="rightcolumn">
@@ -100,11 +106,6 @@
 			</ul>
 		</div>
 	</div>	
-	
-	<p>&nbsp;</p>	
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	<p>&nbsp;</p> 
 		
 </div>
 EOHTML;

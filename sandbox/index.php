@@ -25,29 +25,6 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<table border="0" cellpadding="4">
-          <tr>
-          	<td valign="top"><img border=0 src="../images/screenshot-mylar-small.gif"></td>
-          	<td valign="top">&nbsp;</td>
-            <td valign="top">
-				<p>Mylar is an information focusing UI 
-				layer seamlessly integrated over Eclipse.  It makes 
-				working with very large workspaces much easier by 
-				monitoring your interaction with Eclipse, and creating a 
-				context from the subset of the system that is relevant 
-				to the task at hand. Once explicit, this <i>task 
-				context</i> drives the Eclipse UI to highlight the 
-				interesting elements, filter out the uninteresting, and 
-				actively search for related information. The result is 
-				a significant reduction in the amount of scrolling, 
-				navigating, and searching required to complete a task.&nbsp; 
-				Mylar’s facilities for working with task contexts also 
-				facilitate task planning, context switching, reusing 
-				past efforts, and sharing expertise.</p>
-		  	</td>
-          </tr>
-        </table>
-
 		<div class="homeitem">
 			<h3>User Community</h3>
 			<ul>
@@ -79,6 +56,7 @@
                     <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">(vote here)</a></li>
 			</ul>
 		</div>
+		<hr class="clearer" />
 	</div>
 
 	<div id="rightcolumn">

@@ -48,23 +48,31 @@
 			<h3>Presentations and Publications</h3>
 			<ul>
 				<li>
-                    May 2005, <b>Eclipse.org project creation review</b>
+                    May 2005, eclipsel.org 
+                    <a href="publications/2005-04-mylar-proposal.html">
+                    Project creation review [HTML proposal]</a>
                     <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT presentation]</a>&nbsp;
-					<a href="publications/2005-04-mylar-proposal.html">
-					[HTML proposal]</a>
+					[PPT presentation]</a>
                 </li>
                 <li>
-                	March 2005, EclipseCon talk: <b>Mylar: a degree-of-interest model for Eclipse</b>
-		            <a href="publications/2005-03-mylar-eclipsecon-web.ppt">[PPT presentation]</a>
+                	March 2005, EclipseCon talk: 
+                	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
+                	Mylar: a degree-of-interest model for Eclipse [PPT presentation]</a>
                 </li>
                 <li>
-                	March 2005, AOSD talk: <b>Mylar: a degree-of-interest model for IDEs</b>
-					<a href="publications/2005-03-mylar-aosd-web.ppt">[PPT presentation]</a>&nbsp;
+                	March 2005, AOSD talk: 
+                	<a href="publications/2005-03-mylar-aosd-web.ppt">
+                	Mylar: a degree-of-interest model for IDEs [PPT presentation]</a>&nbsp;
 					<a href="publications/2005-03-mylar-aosd.pdf">[PDF paper]</a>
                 </li>
-			</ul>
+			</ul> 
 		</div>        
+
+		<p>nbsp;</p>
+
+		<p>nbsp;</p>
+
+		<p>nbsp;</p>
 
 		<hr class="clearer" />
 	</div>

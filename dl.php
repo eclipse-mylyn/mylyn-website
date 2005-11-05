@@ -53,8 +53,9 @@
 		
 		<h3>Key Limitations</h3>
 				
-		<p>Customized Bugzilla server installations may not work.  Refer to the New & Noteworthy for
-		work-arounds.  Bugzilla 2.20 support is still preliminary.</p>
+		<p>Customized Bugzilla server installations may not work with the Mylar Bugzilla Client.  
+		Refer to the New & Noteworthy for work-arounds on adding custom queries and working
+		with reports without connecting to a server.  Bugzilla 2.20 support is still preliminary.</p>
 
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 

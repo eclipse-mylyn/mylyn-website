@@ -33,12 +33,14 @@
         		<td>	
 		        Mylar features can be downloaded using the following update sites.  An updated Mylar
 		        release is made available almost every Friday, so turning on automatic updates
-		        is recommended.  </td>
+		        is recommended.  
+		        Archive updates sites can be found by replacing "update-site" in the URL below
+		        with the archive version (e.g. "update-site-archive/0.4.0/e3.2").</td>
 		    </tr>
 		</table>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.4.0</h3>
+			<h3>Mylar 0.4.1</h3>
 			<ul>
 	        	<li>Eclipse 3.2M3 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
 	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>

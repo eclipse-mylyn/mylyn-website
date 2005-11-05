@@ -51,7 +51,11 @@
 		(3.2M2 is not supported).&nbsp; 
 		At this time Mylar <i><b>only runs in a Java 5 VM</b></i>.</p>
 		
-		<h3>Known Limitations</h3>
+		<h3>Key Limitations</h3>
+				
+		<p>Customized Bugzilla server installations may not work.  Refer to the New & Noteworthy for
+		work-arounds.  Bugzilla 2.20 support is still preliminary.</p>
+
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 
 		will show uninteresting elements when enabled.</p>

@@ -46,9 +46,6 @@
 				past efforts, and sharing expertise.</p>
 				<p><i>Please note that the Mylar site uses the still experimental
 				<a href="http://eclipse.org/phoenix/">Phoenix infrastructure.<a></i></p>
-				<p><b><font color="#CAC8E6">Announcement: the Eclipse 3.2M3 integration build releaased today
-				is not supported by 0.4.0, but will be supported by tonight's 0.4.1 
-				release.</b></font></p>
 		  	</td>
           </tr>
         </table>

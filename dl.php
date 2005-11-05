@@ -28,7 +28,7 @@
         
         <table>
         	<tr>
-        		<td><img src="images/feature.gif"></td>
+        		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
 		        Mylar features can be downloaded using the following update sites.  An updated Mylar

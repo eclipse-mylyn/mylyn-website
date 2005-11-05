@@ -33,21 +33,22 @@
         		<td>	
 		        Mylar features can be downloaded using the following update sites.  An updated Mylar
 		        release is made available almost every Friday, so turning on automatic updates
-		        is recommended.</td>
+		        is recommended.  </td>
 		    </tr>
 		</table>
         
         <div class="homeitem3col">
 			<h3>Mylar 0.4.0</h3>
 			<ul>
-	        	<li>Eclipse 3.2 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-	        	<li>Eclipse 3.1 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
+	        	<li>Eclipse 3.2M3 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
+	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
 	        	<li><a href="doc/new.html">New & Noteworthy</a></li>
 			</ul>
 		</div>
 		
 		<h3>Supported Platforms</h3>
-		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release.&nbsp; 
+		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release
+		(3.2M2 is not supported).&nbsp; 
 		At this time Mylar <i><b>only runs in a Java 5 VM</b></i>.</p>
 		
 		<h3>Known Limitations</h3>

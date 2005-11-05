@@ -87,7 +87,8 @@
 		<div class="sideitem">
 			<h6>Latest Release</h6>
 			<ul>
-				<li><a href="dl.php">Mylar 0.4.1</a><span class="dates"> (Nov. 4, 2005)</span></li>
+				<li><a href="dl.php">Mylar 0.4.1</a><span class="dates"> 
+				<br>(Nov. 4, 2005)</span></li>
 			</ul> 
 		</div> 
 		<div class="sideitem">

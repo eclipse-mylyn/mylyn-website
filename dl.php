@@ -35,7 +35,7 @@
 		        release is made available almost every Friday, so turning on automatic updates
 		        is recommended.  
 		        Archive updates sites can be found by replacing "update-site" in the URL below
-		        with the archive version (e.g. "update-site-archive/0.4.0/e3.2").</td>
+		        with the archive version (e.g. .../update-site-archive/0.4.0/e3.2).</td>
 		    </tr>
 		</table>
         
@@ -57,7 +57,7 @@
 				
 		<p>Customized Bugzilla server installations may not work with the Mylar Bugzilla Client.  
 		Refer to the New & Noteworthy for work-arounds on adding custom queries and working
-		with reports without connecting to a server.  Bugzilla 2.20 support is still preliminary.</p>
+		with reports using the embedded browser.  Bugzilla 2.20 support is still preliminary.</p>
 
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 

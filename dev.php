@@ -66,7 +66,7 @@
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
 				and checked into each project's .settings folder.  Format code using Source menu -> Format.</li>
 				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
-				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
+				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt).
 				</li>
 				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
 				passes with no console output.</li> 

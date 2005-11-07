@@ -61,7 +61,7 @@
 		<div class="homeitem">
 			<h3>Conventions</h3>
 			<ul>
-				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
+				<li><b>Bugzilla:</b> priorities are P1: do this week, P2: should do 
 				this week, P3: considered for next week, P4/5: requires user input</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
 				and checked into each project's .settings folder.  Format code using Source menu -> Format.</li>

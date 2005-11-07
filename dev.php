@@ -36,7 +36,7 @@
         <p>Mylar is evolving 
 		rapidly, and slowly stabilizing initial APIs and extension points. If you plan on extending 
 		the tool we suggest that you bring this up as a discussion on
-		<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a>.</p>
+		<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a>.
 		Development is done in an XP style using Mylar, with weekly planning messages 
 		sent to the developer mailing list. Every task that results in code or resource 
 		modification should correspond to a bugzilla report to show up in the plan.  The weekly plan 

@@ -64,7 +64,7 @@
 				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
 				this week, P3: considered for next week, P4/5: requires user input</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
-				and checked into each project's .settings folder.  Format code using Source -> Format.</li>
+				and checked into each project's .settings folder.  Format code using Source menu -> Format.</li>
 				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
 				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
 				</li>

@@ -43,22 +43,6 @@
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
           
 		<div class="homeitem">
-			<h3>Conventions</h3>
-			<ul>
-				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
-				this week, P3: considered for next week, P4/5: requires user input</li>
-				<li><b>Code:</b> conventions are all checked into each project's .settings folder.
-				Default formatter is modfied to wrap at 160 columns. Coode conventions are documented
-				at <a href="http://java.sun.com/docs/codeconv/">http://java.sun.com/docs/codeconv</a></li>
-				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
-				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
-				</li>
-				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
-				passes with no console output.</li> 
-			</ul>
-		</div>     
-
-		<div class="homeitem">
 			<h3>Developer Community</h3>
 			<ul>
 				<li>
@@ -71,6 +55,21 @@
 					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing</li>
 			</ul>
 		</div> 
+
+		<div class="homeitem">
+			<h3>Conventions</h3>
+			<ul>
+				<li><b>Bugzilla priorities:</b> P1: do this week, P2: should do 
+				this week, P3: considered for next week, P4/5: requires user input</li>
+				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org here</a>
+				and checked into each project's .settings folder.  Format code using Source -> Format.</li>
+				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
+				Patch.&nbsp; Name according to project (e.g. patch-core.txt, patch-core.tests.txt).
+				</li>
+				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
+				passes with no console output.</li> 
+			</ul>
+		</div>  
           
 		<h4>Workspace Setup</h4>
         - Building Mylar feature from HEAD requires Eclipse 

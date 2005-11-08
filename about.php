@@ -29,8 +29,8 @@
 		<i>
 		<font color="#6F7A92">&nbsp; <br>
 		</font>&quot;</i>Mylar<i>&quot; </i> is</b><br>
-		a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
-		b) A focusing user interface used to avoid information blindness when staring at Eclipse
+		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
+		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
         <p>The goal of the Mylar 
 		project is to demonstrate that modeling our 
 		interaction with a system is as important as 

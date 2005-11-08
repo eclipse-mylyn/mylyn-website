@@ -36,17 +36,16 @@
 		alone, and overload us with irrelevant 
 		information when the size of a system dwarfs 
 		what we need to know to complete a task.&nbsp; 
-		Initially Mylar will provide a model for 
+		Initially the Mylar project will provide a model for 
 		exposing task context, user interface 
-		facilities, visualizations and a reference 
-		implementation for Java development.</p>
+		facilities, visualizations supporting development activities.</p>
 		<p>Mylar was created as part of <a href="http://kerstens.org/mik">Mik Kersten's</a> 
 		PhD project, supervised by
 		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and
-		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a></p>
+		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.</p>
 		<p>The project is currently a volunteer effort.  A driving goal of the implementation
 		is to make Myalr easy for the eclipse.org community to build on an extend.  
 		We are actively seeking and supporting contributions in the form of code,

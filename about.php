@@ -27,8 +27,7 @@
 		<div align="center"><h1>$pageTitle</h1></div>
 				<b>
 		<i>
-		<font color="#6F7A92">&nbsp; <br>
-		</font>&quot;</i>Mylar<i>&quot; </i> is</b><br>
+		<font color="#333366">Mylar is</font><br>
 		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
 		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
         <p>The goal of the Mylar 
@@ -49,7 +48,7 @@
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and
-		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a></p>.
+		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a></p>
 		<p>The project is currently a volunteer effort.  A driving goal of the implementation
 		is to make Myalr easy for the eclipse.org community to build on an extend.  
 		We are actively seeking and supporting contributions in the form of code,

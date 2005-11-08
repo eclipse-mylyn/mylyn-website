@@ -47,7 +47,7 @@
 		developer list</a>.&nbsp;<br>&nbsp; <br>
 		Mylar was created as part of <a href="http://kerstens.org/mik">Mik Kersten's</a> 
 		PhD project, supervised by
-		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy<a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
+		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and

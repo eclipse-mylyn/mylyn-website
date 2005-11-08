@@ -30,8 +30,8 @@
           	<td valign="top"><img border=0 src="images/screenshot-mylar-small.gif"></td>
           	<td valign="top">&nbsp;</td>
             <td valign="top">
-				<p>Mylar is an information focusing UI 
-				layer seamlessly integrated over Eclipse.  It makes 
+				<p>Mylar is an information focusing user interface 
+				seamlessly integrated with Eclipse.  It makes 
 				working with very large workspaces much easier by 
 				monitoring your interaction with Eclipse, and creating a 
 				context from the subset of the system that is relevant 

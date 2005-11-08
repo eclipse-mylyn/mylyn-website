@@ -45,8 +45,9 @@
 		ideas please subscribe to the
 		<a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 		developer list</a>.&nbsp;<br>&nbsp; <br>
-		Mylar was created as part of Mik Kersten's PhD project, supervised by
-		Gail Murphy, the <a href="http://www.cs.ubc.ca/labs/spl/">
+		Mylar was created as part of <a href="http://kerstens.org/mik">Mik Kersten's</a> 
+		PhD project, supervised by
+		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy<a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and

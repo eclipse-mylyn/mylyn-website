@@ -49,8 +49,8 @@
 		</div>
 		
 		<h3>Supported Platforms</h3>
-		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2 milestone release
-		(3.2M2 is not supported).&nbsp; 
+		<p>Mylar supports Eclipse 3.1 and the latest Eclipse 3.2M3 milestone release
+		(<b>3.2M2 is not supported</b>).&nbsp; 
 		At this time Mylar <i><b>only runs in a Java 5 VM</b></i>.</p>
 		
 		<h3>Key Limitations</h3>

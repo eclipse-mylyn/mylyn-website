@@ -25,9 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-				<b>
-		<i>
-		<font color="#333366">Mylar is</font><br>
+		<font color="#333366"><b>Mylar is</b></font><br>
 		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
 		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
         <p>The goal of the Mylar 

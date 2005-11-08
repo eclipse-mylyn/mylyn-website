@@ -25,10 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<font color="#333366"><b>Mylar is</b></font><br>
-		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
-		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
-        <p>The goal of the Mylar 
+		<p>The goal of the Mylar 
 		project is to demonstrate that modeling our 
 		interaction with a system is as important as 
 		modeling the structure of a system.&nbsp; 
@@ -62,7 +59,12 @@
 					Bugzilla discussions</a> to get a sense of the current UI design and implementation issues.</li>
 				<li>Refer to the <a href="dev.php">developer page</a> for ways to contribute code and patches.</li>
 			</ul>
-		</div> 
+		</div>
+		<p>
+		<font color="#333366"><b>Mylar is</b></font><br>
+		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
+		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
+        </p>
 	</div>
 </div>
 

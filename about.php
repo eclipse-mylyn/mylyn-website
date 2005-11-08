@@ -55,7 +55,7 @@
 		We are actively seeking and supporting contributions in the form of code,
 		ideas, and documentation.</p>
 		
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>Getting Involved</h3>
 			<ul>
 				<li>

@@ -55,8 +55,7 @@
 			<ul>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org:</a> releases and events
-                    [<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>]</li>
+					mylar-announce@eclipse.org:</a> releases and events</li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">
 					mylar-users@eclipse.org</a> discussions

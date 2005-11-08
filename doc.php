@@ -29,7 +29,7 @@
         <p>Mylar documentation is distributed with the release, but will soon be made available 
         online as well.<p>
         
-        <p><b><i>The flash videos are stale and will be updated by November 9th</b> (delayed due to Bugzilla 2.20 migration).</i>  
+        <p><b><i>The flash videos are stale and will be updated by November 9th</b>.</i>  
         Refer to the <a href="doc/new.html">New & Noteworthy</a> for documentation of the latest features.<p>
 
         <div class="homeitem">

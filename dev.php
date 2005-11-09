@@ -33,7 +33,7 @@
 	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
 
-        <p>A driving goal of the Mylar project is to make Mylar easy for the eclipse.org 
+        <p>A key goal of the Mylar project is to make Mylar easy for the eclipse.org 
         community to build on and extend.
         At this stage the implementation is evolving rapidly, 
         and slowly stabilizing initial APIs and extension points. If you plan on extending 

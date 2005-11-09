@@ -81,7 +81,7 @@
           
 		<h4>Workspace Setup</h4>
         - Building Mylar feature from HEAD requires Eclipse 
-		SDK 3.2M2 and JDK 1.5.&nbsp; <br>
+		SDK 3.2M3 and JDK 1.5.&nbsp; <br>
 		- Add CVS location: dev.eclipse.org 
 		/home/technology<br>
 		- Check out all of the projects under 

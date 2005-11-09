@@ -59,12 +59,16 @@
 				<li>Refer to the <a href="dev.php">developer page</a> for ways to contribute code and patches.</li>
 			</ul>
 		</div>
-		
-		<p>
-		<font color="#333366"><b>Mylar is</b></font><br>
-		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
-		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
-        </p>
+	</div>
+	
+	<div id="rightcolumn">
+		<div class="sideitem">
+			<h6>&quot;Mylar&quot; is</h6>
+			<ul>
+				<li>a) An aluminized film used to avoid blindness when staring at a solar eclipse</li>
+				<li>b) A focusing user interface used to avoid information blindness when staring at Eclipse</li>
+			</ul> 
+		</div> 
 	</div>
 </div>
 

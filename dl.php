@@ -70,8 +70,7 @@
 		
 		<h4>Key Limitations</h4>
 				
-		<p>Bugzilla Client: customized Bugzilla server installations may not work with the Mylar 
-		Bugzilla Client.  
+		<p>Bugzilla Client: customized Bugzilla server installations may not work.  
 		Refer to the New & Noteworthy for work-arounds on adding custom queries and working
 		with reports using the embedded browser.  Bugzilla 2.20 support is still preliminary.</p>
 

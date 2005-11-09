@@ -68,9 +68,6 @@
 		open reports</a> to add your comments.  
 		Bugzilla priorities of P1 and P2 indicate items scheduled for the next release.
 		
-		Note that reports maked P1 will be fixed for the next
-		release and those marked P2 will probably be fixed for the next release.
-		
 		<h4>Key Limitations</h4>
 				
 		<p>Bugzilla Client: customized Bugzilla server installations may not work.  

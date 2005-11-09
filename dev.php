@@ -63,11 +63,11 @@
 		<div class="homeitem">
 			<h3>Conventions</h3>
 			<ul>
-				<li><b>Bugzilla:</b> priorities are P1: do this week, P2: should do 
-				this week, P3: considered for next week, P4/5: requires user input.</li>
 				<li><b>Development:</b> use the latest version of Mylar for development
 				and <a href="http://www.cs.wustl.edu/icse05/ConferenceProgram/InvitedTalks/GammaKeynote.pdf">
 				consume your own output</a>.</li>
+				<li><b>Bugzilla:</b> priorities are P1: do this week, P2: should do 
+				this week, P3: considered for next week, P4/5: requires user input.</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
 				and checked into each project's .settings folder.  Change your default formatter's line wrap to 160.
 				Format code using Source menu -> Format.</li>

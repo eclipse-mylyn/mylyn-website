@@ -89,7 +89,8 @@
 			<ul>
 				<li><a href="dl.php">Mylar 0.4.1</a><span class="dates"> 
 				<br>(Nov. 4, 2005)</span><br>&nbsp;</li>
-				<li>Mylar 0.4.2 planned for Nov. 14th<span class="dates"></li>
+				<li>Mylar 0.4.2 planned<br>
+				for Nov. 14th<span class="dates"></li>
 			</ul> 
 		</div> 
 		<div class="sideitem">

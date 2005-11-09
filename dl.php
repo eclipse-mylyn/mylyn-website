@@ -31,9 +31,8 @@
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
-		        Mylar features can be downloaded using the following update sites.  An updated Mylar
-		        release is made available almost every Friday, so turning on automatic updates
-		        is recommended.  
+		        Mylar features can be downloaded using the following update sites. 
+		        Turning on automatic updates is recommended.  
 		        Archive updates sites can be found by replacing "update-site" in the URL below
 		        with the archive version (e.g. .../update-site-archive/0.4.0/e3.2).</td>
 		    </tr>
@@ -61,7 +60,7 @@
 		user interface are evolving 
 		rapidly based on user community feedback.  New releases are 
 		made available weekly, and contain fixes for any major issues or suggested improvements
-		reported early enough the previous week.  
+		reported the previous week.  
 		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 		submit bug reports</a> for any problems and enhancement requests, or check
 		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">

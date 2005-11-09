@@ -42,8 +42,9 @@
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and
-		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.</p>
-		<p>The project is currently a volunteer effort, and actively seeking and  
+		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
+		
+		The project is currently a volunteer effort, and actively seeking and  
 		supporting contributions in the form of code,
 		ideas, and documentation.</p>
 		

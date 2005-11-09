@@ -25,7 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<p>The goal of the Mylar is to evolve a focused user interface
+		<p>The goal of the Mylar project is to evolve a focused user interface
 		for the Eclipse platform.  The core of Mylar is a mechanism
 		that that makes our interaction with a system explicit.
 		Existing tools only make the structure of the system explicit,

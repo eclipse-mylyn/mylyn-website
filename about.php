@@ -26,9 +26,9 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
 		<p>The goal of the Mylar project is to evolve a focused user interface
-		for the Eclipse platform.  The core of Mylar is a mechanism
+		for the Eclipse platform.  At the core of Mylar is a mechanism
 		that that makes our interaction with a system explicit.
-		Existing tools only make the structure of the system explicit,
+		Existing tools make the structure of the system explicit,
 		and as a result overload us with irrelevant 
 		information when the size of a system dwarfs 
 		what we need to know to complete a task. 
@@ -65,8 +65,8 @@
 		<div class="sideitem">
 			<h6>&quot;Mylar&quot; is</h6>
 			<ul>
-				<li>a) An aluminized film used to avoid blindness when staring at a solar eclipse</li>
-				<li>b) A focusing user interface used to avoid information blindness when staring at Eclipse</li>
+				<li>An aluminized film used to avoid blindness when staring at a solar eclipse</li>
+				<li>A focusing user interface used to avoid information blindness when staring at Eclipse</li>
 			</ul> 
 		</div> 
 	</div>

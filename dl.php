@@ -65,7 +65,10 @@
 		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 		submit bug reports</a> for any problems and enhancement requests, or check
 		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">
-		open reports</a> to add your comments.  Note that reports maked P1 will be fixed for the next
+		open reports</a> to add your comments.  
+		Bugzilla priorities of P1 and P2 indicate items scheduled for the next release.
+		
+		Note that reports maked P1 will be fixed for the next
 		release and those marked P2 will probably be fixed for the next release.
 		
 		<h4>Key Limitations</h4>

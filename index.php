@@ -97,7 +97,8 @@
 			<h6>News & Blogs</h6>
 			<ul>
 				<li>Kirill Grouchnikov: <a href="http://weblogs.java.net/blog/kirillcool/archive/2005/11/mylar_a_very_us.html">
-				A very useful Eclipse plugin</a><br>&nbsp;</li>
+				A very useful Eclipse plugin</a>
+				<br><span class="dates">(Nov. 7, 2005)</span><br>&nbsp;</li>
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a>
 				<br><span class="dates">(Nov. 1, 2005)</span><br>&nbsp;</li>
 				<li>First public release<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>

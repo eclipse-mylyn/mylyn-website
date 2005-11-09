@@ -25,33 +25,26 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<p>
-		<font color="#333366"><b>Mylar is</b></font><br>
-		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
-		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
-        </p>
-		<p>The goal of the Mylar 
-		project is to demonstrate that modeling our 
-		interaction with a system is as important as 
-		modeling the structure of a system.&nbsp; 
-		Current tools are built on structure models 
-		alone, and overload us with irrelevant 
+		<p>The goal of the Mylar is to evolve a focused user interface
+		for the Eclipse platform.  The core of Mylar is a mechanism
+		that that makes our interaction with a system explicit.
+		Existing tools only make the structure of the system explicit,
+		and as a result overload us with irrelevant 
 		information when the size of a system dwarfs 
-		what we need to know to complete a task.&nbsp; 
+		what we need to know to complete a task. 
 		Initially the Mylar project will provide a model for 
-		exposing task context, user interface 
-		facilities, visualizations supporting development activities.
-		A driving goal of the implementation
-		is to make Mylar easy for the eclipse.org community to build on an extend. </p>
-		<p>Mylar was created as part of <a href="http://kerstens.org/mik">Mik Kersten's</a> 
-		PhD project supervised by
+		exposing interaction history via task contexts, user interface 
+		facilities for making these contexts explicit, and support for
+		Java development.</p>
+		<p>Mylar has been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
+		as a part of his PhD thesis, supervised by
 		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 		Software Practices Lab at UBC</a>, the
 		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 		Centre for Advanced Studies</a>, and
 		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.</p>
-		<p>The project is currently a volunteer effort. 
-		We are actively seeking and supporting contributions in the form of code,
+		<p>The project is currently a volunteer effort, and actively seeking and  
+		supporting contributions in the form of code,
 		ideas, and documentation.</p>
 		
 		<div class="homeitem3col">
@@ -66,6 +59,12 @@
 				<li>Refer to the <a href="dev.php">developer page</a> for ways to contribute code and patches.</li>
 			</ul>
 		</div>
+		
+		<p>
+		<font color="#333366"><b>Mylar is</b></font><br>
+		&nbsp;&nbsp;&nbsp;a) An aluminized film used to avoid blindness when staring at a solar eclipse<br>
+		&nbsp;&nbsp;&nbsp;b) A focusing user interface used to avoid information blindness when staring at Eclipse
+        </p>
 	</div>
 </div>
 

@@ -53,10 +53,24 @@
 		(<b>3.2M2 is no longer supported, <a href="http://download.eclipse.org/eclipse/downloads/drops/S-3.2M3-200511021600/index.php">
 		you will need 3.2M3</a></b>).&nbsp; 
 		At this time Mylar <i><b>only runs in a Java 5 VM</b></i>.</p>
+
+		<h3>Expectations</h3>
 		
-		<h3>Key Limitations</h3>
+		Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 
+		user interface are evolving 
+		rapidly based on the feedback and bug reports of the user community.  New releases are 
+		made available weekly, and contain fixes for any major issues or suggested improvements
+		reported early enough the previous week.  
+		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+		submit bug reports</a> for any problems and enhancement requests, or check
+		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">
+		open reports</a> to add your comments.  Note that reports maked P1 will be fixed for the next
+		release and those marked P2 will probably be fixed for the next release.
+		
+		<h4>Key Limitations</h4>
 				
-		<p>Customized Bugzilla server installations may not work with the Mylar Bugzilla Client.  
+		<p>Bugzilla Client: customized Bugzilla server installations may not work with the Mylar 
+		Bugzilla Client.  
 		Refer to the New & Noteworthy for work-arounds on adding custom queries and working
 		with reports using the embedded browser.  Bugzilla 2.20 support is still preliminary.</p>
 
@@ -72,9 +86,7 @@
 		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
 		
 		<p>&nbsp;</p>
-		
-		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		Please submit bug reports</a> for any problems and enhancement requests.</p>
+
 	</div>
 </div>
 

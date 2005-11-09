@@ -33,12 +33,14 @@
 	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
 
-        <p>Mylar is evolving 
-		rapidly, and slowly stabilizing initial APIs and extension points. If you plan on extending 
-		the tool we suggest that you bring this up as a discussion on
+        <p>A driving goal of the Mylar project is to make Mylar easy for the eclipse.org 
+        community to build on and extend.
+        At this stage the implementation is evolving rapidly, 
+        and slowly stabilizing initial APIs and extension points. If you plan on extending 
+		Mylar we suggest that you bring this up as a discussion on
 		<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a>.
-		Development is done in an XP style using Mylar, with weekly planning messages 
-		sent to the developer mailing list. Every task that results in code or resource 
+		Development is done in a transarent XP style, with weekly planning messages 
+		sent to the mylar-dev list. Every task that results in code or resource 
 		modification should correspond to a bugzilla report to show up in the plan.  The weekly plan 
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
           
@@ -62,13 +64,16 @@
 			<h3>Conventions</h3>
 			<ul>
 				<li><b>Bugzilla:</b> priorities are P1: do this week, P2: should do 
-				this week, P3: considered for next week, P4/5: requires user input</li>
+				this week, P3: considered for next week, P4/5: requires user input.</li>
+				<li><b>Development:</b> use the latest version of Mylar for development
+				and <a href="http://www.cs.wustl.edu/icse05/ConferenceProgram/InvitedTalks/GammaKeynote.pdf">
+				consume your own output</a>.</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
 				and checked into each project's .settings folder.  Change your default formatter's line wrap to 160.
 				Format code using Source menu -> Format.</li>
 				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
-				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt).
-				</li>
+				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt). Patches are
+				typically applied within a few days of being submitted.</li>
 				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
 				passes with no console output.</li> 
 			</ul>

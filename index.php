@@ -95,8 +95,11 @@
 		<div class="sideitem">
 			<h6>News & Blogs</h6>
 			<ul>
+				<li>Kirill Grouchnikov: <a href="http://weblogs.java.net/blog/kirillcool/archive/2005/11/mylar_a_very_us.html">
+				A very useful Eclipse plugin</a>
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a>
 				<br><span class="dates">(Nov. 1, 2005)</span><br>&nbsp;</li>
+				<li>First public release<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
 				<br><span class="dates">(July 28, 2005)</span><br>&nbsp;</li>
 				<li>User study started<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>

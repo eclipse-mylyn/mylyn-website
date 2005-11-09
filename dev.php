@@ -72,8 +72,8 @@
 				and checked into each project's .settings folder.  Change your default formatter's line wrap to 160.
 				Format code using Source menu -> Format.</li>
 				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
-				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt). Patches are
-				typically applied within a few days of being submitted.</li>
+				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt), and attach
+				to a bug report. Patches are typically applied within a few days of submission.</li>
 				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
 				passes with no console output.</li> 
 			</ul>

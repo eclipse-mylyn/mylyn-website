@@ -89,7 +89,7 @@
 		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
 		dependencies)<br>
 		
-		<h4>Building for Eclipse 3.1</h4>
+		<h4>Building the Eclipse 3.1 Branch</h4>
 		- Right-click the org.eclipse.mylar.java 
 		project, Team -&gt; Switch to Another Branch..., then 
 		Refresh the Branches and select eclipse_3_1

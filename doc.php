@@ -26,20 +26,23 @@
 	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        <p>Mylar documentation is distributed with the release, but will soon be made available 
-        online as well.<p>
-        
-        <p><b><i>The flash videos are stale and will be updated by November 9th</b>.</i>  
-        Refer to the <a href="doc/new.html">New & Noteworthy</a> for documentation of the latest features.<p>
+        <p>Mylar documentation is currently sparse, and distributed with the release.  Please 
+        refer to the <a href="doc/new.html">New & Noteworthy</a> for documentation of the latest features.<p>
 
         <div class="homeitem">
 			<h3>Flash Demos</h3>
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03.html">Getting started with Mylar</a> (5 min)
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started with Mylar (0.4.2)</a> [3.5 min, 8.7MB]
                 </li>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html">Using Active views</a> (2 min)
+                    Working with tasks and issue trackers (coming soon)</a>
+                </li>
+				<li>
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03.html">Getting started with Mylar (0.3.1)</a> (5 min)
+                </li>
+				<li>
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html">Using Active views (0.3.1)</a> (2 min)
                 </li>
 			</ul>
 		</div>        

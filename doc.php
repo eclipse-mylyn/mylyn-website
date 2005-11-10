@@ -26,8 +26,9 @@
 	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        <p>Mylar documentation is currently sparse, and distributed with the release.  The best
-        way to learn about Mylar features is by reading the 
+        <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
+        videos provide an introduction to the basic features.  Currently the best 
+        way to learn about Mylar is by reading the 
         <a href="doc/new.html">New & Noteworthy</a> documents.<p>
 
         <div class="homeitem">

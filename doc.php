@@ -29,7 +29,7 @@
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
         videos provide an introduction to the basic features.  Currently the best 
         way to learn about Mylar is by reading the 
-        <a href="doc/new.html">New & Noteworthy</a> documents.<p>
+        <a href="doc/new.html">New & Noteworthy</a>.<p>
 
         <div class="homeitem">
 			<h3>Flash Demos</h3>

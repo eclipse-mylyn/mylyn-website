@@ -35,7 +35,7 @@
 			<h3>Flash Demos</h3>
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started with task contexts</a> (v0.4, 3.5 min, 8.7 MB)
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB)
                 </li>
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)

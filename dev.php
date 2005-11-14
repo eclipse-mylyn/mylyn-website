@@ -43,7 +43,7 @@
 		modification should correspond to a bugzilla report to show up in the plan.  The weekly plan 
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
           
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>Developer Community</h3>
 			<ul>
 				<li>
@@ -57,9 +57,9 @@
 				<li><a href="http://www.eclipse.org/eclipse/development/main.html">The Eclipse development page</a> documents
 					conventions and resources.</li>
 			</ul>
-		</div> 
+		</div>  
 
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>Conventions</h3>
 			<ul>
 				<li><b>Development:</b> use the latest version of Mylar for development

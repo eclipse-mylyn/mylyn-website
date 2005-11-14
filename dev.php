@@ -110,6 +110,7 @@
 		org.aspectj.ajde+runtime, 
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
+		<p>&nbsp;</p>
 	</div>
 </div>
 

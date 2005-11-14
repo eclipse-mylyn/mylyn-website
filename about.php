@@ -61,6 +61,8 @@
 				<li>Refer to the <a href="dev.php">developer page</a> for ways to contribute code and patches.</li>
 			</ul>
 		</div>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
 	</div>
 	
 	<div id="rightcolumn">
@@ -73,7 +75,6 @@
 		</div> 
 	</div>
 	
-	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>

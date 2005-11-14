@@ -30,7 +30,6 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="all">
 		<div align="center"><h1>$pageTitle</h1></div>
 
         <p>A key goal of the Mylar project is to make Mylar easy for the eclipse.org 
@@ -110,7 +109,6 @@
 		org.aspectj.ajde+runtime, 
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
-	</div>
 </div>
 
 EOHTML;

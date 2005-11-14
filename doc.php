@@ -23,6 +23,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
+	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
           
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
@@ -68,6 +69,7 @@
                 </li>
 			</ul> 
 		</div>       
+	</div>
 </div>
 
 

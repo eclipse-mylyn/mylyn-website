@@ -39,7 +39,7 @@
 		</table>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.4.1</h3>
+			<h3>Mylar 0.4</h3>
 			<ul>
 	        	<li>Eclipse 3.2M3 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
 	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>

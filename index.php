@@ -87,10 +87,10 @@
 		<div class="sideitem">
 			<h6>Latest Release</h6>
 			<ul>
-				<li><a href="dl.php">Mylar 0.4.1</a><span class="dates"> 
-				<br>(Nov. 4, 2005)</span><br>&nbsp;</li>
-				<li>Mylar 0.4.2 scheduled<br>
-				for Nov. 14th<span class="dates"></li>
+				<li><a href="dl.php">Mylar 0.4.2</a><span class="dates"> 
+				<br>(Nov. 14, 2005)</span><br>&nbsp;</li>
+				<li>Mylar 0.4.3 scheduled<br>
+				for Nov. 21st<span class="dates"></li>
 			</ul> 
 		</div> 
 		<div class="sideitem">

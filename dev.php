@@ -90,9 +90,9 @@
 		dependencies)<br>
 		
 		<h4>Building the Eclipse 3.1 Branch</h4>
-		- Right-click the org.eclipse.mylar.java 
+		- Right-click the org.eclipse.mylar.java, mylar.ide, and mylar.xml
 		project, Team -&gt; Switch to Another Branch..., then 
-		Refresh the Branches and select eclipse_3_1
+		Refresh the Branches and select e_3_1
         
         <h4>Building the Bugzilla Client</h4>
         - Bugzilla support can be built independently of the Mylar UI:<br>

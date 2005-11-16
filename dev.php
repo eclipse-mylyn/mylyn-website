@@ -45,7 +45,7 @@
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
           
 		<div class="homeitem3col">
-			<h3>Developer Community</h3>
+			<h3>Developer Resources</h3>
 			<ul>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
@@ -57,6 +57,7 @@
 					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing</li>
 				<li><a href="http://www.eclipse.org/eclipse/development/main.html">The Eclipse development page</a> documents
 					conventions and resources.</li>
+				<li><a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">CVS repository</a> web interface</li>
 			</ul>
 		</div>  
 

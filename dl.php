@@ -52,7 +52,8 @@
 		(<b>3.2M2 is no longer supported,
 		<a href="http://download.eclipse.org/eclipse/downloads/drops/S-3.2M3-200511021600/index.php">
 		get 3.2M3</a></b>).&nbsp; 
-		At this time Mylar <b>only runs in a Java 5 VM</b>.</p>
+		At this time Mylar <b>only runs in a Java 5 VM</b>.  See the FAQ entry if you
+		have any <a href="doc/faq.html#install-failure">trouble installing Mylar</a>.</p>
 		<p>If you have an problems installing or updating Mylar please see the 
 		<a href=doc/faq.html>corresponding FAQ entry</a>.</P>
 

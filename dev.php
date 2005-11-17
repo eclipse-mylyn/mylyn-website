@@ -74,7 +74,8 @@
 				Format code using Source menu -> Format.</li>
 				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
 				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt), and attach
-				to a bug report. Patches are typically applied within a few days of submission.</li>
+				to a bug report. Patches should come with a test case, and are typically applied 
+				within a few days of submission.</li>
 				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
 				passes with no console output.</li> 
 			</ul>

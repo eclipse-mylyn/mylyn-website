@@ -25,11 +25,41 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-          
-        <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
-        videos provide an introduction to the basic features.  Currently the best 
-        way to learn about Mylar is by reading the 
-        <a href="doc/new.html">New & Noteworthy</a>.<p>
+       <p >
+		<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
+		visualization components built for Eclipse.  
+		Zest is a component of the Mylar project that 
+		can be used independently of the Mylar IDE 
+		support. The entire Zest library has been
+		developed in SWT and integrates seamlessly within Eclipse because of its
+		recognized design.   Zest has been modeled after JFace, and all the Zest views
+		conform to the same standards and conventions as existing Eclipse views.  This
+		means that the providers, actions and listeners used within existing
+		applications can be leveraged within Zest.  Many of the Zest views are being
+		developed using the Graphical Editing Framework (GEF).  
+		Zest is a visualization toolkit with  a growing
+		number of views, all of which aim to be easy to program against. 
+		Currently we are developing the following views:
+		
+		<UL>
+		<LI>Spring Graph Viewer</li>
+		<LI>Static Graph Viweer</li>
+		<LI>Nested Graph Viewer</li>
+		<LI>Timelien Viweer</li>
+	
+		</ul>
+		<p>The Zest project also contains a graph layout package which can be used 
+		independently.  The graph layout package can be used within existing
+		Java applications (SWT or AWT) to provider layout locations for a set of
+		entities and relationships.  We currently support the following layout 
+		algorithms:</p>
+		<UL>
+		<LI>Spring Layout Algorithm</li>
+		<LI>Fade Layout Algorithm</li>
+		<LI>Tree Layout Algorithm</li>
+		<LI>Radial Layout Algorithm</li>
+		<LI>Grid Layout Algorithm</li>
+		</ul>
 
         <div class="homeitem">
 			<h3>Flash Demos</h3>

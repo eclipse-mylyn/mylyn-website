@@ -6,9 +6,9 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Mylar Documentation";
-	$pageKeywords	= "Mylar, Eclipse";
-	$pageAuthor		= "Mik Kersten";
+	$pageTitle 		= "Zest: The Eclipse Visualization Toolkit";
+	$pageKeywords	= "Mylar, Eclipse, Zest, Visualization";
+	$pageAuthor		= "Ian Bull";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)

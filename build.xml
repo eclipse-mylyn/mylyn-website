@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<!-- writen for Ant 1.5.1 -->
+<project name="mylar" default="copy-docs">
+
+<target name="copy-docs" description="Copy Documentation">
+ 
+ <copy todir="doc">
+   <fileset file="../org.eclipse.mylar.doc/doc/faq.html"/>
+   <fileset file="../org.eclipse.mylar.doc/doc/new.html"/>
+   <!--<fileset dir="../org.eclipse.mylar.doc/doc/images"/>-->
+ </copy>
+</target>
+
+</project>

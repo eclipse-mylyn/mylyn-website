@@ -41,13 +41,27 @@
 		number of views, all of which aim to be easy to program against. 
 		Currently we are developing the following views:
 		
-		<UL>
-		<LI>Spring Graph Viewer</li>
-		<LI>Static Graph Viweer</li>
-		<LI>Nested Graph Viewer</li>
-		<LI>Timelien Viweer</li>
-	
-		</ul>
+		<div class="homeitem">
+			<h3>Zest Views</h3>
+			<ul>
+				<li>
+					Spring Graph Viewer: A dynamic graph viewer that renders nodes and edges.                    
+                </li>
+				<li>
+                    Static Graph Viewer: A static graph viewer that renders nodes and edges.
+                </li>
+				<li>
+                    Nested Graph Viewer: A static graph viewer that renderes nodes and edges.  Nodes
+                    can be nested within their parents and navigation supports diving / zooming.
+                </li>
+                <li>
+                	Timeline Viewer: A viewer to render timelines in a Gantt Chart Fashion.
+                </li>
+                
+                
+			</ul>
+		</div>  
+		
 		<p>The Zest project also contains a graph layout package which can be used 
 		independently.  The graph layout package can be used within existing
 		Java applications (SWT or AWT) to provider layout locations for a set of

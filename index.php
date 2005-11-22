@@ -89,13 +89,16 @@
 			<ul>
 				<li><a href="dl.php">Mylar 0.4.3</a><span class="dates"> 
 				<br>(Nov. 21, 2005)</span><br>&nbsp;</li>
-				<li>Mylar 0.4.3
-				<br>(date tbd)</span><br>&nbsp;</li>
+				<li>Mylar 0.4.3 planned for Dec. 2
+				<br>&nbsp;</li>
 			</ul> 
 		</div> 
 		<div class="sideitem">
 			<h6>News & Blogs</h6>
 			<ul>
+				<li> Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
+				Eclipse Killer Plugin Mylar</a>
+				<br><span class="dates">(Nov. 14, 2005)</span><br>&nbsp;</li>
 				<li>Kirill Grouchnikov: <a href="http://weblogs.java.net/blog/kirillcool/archive/2005/11/mylar_a_very_us.html">
 				A very useful Eclipse plugin</a>
 				<br><span class="dates">(Nov. 7, 2005)</span><br>&nbsp;</li>

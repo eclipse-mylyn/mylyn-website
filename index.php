@@ -44,27 +44,30 @@
 				Mylar’s facilities for working with task contexts also 
 				facilitate task planning, context switching, reusing 
 				past efforts, and sharing expertise.</p>
-				<p><i>Please note that the Mylar site uses the still experimental
-				<a href="http://eclipse.org/phoenix/">Phoenix infrastructure<a></i>.</p>
 		  	</td>
           </tr>
         </table>
 
 		<div class="homeitem">
-			<h3>User Community</h3>
+			<h3>Community</h3>
 			<ul>
+				<li>
+                    <a href="news://news.eclipse.org/eclipse.technology.mylar">
+					news://news.eclipse.org/eclipse.technology.mylar:</a> is used for user discussions and minor release announcements
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
 					mylar-announce@eclipse.org:</a> releases and events 
 					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>]</li>
 				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-users">
-					mylar-users@eclipse.org:</a> questions discussions
-					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-users/maillist.html">archive</a>]</li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+					mylar-dev@eclipse.org:</a> developer discussions 
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 					Submit bug reports</a> for problems and enhancement requests.</li>
+				
 			</ul>
 		</div>
 

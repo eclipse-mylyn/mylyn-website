@@ -32,7 +32,7 @@
           	<td valign="top">&nbsp;</td>
             <td valign="top">
 				<p>
-				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones.  It provides task management facilities and monitors your work activity to identify information relevant to the task-at-hand.  Mylar uses this task context to focus the Eclipse UI on what's interesting, hide what's uninteresting, and search out what's related.  This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation.  By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
+				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 				</p>
 		  	</td>
           </tr>

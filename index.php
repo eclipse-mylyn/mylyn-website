@@ -42,8 +42,8 @@
 			<h3>Community</h3>
 			<ul>
 				<li>
-                    <a href="eclipse.technology.mylar">
-					news://news.eclipse.org/eclipse.technology.mylar:</a> newsgroup is used for user discussions and minor release announcements
+                    <a href="news://news.eclipse.org/eclipse.technology.mylar">
+					mylar newsgroup:</a> for user discussions and minor release announcements
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">

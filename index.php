@@ -43,7 +43,7 @@
 			<ul>
 				<li>
                     <a href="news://news.eclipse.org/eclipse.technology.mylar">
-					mylar newsgroup:</a> for user discussions and minor release announcements
+					mylar newsgroup:</a> user discussions and minor release announcements
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">

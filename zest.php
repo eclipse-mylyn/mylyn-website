@@ -110,6 +110,15 @@
 			</ul>
 		</div>
 	</div>
+	<div id="rightcolumn">
+		$commonside
+		<div class="sideitem">
+			<h6>Layout Algorithms</h6>
+			<ul>
+				<li>Spring Layout Algorithm</li>
+			</ul>
+		</div>
+	</div>
 </div>
 
 

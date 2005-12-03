@@ -26,7 +26,13 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
        <p >
-		<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
+       	<table border="0" cellpadding="4">
+          <tr>
+          	<td valign="top"><img border=0 src="images/zest_screen.jpg"></td>
+          	<td valign="top">&nbsp;</td>
+            <td valign="top">
+				<p>
+				<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
 		visualization components built for Eclipse.  
 		Zest is a component of the Mylar project that 
 		can be used independently of the Mylar IDE 
@@ -44,6 +50,11 @@
 		independently.  The graph layout package can be used within existing
 		Java applications (SWT or AWT) to provider layout locations for a set of
 		entities and relationships.  </p>
+				</p>
+		  	</td>
+          </tr>
+        </table>
+		
 		
 		<div class="homeitem">
 			<h3>Zest Views</h3>

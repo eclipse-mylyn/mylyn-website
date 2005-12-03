@@ -20,6 +20,9 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
+	
+	index.php
+	
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -69,6 +72,10 @@
                 </li>
 			</ul> 
 		</div>       
+	</div>
+	
+	<div id="rightcolumn">
+		$commonside
 	</div>
 </div>
 

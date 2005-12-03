@@ -86,9 +86,9 @@
 		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
 		
 		<p>&nbsp;</p>
-
 	</div>
-		<div id="rightcolumn">
+
+	<div id="rightcolumn">
 		$commonside
 	</div>
 </div>

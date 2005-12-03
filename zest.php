@@ -67,7 +67,7 @@
 		</div>  
 		
 				<div class="homeitem">
-			<h3>Zest Views</h3>
+			<h3>Layout Algorithms</h3>
 			<ul>
 				<li>
 					Spring Layout Algorithm

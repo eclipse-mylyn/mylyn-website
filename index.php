@@ -21,7 +21,6 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	include("_sideCommon.php");
-	
 	$html = <<<EOHTML
   
 <div id="maincontent">

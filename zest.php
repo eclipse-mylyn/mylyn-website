@@ -101,6 +101,15 @@
 		</div>  
      
 	</div>
+	<div id="rightcolumn">
+		$commonside
+		<div class="sideitem">
+			<h6>Zest Views</h6>
+			<ul>
+				<li>Graph View</li>
+			</ul>
+		</div>
+	</div>
 </div>
 
 

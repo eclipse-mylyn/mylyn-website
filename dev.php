@@ -27,6 +27,7 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
+	include("_sideCommon.php");
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -43,23 +44,6 @@
 		sent to the mylar-dev list. Every task that results in code or resource 
 		modification should correspond to a bugzilla report to show up in the plan.  The weekly plan 
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
-          
-		<div class="homeitem3col">
-			<h3>Developer Resources</h3>
-			<ul>
-				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
-					mylar-dev@eclipse.org:</a> developer discussions 
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla discussions</a> are used for ideas, enhancements, and UI issues.</li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing</li>
-				<li><a href="http://www.eclipse.org/eclipse/development/main.html">The Eclipse development page</a> documents
-					conventions and resources.</li>
-				<li><a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">CVS repository</a> web interface</li>
-			</ul>
-		</div>  
 
 		<div class="homeitem3col">
 			<h3>Conventions</h3>
@@ -113,6 +97,26 @@
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
 		<p>&nbsp;</p>
+	</div>
+	
+	<div id="rightcolumn">
+		$commonside
+		<div class="sideitem">
+			<h6>Developer Resources</h6>
+			<ul>
+				<li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+					mylar-dev@eclipse.org:</a> developer discussions 
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla discussions</a> are used for ideas, enhancements, and UI issues.</li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing</li>
+				<li><a href="http://www.eclipse.org/eclipse/development/main.html">The Eclipse development page</a> documents
+					conventions and resources.</li>
+				<li><a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">CVS repository</a> web interface</li>
+			</ul>
+		</div>
 	</div>
 </div>
 

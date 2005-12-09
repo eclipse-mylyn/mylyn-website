@@ -17,7 +17,6 @@
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	# End: page-specific settings
 	
-	$App->setIncubation();
 	include("_sideCommon.php");
 	$html = <<<EOHTML
   

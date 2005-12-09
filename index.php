@@ -65,11 +65,11 @@
 		</div>
 
 		<div class="homeitem">
-			<h3>Events</h3>
+			<h3>Upcoming Events</h3>
 			<ul>
 				<li>
                     <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">
-                    Mylar Long Talk</a> at <a href="http://www.eclipsecon.org/2006/Home.do"EclipseCon 2006</a>, March 20-23, Santa Clara, USA
+                    Mylar Long Talk</a> at EclipseCon 2006<a href="http://www.eclipsecon.org/2006/Home.do"</a>, March 20-23, Santa Clara, USA
                 </li>
 			</ul>
 		</div> 

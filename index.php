@@ -32,6 +32,9 @@
 				<p>
 				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 				</p>
+				<p>
+				This projects is in the <a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>.
+				</p>
 		  	</td>
           </tr>
         </table>

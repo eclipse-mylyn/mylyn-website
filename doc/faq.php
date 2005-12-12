@@ -5,7 +5,7 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylar New & Noteworthy";
+	$pageTitle 		= "Mylar FAQ";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
@@ -31,11 +31,9 @@
         $contents
 	</div>
 	
-	<!--
 	<div id="rightcolumn">
 		$commonside
 	</div>
-	-->
 </div>
 
 

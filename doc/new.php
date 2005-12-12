@@ -31,11 +31,9 @@
         $contents
 	</div>
 	
-	<!--
 	<div id="rightcolumn">
 		$commonside
 	</div>
-	-->
 </div>
 
 

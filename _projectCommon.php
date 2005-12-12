@@ -12,4 +12,5 @@
 	$Nav->addCustomNav("Downloads", 	"dl.php",	"_self", 1);
 	$Nav->addCustomNav("Developers", 	"dev.php", 	"_self", 1);
 	$Nav->addCustomNav("Documentation", "doc.php", 	"_self", 1);
+	$Nav->addCustomNav("New", "new.php", 	"_self", 1);
 ?>

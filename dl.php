@@ -46,7 +46,7 @@
 			<ul>
 	        	<li>Eclipse 3.2M3 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
 	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
-	        	<li><a href="doc/new.html">New & Noteworthy</a></li>
+	        	<li><a href="doc/new.php">New & Noteworthy</a></li>
 			</ul>
 		</div>
 		
@@ -56,7 +56,7 @@
 		<a href="http://download.eclipse.org/eclipse/downloads/drops/S-3.2M3-200511021600/index.php">
 		get 3.2M3</a></b>).&nbsp; 
 		At this time Mylar <b>only runs in a Java 5 VM</b>.  See the FAQ entry if you
-		have any <a href="doc/faq.html#install-failure">trouble installing Mylar</a>.</p>
+		have any <a href="doc/faq.php#install-failure">trouble installing Mylar</a>.</p>
 
 		<h3>Expectations</h3>
 		

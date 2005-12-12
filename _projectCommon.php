@@ -12,5 +12,5 @@
 	$Nav->addCustomNav("Downloads", 	"dl.php",	"_self", 1);
 	$Nav->addCustomNav("Developers", 	"dev.php", 	"_self", 1);
 	$Nav->addNavSeparator("Documentation", "doc.php", 	"_self", 1);
-	$Nav->addCustomNav("New", "doc/new.php", 		"_self", 1);
+	$Nav->addCustomNav("New & Noteworthy", "doc/new.php", 		"_self", 1);
 ?>

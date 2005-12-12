@@ -13,7 +13,7 @@
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {
-        	$html .= fgets($dataFile, 4096);
+        	$contents .= fgets($dataFile, 4096);
     	}
     	fclose($dataFile);
     } else  {
@@ -24,16 +24,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	
-	include("_sideCommon.php");
-		
-	$html = <<<EOHTML
 
-<div id="maincontent">
-        $html
-</div>
-
-
-EOHTML;
 
 
 	# Generate the web page

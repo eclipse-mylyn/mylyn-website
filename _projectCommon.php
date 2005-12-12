@@ -10,6 +10,7 @@
 	$Nav->addNavSeparator("Mylar Technology Project", 	"index.php");
 	$Nav->addCustomNav("About", 		"about.php", 	"_self", 2);
 	$Nav->addCustomNav("Downloads", 	"dl.php",	"_self", 2);
-	$Nav->addCustomNav("Documentation", "doc.php", 	"_self", 2);
 	$Nav->addCustomNav("Developers", 	"dev.php", 	"_self", 2);
+	$Nav->addNavSeparator("Documentation", 	"doc.php");
+	$Nav->addCustomNav("Documentation", "doc.php", 	"_self", 2);
 ?>

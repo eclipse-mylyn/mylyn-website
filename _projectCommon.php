@@ -4,9 +4,11 @@
 	# https://dev.eclipse.org/committers/ 
 	$theme = "Phoenix";
 
+<!--
 	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
 	$projectInfo = new ProjectInfo("technology.mylar");
 	$projectInfo->generate_common_nav( $Nav );
+-->
 
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	$Nav->addNavSeparator("Mylar Technology Project", 	"/mylar/index.php");

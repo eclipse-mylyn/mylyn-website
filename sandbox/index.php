@@ -9,7 +9,6 @@
 	$pageTitle 		= "Mylar Technology Project";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
-	$App->setIncubation();
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -32,6 +31,9 @@
             <td valign="top">
 				<p>
 				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
+				</p>
+				<p>
+				This project is in the <a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>.
 				</p>
 		  	</td>
           </tr>
@@ -63,18 +65,12 @@
 		</div>
 
 		<div class="homeitem">
-			<h3>Events</h3>
+			<h3>Upcoming Events</h3>
 			<ul>
-				<!--
-				<li>
-                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=41">
-                    Mylar tutorial</a> proposed for EclipseCon 2006
-                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/votes.cgi?action=show_user&bug_id=41">(vote here)</a></li>
-				-->
 				<li>
                     <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">
-                    Mylar talk</a> proposed for EclipseCon 2006
-                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/votes.cgi?action=show_user&bug_id=164">(vote here)</a></li>
+                    Mylar Talk</a> at EclipseCon 2006<a href="http://www.eclipsecon.org/2006/Home.do"</a>, March 20-23, Santa Clara, USA
+                </li>
 			</ul>
 		</div> 
 	</div> 

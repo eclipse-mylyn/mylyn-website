@@ -32,9 +32,11 @@
 				<p>
 				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 				</p>
+				<!--
 				<p>
 				This project is in the <a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>.
 				</p>
+				-->
 		  	</td>
           </tr>
         </table>
@@ -91,8 +93,17 @@
 				<li>First public release<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
 				<br><span class="dates">(July 28, 2005)</span><br>&nbsp;</li>
+				<!--
 				<li>First user study preview release<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>
+				-->
 				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
+			</ul>
+		</div>
+		<div class="sideitem">
+			<h6>Project Status</h6>
+			<ul>
+				<li>a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>
+				</li>
 			</ul>
 		</div>
 	</div>

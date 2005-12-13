@@ -80,6 +80,13 @@
 	<div id="rightcolumn">
 		$commonside
 		<div class="sideitem">
+			<h6>Project Status</h6>
+			<ul>
+				<li><a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>
+				</li>
+			</ul>
+		</div>
+		<div class="sideitem">
 			<h6>News & Blogs</h6>
 			<ul>
 				<li> Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
@@ -97,13 +104,6 @@
 				<li>First user study preview release<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>
 				-->
 				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
-			</ul>
-		</div>
-		<div class="sideitem">
-			<h6>Project Status</h6>
-			<ul>
-				<li><a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>
-				</li>
 			</ul>
 		</div>
 	</div>

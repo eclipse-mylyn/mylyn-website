@@ -50,7 +50,7 @@
 			</ul>
 		</div>
 		
-		<h3>Supported Platforms</h3>
+		<h4>Supported Platforms</h>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
 		(<b>3.2M3 is no longer supported,
 		<a href="http://download.eclipse.org/eclipse/downloads/">
@@ -58,7 +58,7 @@
 		At this time Mylar <b>only runs in a Java 5 VM</b>.  See <a href="doc/faq.php#install-failure">FAQ</a> if you
 		have any trouble installing Mylar.</p>
 
-		<h3>Expectations</h3>
+		<h4>Expectations</h4>
 		
 		Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 
 		user interface are evolving 

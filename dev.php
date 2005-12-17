@@ -85,6 +85,7 @@
 		- Add CVS location as above, Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
 		mylar.tasklist, mylar.core
 		
+		<br>&nbsp;
 		<!--
 		<h4>Building AspectJ Support</h4>
 		AspectJ support requires the 
@@ -97,7 +98,6 @@
 		org.aspectj.ajde+runtime, 
 		org.eclipse.ajdt.core+ui, 
 		org.eclipse.contribution.visualiser+xref
-		<p>&nbsp;</p>
 		-->
 	</div>
 	

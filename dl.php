@@ -60,7 +60,7 @@
 
 		<h4>Expectations</h4>
 		
-		Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 
+		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving 
 		rapidly based on user community feedback.  New releases are 
 		made available weekly, and contain fixes for any major issues or suggested improvements

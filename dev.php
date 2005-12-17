@@ -122,8 +122,7 @@
 					<br>&nbsp;
 				</li>
 				<li><a href="http://www.eclipse.org/eclipse/development/main.html">Eclipse development page</a> documents
-					conventions and resources.
-					<br>&nbsp;
+					conventions and resources.<br>&nbsp;
 				</li>
 				<li><a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">CVS repository</a> web interface</li>
 			</ul>

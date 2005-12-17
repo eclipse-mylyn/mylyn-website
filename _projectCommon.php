@@ -5,7 +5,7 @@
 	$theme = "Phoenix";
 
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	$Nav->addNavSeparator("Mylar Technology Project", 	"/mylar/index.php");
+	$Nav->addNavSeparator("Mylar Project", 	"/mylar/index.php");
 	$Nav->addCustomNav("About", 			"/mylar/about.php", 	"_self", 1);
 	$Nav->addCustomNav("Downloads", 		"/mylar/dl.php",		"_self", 1);
 	$Nav->addCustomNav("Developers", 		"/mylar/dev.php", 		"_self", 1);

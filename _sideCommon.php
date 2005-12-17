@@ -5,8 +5,7 @@
 		<ul>
 			<li><a href="dl.php">Mylar 0.4.5</a><span class="dates"> 
 			<br>(Dec. 16, 2005)</span><br>&nbsp;</li>
-			<li>Mylar 0.4.7</a><span class="dates"> 
-			<br>(date tbd)</span><br>&nbsp;</li>
+			<li><i>Mylar 0.4.7 data tbd<i></a><span class="dates"> 
 		</ul> 
 	</div> 
 EOHTML

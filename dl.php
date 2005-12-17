@@ -50,7 +50,7 @@
 			</ul>
 		</div>
 		
-		<h4>Supported Platforms</h>
+		<h4>Supported Platforms</h4>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
 		(<b>3.2M3 is no longer supported,
 		<a href="http://download.eclipse.org/eclipse/downloads/">

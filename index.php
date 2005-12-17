@@ -70,7 +70,7 @@
 			<h3>Upcoming Events</h3>
 			<ul>
 				<li>
-                    <a href="http://canuck.gda.itesm.mx/eclipsezilla/show_bug.cgi?id=164">
+                    <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
                     Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
                 </li>
 			</ul>

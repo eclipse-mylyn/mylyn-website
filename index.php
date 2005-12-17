@@ -83,7 +83,7 @@
 			<h6>News & Blogs</h6>
 			<ul>
 				<li> Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
-				Killer Plugin Mylar</a>
+				Eclipse Killer Plugin Mylar</a>
 				<br><span class="dates">(Nov. 14, 2005)</span><br>&nbsp;</li>
 				<li>Kirill Grouchnikov: <a href="http://weblogs.java.net/blog/kirillcool/archive/2005/11/mylar_a_very_us.html">
 				A very useful Eclipse plugin</a>

@@ -75,6 +75,10 @@
 		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
 		dependencies)<br>
 		
+		<h4>Building from HEAD</h4>
+		- Associate the J2SE-1.5 with your installed JRE on the Execution Environments preference page.
+        <br>
+
 		<h4>Building the Eclipse 3.1 Branch</h4>
 		- Right-click the org.eclipse.mylar.java, mylar.ide, and mylar.xml
 		project, Team -&gt; Switch to Another Branch..., then 

@@ -34,8 +34,7 @@
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
-		        Mylar features can be downloaded using the following update sites. 
-		        Turning on automatic updates is recommended.  
+		        Mylar features can be downloaded using the following update sites.  
 		        Archive updates sites can be found by replacing "update-site" in the URL below
 		        with the archive version (e.g. .../update-site-archive/0.4.0/e3.2).</td>
 		    </tr>
@@ -44,8 +43,9 @@
         <div class="homeitem3col">
 			<h3>Mylar 0.4</h3>
 			<ul>
-	        	<li>Eclipse 3.2M4 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
+	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
+	        	<li>Eclipse 3.2M4 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
+	        	<li>Eclipse 3.2M4 Dev Build Site: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 	        	<li><a href="doc/new.php">New & Noteworthy</a></li>
 			</ul>
 		</div>
@@ -62,9 +62,8 @@
 		
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving 
-		rapidly based on user community feedback.  New releases are 
-		made available weekly, and contain fixes for any major issues or suggested improvements
-		reported the previous week.  
+		rapidly based on user community feedback.  New builds are 
+		made available weekly, and contain fixes for key issues reported the previous week.  
 		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 		submit bug reports</a> for any problems and enhancement requests, or check
 		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">

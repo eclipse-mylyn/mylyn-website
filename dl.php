@@ -51,9 +51,9 @@
         <div class="homeitem3col">
 			<h3>Archives and Dev Builds</h3>
 			<ul>
-				<li>Archives: replacing "update-site" in the URLs above
+				<li>Archives: replace "update-site" in the URLs above
 		        	with the archive version (e.g. .../update-site-archive/0.4.0/e3.2)</li>
-	        	<li>Latest Dev Build: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+	        	<li>Latest Build: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 			</ul>
 		</div>
 		

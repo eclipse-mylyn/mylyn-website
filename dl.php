@@ -35,8 +35,7 @@
         		<td>&nbsp;</td>
         		<td>	
 		        Mylar features can be downloaded using the following update sites.  
-		        Archive updates sites can be found by replacing "update-site" in the URL below
-		        with the archive version (e.g. .../update-site-archive/0.4.0/e3.2).</td>
+		        Archive updates sites can be found by .</td>
 		    </tr>
 		</table>
         
@@ -45,8 +44,16 @@
 			<ul>
 	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
 	        	<li>Eclipse 3.2M4 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-	        	<li>Eclipse 3.2M4 Dev Build Site: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 	        	<li><a href="doc/new.php">New & Noteworthy</a></li>
+			</ul>
+		</div>
+
+        <div class="homeitem3col">
+			<h3>Archives and Dev Builds</h3>
+			<ul>
+				<li>Archives: replacing "update-site" in the URLs above
+		        	with the archive version (e.g. .../update-site-archive/0.4.0/e3.2)</li>
+	        	<li>Latest Dev Build: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 			</ul>
 		</div>
 		

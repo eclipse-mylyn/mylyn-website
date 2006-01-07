@@ -34,8 +34,8 @@
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
-		        Mylar features can be downloaded using the following update sites.  
-		        Archive updates sites can be found by .</td>
+		        Mylar features can be downloaded using the following update sites.  See the
+		        <a href="doc/new.php">New & Noteworthy</a> for the latest changes.</td>
 		    </tr>
 		</table>
         
@@ -44,7 +44,6 @@
 			<ul>
 	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
 	        	<li>Eclipse 3.2M4 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-	        	<li><a href="doc/new.php">New & Noteworthy</a></li>
 			</ul>
 		</div>
 

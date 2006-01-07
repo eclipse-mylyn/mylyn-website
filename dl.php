@@ -53,7 +53,7 @@
 			<ul>
 				<li>Archives: replace "update-site" in the URLs above
 		        	with the archive version (e.g. .../update-site-archive/0.4.0/e3.2)</li>
-	        	<li>Latest Dev Build: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+	        	<li>Latest Dev Build (3.2 only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 			</ul>
 		</div>
 		

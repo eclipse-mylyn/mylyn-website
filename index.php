@@ -72,6 +72,9 @@
 				<li>
                     <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
                     Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
+                	<br>
+                	<a href="http://www.eclipsecon.org/"><img border=0 
+					 src="http://www.eclipsecon.org/2006/images/banner132x38.gif"/>
                 </li>
 			</ul>
 		</div> 

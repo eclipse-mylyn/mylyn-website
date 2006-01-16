@@ -90,9 +90,6 @@
 		102663</a>&nbsp; Multiple workbench windows are not supported and Mylar may 
 		not capture context correctly if you have more than one window open.</p>
 		
-		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102848">Bug 
-		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
-		
 		<p>&nbsp;</p>
 	</div>
 

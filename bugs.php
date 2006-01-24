@@ -25,7 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<p>Partly thanks to the Bugzilla integration that it provides, the
+		<p>In part thanks to the Bugzilla integration that it provides, the
 		Mylar project makes heavy use of Bugzilla for tracking bugs, planning,
 		and discussing design issues.</p> 
 		<p>Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">

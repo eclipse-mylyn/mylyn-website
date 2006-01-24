@@ -1,0 +1,93 @@
+<html>
+  <head>
+    <title>
+      Mylar FAQ
+    </title>
+  </head>
+  <body>
+    <h1>
+      Mylar Developer FAQ</h1>
+<p>For questions or clarifications please email
+<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a> </p>
+<p><b>Contents</b></p>
+<ul>
+	<li><a href="#setup">Workspace setup</a></li>
+	<li>Using Bugzilla</li>
+	<li><a href="#writingPatches">Writing and submitting patches</a></li>
+<!--	<li>Building</li>-->
+	<li>Building the 3.1 Branch</li>
+</ul>
+	<h3><a name="setup">Workspace setup</a></h3>
+	<ul>
+		<li>Building Mylar feature from HEAD requires
+		the latest Eclipse milestone release and
+		<a href="http://java.sun.com/j2se/1.5.0/download.jsp">JDK 1.5</a>.&nbsp; 
+		Associate the J2SE-1.5 with your installed JRE on the Execution Environments preference page. </li>
+		<li>In the CVS Repositories view, add the following CVS location:
+		<b>HOST =</b> dev.eclipse.org&nbsp; <b>Repository Path</b>: 
+		/home/technology.<br>If you do not have an account you may enter <b>anonymous</b> for the user name 
+and leave the password blank.</li>
+		<li>Check out all of the projects under org.eclipse.mylar (except myar.aspectj, 
+		mylar.sandbox, mylar.viz, and mylar.zest.* which have additional 
+		dependencies).&nbsp; There should be no errors or warnings.</li>
+		<li>Run org.eclipse.mylar.tests.AllTests as a JUnit Plug-in Test, all 
+		tests should pass and there should be no console output.&nbsp; The tests 
+		workbench window can be in the foreground or background, but should not 
+		be interacted with during the test execution.</li>
+	</ul>
+<h3>Using bugzilla</h3>
+	<ul>
+		<li>...</li>
+	</ul>
+	<p><b><i>Tip</i></b><i>: When writing comments, Bugzilla will 
+		automatically convert the text &quot;bug 1234&quot; to a hyperlink which will 
+		direct the reader to bug 1234.</i></p>
+	<h3><a name="writingPatches">Writing patches</a> </h3>
+	<ul>
+		<li>All changes to Mylar should be made using the latest development 
+		release of Mylar, and need to have a corresponding bug report activated.&nbsp; 
+		</li>
+		<li>Synchronzie often to ensure you have the latest code.&nbsp; Once you 
+		start modifying resources, put the Synchronize view in Outgoing mode and press 
+		the Change Set button so that Mylar tracks the context for the patch.</li>
+		<li>For most patches, a failing unit test should be written first.&nbsp; 
+		Before creating a new JUnit test class class check the components test 
+		suite (e.g. <tt>AllTasklistTests</tt>) for similar test cases (e.g. 
+		<tt>AllTasklistTests.suite()</tt>).</li>
+		<li>Set the formatter by importing org.eclipse.mylar/developer/javaFormatterSettings.xml 
+		into Window -&gt; Preferences -&gt; Java -&gt; Code Style -&gt; Formatter.&nbsp; 
+		Format code using Eclipse's formatter (Ctrl+Shift+F) 
+		and ensure that no&nbsp; have been added.</li>
+		<li>Minimize the amount of changes to existing code to make review 
+		easier.&nbsp; </li>
+		<li>To submit a patch<ul>
+		<li>Ensure there are no build errors, warnings, or <tt>println(..)</tt> 
+		calls, and that <tt>org.eclipse.mylar.tests.AllTests</tt> passes.</li>
+		<li>Synchronize using Incoming mode and ensure that there are no 
+		conflicts, and merge them locally if there are.</li>
+		<li>Right click the task context change set, create the patch, and 
+		attach it to the bug report</li>
+	</ul>
+		</li>
+	</ul>
+	<p><i><b>Tip</b>: Looking for a good place in the code to start? Browse the
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=helpwanted&bug_">Help Wanted</a> list 
+	of Bugzilla reports.</i></p>
+	<h3>Building the Eclipse 3.1 branch</h3>
+	<ul>
+		<li>Right-click the org.eclipse.mylar.java, mylar.ide, and mylar.xml
+		project, Team -&gt; Switch to Another Branch..., then 
+		Refresh the Branches and select e_3_1 </li>
+		<li>Merge...</li>
+	</ul>
+<h3>Extending the Task List to other providers</h3>
+	<p>Mylar 0.4.7has preliminary support for multiple repositories, and the 
+	Bugzilla plug-in extends this via some very preliminary APIs and extension 
+	points. However, there is considerably more work that needs to go into 
+	improving and eventually stabilizing those APIs and extension points. 
+	Currently the only guarantee is that they need to change over the next few 
+	weeks, with JIRA support as the current driver. We're using the following 
+	report to track progress on this, so add yourself to the CC list (it's a bit 
+	of a monster with 35 comments, but summarizes the current thinking): <br>
+	https://bugs.eclipse.org/bugs/show_bug.cgi?id=120952</p>
+</body></html>

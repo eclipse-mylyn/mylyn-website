@@ -75,12 +75,7 @@
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving 
 		rapidly based on user community feedback.  New builds are 
-		made available weekly, and contain fixes for key issues reported the previous week.  
-		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		submit bug reports</a> for any problems and enhancement requests, or check
-		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">
-		open reports</a> to add your comments.  
-		Bugzilla priorities of P1 and P2 indicate items scheduled for the next release.
+		made available weekly, and contain fixes for key issues reported the previous week.
 		
 		<h4>Key Limitations</h4>
 				

@@ -76,7 +76,9 @@
 				passes with no console output.</li> 
 			</ul>
 		</div>  
-     
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		     
 	<!--          
 		<h4>Workspace Setup</h4>
         - Building Mylar feature from HEAD requires Eclipse 

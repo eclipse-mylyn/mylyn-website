@@ -31,7 +31,7 @@
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ", "/mylar/doc/faq.php", "_self", 1);
 
 	$Nav->addNavSeparator("Developers", "/mylar/dev.php", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "/mylar/contributing.php", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "/mylar/doc/contributing.php", 	"_self", 1);
 #	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Dev FAQ", "/mylar/doc/devfaq.php", 	"_self", 1);
 ?>
 

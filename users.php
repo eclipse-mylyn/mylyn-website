@@ -35,6 +35,26 @@
         <a href="/mylar/doc/new.php">New & Noteworthy</a>.  There is also a preliminary <a href="/mylar/doc/faq.php">FAQ</a>.<p>
 
         <div class="homeitem">
+			<h3>Newsgroups and Mailing Lists</h3>
+			<ul>
+				<li>
+                    <a href="news://news.eclipse.org/eclipse.technology.mylar">
+					mylar newsgroup:</a> user discussions and minor release announcements
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
+				<li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
+					mylar-announce@eclipse.org:</a> major release and event announcements
+					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>]</li>
+				<li>
+                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+					mylar-dev@eclipse.org:</a> developer discussions and planning
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
+			</ul>
+		</div>
+        
+        <div class="homeitem">
 			<h3>Flash Demos</h3>
 			<ul>
 				<li>

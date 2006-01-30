@@ -21,7 +21,7 @@
 	$Nav->addNavSeparator("Mylar", 	"/mylar/index.php");
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;About", "/mylar/about.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Team", "/mylar/team.php", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Plan", "/mylar/plans.php", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Plan", "/mylar/plan.php", 	"_self", 1);
 
 	$Nav->addNavSeparator("Users", "/mylar/users.php", "_self", 1);
 #	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Getting Started", 	"/mylar/doc.php", 	"_self", 1);

@@ -48,6 +48,14 @@
 		supporting contributions in the form of code,
 		ideas, and documentation.</p>
 		
+		
+		<div class="homeitem3col">
+			<h3>Legal</h3>
+			<ul>
+				<li>IP Log (to come)</li>
+			</ul>
+		</div>
+	<!--
 		<div class="homeitem3col">
 			<h3>Getting Involved</h3>
 			<ul>
@@ -63,6 +71,7 @@
 		</div>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
+	-->
 	</div> 
 	
 	<div id="rightcolumn">

@@ -5,37 +5,38 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylar Developer FAQ";
+	# Begin: page-specific settings.  Change these. 
+	$pageTitle 		= "Mylar Plan";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = "http://www.eclipse.org/mylar/doc/devfaq.html";
-    $dataFile = fopen( $filename, "r" ) ;
-    if ( $dataFile )  {
-    	while (!feof($dataFile))   {
-        	$contents .= fgets($dataFile, 4096);
-    	}
-    	fclose($dataFile);
-    } else  {
-    	die( "fopen failed for $filename" ) ;
-    }
+	# Add page-specific Nav bars here
+	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
+	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
+	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
+	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 
-	# Paste your HTML content between the EOHTML markers!	
-	
-	include("_sideCommon.php");
+	# End: page-specific settings
+	#
 		
+	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 
 <div id="maincontent">
 	<div id="midcolumn">
-        $contents
-	</div>
+		<div align="center"><h1>$pageTitle</h1></div>
+		<p>To come...</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+	</div> 
 	
 	<div id="rightcolumn">
 		$commonside
 	</div>
+	
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
 </div>
-
 
 EOHTML;
 

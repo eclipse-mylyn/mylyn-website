@@ -49,12 +49,12 @@
 			<h3>Resources</h3>
 			<ul>
 				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+                    Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> developer discussions 
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a>
 					<br>&nbsp;
 				</li>
-				<li><a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">CVS repository</a> web interface</li>
+				<li>CVS repository: <a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">web interface</a></li>
 				
 			</ul>
 		</div>  

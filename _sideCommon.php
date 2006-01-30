@@ -3,7 +3,7 @@
 	<div class="sideitem">
 		<h6>Latest Release</h6>
 		<ul>
-			<li><a href="dl.php">Mylar 0.4.7</a><span class="dates"> 
+			<li><a href="dl.php">Mylar 0.4.7</a><br><span class="dates"> 
 			(Jan. 13, 2005)</span><br>&nbsp;</li>
 			<li><i>Mylar 0.4.8</a><span class="dates"> 
 			<br>(planned for:<br> Jan. 30, 2006)</span></i></li>

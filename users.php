@@ -32,7 +32,7 @@
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
         videos provide an introduction to the basic features.  Currently the best 
         way to learn about Mylar is by reading the 
-        <a href="/mylar/doc/new.php">New & Noteworthy</a>.  There is also a preliminary <a href="/mylar/doc/faq.php">FAQ</a>.<p>
+        <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
 
         <div class="homeitem">
 			<h3>Newsgroups and Mailing Lists</h3>

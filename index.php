@@ -62,7 +62,7 @@
 		</div>
 
 		<div class="homeitem">
-			<h3>Upcoming Events</h3>
+			<h3>Events</h3>
 			<ul>
 				<li>
                     <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">

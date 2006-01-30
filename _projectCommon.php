@@ -26,9 +26,9 @@
 	$Nav->addNavSeparator("Users", "/mylar/users.php", "_self", 1);
 #	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Getting Started", 	"/mylar/doc.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Downloads", 	"/mylar/dl.php", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Bugs", "/mylar/bugs.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ", "/mylar/doc/faq.php", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
 
 	$Nav->addNavSeparator("Developers", "/mylar/dev.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "/mylar/doc/contributing.php", 	"_self", 1);

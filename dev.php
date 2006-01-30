@@ -46,10 +46,9 @@
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
 
 		<div class="homeitem3col">
-			<h3>Resources</h3>
+			<h3>Developer Resources</h3>
 			<ul>
-				<li>
-                    Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
+				<li>Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> developer discussions 
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a>
 					<br>&nbsp;

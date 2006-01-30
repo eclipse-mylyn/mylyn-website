@@ -51,7 +51,6 @@
 				<li>Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> developer discussions 
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a>
-					<br>&nbsp;
 				</li>
 				<li>CVS repository: <a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">web interface</a></li>
 				

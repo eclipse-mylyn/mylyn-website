@@ -98,7 +98,7 @@ $html = <<<EOHTML
 </div>
 EOHTML;
 
-    $html = ob_get_contents();
-    ob_end_clean();
+    #$html = ob_get_contents();
+    #ob_end_clean();
     $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

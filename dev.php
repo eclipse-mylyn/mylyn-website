@@ -12,7 +12,6 @@
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
-
   
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -110,7 +109,6 @@
 	</div>
 	
 	<div id="rightcolumn">
-		$commonside
 		
 		<div class="sideitem">
 			<h6>Developer Links</h6>
@@ -132,7 +130,7 @@
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           <?= $projectInfo->dashboard_liveness() ?><br/>
+          
            <?= $projectInfo->dashboard_bugs_lights() ?><br/>
            <?= $projectInfo->dashboard_news_lights() ?>
           </div>

@@ -5,10 +5,12 @@
 	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/bug.class.php");
 	require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");	
 
-	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		
-	include($App->getProjectCommon());     
+	$App 	= new App();	
+	$Nav	= new Nav();	
+	$Menu 	= new Menu();		
 	
-	$projectInfo = new ProjectInfo("mylar");
+    include($App->getProjectCommon());   
+	$projectInfo = new ProjectInfo("eclipse");;     
 	
 	# All on the same line to unclutter the user's desktop'
 

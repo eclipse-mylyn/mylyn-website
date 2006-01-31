@@ -14,8 +14,7 @@
         ob_start();
 
         include($App->getProjectCommon());   
-
-                $projectInfo = new ProjectInfo("technology.mylar");
+		$projectInfo = new ProjectInfo("technology.mylar");
 
 ?>
 <div id="maincontent">
@@ -32,13 +31,7 @@
 </div>
 
 <?php
-        // Generating the eclipse look-n-feel
-
-        $html = ob_get_contents();
-        ob_end_clean();
-
-        # Generate the web page
-        $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords,
-$pageTitle, $html);
-
+    $html = ob_get_contents();
+    ob_end_clean();
+    $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

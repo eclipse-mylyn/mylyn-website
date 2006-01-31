@@ -30,9 +30,10 @@ users should refer to the last
 <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=116347#c4">bug 1163477</a> 
 for instructions on how to change the 1.4 default.</p>
 <p>
-<pre>   Root exception:
+<tt>   Root exception:
    java.lang.UnsupportedClassVersionError: org/eclipse/mylar/tasklist/MylarTasklistPlugin 
-   (Unsupported major.minor version 49.0)</pre>
+   (Unsupported major.minor version 49.0)
+</tt>
 </p>
 <p>
 This can also be the result of using an <b>incompatible version of Eclipse</b>.&nbsp; 
@@ -41,11 +42,11 @@ Separate versions and update sites exist
 milestone</a>), in which case you'll see errors like the following in your 
 &lt;workspace&gt;/.metadata/.log file or in a Mylar view:</p>
 <p>
-<pre>   java.lang.NoSuchMethodError:
+<tt>java.lang.NoSuchMethodError:
    org.eclipse.ui.internal.dialogs.FilteredTree.getFilterControl()Lorg/eclipse/swt/widgets/Text;
 
    org.osgi.framework.BundleException: The activator org.eclipse.mylar.java.MylarJavaPlugin for bundle org.eclipse.mylar.java is invalid
-</pre>
+</tt>
 </p>
 <p>In this case the easiest thing to do is reinstall Mylar.&nbsp; <b>Your tasks won't be 
 lost</b>, by default they are stored in the &lt;workspace&gt;/.mylar/tasklist.xml file 

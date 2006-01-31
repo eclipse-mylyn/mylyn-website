@@ -8,6 +8,8 @@
 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		
 	include($App->getProjectCommon());     
 	
+	$projectInfo = new ProjectInfo("mylar");
+	
 	# All on the same line to unclutter the user's desktop'
 
 	#*****************************************************************************

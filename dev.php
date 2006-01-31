@@ -17,8 +17,7 @@
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 		
-?>   
-
+$html = <<<EOHTML
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
@@ -67,45 +66,6 @@
 		</div>  
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
-		     
-	<!--          
-		<h4>Workspace Setup</h4>
-        - Building Mylar feature from HEAD requires Eclipse 
-		SDK 3.2M3 and JDK 1.5.&nbsp; <br>
-		- Add CVS location: dev.eclipse.org 
-		/home/technology<br>
-		- Check out all of the projects under 
-		org.eclipse.mylar (except mylar.aspectj, 
-		mylar.sandbox, mylar.viz, and mylar.zest which have additional 
-		dependencies)<br>
-		
-		<h4>Building from HEAD</h4>
-		- Associate the J2SE-1.5 with your installed JRE on the Execution Environments preference page.
-        <br>
-
-		<h4>Building the Eclipse 3.1 Branch</h4>
-		- Right-click the org.eclipse.mylar.java, mylar.ide, and mylar.xml
-		project, Team -&gt; Switch to Another Branch..., then 
-		Refresh the Branches and select e_3_1
-        
-        <h4>Building the Bugzilla Client</h4>
-        - Bugzilla support can be built independently of the Mylar UI:<br>
-		- Add CVS location as above, Check out org.eclipse.mylar: bugzilla.core, bugzilla.ui, bugzilla.test, 
-		mylar.tasklist, mylar.core
-		
-		<br>&nbsp;
-		<h4>Building AspectJ Support</h4>
-		AspectJ support requires the 
-		AJDT plug-ins to be installed:<br>
-		- Create a fresh Eclipse (e.g. eclipse-3.1-ajdt) and install the AJDT plug-in from 
-		download.eclipse.org/technology/ajdt/31/dev/update<br>
-		- In your original Eclipse: File -&gt; Import -&gt; Existing Plug-ins, then specify the Plug-in 
-		location and hit Next<br>
-		- Select the following 7 plug-ins: 
-		org.aspectj.ajde+runtime, 
-		org.eclipse.ajdt.core+ui, 
-		org.eclipse.contribution.visualiser+xref
-	-->
 	</div>
 	
 	<div id="rightcolumn">
@@ -136,8 +96,8 @@
         </div>
 	</div>
 </div>
+EOHTML;
 
-<?php
     $html = ob_get_contents();
     ob_end_clean();
     $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

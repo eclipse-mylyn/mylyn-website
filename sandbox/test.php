@@ -15,7 +15,7 @@
 
         include($App->getProjectCommon());   
 
-                $projectInfo = new ProjectInfo("eclipse");
+                $projectInfo = new ProjectInfo("mylar");
 
 ?>
 <div id="maincontent">

@@ -70,7 +70,7 @@ $html = <<<EOHTML
 	
 	<div id="rightcolumn">
 		
-		$sidecommon
+		$commonside
 		
 		<div class="sideitem">
 			<h6>Developer Links</h6>

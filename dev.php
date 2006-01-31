@@ -70,6 +70,8 @@ $html = <<<EOHTML
 	
 	<div id="rightcolumn">
 		
+		$sidecommon
+		
 		<div class="sideitem">
 			<h6>Developer Links</h6>
 			<ul>
@@ -87,6 +89,7 @@ $html = <<<EOHTML
 			</ul>
 		</div>
 		
+		<!--
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
@@ -94,6 +97,7 @@ $html = <<<EOHTML
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
+        -->
 	</div>
 </div>
 EOHTML;

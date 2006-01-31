@@ -8,13 +8,13 @@
 	include("_sideCommon.php");
 
     $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
-    ob_start();
+    #ob_start();
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
-  
-	$dashboardBugs = projectInfo->dashboard_bugs_lights();
-  	$dashboardNewsgroup = projectInfo->dashboard_news_lights();
+    
+    #$dashboardBugs = projectInfo->dashboard_bugs_lights();
+  	#$dashboardNewsgroup = projectInfo->dashboard_news_lights();
   
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -95,8 +95,8 @@ $html = <<<EOHTML
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           bugs: dashboardBugs<br/>
-           newsgroup: dashboardNewsgroup<br/>&nbsp;
+           bugs: $dashboardBugs<br/>
+           newsgroup: $dashboardNewsgroup<br/>&nbsp;
           </div>
         </div>
 	</div>

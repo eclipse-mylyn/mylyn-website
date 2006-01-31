@@ -132,7 +132,7 @@
 					Bugzilla reports marked helpwanted</a> are a starting point for those interested in contributing
 					<br>&nbsp;
 				</li>
-				<li><a href="http://www.eclipse.org/eclipse/development/main.html">Eclipse development page</a> documents
+				<li><a href="http://www.eclipse.org/eclipse/development/index.php">Eclipse development page</a> documents
 					conventions and resources.<br>&nbsp;
 				</li>
 			</ul>

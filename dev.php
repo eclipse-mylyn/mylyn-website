@@ -10,6 +10,7 @@
 	$Menu 	= new Menu();		
 	
     include($App->getProjectCommon());   
+     
 	$projectInfo = new ProjectInfo("technology.mylar");     
 	
 	# All on the same line to unclutter the user's desktop'
@@ -132,7 +133,6 @@
          <div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-          Liveness:
            <?= $projectInfo->dashboard_liveness() ?><br/>
            <?= $projectInfo->dashboard_bugs_lights() ?><br/>
            <?= $projectInfo->dashboard_news_lights() ?>

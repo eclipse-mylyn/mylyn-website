@@ -31,9 +31,9 @@
      - these important people.
      -
     -->
-  <committers url="/webtools/commit.html"/>
-  <contributors url="/webtools/people/contributors.html"/>
-  <leaders url="/eclipse/team-leaders.html"/>
+  <committers url="/mylar/dev.php"/>
+  <contributors url="/mylar/dev.php"/>
+  <leaders url="/mylar/team.php"/>
   
   <!--
      - The source code of each Eclipse project is stored in CVS. Eclipse maintains
@@ -86,7 +86,7 @@
      - get started using and extending the project's tools and frameworks.
     -->
   <!--
-  <getting-started url="/webtools/community/communityresources.html#tutorials"/>
+  <getting-started url="/mylar/users.php"/>
   -->
   
   <!--
@@ -108,14 +108,6 @@
      - <mailing-lists url="..."> <list name="..."/> ... </mailing-lists>
      - The url is optional; if absent, the url will default to the Eclipse
      - mailing lists page. Multiple <lists>s are allowed.
-  <mailing-lists url="/birt/index.php?page=community.html">
-    <list name="birt-news"/>
-    <list name="birt-pmc"/>
-    <list name="birt-dev"/>
-    <list name="birt-charting-dev"/>
-    <list name="birt-report-engine-dev"/>
-    <list name="birt-report-designer-dev"/>
-  </mailing-lists>
   -->
   <mailing-lists>
     <list name="mylar-announce"/>
@@ -127,7 +119,7 @@
      - (to guide development and resource allocation) and for the larger Eclipse
      - community and ecosystem to understand what will be delivered and when
      - it will be delivered.
-  <project-plan url="/birt/index.php?page=project/project_plan_R2_0_0_Draft.html"/>
+  <project-plan url="/about/plan.php"/>
     -->
 
   <!--

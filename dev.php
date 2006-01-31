@@ -1,27 +1,23 @@
 <?php
-        require_once($_SERVER['DOCUMENT_ROOT'] .
-"/eclipse.org-common/system/app.class.php");   
-        require_once($_SERVER['DOCUMENT_ROOT']
-."/eclipse.org-common/system/nav.class.php");   
-        require_once($_SERVER['DOCUMENT_ROOT']
-."/eclipse.org-common/system/menu.class.php");  
-        require_once($_SERVER['DOCUMENT_ROOT']
-."/projects/common/bug.class.php");
-        require_once($_SERVER['DOCUMENT_ROOT']
-."/projects/common/project-info.class.php");    
+        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
+        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
+        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
+        require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
+        require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
 
-        $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
-        ob_start();
+	include("_sideCommon.php");
 
-        include($App->getProjectCommon());   
-		$projectInfo = new ProjectInfo("technology.mylar");
+    $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
+    ob_start();
+
+    include($App->getProjectCommon());   
+	$projectInfo = new ProjectInfo("technology.mylar");
 
   
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 		
-	include("_sideCommon.php");
 ?>   
 
 <div id="maincontent">

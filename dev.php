@@ -131,7 +131,7 @@
           <h6>Dashboard</h6>
           <div align="center">
            bugs: <?= $projectInfo->dashboard_bugs_lights() ?><br/>
-           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>
+           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
 	</div>

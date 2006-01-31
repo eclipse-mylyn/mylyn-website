@@ -130,7 +130,8 @@
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           <?= $projectInfo->dashboard_bugs_lights() ?>
+           <?= $projectInfo->dashboard_bugs_lights() ?><br/>
+           <?= $projectInfo->dashboard_news_lights() ?><br/>
           </div>
         </div>
 	</div>

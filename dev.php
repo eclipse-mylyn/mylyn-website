@@ -125,7 +125,7 @@
 		 
 		  <h6>Dashboard</h6>
 		  <div align="center">
-		   <font size="+1"><?= $projectInfo->dashboard_liveness() ?></font><br/>
+		   <?= $projectInfo->dashboard_liveness() ?><br/>
 		   <?= $projectInfo->dashboard_bugs_lights() ?><br/>
 		   <?= $projectInfo->dashboard_news_lights() ?>
 		  </div>

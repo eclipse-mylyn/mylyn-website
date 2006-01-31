@@ -15,13 +15,13 @@
 
         include($App->getProjectCommon());   
 
-                $projectInfo = new ProjectInfo("mylar");
+                $projectInfo = new ProjectInfo("technology.mylar");
 
 ?>
 <div id="maincontent">
 	<div id="midcolumn">
                <div class="sideitem"> 
-                  <h6>Dashboard</h6>
+                  <h6>Dashboard 2</h6>
                   <div align="center">
                    <?= $projectInfo->dashboard_liveness() ?><br/>
                    <?= $projectInfo->dashboard_bugs_lights() ?><br/>

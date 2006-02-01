@@ -15,8 +15,8 @@
     #$dashboard2 = $projectInfo->dashboard_bugs_lights();
     
 	$pageTitle 		= "Test Page";
-
 ?>
+
 <div id="maincontent">
 	<div id="midcolumn">
 		<?= $pageTitle ?> 

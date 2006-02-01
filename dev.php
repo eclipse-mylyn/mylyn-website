@@ -100,8 +100,8 @@ $html = <<<EOHTML
 </div>
 EOHTML;
 
-    $dashboardBugs = $projectInfo->dashboard_bugs_lights();
-  	$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
+#    $dashboardBugs = $projectInfo->dashboard_bugs_lights();
+#  	$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
 
     #$html = ob_get_contents();
     #ob_end_clean();

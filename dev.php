@@ -73,9 +73,14 @@
 	<?= $projectBugs->getAsSideHTML("Our Top Voted Bugs") ?>
 			
 	<div id="rightcolumn">
-
 		
-		<?= $commonside ?>
+		<div class="sideitem"> 
+          <h6>Dashboard</h6>
+          <div align="center">
+           bugs: <?= $projectInfo->dashboard_bugs_lights() ?><br/>
+           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
+          </div>
+        </div>
 		
 		<div class="sideitem">
 			<h6>Developer Links</h6>
@@ -93,14 +98,6 @@
 				</li>
 			</ul>
 		</div>
-		
-		<div class="sideitem"> 
-          <h6>Dashboard</h6>
-          <div align="center">
-           bugs: <?= $projectInfo->dashboard_bugs_lights() ?><br/>
-           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
-          </div>
-        </div>
         
 	</div>
 </div>

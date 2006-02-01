@@ -11,12 +11,8 @@
 	$projectInfo = new ProjectInfo("technology.mylar");
     
     $dashboard1 = $projectInfo->dashboard_bugs_lights();
-    #$dashboardBugs = $projectInfo->dashboard_bugs_lights();
-  	#$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
     
 	$pageTitle 		= "Test Page";
-	$pageKeywords	= "Mylar, Eclipse";
-	$pageAuthor		= "Mik Kersten";
 		
 $html = <<<EOHTML
 <div id="maincontent">

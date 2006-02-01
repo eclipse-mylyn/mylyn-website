@@ -12,11 +12,7 @@
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
-    
-    $dashboard1 = $projectInfo->dashboard_bugs_lights();
-    #$dashboardBugs = $projectInfo->dashboard_bugs_lights();
-  	#$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
-    
+	
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
@@ -102,7 +98,6 @@
         </div>
 	</div>
 </div>
-EOHTML;
 
 <?php
     $html = ob_get_contents();

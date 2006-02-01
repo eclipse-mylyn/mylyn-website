@@ -13,9 +13,6 @@
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
     
-    $dashboardBugs = $projectInfo->dashboard_bugs_lights();
-  	$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
-  
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
@@ -102,6 +99,9 @@ $html = <<<EOHTML
 	</div>
 </div>
 EOHTML;
+
+    $dashboardBugs = $projectInfo->dashboard_bugs_lights();
+  	$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
 
     #$html = ob_get_contents();
     #ob_end_clean();

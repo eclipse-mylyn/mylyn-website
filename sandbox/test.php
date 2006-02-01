@@ -10,7 +10,8 @@
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
     
-    $dashboard1 = $projectInfo->dashboard_bugs_lights();
+    $dashboard1 = $projectInfo->dashboard_liveness();
+    $dashboard2 = $projectInfo->dashboard_bugs_lights();
     
 	$pageTitle 		= "Test Page";
 		
@@ -24,7 +25,8 @@ $html = <<<EOHTML
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           bugs: $dashboard1<br/>
+		   liveness: $dashboard1<br/>
+           bugs: $dashboard2<br/>
           </div>
         </div>
 	</div>

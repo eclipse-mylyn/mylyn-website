@@ -13,6 +13,11 @@
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
     
+    $dashboard1 = $projectInfo->dashboard_liveness();
+    
+    #$dashboardBugs = $projectInfo->dashboard_bugs_lights();
+  	#$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
+    
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
@@ -92,16 +97,13 @@ $html = <<<EOHTML
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           bugs: $dashboardBugs<br/>
-           newsgroup: $dashboardNewsgroup<br/>&nbsp;
+           bugs: $dashboard1<br/>
+<!--           newsgroup: $dashboardNewsgroup<br/>&nbsp;  -->
           </div>
         </div>
 	</div>
 </div>
 EOHTML;
-
-#    $dashboardBugs = $projectInfo->dashboard_bugs_lights();
-#  	$dashboardNewsgroup = $projectInfo->dashboard_news_lights();
 
     #$html = ob_get_contents();
     #ob_end_clean();

@@ -1,10 +1,10 @@
 <?php
-        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
-        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
-        require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
-        require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
-        require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
-
+    require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
+    require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
+	require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project_bugs.class.php");
 	include("_sideCommon.php");
 
     $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
@@ -12,6 +12,7 @@
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
+	$project_bugs = new ProjectBugs("mylar");
 	
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -96,6 +97,8 @@
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
+        
+        <?= $project_bugs->getAsSideHTML("Top Voted Bugs"); ?>
 	</div>
 </div>
 

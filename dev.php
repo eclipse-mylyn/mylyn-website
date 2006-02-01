@@ -8,7 +8,7 @@
 	include("_sideCommon.php");
 
     $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
-    #ob_start();
+    ob_start();
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
@@ -19,12 +19,12 @@
     
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
-	$pageAuthor		= "Mik Kersten";
-		
-$html = <<<EOHTML
+	$pageAuthor		= "Mik Kersten";	
+?>
+
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h1>$pageTitle</h1></div>
+		<div align="center"><h1><?= $pageTitle ?></h1></div>
 
         <p>A key goal of the Mylar project is to make Mylar easy for the eclipse.org 
         community to build on and extend.
@@ -74,7 +74,7 @@ $html = <<<EOHTML
 	
 	<div id="rightcolumn">
 		
-		$commonside
+		<?= $commonside ?>
 		
 		<div class="sideitem">
 			<h6>Developer Links</h6>
@@ -96,15 +96,16 @@ $html = <<<EOHTML
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           bugs: $dashboard1<br/>
-<!--           newsgroup: $dashboardNewsgroup<br/>&nbsp;  -->
+           bugs: <?= $projectInfo->dashboard_bugs_lights() ?><br/>
+           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
 	</div>
 </div>
 EOHTML;
 
-    #$html = ob_get_contents();
-    #ob_end_clean();
+<?php
+    $html = ob_get_contents();
+    ob_end_clean();
     $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

@@ -12,7 +12,7 @@
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
-	$project_bugs = new ProjectBugs("mylar");
+	$projectBugs = new ProjectBugs("mylar");
 	
 	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -65,13 +65,15 @@
 				passes with no console output.</li> 
 			</ul>
 		</div>  
+		
+				<?= $projectBugs->getAsSideHTML("Top Voted Bugs"); ?>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 	</div>
 	
 	<div id="rightcolumn">
 		
-		<?= $commonside ?>
+		<!-- <?= $commonside ?> -->
 		
 		<div class="sideitem">
 			<h6>Developer Links</h6>
@@ -93,12 +95,11 @@
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
-           bugs: <?= $projectInfo->dashboard_bugs_lights() ?><br/>
-           newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
+           bugs: <?= $projectInfo->dashboard_bugs_lights(); ?><br/>
+           newsgroup: <?= $projectInfo->dashboard_news_lights(); ?><br/>&nbsp;
           </div>
         </div>
         
-        <?= $project_bugs->getAsSideHTML("Top Voted Bugs"); ?>
 	</div>
 </div>
 

@@ -70,7 +70,10 @@
 		<p>&nbsp;</p>
 	</div>
 	
+	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
+			
 	<div id="rightcolumn">
+
 		
 		<?= $commonside ?>
 		
@@ -90,8 +93,6 @@
 				</li>
 			</ul>
 		</div>
-		
-		<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
 		
 		<div class="sideitem"> 
           <h6>Dashboard</h6>

@@ -13,7 +13,7 @@
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
     
-    $dashboard1 = $projectInfo->dashboard_bugs_lights();
+    $dashboard1 = $projectInfo->dashboard_liveness();
     
     #$dashboardBugs = $projectInfo->dashboard_bugs_lights();
   	#$dashboardNewsgroup = $projectInfo->dashboard_news_lights();

@@ -1,16 +1,20 @@
 <?xml version="1.0" ?>
 <!-- writen for Ant 1.5.1 -->
-<project name="mylar" default="copy-docs">
+<project name="mylar" default="copy-web">
 
-<target name="copy-docs" description="Copy Documentation">
- 
- <copy todir="doc">
-   <fileset file="../org.eclipse.mylar.doc/doc/faq.html"/>
-   <fileset file="../org.eclipse.mylar.doc/doc/new.html"/>
-   <fileset file="../org.eclipse.mylar.doc/doc/new-0.3.html"/>
-   <fileset file="../org.eclipse.mylar.doc/doc/contributing.html"/>
-   <!--<fileset dir="../org.eclipse.mylar.doc/doc/images"/>-->
- </copy>
-</target>
+	<target name="copy-web" description="Doc Web Update">
+		<copy todir="doc">
+			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/new-0.3.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
+			<!--<fileset dir="../org.eclipse.mylar.doc/doc/images"/>-->
+		</copy>
+	</target>
 
+	<target name="copy-release" description="Doc Release Update">
+		<copy todir="doc">
+			<fileset file="../org.eclipse.mylar.doc/doc/new.html" />
+		</copy>
+	</target>
+	
 </project>

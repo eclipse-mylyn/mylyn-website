@@ -69,6 +69,8 @@
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 	</div>
+
+	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
 			
 	<div id="rightcolumn">
 		<div class="sideitem"> 
@@ -78,9 +80,6 @@
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
-	</div>
-	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
-	<div id="rightcolumn">	
 		<div class="sideitem">
 			<h6>Developer Links</h6>
 			<ul>

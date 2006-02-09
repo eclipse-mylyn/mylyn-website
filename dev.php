@@ -14,7 +14,7 @@
 	$projectInfo = new ProjectInfo("technology.mylar");
 	$projectBugs = new ProjectBugs("technology.mylar");
 	
-	$pageTitle 		= "Mylar Developers";
+	$pageTitle 		= "Mylar Contributors";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
 ?>
@@ -35,10 +35,10 @@
 		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
 
 		<div class="homeitem3col">
-			<h3>Developer Resources</h3>
+			<h3>Contributor Resources</h3>
 			<ul>
 				<li>Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
-					mylar-dev@eclipse.org:</a> developer discussions 
+					mylar-dev@eclipse.org:</a> contributor discussions 
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a>
 				</li>
 				<li>CVS repository: <a href="http://dev.eclipse.org/viewcvs/indextech.cgi/org.eclipse.mylar/">web interface</a></li>
@@ -69,11 +69,8 @@
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 	</div>
-	
-	<?= $projectBugs->getAsSideHTML("Our Top Voted Bugs") ?>
 			
 	<div id="rightcolumn">
-		
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
@@ -81,7 +78,9 @@
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
-		
+	</div>
+	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
+	<div id="rightcolumn">	
 		<div class="sideitem">
 			<h6>Developer Links</h6>
 			<ul>
@@ -107,3 +106,4 @@
     ob_end_clean();
     $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
+	

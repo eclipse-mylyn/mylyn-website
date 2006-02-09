@@ -25,8 +25,8 @@
 		<div align="center"><h1>$pageTitle</h1></div>
           
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
-        videos provide an introduction to the basic features.  Currently the best 
-        way to learn about Mylar is by reading the 
+        videos provide an introduction to the basic features.  The best 
+        way to learn more is by reading the 
         <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
         <p>For questions, please see the <a href="users.php">Users page</a> for information on the newsgroup and mailing list.</p>
         

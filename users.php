@@ -32,7 +32,7 @@
         <p>Please use the newsgroup for posting questions about Mylar (<a href="http://dev.eclipse.org/newsManager/newsRequestForm.html">register here</a>).
         </p>
 
-        <div class="homeitem">
+        <div class="homeitem3col">
 			<h3>Newsgroups and Mailing Lists</h3>
 			<ul>
 				<li>
@@ -52,7 +52,7 @@
 			</ul>
 		</div>      
             
-        <div class="homeitem">
+        <div class="homeitem3col">
 			<h3>Presentations and Publications</h3>
 			<ul>
 				<li>

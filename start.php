@@ -28,7 +28,7 @@
         videos provide an introduction to the basic features.  Currently the best 
         way to learn about Mylar is by reading the 
         <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
-        <p>For questions, please see the <a href="users.php">Users page</> for information on the newsgroup and mailing list.</p>
+        <p>For questions, please see the <a href="users.php">Users page</a> for information on the newsgroup and mailing list.</p>
         
         <div class="homeitem3col">
 			<h3>Flash Demos</h3>

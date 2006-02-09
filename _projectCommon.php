@@ -21,7 +21,7 @@
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
 
 	$Nav->addNavSeparator("Cotnributors", "/mylar/dev.php", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Dev FAQ", "/mylar/doc/devfaq.php", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Reference", "/mylar/doc/contributing.php", 	"_self", 1);
 ?>
 
 

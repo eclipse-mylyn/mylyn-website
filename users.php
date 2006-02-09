@@ -29,10 +29,8 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
-        videos provide an introduction to the basic features.  Currently the best 
-        way to learn about Mylar is by reading the 
-        <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
+        <p>Please use the newsgroup for posting questions about Mylar (<a href="http://dev.eclipse.org/newsManager/newsRequestForm.html">register here</a>).
+        </p>
 
         <div class="homeitem">
 			<h3>Newsgroups and Mailing Lists</h3>
@@ -43,7 +41,7 @@
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org:</a> major release and event announcements
+					mylar-announce@eclipse.org:</a> major releases and events
 					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>]</li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
@@ -60,20 +58,20 @@
 				<li>
                     May 2005, eclipse.org 
                     <a href="publications/2005-04-mylar-proposal.html">
-                    Project creation review [HTML proposal]</a>
+                    Project creation review</a>
                     <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT&nbsp;presentation]</a>
+					[PPT]</a>
                 </li>
                 <li>
                 	March 2005, EclipseCon talk: 
                 	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
-                	Mylar: a degree-of-interest model for Eclipse [PPT&nbsp;presentation]</a>
+                	Mylar: a degree-of-interest model for Eclipse [PPT]</a>
                 </li>
                 <li>
                 	March 2005, AOSD talk: 
                 	<a href="publications/2005-03-mylar-aosd-web.ppt">
-                	Mylar: a degree-of-interest model for IDEs [PPT&nbsp;presentation]</a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf">[PDF&nbsp;paper]</a>
+                	Mylar: a degree-of-interest model for IDEs [PPT]</a>&nbsp;
+					<a href="publications/2005-03-mylar-aosd.pdf">[PDF]</a>
                 </li>
 			</ul> 
 		</div>       

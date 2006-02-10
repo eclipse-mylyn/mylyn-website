@@ -55,14 +55,8 @@
 				<li><b>Bugzilla:</b> priorities are P1: do this week, P2: should do 
 				this week, P3: considered for next week, P4/5: requires user input.</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
-				and checked into each project's .settings folder.  Change your default formatter's line wrap to 160.
-				Format code using Source menu -> Format.</li>
-				<li><b>Patches</b>: right-click the corresponding project and select Team -&gt; Create 
-				Patch.&nbsp; Name according to project (e.g. patch-core.tests.txt), and attach
-				to a bug report. Patches should come with a test case, and are typically applied 
-				within a few days of submission.</li>
-				<li><b>Committing:</b> enure no warnings, and that org.eclipse.mylar.tests.AllTests 
-				passes with no console output.</li> 
+				and checked into each project's .settings folder.</li>
+				<li><b>Patches</b>: see the <a href="doc/contributing.php">Reference</a> page.</li>
 			</ul>
 		</div>  
 	

@@ -7,7 +7,9 @@
 			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
 			<fileset file="../org.eclipse.mylar.doc/doc/new-0.3.html" />
 			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
-			<!--<fileset dir="../org.eclipse.mylar.doc/doc/images"/>-->
+		</copy>
+		<copy todir="doc/images">
+			<fileset dir="../org.eclipse.mylar.doc/doc/images"/>
 		</copy>
 	</target>
 

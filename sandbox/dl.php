@@ -27,7 +27,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h1>$pageTitle</h1>*&nbsp;<img src="images/feature.gif"></div>
+		<div align="center"><h1><img src="images/feature.gif"> $pageTitle</h1></div>
         
         <table border="0">
         	<tr>

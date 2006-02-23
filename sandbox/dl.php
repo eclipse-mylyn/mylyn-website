@@ -34,9 +34,9 @@
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td valign="top">
-		        Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,
+		        Mylar can be installed as a standalone Task List for managing personal tasks, with the Focused UI support for the Eclipse SDK,
 		and with one or more task repository connectors.  Note that installing the JIRA Connector involves downloading a feature
-		from <a href="http://jira-dashboard.tigris.org">jira-dashboard.tigris.org</a>.  See <a href="doc/faq.php#install-failure">FAQ</a> 
+		from jira-dashboard.tigris.org.  See the <a href="doc/faq.php#install-failure">FAQ</a> 
 		for installation trouble shooting.
 		        
 		        </td>
@@ -62,7 +62,7 @@
 			</ul>
 		</div>
 
-		<p>Supported <b>Eclipse versions</b>: Eclipse 3.1 and the latest Eclipse 3.2 milestone release (3.2M5).
+		<p><b>Supported platforms</b>: Eclipse 3.1 and the latest Eclipse 3.2 milestone release (3.2M5).
 		Mylar only runs in a <b>Java 5 VM</b>.  Mylar is developed on Windows; refer to the following queries for open bugs
 		with: 
 			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
@@ -73,7 +73,7 @@
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 		--> 
 		</p>
-		<p>Supported <b>repositories</b>: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.1.1 and later
+		<p><b>Supported repositories</b>: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.1.1 and later
 		</p>
 		<h4>Expectations</h4>
 		

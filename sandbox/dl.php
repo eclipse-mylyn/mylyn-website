@@ -82,16 +82,13 @@
 			MacOS</a>.
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 
+		<p>Repository Connector compatability: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.3.2 and later</p>
 
 		<h4>Expectations</h4>
 		
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving rapidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.
-				
-		<p>Bugzilla Client: customized Bugzilla server installations may not work.  
-		Refer to the New & Noteworthy for work-arounds on adding custom queries and working
-		with reports using the embedded browser.</p>
 
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
 		The Package Explorer hierarchical layout is not supported properly yet and 

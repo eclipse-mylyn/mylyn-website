@@ -77,21 +77,13 @@
 		<!--
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 		--> 
-		<p>Repository Connector compatability: <b>Bugzilla 2.16-2.20</b> (uncustomized), <b>JIRA 3.1.1 and later</b></p>
+		Repository Connector compatability: <b>Bugzilla 2.16-2.20</b> (uncustomized), <b>JIRA 3.1.1 and later</b>
 
 		<h4>Expectations</h4>
 		
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving rapidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.
-
-		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=106678">Bug 106678</a>&nbsp; 
-		The Package Explorer hierarchical layout is not supported properly yet and 
-		will show uninteresting elements when enabled.</p>
-		
-		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102663">Bug 
-		102663</a>&nbsp; Multiple workbench windows are not supported and Mylar may 
-		not capture context correctly if you have more than one window open.</p>
 		
 		<p>&nbsp;</p>
 	</div>

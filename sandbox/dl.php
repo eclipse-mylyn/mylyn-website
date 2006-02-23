@@ -55,7 +55,7 @@
 			</ul>
 		</div>
 	
-	    <div>
+	    <p>
 		<table border="0">
 			<tr>
 			  <td>
@@ -68,7 +68,7 @@
 		     </td>
 		    </tr>
 		</table>
-		</div>
+		</p>
 
 		<h3>Supported Platforms</h3>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release

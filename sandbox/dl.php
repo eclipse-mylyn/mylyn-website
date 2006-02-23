@@ -27,13 +27,14 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h1><img src="images/feature.gif"> $pageTitle</h1></div>
+		<div align="center"><h1>$pageTitle</h1></div>
         
         <table border="0">
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td valign="top">
+		        <img src="images/feature.gif">
 		        Mylar can be installed as a standalone Task List for managing personal tasks, with the Focused UI support for the Eclipse SDK,
 		and with one or more task repository connectors.  Note that installing the JIRA Connector involves downloading a feature
 		from jira-dashboard.tigris.org.  See the <a href="doc/faq.php#install-failure">FAQ</a> 

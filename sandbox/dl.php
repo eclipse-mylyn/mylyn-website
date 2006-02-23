@@ -54,7 +54,7 @@
 				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
 			</ul>
 		</div>
-	
+	  
 	    <p>
 		<table border="0">
 			<tr>

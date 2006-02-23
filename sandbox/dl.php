@@ -34,7 +34,7 @@
         	<!--
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
-        	->
+        	-->
         		<td valign="top">
 		        <img src="images/feature.gif">
 		        Mylar can be installed as a standalone Task List for managing personal tasks, with the Focused UI support for the Eclipse SDK,

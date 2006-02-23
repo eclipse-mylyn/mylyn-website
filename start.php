@@ -68,8 +68,8 @@
                 </li>
 			</ul>
 		</div> 
+		<p>&nbsp;</p>
 	</div>
-	<p>&nbsp;</p>
 	
 	<div id="rightcolumn">
 		$commonside

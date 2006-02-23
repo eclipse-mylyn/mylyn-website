@@ -45,7 +45,7 @@
 			</ul>
 		</div>
 	  
-		<div>
+	  	<h4>Installation Instructions</h4>
         <table border="0">
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>
@@ -61,7 +61,6 @@
 		     </td>
 		    </tr>
 		</table>
-		</div>
 
 		<h3>Supported Platforms</h3>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release

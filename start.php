@@ -44,8 +44,8 @@
                 </li>
 			</ul>
 		</div>      
-			<p>In addition to providing personal task management, Mylar has the following 
-task/issue/bug/report repository integration.</p>
+			<p>In addition to providing personal task management and support for task contexts, Mylar has the following 
+			task/issue/bug/report repository integration.</p>
 
         <div class="homeitem3col">
 			<h3>Levels of Repository Integration</h3>

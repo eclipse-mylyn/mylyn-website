@@ -55,8 +55,6 @@
 			</ul>
 		</div>
 	
-		<h4>Install</h4>
-		
 		<table border=0>
 			<tr>
 			  <td>
@@ -90,8 +88,6 @@
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
 		user interface are evolving rapidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.
-		
-		<h4>Key Limitations</h4>
 				
 		<p>Bugzilla Client: customized Bugzilla server installations may not work.  
 		Refer to the New & Noteworthy for work-arounds on adding custom queries and working

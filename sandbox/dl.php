@@ -75,12 +75,11 @@
 		</p>
 		<p><b>Supported repositories</b>: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.1.1 and later
 		</p>
-		<h4>Expectations</h4>
 		
-		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
+		<b>Expectations:</b> Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 
 		user interface are evolving rapidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.
-		
+
 		<p>&nbsp;</p>
 	</div>
 

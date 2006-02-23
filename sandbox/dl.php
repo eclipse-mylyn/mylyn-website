@@ -29,23 +29,6 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
         
-        <div class="homeitem3col">
-			<h3>Mylar 0.4.x Update Sites</h3>
-			<ul>
-	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
-	        	<li>Eclipse 3.2M5 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-			</ul>
-		</div>
-
-        <div class="homeitem3col">
-			<h3>Developer Builds and Archives</h3>
-			<ul>
-				<li>Latest Dev Build (3.2M5): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
-				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
-			</ul>
-		</div>
-	  
-	  	<h4>Installation Instructions</h4>
         <table border="0">
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>
@@ -62,9 +45,25 @@
 		     </td>
 		    </tr>
 		</table>
+        
+        <div class="homeitem3col">
+			<h3>Mylar 0.4.x Update Sites</h3>
+			<ul>
+	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
+	        	<li>Eclipse 3.2M5 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
+			</ul>
+		</div>
 
-		<p>Supported Eclipse versions: Eclipse 3.1 and the latest Eclipse 3.2 milestone release (3.2M5).
-		Mylar <b>only runs in a Java 5 VM</b>.  Mylar is developed on Windows; refer to the following queries for open bugs
+        <div class="homeitem3col">
+			<h3>Developer Builds and Archives</h3>
+			<ul>
+				<li>Latest Dev Build (3.2M5): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
+			</ul>
+		</div>
+
+		<p>Supported <b>Eclipse versions</b>: Eclipse 3.1 and the latest Eclipse 3.2 milestone release (3.2M5).
+		Mylar only runs in a <b>Java 5 VM</b>.  Mylar is developed on Windows; refer to the following queries for open bugs
 		with: 
 			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 			Linux</a>, 
@@ -73,9 +72,9 @@
 		<!--
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 		--> 
-		<br>&nbsp;
-		Supported repositories: <b>Bugzilla 2.16-2.20</b> (uncustomized), <b>JIRA 3.1.1 and later</b>
-
+		</p>
+		<p>Supported <b>repositories</b>: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.1.1 and later
+		</p>
 		<h4>Expectations</h4>
 		
 		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 

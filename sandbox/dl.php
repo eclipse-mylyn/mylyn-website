@@ -51,11 +51,7 @@
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
-        		<td>	
-        		
-		        Mylar features can be downloaded using the following update sites.  Notable
-		        changes are in the <a href="doc/new.php">New & Noteworthy</a>.
-		        <br>&nbsp;
+        		<td valign="top">
 		        Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,
 		and with one or more task repository connectors.  Note that installing the JIRA Connector involves downloading a feature
 		from <a href="http://jira-dashboard.tigris.org">jira-dashboard.tigris.org</a>.

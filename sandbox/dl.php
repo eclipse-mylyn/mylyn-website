@@ -75,9 +75,10 @@
 			Linux</a>, 
 			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 			MacOS</a>.
+		<!--
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
-
-		<p>Repository Connector compatability: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.3.2 and later</p>
+		--> 
+		<p>Repository Connector compatability: <b>Bugzilla 2.16-2.20</b> (uncustomized), <b>JIRA 3.1.1 and later</b></p>
 
 		<h4>Expectations</h4>
 		

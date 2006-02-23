@@ -62,7 +62,7 @@
 				<li>
                     Full integration: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
-				notifications. </td>
+				change notifications. </td>
 	            <td class="smallParagraph" align="left" valign="top" bgcolor="#F1F3F5">
 	            <br><a href="dl.php">(currently Bugzilla only)</a>
                 </li>

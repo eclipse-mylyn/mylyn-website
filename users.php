@@ -50,31 +50,7 @@
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
-		</div>      
-            
-        <div class="homeitem3col">
-			<h3>Presentations and Publications</h3>
-			<ul>
-				<li>
-                    May 2005, eclipse.org 
-                    <a href="publications/2005-04-mylar-proposal.html">
-                    Project creation review</a>
-                    <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT]</a>
-                </li>
-                <li>
-                	March 2005, EclipseCon talk: 
-                	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
-                	Mylar: a degree-of-interest model for Eclipse [PPT]</a>
-                </li>
-                <li>
-                	March 2005, AOSD talk: 
-                	<a href="publications/2005-03-mylar-aosd-web.ppt">
-                	Mylar: a degree-of-interest model for IDEs [PPT]</a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf">[PDF]</a>
-                </li>
-			</ul> 
-		</div>       
+		</div>             
 	</div>
 	
 	<div id="rightcolumn">

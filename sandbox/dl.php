@@ -45,8 +45,10 @@
 			</ul>
 		</div>
 	  
+	  <!--
 	    <h3>Install</h3>
-
+	    -->
+		
         <table border="0">
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>

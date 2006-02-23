@@ -55,7 +55,7 @@
 			</ul>
 		</div>
 	
-		<table border=0>
+		<table border="0">
 			<tr>
 			  <td>
 		Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,

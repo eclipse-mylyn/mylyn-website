@@ -45,10 +45,7 @@
 			</ul>
 		</div>
 	  
-	  <!--
-	    <h3>Install</h3>
-	    -->
-		
+		<div>
         <table border="0">
         	<tr>
         		<td valign="top"><img src="images/feature.gif"></td>
@@ -59,18 +56,18 @@
 		from <a href="http://jira-dashboard.tigris.org">jira-dashboard.tigris.org</a>.
 		        
 		        </td>
-
 		     <td>
 		<img src="/mylar/images/install-overview.gif">
 		     </td>
 		    </tr>
 		</table>
+		</div>
 
 		<h3>Supported Platforms</h3>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
-		(<b>3.2M4 is no longer supported,
+		(3.2M4 is no longer supported,
 		<a href="http://download.eclipse.org/eclipse/downloads/">
-		get 3.2M5</a></b>).&nbsp; 
+		get 3.2M5</a>).&nbsp; 
 		Mylar <b>only runs in a Java 5 VM</b>.  See <a href="doc/faq.php#install-failure">FAQ</a> if you
 		have any trouble installing Mylar.  Mylar is developed on Windows; refer to the following queries for open bugs
 		with: 

@@ -44,11 +44,9 @@
                 </li>
 			</ul>
 		</div>      
-	</div>
-	
-	<p>In addition to providing personal task management, Mylar has the following 
+			<p>In addition to providing personal task management, Mylar has the following 
 task/issue/bug/report repository integration.</p>
-        <table cellSpacing="4" cellPadding="6" width="100%" border="0" style="border-collapse: collapse" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" bgcolor="#FFFFFF" id="table1">
+        <table cellSpacing="2" cellPadding="6" width="100%" border="0" style="border-collapse: collapse" bordercolor="#FFFFFF" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF" bgcolor="#FFFFFF" id="table1">
           <tr>
             <td class="smallParagraph" align="center" valign="top" bgcolor="#7A79A7">
             <b><font color="#FFFFFF">Integration</font></b></td>
@@ -87,6 +85,8 @@ task/issue/bug/report repository integration.</p>
             Bugzilla</td>
           </tr>
           </table>
+	</div>
+	
 	
 	<div id="rightcolumn">
 		$commonside

@@ -29,18 +29,8 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
         
-        <table>
-        	<tr>
-        		<td valign="top"><img src="images/feature.gif"></td>
-        		<td>&nbsp;</td>
-        		<td>	
-		        Mylar features can be downloaded using the following update sites.  Notable
-		        changes are in the <a href="doc/new.php">New & Noteworthy</a>.</td>
-		    </tr>
-		</table>
-        
         <div class="homeitem3col">
-			<h3>Mylar 0.4</h3>
+			<h3>Mylar 0.4.x Update Sites</h3>
 			<ul>
 	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
 	        	<li>Eclipse 3.2M5 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
@@ -55,21 +45,28 @@
 			</ul>
 		</div>
 	  
-	    <h3>Supported Platforms</h3>
-	    
-		<table border="0">
-			<tr>
-			  <td>
-		Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,
+	    <h3>Install</h3>
+
+        <table border="0">
+        	<tr>
+        		<td valign="top"><img src="images/feature.gif"></td>
+        		<td>&nbsp;</td>
+        		<td>	
+        		
+		        Mylar features can be downloaded using the following update sites.  Notable
+		        changes are in the <a href="doc/new.php">New & Noteworthy</a>.
+		        <br>&nbsp;
+		        Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,
 		and with one or more task repository connectors.  Note that installing the JIRA Connector involves downloading a feature
 		from <a href="http://jira-dashboard.tigris.org">jira-dashboard.tigris.org</a>.
-		     </td>
+		        
+		        </td>
+
 		     <td>
 		<img src="/mylar/images/install-overview.gif">
 		     </td>
 		    </tr>
 		</table>
-		</p>
 
 		<h3>Supported Platforms</h3>
 		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release

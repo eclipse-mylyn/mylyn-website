@@ -56,7 +56,7 @@
 				this week, P3: considered for next week, P4/5: requires user input.</li>
 				<li><b>Code:</b> conventions are documented on <a href="http://dev.eclipse.org/conventions.html">dev.eclipse.org</a>
 				and checked into each project's .settings folder.</li>
-				<li><b>Patches</b>: see the <a href="doc/contributing.php">Reference</a> page.</li>
+				<li><b>Patches</b>: see the <a href="doc/devref.php">Reference</a> page.</li>
 			</ul>
 		</div>  
 	

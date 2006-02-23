@@ -69,7 +69,7 @@
 			</ul>
 		</div> 
 	</div>
-	
+	<p>&nbsp;</p>
 	
 	<div id="rightcolumn">
 		$commonside

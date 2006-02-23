@@ -51,20 +51,22 @@
 			<h3>Levels of Repository Integration</h3>
 			<ul>
 				<li>
-                    Web only: Reports
+                    <b>Web linking only</b>: Reports
 					<a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">
 					linked</a> via drag-and-drop, editing via embedded 
-					browser</td> (any web-based repository).
+					browser</td> 
+					<br><a href="dl.php">(any web-based repository)</a>
                 </li>
 				<li>
-                    Query support: Repository queries in task list view (JIRA)
+                    <b>Query support</b>: Repository queries in task list view
+                    <br><a href="dl.php">(currently JIRA and Bugzilla)</a>
                 </li>
 				<li>
-                    Full integration: Authoring of reports within native Eclipse editor, 
+                    <b>Full integration</b>: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
 				notifications. </td>
 	            <td class="smallParagraph" align="left" valign="top" bgcolor="#F1F3F5">
-	            Bugzilla
+	            <br><a href="dl.php">(currently Bugzilla only)</a>
                 </li>
 			</ul>
 		</div> 

@@ -54,21 +54,7 @@
 				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
 			</ul>
 		</div>
-		
-		<h3>Supported Platforms</h3>
-		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
-		(<b>3.2M4 is no longer supported,
-		<a href="http://download.eclipse.org/eclipse/downloads/">
-		get 3.2M5</a></b>).&nbsp; 
-		Mylar <b>only runs in a Java 5 VM</b>.  See <a href="doc/faq.php#install-failure">FAQ</a> if you
-		have any trouble installing Mylar.  Mylar is developed on Windows; refer to the following queries for open bugs
-		with: 
-			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-			Linux</a>, 
-			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-			MacOS</a>.
-		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
-
+	
 		<h4>Install</h4>
 		
 		<table border=0>
@@ -83,6 +69,21 @@
 		     </td>
 		    </tr>
 		</table>
+
+		<h3>Supported Platforms</h3>
+		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
+		(<b>3.2M4 is no longer supported,
+		<a href="http://download.eclipse.org/eclipse/downloads/">
+		get 3.2M5</a></b>).&nbsp; 
+		Mylar <b>only runs in a Java 5 VM</b>.  See <a href="doc/faq.php#install-failure">FAQ</a> if you
+		have any trouble installing Mylar.  Mylar is developed on Windows; refer to the following queries for open bugs
+		with: 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+			Linux</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+			MacOS</a>.
+		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
+
 
 		<h4>Expectations</h4>
 		

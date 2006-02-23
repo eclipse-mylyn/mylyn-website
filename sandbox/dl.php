@@ -55,7 +55,8 @@
 			</ul>
 		</div>
 	  
-	    <p>
+	    <h3>Supported Platforms</h3>
+	    
 		<table border="0">
 			<tr>
 			  <td>

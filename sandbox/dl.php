@@ -34,42 +34,54 @@
         		<td valign="top"><img src="images/feature.gif"></td>
         		<td>&nbsp;</td>
         		<td>	
-		        Mylar features can be downloaded using the following update sites. 
-		        Turning on automatic updates is recommended.  
-		        Archive updates sites can be found by replacing "update-site" in the URL below
-		        with the archive version (e.g. .../update-site-archive/0.4.0/e3.2).</td>
+		        Mylar features can be downloaded using the following update sites.  Notable
+		        changes are in the <a href="doc/new.php">New & Noteworthy</a>.</td>
 		    </tr>
 		</table>
         
         <div class="homeitem3col">
 			<h3>Mylar 0.4</h3>
 			<ul>
-	        	<li>Eclipse 3.2M3 update site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
-	        	<li>Eclipse 3.1.x update site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
-	        	<li><a href="doc/new.php">New & Noteworthy</a></li>
+	        	<li>Eclipse 3.1.x Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b></li>
+	        	<li>Eclipse 3.2M5 Update Site: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b></li>
+			</ul>
+		</div>
+
+        <div class="homeitem3col">
+			<h3>Developer Builds and Archives</h3>
+			<ul>
+				<li>Latest Dev Build (3.2M5): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
 			</ul>
 		</div>
 		
 		<h3>Supported Platforms</h3>
-		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2M milestone release
-		(<b>3.2M2 is no longer supported,
-		<a href="http://download.eclipse.org/eclipse/downloads/drops/S-3.2M3-200511021600/index.php">
-		get 3.2M3</a></b>).&nbsp; 
-		At this time Mylar <b>only runs in a Java 5 VM</b>.  See the FAQ entry if you
-		have any <a href="doc/faq.php#install-failure">trouble installing Mylar</a>.</p>
+		<p>Mylar releases support Eclipse 3.1 and the latest Eclipse 3.2 milestone release
+		(<b>3.2M4 is no longer supported,
+		<a href="http://download.eclipse.org/eclipse/downloads/">
+		get 3.2M5</a></b>).&nbsp; 
+		Mylar <b>only runs in a Java 5 VM</b>.  See <a href="doc/faq.php#install-failure">FAQ</a> if you
+		have any trouble installing Mylar.  Mylar is developed on Windows; refer to the following queries for open bugs
+		with: 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+			Linux</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+			MacOS</a>.
+		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 
-		<h3>Expectations</h3>
+		<h4>Install</h4>
 		
-		Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 
-		user interface are evolving 
-		rapidly based on user community feedback.  New releases are 
-		made available weekly, and contain fixes for any major issues or suggested improvements
-		reported the previous week.  
-		Please <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		submit bug reports</a> for any problems and enhancement requests, or check
-		the list of <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=specific&order=relevance+desc&bug_status=__open__&product=Mylar&content=">
-		open reports</a> to add your comments.  
-		Bugzilla priorities of P1 and P2 indicate items scheduled for the next release.
+		Mylar can be installed as a standalone Task List only for managing personal tasks, with the Focused UI support for the Eclipse SDK,
+		and with one or more task repository connectors.  Note that installing the JIRA Connector involves downloading a feature
+		from <a href="http://jira-dashboard.tigris.org">jira-dashboard.tigris.org</a>.
+		 
+		<img src="/mylar/images/install-overview.gif">
+
+		<h4>Expectations</h4>
+		
+		Mylar 0.4 is a work in progress and targeted at <b>early adopters</b>.  The technology and 
+		user interface are evolving rapidly based on user community feedback.  New builds are 
+		made available weekly, and contain fixes for key issues reported the previous week.
 		
 		<h4>Key Limitations</h4>
 				
@@ -84,9 +96,6 @@
 		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102663">Bug 
 		102663</a>&nbsp; Multiple workbench windows are not supported and Mylar may 
 		not capture context correctly if you have more than one window open.</p>
-		
-		<p><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=102848">Bug 
-		102848</a>&nbsp; You can only set one bugzilla repository per workspace.&nbsp; </p>
 		
 		<p>&nbsp;</p>
 	</div>

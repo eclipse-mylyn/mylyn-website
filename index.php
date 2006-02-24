@@ -94,8 +94,8 @@
 				<li>First public release<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
 				<span class="dates">(July 28, 2005)</span><br>&nbsp;</li>
-				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
 				<!--
+				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
 				<li>First user study preview release<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>
 				-->
 			</ul>

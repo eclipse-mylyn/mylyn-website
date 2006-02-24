@@ -110,7 +110,6 @@
 		</div> 
 		$commonside
 		$newsside
-		$incubatorside
 	</div>
 	
 	<p>&nbsp;</p>

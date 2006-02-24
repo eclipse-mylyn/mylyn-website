@@ -12,7 +12,6 @@
 
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
-	$projectBugs = new ProjectBugs("technology.mylar");
 	
 	$pageTitle 		= "Mylar Contributors";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -63,8 +62,6 @@
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 	</div>
-
-	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
 			
 	<div id="rightcolumn">
 		<div class="sideitem"> 

@@ -20,6 +20,8 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
+	include("_sideNews.php");
+	include("_sideIncubator.php");
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -106,6 +108,9 @@
 				<li>A focused user interface used to avoid information blindness when staring at Eclipse.</li>
 			</ul> 
 		</div> 
+		$commonside
+		$newsside
+		$incubatorside
 	</div>
 	
 	<p>&nbsp;</p>

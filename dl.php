@@ -22,6 +22,7 @@
 	# Paste your HTML content between the EOHTML markers!	
 	
 	include("_sideCommon.php");
+	include("_sideNews.php");
 		
 	$html = <<<EOHTML
 
@@ -93,6 +94,7 @@
 
 	<div id="rightcolumn">
 		$commonside
+		$newside
 	</div>
 </div>
 

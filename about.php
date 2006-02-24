@@ -20,6 +20,7 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
+	include("_sideMylarIs.php");
 	include("_sideNews.php");
 	include("_sideIncubator.php");
 	$html = <<<EOHTML
@@ -101,13 +102,7 @@
 	</div> 
 	
 	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>&quot;Mylar&quot; is</h6>
-			<ul>
-				<li>An aluminized film used to avoid blindness when staring at a solar eclipse.<br>&nbsp;</li>
-				<li>A focused user interface used to avoid information blindness when staring at Eclipse.</li>
-			</ul> 
-		</div> 
+		$mylarIsSide
 		$commonside
 		$newsside
 	</div>

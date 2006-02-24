@@ -80,6 +80,9 @@
 		<div class="sideitem">
 			<h6>News & Blogs</h6>
 			<ul>
+				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=jira_support_in_mylar">
+				Jira support in Mylar</a>
+				<br><span class="dates">(Feb. 23, 2006)</span><br>&nbsp;</li>
 				<li> Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
 				Eclipse Killer Plugin Mylar</a>
 				<br><span class="dates">(Nov. 14, 2005)</span><br>&nbsp;</li>

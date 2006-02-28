@@ -32,10 +32,15 @@ and leave the password blank.</li>
 		<li>Check out all of the projects under org.eclipse.mylar (except myar.aspectj, 
 		mylar.sandbox, mylar.viz, and mylar.zest.* which have additional 
 		dependencies).&nbsp; There should be no errors or warnings.</li>
-		<li>Run org.eclipse.mylar.tests.AllTests as a JUnit Plug-in Test, all 
+		<li>Run org.eclipse.mylar.tests.AllTests as a JUnit Plug-in Test, with 
+		assertions enabled.&nbsp; All 
 		tests should pass and there should be no console output.&nbsp; The tests 
 		workbench window can be in the foreground or background, but should not 
-		be interacted with during the test execution.</li>
+		be interacted with during the test execution.<ul>
+		<li>Add the following to the test configuration under Arguments -&gt; VM 
+		Arguments: -enableassertions -Xmx384M</li>
+	</ul>
+		</li>
 	</ul>
 <h3>&nbsp;</h3>
 <h3><a name="contributing-patches">Writing patches</a> </h3>
@@ -62,8 +67,8 @@ and leave the password blank.</li>
 		<li>Ensure there are no build errors, warnings, and that <tt>org.eclipse.mylar.tests.AllTests</tt> passes.</li>
 		<li>Synchronize using Incoming mode and ensure that there are no 
 		conflicts, and merge them locally if there are.</li>
-		<li>Right click the task context change set, create the patch, and 
-		attach it to the bug report</li>
+		<li>Right click the task context change set (or the project containing 
+		the patch), press Team -&gt; Create Patch, and attach it to the bug report</li>
 	</ul>
 		</li>
 	</ul>

@@ -10,7 +10,7 @@
 		</copy>
 		<copy todir="doc/images">
 			<fileset dir="../org.eclipse.mylar.doc/doc/images"/>
-		</copy>
+		</copy> 
 	</target>
 
 	<target name="copy-release" description="Doc Release Update">

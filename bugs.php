@@ -45,7 +45,11 @@
 		<p>&nbsp;</p>
 	</div> 
 	
-	<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
+	<div class="sideitem">
+		<h6>Developer Links</h6>
+		<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
+	</div>
+	
 	
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>

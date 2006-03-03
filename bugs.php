@@ -25,9 +25,6 @@
 		<p>In part thanks to the Bugzilla integration that it provides, the
 		Mylar project makes heavy use of Bugzilla for tracking bugs, planning,
 		and discussing design issues.</p> 
-		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		Submit bug reports</a> to for any problems and enhancement requests</p>
-		
 		<div class="homeitem3col">
 			<h3>Bugzilla Queries</h3>
 			<ul>
@@ -42,6 +39,8 @@
 			</ul>
 		</div>
 		<p>&nbsp;</p>
+		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+		Submit bug reports</a> to for any problems and enhancement requests</p>
 		<p>&nbsp;</p>
 	</div>
 	
@@ -50,8 +49,7 @@
 </div>
 
 <div id="rightcolumn"> 
-		<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
-	
+	<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
 </div>
 
 <?php

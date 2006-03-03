@@ -50,9 +50,8 @@
 </div>
 
 <div id="rightcolumn"> 
-	<div class="sideitem">
 		<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
-	</div>
+	
 </div>
 
 <?php

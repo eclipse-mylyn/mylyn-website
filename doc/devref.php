@@ -22,7 +22,7 @@
 
 	# Paste your HTML content between the EOHTML markers!	
 	
-	include("_sideCommon.php");
+	include("../_sideDev.php");
 		
 	$html = <<<EOHTML
 
@@ -32,7 +32,7 @@
 	</div>
 	
 	<div id="rightcolumn">
-		$commonside
+		$devside
 	</div>
 </div>
 

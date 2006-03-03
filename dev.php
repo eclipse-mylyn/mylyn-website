@@ -73,7 +73,7 @@
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
-        $devside
+        <?= $devside ?>
 	</div>
 </div>
 

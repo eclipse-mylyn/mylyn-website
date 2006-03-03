@@ -43,16 +43,16 @@
 		</div>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
-	</div> 
-	<!--
-	<div class="sideitem">
-		<h6>Developer Links</h6>
-		<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
 	</div>
-	-->
 	
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
+</div>
+
+<div id="rightcolumn"> 
+	<div class="sideitem">
+		<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
+	</div>
 </div>
 
 <?php

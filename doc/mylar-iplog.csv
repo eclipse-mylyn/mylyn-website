@@ -1,0 +1,19 @@
+Committers
+
+login name,
+mkersten,
+sminto,
+ksueda,
+
+Developers
+(note: minor contributions prior to 0.4.9 are in org.eclipse.mylar.doc/doc/new.html)
+
+date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
+2006-02-28, tasklist,  	129511,	Eugene Kuleshov,	<100,		mkersten,	key comparison
+2006-03-02, bugzilla, 	129459,	Ian Whalley, 		<10,		mkersten,	charset fix
+2006-03-02, bugzilla, 	116514,	Ian Whalley, 		<100,		mkersten,	IBM JDK support
+2006-03-07, ui,			128567, Wang Bin,			<10,		mkersten,	clean-up of interest filter addition
+ 
+Third Party Software
+
+name including version, directory location or jar file, license name and version, usage,,,

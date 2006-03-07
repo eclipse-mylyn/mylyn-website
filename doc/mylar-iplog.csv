@@ -1,12 +1,11 @@
-Committers
+Committers (Past and Present)
 
 login name,
 mkersten,
 sminto,
 ksueda,
 
-Developers
-(note: minor contributions prior to 0.4.9 are in org.eclipse.mylar.doc/doc/new.html)
+Developers (minor contributions prior to 0.4.9 are in doc/new.html)
 
 date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-02-28, tasklist,  	129511,	Eugene Kuleshov,	<100,		mkersten,	key comparison

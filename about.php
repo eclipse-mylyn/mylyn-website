@@ -55,7 +55,7 @@
 		<div class="homeitem3col">
 			<h3>Legal</h3>
 			<ul>
-				<li>IP Log (to come)</li>
+				<li><a href="doc/mylar-iplog.csv">IP Log</a></li>
 			</ul>
 		</div>
 		

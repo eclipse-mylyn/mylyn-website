@@ -27,7 +27,7 @@
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
         videos provide an introduction to the basic features.  The best way to learn more is by reading the 
         <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
-        <p>Use the <a href="users.php">newsgroup and mailing lists</a> for questions about using Mylar.</p>
+        <p><a href="users.php">Use the newsgroup</a> for questions about using Mylar.</p>
         
         <div class="homeitem3col">
 			<h3>Flash Demos</h3>

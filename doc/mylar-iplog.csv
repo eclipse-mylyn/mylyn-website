@@ -13,6 +13,8 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-02, bugzilla, 	116514,	Ian Whalley, 		<100,		mkersten,	IBM JDK support
 2006-03-07, ui,			128567, Wang Bin,			<10,		mkersten,	clean-up of interest filter addition
 2006-03-07, ui,			130698, Wang Bin,			<10,		mkersten,	redraw optimization
+2006-03-07, ui,			128569, Wang Bin,			<10,		mkersten,	control flow optimization
+ 
  
 Third Party Software
 

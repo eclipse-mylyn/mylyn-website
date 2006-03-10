@@ -14,7 +14,7 @@
 				<span class="dates">(Nov. 7, 2005)</span><br>&nbsp;</li>
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=the_most_addictive_eclipse_plugin">The most addictive Eclipse plugin ever</a>
 				<span class="dates">(Nov. 1, 2005)</span><br>&nbsp;</li>
-				<li>First public release, 0.3<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
+				<li>First public release, 0.4<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
 				<span class="dates">(July 28, 2005)</span><br>&nbsp;</li>
 				<!--

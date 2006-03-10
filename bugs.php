@@ -39,6 +39,19 @@
 			</ul>
 		</div>
 		<p>&nbsp;</p>
+		<div class="homeitem3col">
+			<h3>Submitting Bugs</h3>
+			<ul>
+				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+				Submit bugzilla reports</a> for any problems or enhancement requests
+				</li>
+				<li>For bugs: please make sure that you provide details on how to reproduce.
+				</li>
+				<li>For enhancements: please provide a detailed use case for the request.
+				</li>
+			</ul>
+		</div>
+		
 		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 		Submit bug reports</a> to for any problems and enhancement requests</p>
 		<p>&nbsp;</p>

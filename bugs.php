@@ -38,7 +38,6 @@
 				MacOS-specific reports</a> 
 			</ul>
 		</div>
-		<p>&nbsp;</p>
 		<div class="homeitem3col">
 			<h3>Submitting Bugs</h3>
 			<ul>

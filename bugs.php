@@ -50,9 +50,6 @@
 				</li>
 			</ul>
 		</div>
-		
-		<p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-		Submit bug reports</a> to for any problems and enhancement requests</p>
 		<p>&nbsp;</p>
 	</div>
 	

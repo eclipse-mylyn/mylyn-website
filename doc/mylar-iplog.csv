@@ -15,6 +15,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-07, ui,			130698, Wang Bin,			<10,		mkersten,	redraw optimization
 2006-03-07, ui,			128569, Wang Bin,			<10,		mkersten,	control flow optimization
 2006-03-09, tasklist,	130459,	Eugene Kuleshov, 	<100,		mkersten,	support for non-URL based repositories
+2006-03-15, bugzilla, 	130435, Ian Whalley,		<10,		mkersten,	NPE guards 
  
 Third Party Software
 

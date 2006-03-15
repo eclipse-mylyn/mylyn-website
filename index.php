@@ -53,7 +53,7 @@
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
 					mylar-announce@eclipse.org:</a> major release and event announcements
-					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>]</li>
+					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>]</li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> developer discussions and planning

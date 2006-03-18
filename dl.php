@@ -82,7 +82,7 @@
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 		--> 
 		</p>
-		<p><b>Supported repositories</b>: Bugzilla 2.16-2.20 (uncustomized), JIRA 3.1.1 and later.
+		<p><b>Supported repositories</b>: Bugzilla 2.16-2.22 (uncustomized), JIRA 3.1.1 and later.
 		</p>
 		
 		<b>Expectations</b>: Mylar 0.4 is a work in progress and targeted at early adopters.  The technology and 

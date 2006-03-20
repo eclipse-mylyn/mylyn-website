@@ -30,12 +30,28 @@
 		<p>&nbsp;</p>
 	</div> 
 	
+	<div class="homeitem3col">
+		<h3>Release Themes</h3>
+		<ul>
+			<li>Mylar 0.5: make tasks a first class abstraction, generic task repository support,
+				integration between tasks and contexts
+			</li>
+			<li>Mylar 0.6 (Callisto): provisional API stability, make context more first class
+				to facilitate sharing and reuse
+			</li>
+			<li>...</li>
+			<li>Mylar 1.0: tools project quality and API contract
+			</li>
+		</ul> 
+	</div>
+
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	
 	<div id="rightcolumn">
 		$commonside
 	</div>
-	
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
 </div>
 
 EOHTML;

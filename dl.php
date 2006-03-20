@@ -42,7 +42,7 @@
 		        to reduce information overload, and with one or more task <a href="start.php">repository connectors</a>.  All features are optional
 		        unless indicated otherwise.  Note that installing the JIRA Connector involves downloading a feature
 				from jira-dashboard.tigris.org.  Also see the <a href="doc/new.php">New & Noteworthy</a>, and the <a href="doc/faq.php#install-failure">FAQ</a> 
-				for installation trouble shooting. 
+				for installation trouble shooting.  <i>We recommend that you choose "Search for new features.." to install Mylar updates.</i>
 		        
 		        </td>
 		     <td>

@@ -6,7 +6,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Getting Started";
+	$pageTitle 		= "Mylar Users";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
@@ -29,12 +29,10 @@
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
           
-        <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
-        videos provide an introduction to the basic features.  Currently the best 
-        way to learn about Mylar is by reading the 
-        <a href="/mylar/doc/new.php">New & Noteworthy</a>.<p>
+        <p>Please use the newsgroup for posting questions about Mylar (<a href="http://dev.eclipse.org/newsManager/newsRequestForm.html">register here</a>).
+        </p>
 
-        <div class="homeitem">
+        <div class="homeitem3col">
 			<h3>Newsgroups and Mailing Lists</h3>
 			<ul>
 				<li>
@@ -43,55 +41,16 @@
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org:</a> major release and event announcements
-					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">archive</a>]</li>
-				<li>
+					mylar-announce@eclipse.org:</a> major releases and events
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[archive]</a></li>
+				<li> 
                     <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> developer discussions and planning
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
-		</div>
-        
-        <div class="homeitem">
-			<h3>Flash Demos</h3>
-			<ul>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB)
-                </li>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)
-                </li>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html">Using Active views</a> (v0.3, 2 min, 3 MB)
-                </li>
-			</ul>
-		</div>        
-            
-        <div class="homeitem">
-			<h3>Presentations and Publications</h3>
-			<ul>
-				<li>
-                    May 2005, eclipse.org 
-                    <a href="publications/2005-04-mylar-proposal.html">
-                    Project creation review [HTML proposal]</a>
-                    <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT&nbsp;presentation]</a>
-                </li>
-                <li>
-                	March 2005, EclipseCon talk: 
-                	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
-                	Mylar: a degree-of-interest model for Eclipse [PPT&nbsp;presentation]</a>
-                </li>
-                <li>
-                	March 2005, AOSD talk: 
-                	<a href="publications/2005-03-mylar-aosd-web.ppt">
-                	Mylar: a degree-of-interest model for IDEs [PPT&nbsp;presentation]</a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf">[PDF&nbsp;paper]</a>
-                </li>
-			</ul> 
-		</div>       
+		</div>             
 	</div>
 	
 	<div id="rightcolumn">

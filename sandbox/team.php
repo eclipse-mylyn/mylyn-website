@@ -37,7 +37,7 @@
                 	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a>.
                 </li>
                 <li>
-                	Robert Elves (pending approval)
+                	Robert Elves (pending)
                 </li>
 			</ul> 
 		</div>

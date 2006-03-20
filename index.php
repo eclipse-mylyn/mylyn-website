@@ -67,6 +67,9 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
+                    Mylar BoF at <a href="http://www.eclipsecon.org">EclipseCon 2006</a>, March 21, Grand Ballroom, Santa Clara Convention Centre, Santa Clara, USA
+                </li> 
+				<li>
                     <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
                     Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
                 	<br>

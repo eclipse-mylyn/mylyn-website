@@ -31,7 +31,7 @@
 			<h3>Committers</h3>
 			<ul>
 				<li>
-                    <a href="http://kerstens.org/mik">Mik Kersten</a> (project lead)
+                    <a href="http://kerstens.org/mik">Mik Kersten</a>, project lead
                 </li>
                 <li>
                 	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a>.

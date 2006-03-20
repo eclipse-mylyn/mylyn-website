@@ -25,11 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<p>To come...</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-	</div> 
-	
+		
 	<div class="homeitem3col">
 		<h3>Release Themes</h3>
 		<ul>
@@ -47,6 +43,8 @@
 
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
+	
+	</div>  
 	
 	<div id="rightcolumn">
 		$commonside

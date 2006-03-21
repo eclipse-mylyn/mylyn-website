@@ -51,14 +51,6 @@
 		supporting contributions in the form of code,
 		ideas, and documentation.</p>
 		
-		
-		<div class="homeitem3col">
-			<h3>Legal</h3>
-			<ul>
-				<li><a href="doc/mylar-iplog.csv">IP Log</a></li>
-			</ul>
-		</div>
-		
 		<div class="homeitem3col">
 			<h3>Presentations and Publications</h3>
 			<ul>
@@ -81,6 +73,13 @@
 					<a href="publications/2005-03-mylar-aosd.pdf">[PDF]</a>
                 </li>
 			</ul> 
+		</div>
+		
+		<div class="homeitem3col">
+			<h3>Legal</h3>
+			<ul>
+				<li><a href="doc/mylar-iplog.csv">IP Log</a></li>
+			</ul>
 		</div>
 	<!--
 		<div class="homeitem3col">

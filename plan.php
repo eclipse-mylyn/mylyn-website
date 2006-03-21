@@ -25,17 +25,33 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<div align="center"><h1>$pageTitle</h1></div>
-		<p>To come...</p>
-		<p>&nbsp;</p>
-		<p>&nbsp;</p>
-	</div> 
+		
+	<div class="homeitem3col">
+		Current priorities are represented by the <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&priority=P1&priority=P2&priority=P3&priority=P4&priority=P5&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		open bugzilla reports</a>.
+		<h3>Release Themes</h3>
+		<ul>
+			<li>Mylar 0.5: make tasks a first class abstraction, generic task repository support,
+				integration between tasks and contexts
+			</li>
+			<li>Mylar 0.6 (Callisto): provisional API stability, make context more first class
+				to facilitate sharing and reuse
+			</li>
+			<li>...</li>
+			<li>Mylar 1.0: tools project quality and API contract
+			</li>
+		</ul> 
+	</div>
+
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
+	
+	</div>  
 	
 	<div id="rightcolumn">
 		$commonside
 	</div>
-	
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
 </div>
 
 EOHTML;

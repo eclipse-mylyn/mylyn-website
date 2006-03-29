@@ -47,13 +47,17 @@
 		Centre for Advanced Studies</a>, and
 		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
 		
-		The project is currently a volunteer effort, and actively seeking and  
-		supporting contributions in the form of code,
-		ideas, and documentation.</p>
+		We are actively seeking and supporting <a href="dev.php">contributions</a> 
+		in the form of code, ideas, and documentation.</p>
 		
 		<div class="homeitem3col">
 			<h3>Presentations and Publications</h3>
 			<ul>
+                <li>
+                	March 2006, EclipseCon talk: 
+                	<a href="publications/2006-03-mylar-eclipsecon.ppt">
+                	Mylar: a Task Focused UI for Eclipse [PPT]</a>
+                </li>
 				<li>
                     May 2005, eclipse.org 
                     <a href="publications/2005-04-mylar-proposal.html">

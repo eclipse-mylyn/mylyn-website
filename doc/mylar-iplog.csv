@@ -22,6 +22,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 for 0.5.0
 date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-28, jira,		133483,	Brock Janiczak,		<10,		mkersten,	switch to selection listeners
+2006-03-28, ide,		131422,	Brock Janiczak,		<10,		mkersten,	3.2M6 API port
  
  
 Third Party Software

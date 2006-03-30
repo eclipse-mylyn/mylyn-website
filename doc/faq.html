@@ -22,10 +22,11 @@
 		support my task/bug/issue tracker?</a></li>
 		<li><a href="#upgrading-repositories">How do I upgrade to multiple task repository support?</a> 
 		</li>
-		<li><a href="#versions-repositories">Why is only one task appearing in Bugzilla queries?</a>
+		<li><a href="#versions-repositories">Why is only one task appearing in Bugzilla queries?</a> 
 		</li>
 		<li><a href="#repositories-jira-config">Is there any configuration 
 		needed to make Mylar work with my JIRA repository?</a></li>
+		<li><a href="#eclipse-views-tasks">How does Mylar relate to the Eclipse Tasks view?</a></li>
 	</ul>
 	<p><b>Java Development</b></p>
 	<ul>
@@ -281,6 +282,16 @@ Mylar work with my JIRA repository?</a></h3>
 	<a href="http://jira-dashboard.tigris.org/">
 	http://jira-dashboard.tigris.org/</a> </p>
 	<hr>
+<h3>&nbsp;</h3>
+<h3><a name="eclipse-views-tasks">How does Mylar relate to the Eclipse Tasks view?</a></h3>
+	<p>The SDK's Tasks view is used for showing markers such as 'todo' tags 
+	which indicate a local problem with a resource, similar to a compiler 
+	warning.&nbsp; As such, these 'tasks' are at a much lower level of 
+	granularity than than Mylar's tasks, and one task could involve cleaning up 
+	multiple todos.&nbsp; In order to make working with only the markers in a 
+	particular task context, e.g. for clean-up before committing, the Apply 
+	Mylar filter is available for both the Problems and the Tasks views.&nbsp; </p>
+	<hr>
 <p>&nbsp;</p>
 	<h3><a name="content-assist-duplication">Why do elements appear twice in the content assist popup?</a></h3>
 <p>In Eclipse 3.2, Mylar uses extended content assist processors in order to 
@@ -315,5 +326,8 @@ recommended, but can be useful for 1024x768 screen resolutions.</p>
 			views.&nbsp; To force an element to populate the views manually make 
 			it a landmark by right-clicking or hitting Ctrl+Alt+Shift+Up Arrow.&nbsp; 
 </p>
+	<hr>
+<p>
+			&nbsp;</p>
 <p>&nbsp;</p>
 </body></html>

@@ -5,10 +5,8 @@
 		<ul>
 			<li><a href="doc/new.php">Mylar 0.4.10</a><br><span class="dates"> 
 			(Mar. 17, 2005)</span><br>&nbsp;</li>
-			<!--
-			<li><i>Mylar 0.4.9</a><span class="dates"> 
-			<br>(release date tbd)</span></i></li>
-			-->
+			<li><i>Mylar 0.5.0</a><span class="dates"> 
+			<br>(April 7, 2005)</span></i></li> 
 		</ul> 
 	</div> 
 EOHTML

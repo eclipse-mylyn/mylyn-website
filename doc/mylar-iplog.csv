@@ -24,7 +24,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-28, jira,		133483,	Brock Janiczak,		<10,		mkersten,	switch to selection listeners
 2006-03-28, ide,		131422,	Brock Janiczak,		<10,		mkersten,	3.2M6 API port
 2006-03-28, bugzilla,	134352,	Brock Janiczak,		<10,		mkersten,	query layout
- 
+2006-04-04, monitor,	133233, Brian De Alwis,		<100,		mkersten,	made obfuscation optional 
  
 Third Party Software
 

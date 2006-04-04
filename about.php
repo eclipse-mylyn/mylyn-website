@@ -82,7 +82,7 @@
 		<div class="homeitem3col">
 			<h3>Legal</h3>
 			<ul>
-				<li><a href="doc/mylar-iplog.csv">IP Log</a></li>
+				<li><a href="doc/mylar-iplog.csv">Project IP Log</a>, documented in the eclipse.org project development process <a href="http://www.eclipse.org/projects/dev_process/project-log.php">document</a></li>
 			</ul>
 		</div>
 	<!--

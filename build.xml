@@ -11,6 +11,9 @@
 		<copy todir="doc/dev">
 			<fileset file="../org.eclipse.mylar.doc/doc/dev/plan.html" />
 		</copy>
+		<copy todir="doc/images/dev">
+			<fileset dir="../org.eclipse.mylar.doc/doc/images/dev" />
+		</copy>
 		<copy todir="doc/images">
 			<fileset dir="../org.eclipse.mylar.doc/doc/images" />
 		</copy>

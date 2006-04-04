@@ -5,55 +5,37 @@
 	#****************************************************************************
 	
 	#
-	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Mylar Plan";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
+	$filename = "http://www.eclipse.org/mylar/doc/dev/plan.html";
+    $dataFile = fopen( $filename, "r" ) ;
+    if ( $dataFile )  {
+    	while (!feof($dataFile))   {
+        	$contents .= fgets($dataFile, 4096);
+    	}
+    	fclose($dataFile);
+    } else  {
+    	die( "fopen failed for $filename" ) ;
+    }
 
-	# End: page-specific settings
-	#
-		
 	# Paste your HTML content between the EOHTML markers!	
+	
+	include("_sideCommon.php");
+		
 	$html = <<<EOHTML
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h1>$pageTitle</h1></div>
-	<p>
-			Current priorities are represented by the <a href="bugs.php">
-		open bugzilla reports</a>.
-		</p>
-	<div class="homeitem3col">
-		<h3>Release Themes</h3>
-		<ul>
-			<li>Mylar 0.5: make tasks a first class abstraction, generic task repository support,
-				integration between tasks and contexts
-			</li>
-			<li>Mylar 0.6 (Callisto): provisional API stability, make context more first class
-				to facilitate sharing and reuse
-			</li>
-			<li>...</li>
-			<li>Mylar 1.0: tools project quality and API contract
-			</li>
-		</ul> 
+        $contents
 	</div>
-
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
-	
-	</div>  
 	
 	<div id="rightcolumn">
 		$commonside
 	</div>
-
 </div>
+
 
 EOHTML;
 

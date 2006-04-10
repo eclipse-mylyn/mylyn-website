@@ -40,18 +40,17 @@
 		        <img src="images/feature.gif">
 		        Mylar can be installed as a standalone Task List for managing personal tasks, with the Focused UI support for the Eclipse SDK
 		        to reduce information overload, and with one or more task <a href="start.php">repository connectors</a>.  All features are optional
-		        unless indicated otherwise.  Note that installing the JIRA Connector involves downloading a feature
-				from jira-dashboard.tigris.org.  Also see the <a href="doc/new.php">New & Noteworthy</a>, and the <a href="doc/faq.php#install-failure">FAQ</a> 
+		        unless indicated otherwise by the update manager.  Note that installing the JIRA Connector involves downloading a feature
+				from jira-dashboard.tigris.org.<br>
+				<i>We recommend that you choose "Search for new features.." to <a href="http://www.eclipse.org/mylar/doc/faq.php#install">install Mylar updates</a>.</i>
+				<!--
+				Also see the <a href="doc/new.php">New & Noteworthy</a>, and the <a href="doc/faq.php#install-failure">FAQ</a> 
 				for installation trouble shooting.
+				-->
 		        </td>
 		     <td>
-		<img src="/mylar/images/install-overview.gif">
+				<img src="/mylar/images/install-overview.gif">
 		     </td>
-		    </tr>
-		    <tr>
-		    	<td colspan=2>
-		    	<i>We recommend that you choose "Search for new features.." to install Mylar updates.</i>
-		    	</td>
 		    </tr>
 		</table>
         
@@ -59,10 +58,10 @@
 			<h3>Mylar 0.5.x Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2M6: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.2.tgz ">&nbsp;[tgz]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.2.tgz ">&nbsp;[site zip]</a>
 	        	</li>
 	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.1.tgz ">&nbsp;[tgz]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.1.tgz ">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 		</div>

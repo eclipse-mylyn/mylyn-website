@@ -92,7 +92,7 @@
 		</p>
 		
 		<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 
-		user interface are evolving rapidly based on user community feedback.  New builds are 
+		UI continue to evolve raplidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.
 
 		<p>&nbsp;</p>

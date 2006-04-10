@@ -56,7 +56,7 @@
 		</table>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.4.x Update Sites</h3>
+			<h3>Mylar 0.5.x Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2M6: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://download.eclipse.org/technology/mylar/update-site/mylar-site-local-e3.2.tgz">&nbsp;[tgz]</a>

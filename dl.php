@@ -59,10 +59,10 @@
 			<h3>Mylar 0.5.x Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2M6: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://download.eclipse.org/technology/mylar/update-site/mylar-site-local-e3.2.tgz">&nbsp;[tgz]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.2.tgz ">&nbsp;[tgz]</a>
 	        	</li>
-	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b> 
-	        		<a href="http://download.eclipse.org/technology/mylar/update-site/mylar-site-local-e3.1.tgz">&nbsp;[tgz]</a>
+	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-e3.1.tgz ">&nbsp;[tgz]</a>
 	        	</li>
 			</ul>
 		</div>

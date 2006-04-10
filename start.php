@@ -45,14 +45,15 @@
 		</div>      
 		
 		<p>In addition to providing personal task management and support for task contexts, Mylar has the following 
-		task/issue/bug/report repository integration:</p>
+		task/issue/bug/report repository integration.  The deeper the integration, the better and more streamlined
+		the user experienece.</p>
 
         <div class="homeitem3col">
 			<h3>Levels of Repository Integration</h3>
 			<ul>
 				<li>
                     Web linking only: Reports linked via drag-and-drop, editing via embedded 
-					browser</td> 
+					browser, </td> 
 					<br><a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">(any web-based repository)</a>
                 </li>
 				<li>

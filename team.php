@@ -66,7 +66,7 @@
 				</li>
 			</ul> 
 		</div>
-		<p>Last updated: 2006-04-10</p>
+		<p><i>Last updated: 2006-04-10></i></p>
 
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>

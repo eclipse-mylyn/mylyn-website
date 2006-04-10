@@ -41,8 +41,8 @@
 		        Mylar can be installed as a standalone Task List for managing personal tasks, with the Focused UI support for the Eclipse SDK
 		        to reduce information overload, and with one or more task <a href="start.php">repository connectors</a>.  All features are optional
 		        unless indicated otherwise by the update manager.  Note that installing the JIRA Connector involves downloading a feature
-				from jira-dashboard.tigris.org.<br>
-				<i>We recommend that you choose "Search for new features.." to <a href="http://www.eclipse.org/mylar/doc/faq.php#install">install Mylar updates</a>.</i>
+				from jira-dashboard.tigris.org.
+				<i>We recommend that you choose "Search for new features.." to <a href="http://www.eclipse.org/mylar/doc/faq.php#install">install updates</a>.</i>
 				<!--
 				Also see the <a href="doc/new.php">New & Noteworthy</a>, and the <a href="doc/faq.php#install-failure">FAQ</a> 
 				for installation trouble shooting.

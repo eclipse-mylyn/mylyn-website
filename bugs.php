@@ -58,10 +58,11 @@
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>
-
+<!--
 <div id="rightcolumn"> 
 	<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
 </div>
+-->
 
 <?php
     $html = ob_get_contents();

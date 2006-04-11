@@ -5,7 +5,7 @@
 	<target name="copy-web" description="Doc Web Update">
 		<copy todir="doc">
 			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/new-0.3.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/new-0.4.0.html" />
 			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
 		</copy>
 		<copy todir="doc/dev">

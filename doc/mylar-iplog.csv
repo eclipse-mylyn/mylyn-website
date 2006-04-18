@@ -26,6 +26,12 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-28, bugzilla,	134352,	Brock Janiczak,		<10,		mkersten,	query layout
 2006-04-04, monitor,	133233, Brian De Alwis,		<100,		mkersten,	made obfuscation optional 
  
+for 0.5.1 
+2006-04-18, ide,		136899,	Brock Janiczak,		<10,		mkersten,	3.2RC1 compatability
+2006-04-18, ide,		135538,	Gunnar Wagenknecht,	<10,		mkersten,	3.2RC1 compatability
+
+
+ 
 Third Party Software
 
 name including version, directory location or jar file, license name and version, usage,,,

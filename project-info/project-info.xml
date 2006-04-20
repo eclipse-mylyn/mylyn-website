@@ -33,12 +33,12 @@
   <releases>
     <release 
        status="completed"
-       name="0.5.0"
+       name="0.5"
        date="06/04/2006"
        download="/mylar/dl.php" />
     <release 
        status="scheduled"
-       name="0.6.0"
+       name="0.6"
        date="28/06/2006"
        plan="/mylar/plan.php" />
   </releases>

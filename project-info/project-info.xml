@@ -29,17 +29,17 @@
 	<newsgroup name="eclipse.technology.mylar"/>
   </newsgroups>
   
-  <!--
-  <project-plan url="/about/plan.php"/>
-   -->
-
-  <!--
+  <project-plan url="/mylar/plan.php"/>
   <releases>
     <release 
        status="completed"
-       name="3.0.2"
-       date="02/2005"
-       download="/tptp/home/downloads/drops/3.0.2.html" />
+       name="0.5.0"
+       date="06/04/2006"
+       download="/mylar/dl.php" />
+    <release 
+       status="scheduled"
+       name="0.6.0"
+       date="28/06/2006"
+       plan="/mylar/plan.php" />
   </releases>
-      -->
 </project>

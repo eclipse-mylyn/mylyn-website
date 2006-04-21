@@ -1,7 +1,7 @@
 <?php
     $newsside = <<<EOHTML
 		<div class="sideitem">
-			<h6>News & Blogs</h6>
+			<h6>Blogs & Articles</h6>
 			<ul>
 				<li>Riyad Kalla: <a href="http://www.eclipsezone.com/articles/mylar/">
 				Revolutionize your productivity with Eclipse Mylar</a>

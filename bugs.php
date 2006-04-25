@@ -46,7 +46,7 @@
 			<h3>Submitting Bugs</h3>
 			<ul>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-				Submit bugzilla reports</a> for any problems or enhancement requests
+				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests
 				</li>
 				<li>For bugs: please make sure that you provide details on how to reproduce.
 				</li>

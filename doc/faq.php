@@ -9,8 +9,8 @@
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = "http://www.eclipse.org/mylar/doc/faq.html";
-    $dataFile = fopen( $filename, "r" ) ;
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/faq.html";
+	$dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {
         	$contents .= fgets($dataFile, 4096);

@@ -47,11 +47,8 @@
 			<ul>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests
-				</li>
-				<li>For bugs: please make sure that you provide details on how to reproduce.
-				</li>
-				<li>For enhancements: please provide a detailed use case for the request.
-				</li>
+				<br>&nbsp;&nbsp;&nbsp;&nbsp;For bugs: please make sure that you provide details on how to reproduce.
+				<br>&nbsp;&nbsp;&nbsp;&nbsp;For enhancements: please provide a detailed use case for the request.
 			</ul>
 		</div>
 		<p>&nbsp;</p>

@@ -29,9 +29,9 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 for 0.5.1 
 2006-04-18, ide,		136899,	Brock Janiczak,		<10,		mkersten,	3.2RC1 compatability
 2006-04-18, ide,		135538,	Gunnar Wagenknecht,	<10,		mkersten,	3.2RC1 compatability
+2006-04-27, jira,		129086, Brock Janiczak,		<1000,		mkersten,	JIRA query wizard
+2006-04-27, jira,		129086, Eugne Kuleshov,		<1000,		mkersten,	JIRA query wizard
 
-
- 
 Third Party Software
 
 name including version, directory location or jar file, license name and version, usage,,,

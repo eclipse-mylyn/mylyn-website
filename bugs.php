@@ -24,7 +24,18 @@
 		<div align="center"><h1><?= $pageTitle ?></h1></div>
 		<p>In part thanks to the Bugzilla integration that it provides, the
 		Mylar project makes heavy use of Bugzilla for tracking bugs, planning,
-		and discussing design issues.</p> 
+		and discussing design issues.</p>
+		
+		<div class="homeitem3col">
+			<h3>Submitting Bugs</h3>
+			<ul>
+				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
+				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests.
+				For defects please provide details on how to reproduce.  For enhancements outline a use case. 
+				</p>
+			</ul>
+		</div>
+		 
 		<div class="homeitem3col">
 			<h3>Bugzilla Queries</h3>
 			<ul>
@@ -42,16 +53,6 @@
 				<img border=0 src="images/query.gif">&nbsp;&nbsp;Linux-specific reports</a> 
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&op_sys=Mac+OS&op_sys=MacOS+X&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="images/query.gif">&nbsp;&nbsp;MacOS-specific reports</a> 
-			</ul>
-		</div>
-		<div class="homeitem3col">
-			<h3>Submitting Bugs</h3>
-			<ul>
-				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests
-				<p>&nbsp;&nbsp;&nbsp;&nbsp;Defects: please make sure that you provide details on how to reproduce.
-				<br>&nbsp;&nbsp;&nbsp;&nbsp;Enhancements: please provide a detailed use case for the request.
-				</p>
 			</ul>
 		</div>
 		<p>&nbsp;</p>

@@ -32,6 +32,10 @@ for 0.5.1
 2006-04-27, jira,		129086, Brock Janiczak,		<1000,		mkersten,	JIRA query wizard
 2006-04-27, jira,		129086, Eugne Kuleshov,		<1000,		mkersten,	JIRA query wizard
 
+for 0.5.2
+2006-05-04, monitor,	139293,	Leah Findlater,		<10,		mkersten,	made questionnaire page optional
+
+
 Third Party Software
 
 name including version, directory location or jar file, license name and version, usage,,,

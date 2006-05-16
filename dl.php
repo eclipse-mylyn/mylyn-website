@@ -72,7 +72,7 @@
         <div class="homeitem3col">
 			<h3>Dev Builds and Archives</h3>
 			<ul>
-				<li>Latest Dev Build (3.2RC1): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Latest Dev Build (3.2RCx only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 				<li>Archives: download.eclipse.org/technology/mylar//update-site-archive/0.4.x/e3.x)</li>
 			</ul>
 		</div>

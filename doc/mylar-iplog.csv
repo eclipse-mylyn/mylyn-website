@@ -37,6 +37,7 @@ for 0.5.2
 2006-05-11, bugzilla,	141251,	Brock Janiczak,		<100,		mkersten,	progress for settings validation
 2006-05-12, tasklist,	132656, Stefan Langer,		<100,		mkersten,	disabling of internal browser
 2005-05-16, tasklist,	141656,	Brock Janiczak,		<10,		mkersten,	based on constraint
+2005-05-16, jira,		139320,	Brock Janiczak,		<100,		mkersten,	update for new JIRA APIs
 
 Third Party Software
 

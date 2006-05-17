@@ -62,7 +62,7 @@
 	<p>&nbsp;</p>
 </div>
 <div id="rightcolumn"> 
-	<?= $projectBugs->getAsSideHTML("Top Voted Bugs (live)") ?>
+	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
 </div>
 
 <?php

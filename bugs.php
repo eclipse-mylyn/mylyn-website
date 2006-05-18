@@ -11,7 +11,8 @@
     ob_start();
 
     include($App->getProjectCommon());   
-	$projectBugs = new ProjectBugs("technology.mylar");
+	$votesBugs = new ProjectBugs("technology.mylar");
+	$votesEnhancements = new ProjectBugs("technology.mylar", 1);
 	
 	$pageTitle 		= "Mylar Bugs";
 	$pageKeywords	= "Mylar, Eclipse";
@@ -62,7 +63,8 @@
 	<p>&nbsp;</p>
 </div>
 <div id="rightcolumn"> 
-	<?= $projectBugs->getAsSideHTML("Top Voted Bugs") ?>
+	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
+	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 </div>
 
 <?php

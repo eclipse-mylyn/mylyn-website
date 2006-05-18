@@ -64,7 +64,7 @@
 </div>
 <div id="rightcolumn"> 
 	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
-	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
+	<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 </div>
 
 <?php

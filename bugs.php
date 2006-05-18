@@ -62,7 +62,7 @@
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>
-<div id="rightcolumn"> 
+<div id="rightcolumn" valign="top"> 
 	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 	<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 </div>

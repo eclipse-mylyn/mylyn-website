@@ -12,7 +12,7 @@
 
     include($App->getProjectCommon());   
 	$votesBugs = new ProjectBugs("technology.mylar");
-	$votesEnhancements = new ProjectBugs("technology.mylar", 1);
+	$votesEnhancements = new ProjectBugs("technology.mylar", 2);
 	
 	$pageTitle 		= "Mylar Bugs";
 	$pageKeywords	= "Mylar, Eclipse";

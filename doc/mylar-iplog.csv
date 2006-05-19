@@ -40,6 +40,7 @@ for 0.5.2
 2005-05-16, jira,		139320,	Brock Janiczak,		<100,		mkersten,	update for new JIRA APIs
 2005-05-17, jira,		139320,	Brock Janiczak,		<1000,		mkersten,	form-based JIRA editor
 2005-05-17, tasklist,	142362, Brian de Alwis,		<10,		mkersten,	check for running workbench
+2005-05-18, bugzilla,	117035,	David Barri,		<100,		relves,		fixes for alternate encodings
 
 Third Party Software
 

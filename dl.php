@@ -42,7 +42,7 @@
 		        to reduce information overload, and with one or more task <a href="start.php">repository connectors</a>.  All features are optional
 		        unless indicated otherwise by the update manager.  Note that installing the JIRA Connector involves downloading a feature
 				from jira-dashboard.tigris.org.
-				<i>We recommend that you choose "Search for new features.." to <a href="http://www.eclipse.org/mylar/doc/faq.php#install">install updates</a>.</i>
+				<b>We recommend that you choose "Search for new features.." to <a href="http://www.eclipse.org/mylar/doc/faq.php#install">install updates</a>.</b>
 				<!--
 				Also see the <a href="doc/new.php">New & Noteworthy</a>, and the <a href="doc/faq.php#install-failure">FAQ</a> 
 				for installation trouble shooting.
@@ -57,11 +57,8 @@
         <div class="homeitem3col">
 			<h3>Mylar 0.5.x Update Sites</h3>
 			<ul>
-				<li>Eclipse 3.2RC1-4: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
+				<li>Eclipse 3.2RC1-5: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-0.5.0-e3.2.tgz&r=1">&nbsp;[site zip]</a>
-	        		<!--<br>
-	        		Eclipse 3.2M6: <b>download.eclipse.org/technology/mylar/update-site-archive/0.5.0/e3.2</b>
-	        	-->
 	        	</li>
 	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-local-0.5.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>
@@ -91,9 +88,9 @@
 		There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
 		--> 
 		</p>
-		<p><b>Supported repositories</b>: Bugzilla 2.16-2.22 (uncustomized), JIRA 3.1.1 and later.
+		<p><b>Supported repositories</b>: Bugzilla 2.16-2.22, JIRA 3.1.1 and later.
 		</p>
-		
+ 		
 		<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 
 		UI continue to evolve raplidly based on user community feedback.  New builds are 
 		made available weekly, and contain fixes for key issues reported the previous week.

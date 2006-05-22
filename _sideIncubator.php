@@ -1,5 +1,5 @@
 <?php
-    $incubatorside = <<<EOHTML
+    $incubatorSide = <<<EOHTML
 		<div class="sideitem">
 			<h6>Project Status</h6>
 			<ul>

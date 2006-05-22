@@ -72,11 +72,11 @@
 			<ul>
 				<li>Mylar BoF at <a href="http://www.eclipsecon.org">EclipseCon 2006</a>, March 21, Grand Ballroom, Santa Clara Convention Center, Santa Clara, USA</li>
 
-				<li>First public release, 0.4<br><span class="dates">(Oct. 28, 2005)</span></li>
+				<li>First public release, 0.4, <span class="dates">(Oct. 28, 2005)</span></li>
 				
-				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
+				<li>Eclipse.org project created, <span class="dates">(June 13, 2005)</span></li>
 				
-				<li>First user study preview release<br><span class="dates">(July 11, 2005)</span></li>
+				<li>First user study preview release, <span class="dates">(July 11, 2005)</span></li>
 			</ul>
 		</div> 
 	</div> 

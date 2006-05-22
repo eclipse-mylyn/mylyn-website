@@ -27,12 +27,24 @@
 		<br>&nbsp;
 		<div align="center"><h1>$pageTitle</h1></div>
 
+
+
 		<div class="homeitem">
 			<h3>News & Blogs Archive</h3>
 			<ul>
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=jira_support_in_mylar">
 				Jira support in Mylar</a>
 				<span class="dates">(Feb. 23, 2006)</span><br>&nbsp;</li>
+				
+				<li>Ryan Markel: <a href="http://blog.platinumsolutions.com/node/15">
+				Mylar Technology Project — Eclipse Just Got Easier</a>
+				<span class="dates">(Jan. 16, 2006)</span><br>&nbsp;</li>
+				
+				
+				<li>Haranguing Garden: <a href="http://chambery.subfire.org/wordpress/?p=38">
+				Jira support in Mylar</a>
+				<span class="dates">(Jan. 11, 2006)</span><br>&nbsp;</li>
+								
 				<li>First public release, 0.4<br><span class="dates">(Oct. 28, 2005)</span><br>&nbsp;</li>
 				<li>Eclipse.org project created<br><span class="dates">(June 13, 2005)</span></li>
 				<li>First user study preview release<br><span class="dates">(July 11, 2005)</span><br>&nbsp;</li>

@@ -1,7 +1,7 @@
 <?php
     $newsside = <<<EOHTML
 		<div class="sideitem">
-			<h6>Blogs & Articles <a href="archive.php">(archive)</a></h6>
+			<h6><a href=archive.php">Blogs & Articles</a></a></h6>
 			<ul>
 				<li>Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
 				Eclipse Mylar: Less is More</a>

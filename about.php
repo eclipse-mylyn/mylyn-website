@@ -51,35 +51,6 @@
 		in the form of code, ideas, and documentation.</p>
 		
 		<div class="homeitem3col">
-			<h3>Presentations and Publications</h3>
-			<ul>
-                <li>
-                	March 2006, EclipseCon talk: 
-                	<a href="publications/2006-03-mylar-eclipsecon.ppt">
-                	Mylar: a Task Focused UI for Eclipse [PPT]</a>
-                </li>
-				<li>
-                    May 2005, eclipse.org 
-                    <a href="publications/2005-04-mylar-proposal.html">
-                    Project creation review</a>
-                    <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT]</a>
-                </li>
-                <li>
-                	March 2005, EclipseCon talk: 
-                	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
-                	Mylar: a degree-of-interest model for Eclipse [PPT]</a>
-                </li>
-                <li>
-                	March 2005, AOSD talk: 
-                	<a href="publications/2005-03-mylar-aosd-web.ppt">
-                	Mylar: a degree-of-interest model for IDEs [PPT]</a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf">[PDF]</a>
-                </li>
-			</ul> 
-		</div>
-		
-		<div class="homeitem3col">
 			<h3>Legal</h3>
 			<ul>
 				<li><a href="doc/mylar-iplog.csv">Project IP Log</a>, described in the eclipse.org project development process <a href="http://www.eclipse.org/projects/dev_process/project-log.php">document</a></li>

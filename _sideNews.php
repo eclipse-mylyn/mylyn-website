@@ -3,6 +3,9 @@
 		<div class="sideitem">
 			<h6>Blogs & Articles</h6>
 			<ul>
+				<li>Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
+				Eclipse Mylar: Less is More</a>
+				<span class="dates">(May 12, 2006)</span><br>&nbsp;</li>
 				<li>Riyad Kalla: <a href="http://www.eclipsezone.com/articles/mylar/">
 				Revolutionize your productivity with Eclipse Mylar</a>
 				<span class="dates">(Apr. 10, 2006)</span><br>&nbsp;</li>

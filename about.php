@@ -107,7 +107,7 @@
 	<div id="rightcolumn">
 		$mylarIsSide
 		$commonside
-		$newsside
+		$incubatorside
 	</div>
 	
 	<p>&nbsp;</p>

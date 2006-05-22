@@ -76,12 +76,6 @@
 			</ul>
 		</div> 
 	</div> 
-
-	<div id="rightcolumn">
-		$commonside
-		$newsside
-		$incubatorside
-	</div>
 </div>
 
 EOHTML;

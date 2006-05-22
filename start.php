@@ -26,7 +26,7 @@
           
         <p>Mylar documentation is currently sparse, and distributed with the release.  The flash
         videos provide an introduction to the basic features.  The best way to learn more is by reading the 
-        <a href="/mylar/doc/new.php">New & Noteworthy</a> and looking through the <a href="about.php">EclipseCon 2006 presentation</a>. For questions about using Mylar 
+        <a href="/mylar/doc/new.php">New & Noteworthy</a> and looking through the <a href="presentations.php">EclipseCon 2006 presentation</a>. For questions about using Mylar 
         <a href="users.php">use the newsgroup</a> and consult the <a href="doc/faq.php">FAQ</a>. </p>
          
         <div class="homeitem3col">

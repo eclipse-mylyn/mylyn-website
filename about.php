@@ -78,7 +78,6 @@
 	<div id="rightcolumn">
 		$mylarIsSide
 		$commonside
-		$incubatorside
 	</div>
 	
 	<p>&nbsp;</p>

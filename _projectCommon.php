@@ -18,7 +18,10 @@
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Downloads", "/mylar/dl.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Bugs", "/mylar/bugs.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ", "/mylar/doc/faq.php", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New for 0.5", "/mylar/doc/new.php", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New for 0.4", "/mylar/doc/new.php", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New for 0.3", "/mylar/doc/new.php", "_self", 1);
+
 
 	$Nav->addNavSeparator("Contributors", "/mylar/dev.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Reference", "/mylar/doc/devref.php", 	"_self", 1);

@@ -36,11 +36,14 @@ for 0.5.2
 2006-05-04, monitor,	139293,	Leah Findlater,		<10,		mkersten,	made questionnaire page optional
 2006-05-11, bugzilla,	141251,	Brock Janiczak,		<100,		mkersten,	progress for settings validation
 2006-05-12, tasklist,	132656, Stefan Langer,		<100,		mkersten,	disabling of internal browser
-2005-05-16, tasklist,	141656,	Brock Janiczak,		<10,		mkersten,	based on constraint
-2005-05-16, jira,		139320,	Brock Janiczak,		<100,		mkersten,	update for new JIRA APIs
-2005-05-17, jira,		139320,	Brock Janiczak,		<1000,		mkersten,	form-based JIRA editor
-2005-05-17, tasklist,	142362, Brian de Alwis,		<10,		mkersten,	check for running workbench
-2005-05-18, bugzilla,	117035,	David Barri,		<100,		relves,		fixes for alternate encodings
+2006-05-16, tasklist,	141656,	Brock Janiczak,		<10,		mkersten,	based on constraint
+2006-05-16, jira,		139320,	Brock Janiczak,		<100,		mkersten,	update for new JIRA APIs
+2006-05-17, jira,		139320,	Brock Janiczak,		<1000,		mkersten,	form-based JIRA editor
+2006-05-17, tasklist,	142362, Brian de Alwis,		<10,		mkersten,	check for running workbench
+2006-05-18, bugzilla,	117035,	David Barri,		<100,		relves,		fixes for alternate encodings
+
+0.5.3
+2006-05-23,	tasklist,	142898,	Raphael Ackermann  	<10,		relves,		search attribute update streamlining
 
 Third Party Software
 

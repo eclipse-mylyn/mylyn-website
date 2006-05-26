@@ -43,7 +43,8 @@ for 0.5.2
 2006-05-18, bugzilla,	117035,	David Barri,		<100,		relves,		fixes for alternate encodings
 
 0.5.3
-2006-05-23,	tasklist,	142898,	Raphael Ackermann  	<10,		relves,		search attribute update streamlining
+2006-05-23,	tasklist,	142898,	Raphael Ackermann, 	<10,		relves,		search attribute update streamlining
+2006-05-25,	core+,		102663,	Brian de Alwis,		<1000,		mkersten,	multiple window support
 
 Third Party Software
 

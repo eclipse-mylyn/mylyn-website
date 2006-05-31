@@ -19,7 +19,6 @@
 	
 	include("_sideCommon.php");
 	include("_sideNews.php");
-	include("_sideIncubator.php");
 	$html = <<<EOHTML
   
 <div id="maincontent">
@@ -50,7 +49,6 @@
 	<div id="rightcolumn">
 		$commonside
 		$newsside
-		$incubatorside
 	</div>
 </div>
 

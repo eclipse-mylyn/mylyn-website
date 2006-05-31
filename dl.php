@@ -85,7 +85,7 @@
 				--> 
 			</p>
 			<p>
-				<b>Supported repositories</b>: Bugzilla 2.16-2.22, JIRA 3.1.1 and later.
+				<b>Supported repositories</b>: Bugzilla 2.18 and later, JIRA 3.1.1 and later.
 			</p>
 	 		
 			<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 

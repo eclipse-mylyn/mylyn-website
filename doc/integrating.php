@@ -28,7 +28,13 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	$contents
+	<div id="midcolumn">
+        $contents
+	</div>
+	
+	<div id="rightcolumn">
+		$devside
+	</div>
 </div>
 
 

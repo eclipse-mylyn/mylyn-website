@@ -24,6 +24,7 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
+	
 		<div align="center"><h1>$pageTitle</h1></div>
 		
 		<table border="0" cellpadding="4">
@@ -70,6 +71,7 @@
                 </li>
 			</ul>
 		</div> 
+		
 	</div> 
 
 	<div id="rightcolumn">

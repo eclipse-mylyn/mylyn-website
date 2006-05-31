@@ -24,8 +24,8 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
-		<br>&nbsp;
 		<div align="center"><h1>$pageTitle</h1></div>
+		
 		<table border="0" cellpadding="4">
           <tr>
           	<td valign="top"><img border=0 src="images/screenshot-mylar-small.gif"></td>
@@ -34,47 +34,9 @@
 				<p>
 				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 				</p>
-				<!--
-				<p>
-				This project is in the <a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>.
-				</p>
-				-->
 		  	</td>
           </tr>
         </table>
-
-		<div class="homeitem">
-			<h3>Community</h3>
-			<ul>
-				<li>
-                    <a href="news://news.eclipse.org/eclipse.technology.mylar">
-					mylar newsgroup:</a> user discussions and minor release announcements
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
-				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org:</a> major release and event announcements
-					[<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">archive</a>]</li>
-				<li>
-                    <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
-					mylar-dev@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[archive]</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
-			</ul>
-		</div>
-
-		<div class="homeitem">
-			<h3>Events</h3>
-			<ul>
-				<li>
-                    <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
-                    Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
-                	<br>
-                	<a href="http://www.eclipsecon.org/2006/Sub.do?id=164"><img border=0 
-					 src="http://www.eclipsecon.org/2006/images/banner132x38.gif"/>
-                </li>
-			</ul>
-		</div> 
 	</div> 
 
 	<div id="rightcolumn">

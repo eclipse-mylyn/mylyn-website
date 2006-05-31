@@ -28,45 +28,12 @@
 		
 		<table border="0" cellpadding="4">
           <tr>
-          	<td valign="top"><img border=0 src="logo.gif" width="164" height="229" alt="AJDT screenshot"></td>
-          	<td valign="top">&nbsp;</td>
-            <td valign="top">
-
-		<p>
-		Some aspects of system implementation, such as logging, error
-		handling, standards enforcement and feature variations are
-		notoriously difficult to implement in a modular way. The result
-		is that code is tangled across a system and leads to quality,
-		productivity and maintenance problems. Aspect Oriented Software
-		Development enables the clean modularization of these crosscutting
-		concerns. The AspectJ Development Tools (AJDT) project provides
-		Eclipse platform based tool support for AOSD with AspectJ. Our goal
-		is to deliver a user experience that is consistent with the Java
-		Development Tools (JDT) when working with AspectJ projects and
-		resources. This will be accomplished by developing an integration
-		layer between the AspectJ Development Environment Framework and
-		Eclipse/JDT extension points.
-		</p>
-
-		  	</td>
-          </tr>
-
-        </table>
-		
-		
-		<table border="0" cellpadding="4">
-          <tr>
           	<td valign="top"><img border=0 src="images/screenshot-mylar-small.gif"></td>
           	<td valign="top">&nbsp;</td>
             <td valign="top">
 				<p>
 				Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones. It supports task management and monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 				</p>
-				<!--
-				<p>
-				This project is in the <a href="http://eclipse.org/projects/dev_process/validation-phase.php">Incubation Phase</a>.
-				</p>
-				-->
 		  	</td>
           </tr>
         </table>

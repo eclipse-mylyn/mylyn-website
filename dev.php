@@ -35,7 +35,7 @@
 		modification should correspond to a bugzilla report to show up in the plan.</p>
 
 		<div class="homeitem3col">
-			<h3>Contributor Resources</h3>
+			<h3>Resources</h3>
 			<ul>
 				<li>Mailing list: <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">
 					mylar-dev@eclipse.org:</a> contributor discussions 

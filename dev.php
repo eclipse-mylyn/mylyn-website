@@ -15,7 +15,7 @@
     include($App->getProjectCommon());   
 	$projectInfo = new ProjectInfo("technology.mylar");
 	
-	$pageTitle 		= "Mylar Contributors";
+	$pageTitle 		= "Mylar Developers";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
 ?>
@@ -30,10 +30,9 @@
         and slowly stabilizing initial APIs and extension points. If you plan on extending 
 		Mylar we suggest that you bring this up as a discussion on
 		<a href="mailto:mylar-dev@eclipse.org">mylar-dev@eclipse.org</a>.
-		Development is done in a transarent XP style, with weekly planning messages 
-		sent to the mylar-dev list. Every task that results in code or resource 
-		modification should correspond to a bugzilla report to show up in the plan.  The weekly plan 
-		is sent out each Monday, if you would like a task included mark the report P2 or higher.</p>
+		Development is done in a transarent XP style, with Bugzilla reports used
+		for planning. Every task that results in code or resource 
+		modification should correspond to a bugzilla report to show up in the plan.</p>
 
 		<div class="homeitem3col">
 			<h3>Contributor Resources</h3>

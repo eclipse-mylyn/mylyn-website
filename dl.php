@@ -43,7 +43,7 @@
 					from jira-dashboard.tigris.org.
 					</p>
 					<p>
-					Use <b><i>"Search for new features.."</i></b> to install updates (<a href="http://www.eclipse.org/mylar/doc/faq.php#install">troubleshooting</a>).
+					Only use <b><i>"Search for new features.."</i></b> to install updates (<a href="http://www.eclipse.org/mylar/doc/faq.php#install">troubleshooting</a>).
 			        </p>
 			        </td>
 			     <td>

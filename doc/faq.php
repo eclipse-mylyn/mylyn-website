@@ -26,7 +26,7 @@
 		
 	$html = <<<EOHTML
 
-<div id="midcolumn" style="width: 80%">
+<div id="midcolumn" style="width:75%">
     $contents
 </div>
 

@@ -56,7 +56,7 @@
         <div class="homeitem3col">
 			<h3>Mylar 0.5.x Update Sites</h3>
 			<ul>
-				<li>Eclipse 3.2RC1-5: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
+				<li>Eclipse 3.2RC: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.5.3-site-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  

@@ -27,9 +27,11 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
+	<!-- style="position: absolute; top: 0; left: 250px" -->
+	
+	<!-- <div id="midcolumn"> -->
         $contents
-	</div>
+	<!-- </div> -->
 	
 	<div id="rightcolumn">
 		$commonside

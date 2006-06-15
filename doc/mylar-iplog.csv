@@ -44,7 +44,7 @@ for 0.5.2
 
 0.5.3
 2006-05-23,	tasklist,	142898,	Raphael Ackermann, 	<10,		relves,		search attribute update streamlining
-2006-05-25,	core+,		102663,	Brian de Alwis,		<1000,		mkersten,	multiple window support
+2006-05-25,	core,		102663,	Brian de Alwis,		<1000,		mkersten,	multiple window support
 2006-05-30, jira,		139314, Eugene Kuleshov,	<100,		mkersten,	jira query editing
 2006-06-02, ide,		142875,	Brock Janiczak,		<100,		mkersten,	subclipse change sets
 2006-06-06, bugzilla,	102851,	Jeff Pound,			<100,		relves,		attachments
@@ -53,6 +53,7 @@ for 0.5.2
 
 0.5.4
 2006-06-14,	tasklist,	146396,	Eugene Juleshov,	<100,		mkersten,	repository settings page refactoring
+2006-06-15, java.tests,	147041,	Raphael Ackermann, 	<10,		mkersten,	test tear down fix
 
 Third Party Software
 

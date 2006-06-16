@@ -54,6 +54,7 @@ for 0.5.2
 0.5.4
 2006-06-14,	tasklist,	146396,	Eugene Juleshov,	<100,		mkersten,	repository settings page refactoring
 2006-06-15, java.tests,	147041,	Raphael Ackermann, 	<10,		mkersten,	test tear down fix
+2006-06-16, trac,		145794,   Steffen Pingel,	<1000,		mkersten,	test cases for Trac integration
 
 Third Party Software
 

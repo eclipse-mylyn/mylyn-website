@@ -51,12 +51,13 @@ for 0.5.2
 2006-06-12, ide,		146385,	Gunnar Wagenknecht, <10,		mkersten,	subclipse loading
 2006-06-13, ide,		146806, Raphael Ackermann,	<10,		mkersten,	log messages
 
-0.5.4
+0.6.0
 2006-06-14,	tasklist,	146396,	Eugene Kuleshov,	<100,		mkersten,	repository settings page refactoring
 2006-06-15, java.tests,	147041,	Raphael Ackermann, 	<10,		mkersten,	test tear down fix
 2006-06-16, trac,		145794, Steffen Pingel,		<1000,		mkersten,	test cases for Trac integration
 2006-06-16,	jira,		143612,	Eugene Kuleshov,	<100,		mkersten,	new jira task integration
 2006-06-19,	tasklist,	146617,	Steffen Pingel, 	<10,		mkersten,	handle format fix
+2006-06-20, tasklist,	145194,	Felix Schwarz,		<100,		mkersten,	test and patch for determining children
 
 Third Party Software
 

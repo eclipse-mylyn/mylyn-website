@@ -59,6 +59,7 @@ for 0.5.2
 2006-06-19, bugzilla,	146868, Nathan Hapke,		<1000,		relves,		bugzilla time tracking attributes with unit tests
 2006-06-19,	tasklist,	146617,	Steffen Pingel, 	<10,		mkersten,	handle format fix
 2006-06-20, tasklist,	145194,	Felix Schwarz,		<100,		mkersten,	test and patch for determining children
+2006-06-21, ide,		145074,	Gunnar Wagenknecht, <1000,		mkersten,	team provider extension point
 
 Third Party Software
 

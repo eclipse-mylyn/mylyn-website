@@ -60,6 +60,10 @@ for 0.5.2
 2006-06-19,	tasklist,	146617,	Steffen Pingel, 	<10,		mkersten,	handle format fix
 2006-06-20, tasklist,	145194,	Felix Schwarz,		<100,		mkersten,	test and patch for determining children
 2006-06-21, ide,		145074,	Gunnar Wagenknecht, <1000,		mkersten,	team provider extension point
+2006-06-21, trac,		147816, Steffen Pingel,		<1000,		mkersten,	trac core and model
+2006-06-21, trac,		147817, Steffen Pingel,		<100,		mkersten,	connector settings
+2006-06-21, trac,		148090, Steffen Pingel,		<1000,		mkersten,	query support
+
 
 Third Party Software
 

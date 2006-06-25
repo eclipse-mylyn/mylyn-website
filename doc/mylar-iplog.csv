@@ -65,6 +65,7 @@ for 0.5.2
 2006-06-21, trac,		148090, Steffen Pingel,		<1000,		mkersten,	query support
 2006-06-22, bugzilla,	144256, Nathan Hapke,		<100,		mkersten,	ssl connection fix
 2006-06-25, ide,		148512,	Brock Janiczak,		<1000,		mkersten,	commit support for team providers
+2006-06-25, tasklist,	147752, Izzet Safer, 		<10,		mkersten,	exception handling fix
 
 Third Party Software
 

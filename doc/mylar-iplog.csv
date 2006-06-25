@@ -64,7 +64,7 @@ for 0.5.2
 2006-06-21, trac,		147817, Steffen Pingel,		<100,		mkersten,	connector settings
 2006-06-21, trac,		148090, Steffen Pingel,		<1000,		mkersten,	query support
 2006-06-22, bugzilla,	144256, Nathan Hapke,		<100,		mkersten,	ssl connection fix
-
+2006-06-25, ide,		148512,	Brock Janiczak,		<1000,		mkersten,	commit support for team providers
 
 Third Party Software
 

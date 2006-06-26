@@ -66,7 +66,8 @@ for 0.5.2
 2006-06-22, bugzilla,	144256, Nathan Hapke,		<100,		mkersten,	ssl connection fix
 2006-06-25, ide,		148512,	Brock Janiczak,		<1000,		mkersten,	commit support for team providers
 2006-06-25, tasklist,	147752, Izzet Safer, 		<10,		mkersten,	exception handling fix
-2006-06-26,	tasklist,	102851,	Jeff Pound,			<1000,		mkersten,	attachment integration
+2006-06-26,	tasklist,	102851,	Jeff Pound,			<1000,		mkersten,	attachment table
+2006-06-26, tasklist,	145787,	Jeff Pound,			<100,		mkersten,	attachment actions
 
 Third Party Software
 

@@ -68,6 +68,7 @@ for 0.5.2
 2006-06-25, tasklist,	147752, Izzet Safer, 		<10,		mkersten,	exception handling fix
 2006-06-26,	tasklist,	102851,	Jeff Pound,			<1000,		mkersten,	attachment table
 2006-06-26, tasklist,	145787,	Jeff Pound,			<100,		mkersten,	attachment actions
+2006-06-26,	jira,		148178,	Brock Janiczak,		<100,		mkersten,	JIRA authentication fix
 
 Third Party Software
 

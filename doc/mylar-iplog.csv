@@ -71,6 +71,7 @@ for 0.5.2
 2006-06-26,	jira,		148178,	Brock Janiczak,		<100,		mkersten,	JIRA authentication fix
 2006-06-27,	tasklist,	148760,	Jeff Pound,			<100,		mkersten,	attachment names fix
 2006-06-28,	bugzilla,	142891,	Jeff Pound,			<1000,		mkersten,	search param persistence
+2006-06-28,	tasklist,	148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility
 
 Third Party Software
 

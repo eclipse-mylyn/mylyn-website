@@ -52,7 +52,7 @@
 			<h3>Levels of Repository Integration</h3>
 			<ul>
 				<li>
-                    Web linking only: Reports linked via drag-and-drop, editing via embedded 
+                    Web only: Reports linked via drag-and-drop, editing via embedded 
 					browser, </td> 
 					<br><a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">(any web-based repository)</a>
                 </li>

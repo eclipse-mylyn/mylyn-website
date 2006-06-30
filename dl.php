@@ -37,7 +37,7 @@
 	        	<tr>
 	        		<td valign="top"><p>
 			        <img src="images/feature.gif">
-			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrated the
+			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
 			        task list with bug/task/issue repositories, and the Focused UI reduces information overload.
 			        Installing the JIRA Connector involves downloading a feature from jira-dashboard.tigris.org.
 					</p>

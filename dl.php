@@ -43,7 +43,7 @@
 					from jira-dashboard.tigris.org.
 					</p>
 					<p>
-					Only use <b><i>"Search for new features.."</i></b> to install updates (<a href="http://www.eclipse.org/mylar/doc/faq.php#install">troubleshooting</a>).
+					Use <b><i>"Search for new features.."</i></b> to install updates (<a href="http://www.eclipse.org/mylar/doc/faq.php#install">troubleshooting</a>).
 			        </p>
 			        </td>
 			     <td>
@@ -68,14 +68,13 @@
         <div class="homeitem3col">
 			<h3>Dev Builds and Archives</h3>
 			<ul>
-				<li>Latest Dev Build (3.2RCx only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Latest Dev Build (3.2 only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 				<li>Archive versions: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
 			</ul>
 		</div>
 
 		<div align="left">
-			<p><b>Supported platforms</b>: Eclipse 3.2M6 and later (recommended) and Eclipse 3.1.
-				Need <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later.  
+			<p><b>Supported platforms</b>: Eclipse 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
 				<!--
 					Mylar is developed on Windows; refer to the following queries for open bugs
 					with: 
@@ -89,10 +88,11 @@
 			<p>
 				<b>Supported repositories</b>: Bugzilla 2.18 and later, JIRA 3.1.1 and later.
 			</p>
-	 		
+	 		<!--
 			<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 
 			UI continue to evolve raplidly based on user community feedback.  New builds are 
 			made available weekly, and contain fixes for key issues reported the previous week.
+			-->
 		</div>
 		<p>&nbsp;</p>
 		

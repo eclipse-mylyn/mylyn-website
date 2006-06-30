@@ -38,8 +38,8 @@
 	        		<td valign="top"><p>
 			        <img src="images/feature.gif">
 			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
-			        task list with bug/task/issue repositories, and the Focused UI reduces information overload.
-			        Installing the JIRA Connector involves downloading a feature from jira-dashboard.tigris.org.
+			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
+			        Eclipse views and editors on task context.
 					</p>
 					<p>
 					Use <b><i>"Search for new features.."</i></b> to install updates (<a href="http://www.eclipse.org/mylar/doc/faq.php#install">troubleshooting</a>).

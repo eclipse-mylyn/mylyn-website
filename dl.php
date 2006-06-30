@@ -58,7 +58,7 @@
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.6.0-site-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
-	        	<li>Eclipse 3.1.x: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
+	        	<li>Eclipse 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.6.0-site-e3.1.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>

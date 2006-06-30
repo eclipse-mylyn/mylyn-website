@@ -29,7 +29,7 @@
 				</li>
 				<li> 
 					Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
-					<span class="dates">(July 28, 2005)</span><br>&nbsp;
+					<span class="dates">(July 28, 2005)</span><br>
 				</li>
 			</ul>
 		</div>

@@ -71,12 +71,12 @@ for 0.5.2
 2006-06-26,	jira,		148178,	Brock Janiczak,		<100,		mkersten,	JIRA authentication fix
 2006-06-27,	tasklist,	148760,	Jeff Pound,			<100,		mkersten,	attachment names fix
 2006-06-28,	bugzilla,	142891,	Jeff Pound,			<1000,		mkersten,	search param persistence
-2006-06-28,	tasklist,	148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility
+2006-06-28,	tasklist,	148378,	Steffen Pingel,		<100,		mkersten,	settings page flexibility
 
 0.6.1
 2006-07-04,	monitor,	145437,	Brian de Alwis,		<100,		mkersten,	monitor lifecycle listenting
-2006-07-04,	tasklist,	147817,	Steffen Pingle,		<1000,		mkersten,	trac connector
-
+2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector
+2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
 Third Party Software
 
 name including version, directory location or jar file, license name and version, usage,,,

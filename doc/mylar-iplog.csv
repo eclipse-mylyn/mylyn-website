@@ -78,6 +78,7 @@ for 0.5.2
 2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector
 2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
 2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
+2006-07-05, trac,		148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests
 
 Third Party Software
 

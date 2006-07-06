@@ -80,6 +80,7 @@ for 0.5.2
 2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
 2006-07-05, trac,		148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests
 2006-07-06, bugzilla	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
+2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
 
 Third Party Software
 

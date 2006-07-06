@@ -75,7 +75,7 @@ for 0.5.2
 
 0.6.1
 2006-07-04,	monitor,	145437,	Brian de Alwis,		<100,		mkersten,	monitor lifecycle listenting
-2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector
+2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector settings
 2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
 2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
 2006-07-05, trac,		148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests

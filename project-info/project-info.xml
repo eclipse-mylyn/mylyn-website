@@ -1,4 +1,5 @@
 <project>
+  <short-name>Mylar</short-name>
   <bugzilla>
     <product name="Mylar"/>
   </bugzilla>

@@ -82,6 +82,7 @@ for 0.5.2
 2006-07-06, bugzilla	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
 2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
 2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
 
 Third Party Software
 

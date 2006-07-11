@@ -84,6 +84,8 @@ for 0.5.2
 2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
 2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
 2006-07-10,	bugzilla,	148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
+2006-07-11,	bugzilla,	150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
+
 
 Third Party Software
 

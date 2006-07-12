@@ -87,6 +87,7 @@ for 0.5.2
 2006-07-11,	bugzilla,	150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
 2006-07-11,	jira,		149939,	Steffen Pingle,		<100,		mkersten,	test case for repository notification
 2006-07-11,	tasklist,	150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
+2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
 
 Third Party Software
 

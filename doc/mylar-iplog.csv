@@ -88,6 +88,7 @@ for 0.5.2
 2006-07-11,	jira,		149939,	Steffen Pingle,		<100,		mkersten,	test case for repository notification
 2006-07-11,	tasklist,	150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
 2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
+2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
 
 Third Party Software
 

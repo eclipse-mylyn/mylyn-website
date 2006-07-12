@@ -65,6 +65,7 @@
 	</div>
 			
 	<div id="rightcolumn">
+		<!--
 		<div class="sideitem"> 
           <h6>Dashboard</h6>
           <div align="center">
@@ -72,6 +73,7 @@
            newsgroup: <?= $projectInfo->dashboard_news_lights() ?><br/>&nbsp;
           </div>
         </div>
+        -->
         <?= $devside ?>
 	</div>
 </div>

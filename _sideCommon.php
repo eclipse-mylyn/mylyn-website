@@ -14,7 +14,7 @@
 			</li>
 			<li>
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-ratelink-lid-560.html">
-				Rate Mylar</a> at Eclipse Plugin Central
+				Rate Mylar</a> at EPIC
 			</li>
 		</ul> 
 		

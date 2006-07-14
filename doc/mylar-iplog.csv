@@ -91,6 +91,7 @@ for 0.5.2
 2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
 2006-07-12,	tasklist,	150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
 2007-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2007-07-14, trac,		150683,	Steffen Pingel,		<10,		mkersten,	null check
 
 Third Party Software
 

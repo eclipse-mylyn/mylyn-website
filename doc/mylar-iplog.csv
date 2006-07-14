@@ -85,11 +85,12 @@ for 0.5.2
 2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
 2006-07-10,	bugzilla,	148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
 2006-07-11,	bugzilla,	150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
-2006-07-11,	jira,		149939,	Steffen Pingle,		<100,		mkersten,	test case for repository notification
+2006-07-11,	jira,		149939,	Steffen Pingel,		<100,		mkersten,	test case for repository notification
 2006-07-11,	tasklist,	150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
 2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
 2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
 2006-07-12,	tasklist,	150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
+2007-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
 
 Third Party Software
 

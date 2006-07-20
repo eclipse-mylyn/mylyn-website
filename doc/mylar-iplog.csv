@@ -97,6 +97,7 @@ for 0.5.2
 2007-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
 2007-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
 2007-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
+2007-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
 
 Third Party Software
 

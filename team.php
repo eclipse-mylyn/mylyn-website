@@ -84,7 +84,7 @@
 				</li>
 			</ul> 
 		</div>
-		<p><i>Last updated: 2006-06-15</i></p>
+		<p><i>Last updated: 2006-07-21</i></p>
 
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>

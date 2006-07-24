@@ -23,7 +23,7 @@
 
 	$Nav->addNavSeparator("Developers", "/mylar/dev.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "/mylar/doc/contributing.php", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating", "/mylar/doc/integrating.php", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylar_Integrator_Reference", 	"_self", 1);
 ?>
 
 

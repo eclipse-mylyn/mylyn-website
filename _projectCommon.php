@@ -21,9 +21,9 @@
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ", "/mylar/doc/faq.php", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
 
-	$Nav->addNavSeparator("Developers", "/mylar/dev.php", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "/mylar/doc/contributing.php", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylar_Integrator_Reference", 	"_self", 1);
+	$Nav->addNavSeparator("Developers (wiki)", "http://wiki.eclipse.org/index.php/Mylar", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "http://wiki.eclipse.org/index.php/Mylar_Contributor_Reference", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating", "http://wiki.eclipse.org/index.php/Mylar_Integrator_Reference", 	"_self", 1);
 ?>
 
 

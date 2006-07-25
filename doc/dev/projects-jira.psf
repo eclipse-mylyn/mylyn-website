@@ -6,8 +6,7 @@
 		<project reference="0.9.3,http://jira-dashboard.tigris.org/svn/jira-dashboard/trunk/org.tigris.jira.core.soap,org.tigris.jira.core.soap"/>
 	</provider>
 	<provider id="org.eclipse.team.cvs.core.cvsnature">
-		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.mylar/org.eclipse.mylar.jira,org.eclipse.mylar.jira"/>
-		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.mylar/org.eclipse.mylar.jira-feature,org.eclipse.mylar.jira-feature"/>
-		<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/technology,org.eclipse.mylar/org.eclipse.mylar.jira.tests,org.eclipse.mylar.jira.tests"/>
+		<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/technology,org.eclipse.mylar/org.eclipse.mylar.jira,org.eclipse.mylar.jira"/>
+		<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/technology,org.eclipse.mylar/org.eclipse.mylar.jira.tests,org.eclipse.mylar.jira.tests"/>
 	</provider>
 </psf>

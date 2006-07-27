@@ -106,3 +106,7 @@ commons-httpclient,		org.eclipse.mylar.core,			APL,						web repository connecti
 commons-coced,			org.eclipse.mylar.core,			APL,						web repository connections
 commons-logging,		org.eclipse.mylar.core,			APL,						web repository connections
 commons-logging-api,	org.eclipse.mylar.core,			APL,						web repository connections
+xmlrpc-common,			org.eclipse.mylar.core,			APL,						web repository connections
+xmlrpc-client,			org.eclipse.mylar.core,			APL,						web repository connections
+ws-commons-util,		org.eclipse.mylar.core,			APL,						web repository connections
+

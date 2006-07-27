@@ -99,6 +99,7 @@ for 0.5.2
 2007-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
 2007-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
 2007-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
+2007-07-27, tasks.core,	147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
 
 Third Party Software
 

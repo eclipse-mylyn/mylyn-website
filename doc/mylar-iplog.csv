@@ -102,6 +102,7 @@ for 0.5.2
 2007-07-27, tasks.core,	147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
 2007-07-27, jira,		149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
 2007-07-27,	trac,		151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
+2007-07-27,	tasks.core,	150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
 
 Third Party Software
 

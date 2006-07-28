@@ -74,36 +74,37 @@ for 0.5.2
 2006-06-28,	tasklist,	148378,	Steffen Pingel,		<100,		mkersten,	settings page flexibility
 
 0.6.1
-2006-07-04,	monitor,	145437,	Brian de Alwis,		<100,		mkersten,	monitor lifecycle listenting
-2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector settings
-2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
-2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
-2006-07-05, trac,		148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests
-2006-07-06, bugzilla	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
-2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
-2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
-2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
-2006-07-10,	bugzilla,	148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
-2006-07-11,	bugzilla,	150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
-2006-07-11,	jira,		149939,	Steffen Pingel,		<100,		mkersten,	test case for repository notification
-2006-07-11,	tasklist,	150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
-2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
-2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
-2006-07-12,	tasklist,	150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
-2007-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
-2007-07-14, trac,		150683,	Steffen Pingel,		<10,		mkersten,	null check
-2007-07-14,	trac,		150677,	Steffen Pingel,		<100,		mkersten,	repository template
-2007-07-14,	trac,		150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
-2007-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
-2007-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
-2007-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
-2007-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
-2007-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
-2007-07-27, tasks.core,	147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
-2007-07-27, jira,		149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
-2007-07-27,	trac,		151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
-2007-07-27,	tasks.core,	150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
-2007-07-27, tasks.core,	151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
+2006-07-04,	monitor,		145437,	Brian de Alwis,		<100,		mkersten,	monitor lifecycle listenting
+2006-07-04,	trac,			147817,	Steffen Pingel,		<1000,		mkersten,	trac connector settings
+2006-07-04, trac,			146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
+2006-07-05, tasklist,		149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
+2006-07-05, trac,			148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests
+2006-07-06, bugzilla		146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
+2006-07-06,	trac, 			149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
+2006-07-06, trac,			149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2006-07-10, tasklist		135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
+2006-07-10,	bugzilla,		148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
+2006-07-11,	bugzilla,		150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
+2006-07-11,	jira,			149939,	Steffen Pingel,		<100,		mkersten,	test case for repository notification
+2006-07-11,	tasklist,		150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
+2006-07-11,	tasklist,		149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
+2006-07-12,	tasklist,		135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
+2006-07-12,	tasklist,		150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
+2007-07-14,	trac,			149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2007-07-14, trac,			150683,	Steffen Pingel,		<10,		mkersten,	null check
+2007-07-14,	trac,			150677,	Steffen Pingel,		<100,		mkersten,	repository template
+2007-07-14,	trac,			150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
+2007-07-14, bugzilla,		150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
+2007-07-14,	tasks,			150446,	Steffen Pingel,		<100,		mkersten,	equality test case
+2007-07-20,	bugzilla		150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
+2007-07-20, tasklist		150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
+2007-07-27,	trac,			151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
+2007-07-27, tasks.core,		147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
+2007-07-27, jira,			149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
+2007-07-27,	trac,			151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
+2007-07-27,	tasks.core,		150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
+2007-07-27, tasks.core,		151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
+2007-07-27, bugzilla.ui,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
 
 Third Party Software
 

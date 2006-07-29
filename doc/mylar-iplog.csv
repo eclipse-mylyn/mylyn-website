@@ -106,6 +106,7 @@ for 0.5.2
 2007-07-27, tasks.core,		151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
 2007-07-27, bugzilla.ui,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
 2007-07-27,	trac,			150890,	Steffen Pingel,		<100,		mkersten,	url format fix
+2007-07-29, bugzilla.ui,	148903,	Jeff Pound,			<100,		mkersten,	context attachmenet ui
 
 Third Party Software
 

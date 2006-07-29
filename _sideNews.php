@@ -1,7 +1,7 @@
 <?php
     $newsside = <<<EOHTML
 		<div class="sideitem">
-			<h6><a href="archive.php">Blogs & Articles</a></a></h6>
+			<h6><a href="archive.php">Blogs & Articles...</a></a></h6>
 			<ul>
 				<li>
 					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
@@ -16,6 +16,11 @@
 					Riyad Kalla: <a href="http://www.eclipsezone.com/articles/mylar/">
 					Revolutionize your productivity with Eclipse Mylar</a>
 					<span class="dates">(Apr. 10, 2006)</span><br>&nbsp;
+				</li>
+				<li>
+					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">
+					Mylar's ultra-fast release cycles</a>
+					<span class="dates">(Apr. 8, 2006)</span><br>&nbsp;
 				</li>
 				<li>
 					Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">

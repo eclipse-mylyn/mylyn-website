@@ -31,7 +31,7 @@
 			<ul>
 				<li>
 					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
-					<span class="dates">(Jul 9, 2006)</span><br>&nbsp;
+					<span class="dates">(Jul 9, 2006)</span>
 				</li>
 			
 				<li>Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
@@ -45,7 +45,7 @@
 				<li>
 					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">
 					Mylar's ultra-fast release cycles</a>
-					<span class="dates">(Apr. 8, 2006)</span><br>&nbsp;
+					<span class="dates">(Apr. 8, 2006)</span>
 				</li>
 
 				<li>Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=jira_support_in_mylar">

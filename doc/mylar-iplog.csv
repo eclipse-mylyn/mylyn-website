@@ -107,6 +107,8 @@ for 0.5.2
 2007-07-27, bugzilla.ui,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
 2007-07-27,	trac,			150890,	Steffen Pingel,		<100,		mkersten,	url format fix
 2007-07-29, bugzilla.ui,	148903,	Jeff Pound,			<100,		mkersten,	context attachmenet ui
+2007-07-30,	jira,			150695,	Eugene Kuleshov,	<100,		mkersten,	patch with bug 149605
+2007-07-30,	trac,			150456,	Steffen Pingel,		<1000,		mkersten,	test migration to mylar.eclipse.org server
 
 Third Party Software
 

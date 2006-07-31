@@ -74,7 +74,7 @@
 		</div>
 
 		<div align="left">
-			<p><b>Supported platforms</b>: Eclipse SDK 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+			<p><b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
 				<!--
 					Mylar is developed on Windows; refer to the following queries for open bugs
 					with: 

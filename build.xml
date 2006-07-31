@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!-- writen for Ant 1.5.1 -->
+<project name="mylar" default="copy-web">
+
+	<target name="copy-web" description="Doc Web Update">
+		<copy todir="doc">
+			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/new-0.4.0.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
+			<fileset file="../org.eclipse.mylar.doc/doc/integrating.html" />
+		</copy>
+		<copy todir="doc/dev">
+			<fileset file="../org.eclipse.mylar.doc/doc/dev/plan.html" />
+		</copy>
+		<copy todir="doc/images/dev">
+			<fileset dir="../org.eclipse.mylar.doc/doc/images/dev" />
+		</copy>
+		<copy todir="doc/images">
+			<fileset dir="../org.eclipse.mylar.doc/doc/images" />
+		</copy>
+	</target>
+
+	<target name="copy-release" description="Doc Release Update">
+		<copy todir="doc">
+			<fileset file="../org.eclipse.mylar.doc/doc/new.html" />
+		</copy>
+	</target>
+
+</project>

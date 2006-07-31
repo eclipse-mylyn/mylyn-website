@@ -53,13 +53,10 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.6.0 Update Sites</h3>
+			<h3>Mylar 0.6.1 Update Site</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.6.0-site-e3.2.tgz&r=1">&nbsp;[site zip]</a>
-	        	</li>
-	        	<li>Eclipse 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.6.0-site-e3.1.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 		</div>
@@ -68,12 +65,15 @@
 			<h3>Dev Builds and Archives</h3>
 			<ul>
 				<li>Latest Dev Build (3.2 only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Mylar 0.6.0 for 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-0.6.0-site-e3.1.tgz&r=1">&nbsp;[site zip]</a>
+	        	</li>
 				<li>Archive versions: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
 			</ul>
 		</div>
 
 		<div align="left">
-			<p><b>Supported platforms</b>: Eclipse 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+			<p><b>Supported platforms</b>: Eclipse SDK 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
 				<!--
 					Mylar is developed on Windows; refer to the following queries for open bugs
 					with: 
@@ -85,7 +85,7 @@
 				--> 
 			</p>
 			<p>
-				<b>Supported repositories</b>: Bugzilla 2.18 and later, JIRA 3.1.1 and later.
+				<b>Supported repositories</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
 			</p>
 	 		<!--
 			<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 

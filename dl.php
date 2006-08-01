@@ -52,6 +52,28 @@
 			</table>
 		</div>
         
+       	<div align="left">
+			<p><b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+				<!--
+					Mylar is developed on Windows; refer to the following queries for open bugs
+					with: 
+						<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+						Linux</a>, 
+						<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+						MacOS</a>.
+					There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
+				--> 
+			</p>
+			<p>
+				<b>Supported repositories</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
+			</p>
+	 		<!--
+			<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 
+			UI continue to evolve raplidly based on user community feedback.  New builds are 
+			made available weekly, and contain fixes for key issues reported the previous week.
+			-->
+		</div>
+        
         <div class="homeitem3col">
 			<h3>Mylar 0.6.1 Update Site</h3>
 			<ul>
@@ -79,27 +101,6 @@
 			</ul>
 		</div>
 
-		<div align="left">
-			<p><b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-				<!--
-					Mylar is developed on Windows; refer to the following queries for open bugs
-					with: 
-						<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-						Linux</a>, 
-						<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-						MacOS</a>.
-					There are no additional system performance requirements, but see the FAQ for <a href="http://www.eclipse.org/mylar/doc/faq.php#performance-summary">performance details</a>.</p>
-				--> 
-			</p>
-			<p>
-				<b>Supported repositories</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
-			</p>
-	 		<!--
-			<b>Expectations</b>: Mylar 0.5 is targeted at early adopters.  The technology and 
-			UI continue to evolve raplidly based on user community feedback.  New builds are 
-			made available weekly, and contain fixes for key issues reported the previous week.
-			-->
-		</div>
 		<p>&nbsp;</p>
 		
 	</div>

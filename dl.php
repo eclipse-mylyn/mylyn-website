@@ -50,14 +50,8 @@
 			</table>
 		</div>
         
-       	<div align="left">
-			Supported platforms: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-			<br><br>
-		    Supported repositories: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
-		</div> 
-        
         <div class="homeitem3col">
-			<h3>Mylar 0.6.1 Update Site</h3>
+			<h3>Update Site for 0.6.1</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.1-e3.2.tgz&r=1">&nbsp;[site zip]</a>
@@ -76,12 +70,18 @@
 		</div>
 
         <div class="homeitem3col">
-			<h3>Developer Builds and Archives</h3>
+			<h3>Developer Builds</h3>
 			<ul>
 				<li>Latest Dev Build (3.2 only): <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 				<li>Headless Tasks Framework (3.2 only): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.6.1.zip&r=1">mylar-lib-0.6.1.zip</a>
 			</ul>
 		</div>
+
+       	<div align="left">
+			<b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+			<br><br>
+		    <b>Supported repositories</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
+		</div> 
 
 		<p>&nbsp;</p>
 		

@@ -111,7 +111,8 @@ for 0.5.2
 2007-07-30,	trac,		150456,	Steffen Pingel,		<1000,		mkersten,	test migration to mylar.eclipse.org server
 
 0.6.2
-2007-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update		
+2007-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update
+2007-08-02,	trac,		147609,	Steffen Pingel,		<100o,		mkersten,	new task creation fix
 
 Third Party Software
 

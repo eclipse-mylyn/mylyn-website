@@ -113,6 +113,8 @@ for 0.5.2
 0.6.2
 2007-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update
 2007-08-02,	trac,		147609,	Steffen Pingel,		<100o,		mkersten,	new task creation fix
+2007-08-02, tasks,		151907, Steffen Pingel,		<100,		relves,		generalize the attribute for attachment filenames
+2007-08-02, tasks,		149866, Jeff Pound,			<100,		relves,		immediate upload from new attachment wizard
 
 Third Party Software
 

@@ -116,7 +116,8 @@ for 0.5.2
 2007-08-02, tasks,		151907, Steffen Pingel,		<100,		relves,		generalize the attribute for attachment filenames
 2007-08-02, tasks,		149866, Jeff Pound,			<100,		relves,		immediate upload from new attachment wizard
 2007-08-03, tasks,		149095,	Jeff Pound,			<1000,		mkersten,	attachment improvements
-2007-08-03, tasks,		149865,	Jeff Pound<			<10,		mkersten,	line wrap fix
+2007-08-03, tasks,		149865,	Jeff Pound,			<10,		mkersten,	line wrap fix
+2007-08-03, tasks,		152760,	Eugene Kuleshov,	<100,		mkersten,	template for google hosting
 
 Third Party Software
 

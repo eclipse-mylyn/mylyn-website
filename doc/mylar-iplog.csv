@@ -90,36 +90,37 @@ for 0.5.2
 2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
 2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
 2006-07-12,	tasklist,	150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
-2007-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
-2007-07-14, trac,		150683,	Steffen Pingel,		<10,		mkersten,	null check
-2007-07-14,	trac,		150677,	Steffen Pingel,		<100,		mkersten,	repository template
-2007-07-14,	trac,		150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
-2007-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
-2007-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
-2007-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
-2007-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
-2007-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
-2007-07-27, tasks,		147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
-2007-07-27, jira,		149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
-2007-07-27,	trac,		151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
-2007-07-27,	tasks,		150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
-2007-07-27, tasks,		151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
-2007-07-27, bugzilla,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
-2007-07-27,	trac,		150890,	Steffen Pingel,		<100,		mkersten,	url format fix
-2007-07-29, bugzilla,	148903,	Jeff Pound,			<100,		mkersten,	context attachmenet ui
-2007-07-30,	jira,		150695,	Eugene Kuleshov,	<100,		mkersten,	patch with bug 149605
-2007-07-30,	trac,		150456,	Steffen Pingel,		<1000,		mkersten,	test migration to mylar.eclipse.org server
+2006-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2006-07-14, trac,		150683,	Steffen Pingel,		<10,		mkersten,	null check
+2006-07-14,	trac,		150677,	Steffen Pingel,		<100,		mkersten,	repository template
+2006-07-14,	trac,		150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
+2006-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
+2006-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
+2006-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
+2006-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
+2006-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
+2006-07-27, tasks,		147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
+2006-07-27, jira,		149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
+2006-07-27,	trac,		151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
+2006-07-27,	tasks,		150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
+2006-07-27, tasks,		151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
+2006-07-27, bugzilla,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
+2006-07-27,	trac,		150890,	Steffen Pingel,		<100,		mkersten,	url format fix
+2006-07-29, bugzilla,	148903,	Jeff Pound,			<100,		mkersten,	context attachmenet ui
+2006-07-30,	jira,		150695,	Eugene Kuleshov,	<100,		mkersten,	patch with bug 149605
+2006-07-30,	trac,		150456,	Steffen Pingel,		<1000,		mkersten,	test migration to mylar.eclipse.org server
 
 0.6.2
-2007-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update
-2007-08-02,	trac,		147609,	Steffen Pingel,		<100o,		mkersten,	new task creation fix
-2007-08-02, tasks,		151907, Steffen Pingel,		<100,		relves,		generalize the attribute for attachment filenames
-2007-08-02, tasks,		149866, Jeff Pound,			<100,		relves,		immediate upload from new attachment wizard
-2007-08-03, tasks,		149095,	Jeff Pound,			<1000,		mkersten,	attachment improvements
-2007-08-03, tasks,		149865,	Jeff Pound,			<10,		mkersten,	line wrap fix
-2007-08-03, tasks,		152760,	Eugene Kuleshov,	<100,		mkersten,	template for google hosting
-2007-08-03,	context,	150892,	Izzet Safer,		<100,		mkersten,	apply mylar handler
-2007-08-03, monitor,	152377,	Nathan Hapke,		<10,		mkersten,	var assignment fix
+2006-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update
+2006-08-02,	trac,		147609,	Steffen Pingel,		<100o,		mkersten,	new task creation fix
+2006-08-02, tasks,		151907, Steffen Pingel,		<100,		relves,		generalize the attribute for attachment filenames
+2006-08-02, tasks,		149866, Jeff Pound,			<100,		relves,		immediate upload from new attachment wizard
+2006-08-03, tasks,		149095,	Jeff Pound,			<1000,		mkersten,	attachment improvements
+2006-08-03, tasks,		149865,	Jeff Pound,			<10,		mkersten,	line wrap fix
+2006-08-03, tasks,		152760,	Eugene Kuleshov,	<100,		mkersten,	template for google hosting
+2006-08-03,	context,	150892,	Izzet Safer,		<100,		mkersten,	apply mylar handler
+2006-08-03, monitor,	152377,	Nathan Hapke,		<10,		mkersten,	var assignment fix
+2006-08-09, bugzilla,	153147, Jeff Pound,			<100,		relves,		attach context option in attachment wizard 
 
 Third Party Software
 

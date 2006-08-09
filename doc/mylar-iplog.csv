@@ -122,6 +122,7 @@ for 0.5.2
 2006-08-03, monitor,	152377,	Nathan Hapke,		<10,		mkersten,	var assignment fix
 2006-08-09, bugzilla,	153147, Jeff Pound,			<100,		relves,		attach context option in attachment wizard 
 2006-08-09, tasks,		152903, Felix Schwarz,		<10,		relves,		bypass connector type selection if only one exists
+2006-08-09, bugzilla,	153152, Jeff Pound,			<10,		relves,		auto select patch/attach context if .patch file attached
 
 Third Party Software
 

@@ -110,7 +110,7 @@
 	<div id="rightcolumn">
 		$commonside
 		<div class="sideitem">
-			<h6>Layout Algorithms</h6>
+			<h6><A HREF="http://wiki.eclipse.org/index.php/Mylar_Zest_Visualization#Layout_Algorithms">Layout Algorithms</A></h6>
 			<ul>
 				<li>Spring Layout Algorithm</li>
                                 <li>Tree Layout Algorithm</li>

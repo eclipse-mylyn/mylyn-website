@@ -39,7 +39,7 @@
 		support. The entire Zest library has been
 		developed in SWT and integrates seamlessly within Eclipse because of its
 		recognized design.   
-
+		<P>
 		Zest has been modeled after JFace, and all the Zest views
 		conform to the same standards and conventions as existing Eclipse views.  This
 		means that the providers, actions and listeners used within existing
@@ -52,7 +52,8 @@
 		independently.  The graph layout package can be used within existing
 		Java applications (SWT or AWT) to provider layout locations for a set of
 		entities and relationships.
-		</p></p>
+		</p>
+		<A HREF="http://wiki.eclipse.org/index.php/Mylar_Zest_Visualization">Please visit our Wiki for more information.</A>
   	  </td>
           </tr>
         </table>
@@ -70,7 +71,7 @@
                 </li>
 		<li>
 			Zest Viewers:  The Zest viewers are JFace compliant graph based
-                        visualization tools written entirely in SWT (and GEF). Because of Zest\'s recognized
+                        visualization tools written entirely in SWT (and GEF). Because of Zest's recognized
                         design, existing content and label providers can be leveraged to create a 
                         consistent looking, lightweight, graph based interface for your Eclipse plugin or 
                         RCP application.				
@@ -88,10 +89,10 @@
                 </li>
  		<li>
 			Currently the viewers are only available from our CVS repository.<BR>
-			Create a new CVS location: dev.eclipse.org/home/technology<BR>
-                        Checkout: <BR>
-			mylar/sandbox/org.eclipse.mylar.zest.layouts<BR>
-			mylar/sandbox/org.eclipse.mylar.zest.core<BR>
+			Create a new CVS location: <I>dev.eclipse.org/home/technology</I><BR>
+                        <B>Checkout:</B> <BR>
+			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.layouts</I><BR>
+			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.core</I><BR>
                 </li>
 		</ul>
 		</div>  

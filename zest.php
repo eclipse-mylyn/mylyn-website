@@ -57,7 +57,7 @@
           </tr>
         </table>
 	
-		<div class="homeitem">
+		<div class="homeitem3col">
 		<h3>Information</h3>
 		<ul>
 		<li>

@@ -31,82 +31,78 @@
           	<td valign="top"><img border=0 src="images/zest_screen.jpg"></td>
           	<td valign="top">&nbsp;</td>
             <td valign="top">
-				<p>
-				<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
+	     <p>
+		<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
 		visualization components built for Eclipse.  
 		Zest is a component of the Mylar project that 
 		can be used independently of the Mylar IDE 
 		support. The entire Zest library has been
 		developed in SWT and integrates seamlessly within Eclipse because of its
-		recognized design.   Zest has been modeled after JFace, and all the Zest views
+		recognized design.   
+
+		Zest has been modeled after JFace, and all the Zest views
 		conform to the same standards and conventions as existing Eclipse views.  This
 		means that the providers, actions and listeners used within existing
-		applications can be leveraged within Zest.  Many of the Zest views are being
-		developed using the Graphical Editing Framework (GEF).  
-		Zest is a visualization toolkit with  a growing
-		number of views, all of which aim to be easy to program against. 
+		applications can be leveraged within Zest.  
+		Zest is a visualization toolkit with a growing
+		number of views, all of which aim to be easy to program against. We are actively
+                looking for new visualizations to include in the toolkit.
 		
-				<p>The Zest project also contains a graph layout package which can be used 
+		<p>The Zest project also contains a graph layout package which can be used 
 		independently.  The graph layout package can be used within existing
 		Java applications (SWT or AWT) to provider layout locations for a set of
-		entities and relationships.  </p>
-				</p>
-		  	</td>
+		entities and relationships.
+		</p></p>
+  	  </td>
           </tr>
         </table>
-		
-		
+	
 		<div class="homeitem">
-			<h3>Zest Views</h3>
-			<ul>
-				<li>
-					Spring Graph Viewer: A dynamic graph viewer that renders nodes and edges.                    
+		<h3>Information</h3>
+		<ul>
+		<li>
+			Layout Algorithms:  The layout package is framework and a set of example layouts
+			that can be used independently of Zest in SWT and Swing applications. 
+			The layout package uses a facade to provide a single, easy to use, API for all
+                        algorithms in the package. By implementing a node and edge interface, any graph
+                        model can be adapted to use this package.  The package has proven especially useful
+                        for GEF developers.
                 </li>
-				<li>
-                    Static Graph Viewer: A static graph viewer that renders nodes and edges.
+		<li>
+			Zest Viewers:  The Zest viewers are JFace compliant graph based
+                        visualization tools written entirely in SWT (and GEF). Because of Zest\'s recognized
+                        design, existing content and label providers can be leveraged to create a 
+                        consistent looking, lightweight, graph based interface for your Eclipse plugin or 
+                        RCP application.				
+                </li>        
+                <li> 
+                        Bugs and Requests:  Like Mylar, we use the bug tracking software bugzilla at Eclipse.org.
+                        Please report bugs and feature requests for Zest through this interface.  For a list
+                        of current Zest issues, please refer to this query. <P>
+			If you find a Zest viewer that does not behave the way a JFace viewer does, this is considered
+                        a bug, please open a bug report against it.
                 </li>
-				<li>
-                    Nested Graph Viewer: A static graph viewer that renderes nodes and edges.  Nodes
-                    can be nested within their parents and navigation supports diving / zooming.
+  		<li>    Contact:  Zest is currently being developed by the Chisel Group at the University
+                                  of Victoria.  For more information, please feel free to contact
+                                  <A HREF="http://www.ianbull.com">Ian Bull</A>.
                 </li>
-                <li>
-                	Timeline Viewer: A viewer to render timelines in a Gantt Chart Fashion.
+ 		<li>
+			Currently the viewers are only available from our CVS repository.<BR>
+			Create a new CVS location: dev.eclipse.org/home/technology<BR>
+                        Checkout: <BR>
+			mylar/sandbox/org.eclipse.mylar.zest.layouts<BR>
+			mylar/sandbox/org.eclipse.mylar.zest.core<BR>
                 </li>
-                
-                
-			</ul>
+		</ul>
 		</div>  
-		
-				<div class="homeitem">
-			<h3>Layout Algorithms</h3>
-			<ul>
-				<li>
-					Spring Layout Algorithm
-                </li>
-				<li>
-                    Fade Layout Algorithm
-                </li>
-				<li>
-                    Tree Layout Algorithm
-                </li>
-                <li>
-                	Radial Layout Algorithm
-                </li>
-                <li>
-                	Grid Layout Algorithm
-                </li>
-                
-                
-			</ul>
-		</div>  
-     
 	</div>
 	<div id="rightcolumn">
 		$commonside
 		<div class="sideitem">
 			<h6>Zest Views</h6>
 			<ul>
-				<li>Graph View</li>
+				<li>Static Graph View</li>
+                                <li>Nested Graph View</li>
 			</ul>
 		</div>
 	</div>
@@ -116,6 +112,9 @@
 			<h6>Layout Algorithms</h6>
 			<ul>
 				<li>Spring Layout Algorithm</li>
+                                <li>Tree Layout Algorithm</li>
+                                <li>Radial Layout Algorithm</li>
+                                <li>Grid Layout Algorithm</li>
 			</ul>
 		</div>
 	</div>

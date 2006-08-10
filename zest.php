@@ -62,7 +62,7 @@
 		<h3>Information</h3>
 		<ul>
 		<li>
-			Layout Algorithms:  The layout package is framework and a set of example layouts
+			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts
 			that can be used independently of Zest in SWT and Swing applications. 
 			The layout package uses a facade to provide a single, easy to use, API for all
                         algorithms in the package. By implementing a node and edge interface, any graph
@@ -70,25 +70,25 @@
                         for GEF developers.
                 </li>
 		<li>
-			Zest Viewers:  The Zest viewers are JFace compliant graph based
+			<B>Zest Viewers: </B> The Zest viewers are JFace compliant graph based
                         visualization tools written entirely in SWT (and GEF). Because of Zest's recognized
                         design, existing content and label providers can be leveraged to create a 
                         consistent looking, lightweight, graph based interface for your Eclipse plugin or 
                         RCP application.				
                 </li>        
                 <li> 
-                        Bugs and Requests:  Like Mylar, we use the bug tracking software bugzilla at Eclipse.org.
+                        <B>Bugs and Requests: </B> Like Mylar, we use the bug tracking software bugzilla at Eclipse.org.
                         Please report bugs and feature requests for Zest through this interface.  For a list
                         of current Zest issues, please refer to this query. <P>
 			If you find a Zest viewer that does not behave the way a JFace viewer does, this is considered
                         a bug, please open a bug report against it.
                 </li>
-  		<li>    Contact:  Zest is currently being developed by the Chisel Group at the University
+  		<li>    <B>Contact: </B> Zest is currently being developed by the Chisel Group at the University
                                   of Victoria.  For more information, please feel free to contact
                                   <A HREF="http://www.ianbull.com">Ian Bull</A>.
                 </li>
  		<li>
-			Currently the viewers are only available from our CVS repository.<BR>
+			Currently the viewers and layout package are only available from our CVS repository.<BR>
 			Create a new CVS location: <I>dev.eclipse.org/home/technology</I><BR>
                         <B>Checkout:</B> <BR>
 			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.layouts</I><BR>
@@ -100,10 +100,10 @@
 	<div id="rightcolumn">
 		$commonside
 		<div class="sideitem">
-			<h6>Zest Views</h6>
+			<h6>Zest Viewers</h6>
 			<ul>
-				<li>Static Graph View</li>
-                                <li>Nested Graph View</li>
+				<li>Static Graph Viewer</li>
+                <li>Nested Graph Viewer</li>
 			</ul>
 		</div>
 	</div>

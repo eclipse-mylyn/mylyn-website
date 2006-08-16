@@ -126,6 +126,7 @@ for 0.5.2
 2006-08-12, trac,		142783, Steffen Pingel		<10,		relves,		layout fix for generalized search page
 2006-08-12, trac,		153539, Steffen Pingel		<100,		relves,		generalized issue search for trac
 2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		added editor action: open in default editor 
+2006-08-15, context,	153960, Nathan Hapke,		<10,		relves,		unzip in ZipFileUtil now returns list of files unzipped
 
 Third Party Software
 

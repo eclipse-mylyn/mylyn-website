@@ -7,6 +7,18 @@
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	
 	$Nav->setLinkList(array());
+	$branding = <<<EOBRANDING
+<STYLE TYPE="text/css">
+  .sideitem { border-width: 1px 1px; }
+  #midcolumn { margin-top: 5px; }
+</STYLE>
+
+<div id="branding">
+<h1>AJDT: AspectJ Development Tools</h1>
+</div>
+EOBRANDING;
+	$Menu->setProjectBranding($branding);
+	
 	
 	$Nav->addNavSeparator("Mylar", 	"/mylar/index.php");
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;About", "/mylar/about.php", "_self", 1);

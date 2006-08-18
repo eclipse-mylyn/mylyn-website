@@ -131,6 +131,7 @@ for 0.5.2
 2006-08-18, tasks,		148720, Nathan Hapke,		<10,		relves,		refactor of method in InProgressTaskCollector
 2006-08-18, trac,		150670, Steffen Pingel		<1000,		relves,		attribute persistance for trac
 2006-08-18, tasks,		154379, Steffen Pingel		<10,		relves,		description displayed in notification if report has no comments
+2006-08-18, bugzilla,	152279,	Jeff Pound,			<100,		mkersten,	stack trace tetst
 
 Third Party Software
 

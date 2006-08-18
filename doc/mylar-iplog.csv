@@ -129,6 +129,7 @@ for 0.5.2
 2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		editor action: Adds Open With Text, moves "Open With" to submenu
 2006-08-15, context,	153960, Nathan Hapke,		<10,		relves,		unzip in ZipFileUtil now returns list of files unzipped
 2006-08-18, tasks,		148720, Nathan Hapke,		<10,		relves,		refactor of method in InProgressTaskCollector
+2006-08-18, trac,		150670, Steffen Pingel		<1000,		relves,		attribute persistance for trac
 
 Third Party Software
 

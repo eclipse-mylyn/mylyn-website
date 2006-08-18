@@ -14,7 +14,7 @@
 </STYLE>
 
 <div id="branding">
-<h1>AJDT: AspectJ Development Tools</h1>
+<h1>Mylar Technology Project</h1>
 </div>
 EOBRANDING;
 	$Menu->setProjectBranding($branding);

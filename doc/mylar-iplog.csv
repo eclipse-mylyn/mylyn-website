@@ -2,9 +2,9 @@ Committers (Past and Present)
 
 login name,
 mkersten,
+relves,
 sminto,
 ksueda,
-
 
 Developers (minor contributions prior to 0.4.9 are in doc/new.html)
 
@@ -132,6 +132,8 @@ for 0.5.2
 2006-08-18, trac,		150670, Steffen Pingel		<1000,		relves,		attribute persistance for trac
 2006-08-18, tasks,		154379, Steffen Pingel		<10,		relves,		description displayed in notification if report has no comments
 2006-08-18, bugzilla,	152279,	Jeff Pound,			<100,		mkersten,	stack trace tetst
+
+Developers (Zest)
 
 Third Party Software
 

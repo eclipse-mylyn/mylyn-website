@@ -137,6 +137,7 @@ for 0.5.2
 2006-08-21, trac,		154464, Steffen Pingel,		<100,		relves,		only accept valid trac web pages
 2006-08-21, tasks,		154441, Steffen Pingel,		<1000,		relves,		validate upload and download capability
 2006-08-21, tasks,		154372, Steffen Pingel,		<100,		relves,		operations failing when access is anonymous 
+2006-08-21, docs,		154430, Steffen Pingel,		<100,		mkersten,	trac project sets
 
 Developers (Zest)
 

@@ -129,9 +129,14 @@ for 0.5.2
 2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		editor action: Adds Open With Text, moves "Open With" to submenu
 2006-08-15, context,	153960, Nathan Hapke,		<10,		relves,		unzip in ZipFileUtil now returns list of files unzipped
 2006-08-18, tasks,		148720, Nathan Hapke,		<10,		relves,		refactor of method in InProgressTaskCollector
-2006-08-18, trac,		150670, Steffen Pingel		<1000,		relves,		attribute persistance for trac
-2006-08-18, tasks,		154379, Steffen Pingel		<10,		relves,		description displayed in notification if report has no comments
+2006-08-18, trac,		150670, Steffen Pingel,		<1000,		relves,		attribute persistance for trac
+2006-08-18, tasks,		154379, Steffen Pingel,		<10,		relves,		description displayed in notification if report has no comments
 2006-08-18, bugzilla,	152279,	Jeff Pound,			<100,		mkersten,	stack trace tetst
+2006-08-21, tasks,		154377, Steffen Pingel,		<100,		relves,		made description field editable if allowed
+2006-08-21, bugzilla,	154434, Steffen Pingel,		<100,		relves,		display outline for new bug editor
+2006-08-21, trac,		154464, Steffen Pingel,		<100,		relves,		only accept valid trac web pages
+2006-08-21, tasks,		154441, Steffen Pingel,		<1000,		relves,		validate upload and download capability
+2006-08-21, tasks,		154372, Steffen Pingel,		<100,		relves,		operations failing when access is anonymous 
 
 Developers (Zest)
 

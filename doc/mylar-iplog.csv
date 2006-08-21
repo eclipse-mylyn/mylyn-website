@@ -123,6 +123,7 @@ for 0.5.2
 2006-08-09, bugzilla,	153147, Jeff Pound,			<100,		relves,		attach context option in attachment wizard 
 2006-08-09, tasks,		152903, Felix Schwarz,		<10,		relves,		bypass connector type selection if only one exists
 2006-08-09, bugzilla,	153152, Jeff Pound,			<10,		relves,		auto select patch/attach context if .patch file attached
+2006-08-11, trac,		153496,	Steffen Pingel,		<10,		relves,		fix for html entities
 2006-08-12, trac,		142783, Steffen Pingel		<10,		relves,		layout fix for generalized search page
 2006-08-12, trac,		153539, Steffen Pingel		<100,		relves,		generalized issue search for trac
 2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		added editor action: open in default editor 

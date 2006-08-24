@@ -141,6 +141,7 @@ for 0.5.2
 2006-08-21, docs,		154430, Steffen Pingel,		<100,		mkersten,	trac project sets
 2006-08-23,	tasks,		154798, Steffen Pingel,		<1000,		mkersten,	query externalization improvements
 2006-08-23, trac,		154798,	Steffen Pingel,		<100,		mkersten,	repository migration fix
+2006-08-24, tasks,		154877,	Steffen Pingel,		<100,		relves,		use common date format in task editor
 
 Developers (Zest)
 

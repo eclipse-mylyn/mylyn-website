@@ -143,6 +143,7 @@ for 0.5.2
 2006-08-23, trac,		154798,	Steffen Pingel,		<100,		mkersten,	repository migration fix
 2006-08-24, tasks,		154877,	Steffen Pingel,		<100,		relves,		use common date format in task editor
 2006-08-25,	trac,		151899,	Steffen Pingel,		<100,		mkersten,	repository task data extensions
+2006-08-25, tasks,		15820,	Willian Mitsuda,	<1000,		mkersten,	open/activate task dialogs
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

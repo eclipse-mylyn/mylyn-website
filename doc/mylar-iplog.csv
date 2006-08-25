@@ -144,6 +144,26 @@ for 0.5.2
 2006-08-24, tasks,		154877,	Steffen Pingel,		<100,		relves,		use common date format in task editor
 
 Developers (Zest)
+2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs
+2006-06-11,	zest,		146300,	Chris Bennett,		<500,		irbull,		Extended Layout API to include bendpoints
+2006-07-27,	zest,		151889,	Del Myers,			<1500,		irbull,		Nested Graph Viewer is coupled with a tree viewer and a bread-crumb widget.
+2006-07-28,	zest,		152180,	Del Myers,			<1000,		irbull,		Added self loops to graphs
+2006-07-28,	zest,		114452,	Del Myers,			<1000,		irbull,		Allow multiple connections between nodes
+2006-08-1,	zest,		151327,	Del Myers,			<1000,		irbull,		"New Feature: providers for colours and fonts, etc on nodes and connections."
+2006-08-1,	zest,		152284,	Del Myers,			<1500,		irbull,		Remove NestedFreeFormLayer
+2006-08-1,	zest,		152393,	Del Myers,			<500,		irbull,		Make top level node selectable in nested graph
+2006-08-8,	zest,		150585,	Del Myers,			<1500,		irbull,		Arcs don't connect entities not visible in nested graph
+2006-08-8,	zest,		153170,	Del Myers,			<500,		irbull,		Arcs on visible nodes in the client/supplier panes should not be visible if they don't have an end in the main pane
+2006-08-9,	zest,		153221,	Del Myers,			<1000,		irbull,		Add Marquee selection to root level in Nested Viewewr
+2006-08-9,	zest,		153348,	Del Myers,			<100,		irbull,		Nested graphs aren't styled correctly
+2006-08-9,	zest,		152613,	Del Myers,			<1000,		irbull,		Add support for client / supplier panes in the Nested Viewer
+2006-08-9,	zest,		150449,	Chris Bennett,		<1000,		irbull,		Refactoring changes to include constraints
+2006-08-16,	zest,		153466,	Del Myers,			<3000,		irbull,		client/supplier panes in the nested viewer cause problems on large graphs
+2006-08-16,	zest,		154076,	Raphael Ackermann,	<50,		irbull,		running StaticGraphicalViewer using a Job results in SWTException: Invalid thread access
+2006-08-17,	zest,		152530,	Del Myers,			<1500,		irbull,		Add Bezier Connections
+2006-08-21,	zest,		154176,	Del Myers,			<100,		irbull,		Clipping region for bezier curves doesn't take label into consideration
+2006-08-21,	zest,		154256,	Del Myers,			<500,		irbull,		Client/supplier nodes are no longer selectable in the nested graph
+2006-08-21,	zest,		154421,	Del Myers,			<100,		irbull,		Static graph viewer not cleared properly when new input is set.
 
 Third Party Software
 

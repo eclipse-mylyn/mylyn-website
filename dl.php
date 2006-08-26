@@ -51,16 +51,16 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Update Site for Eclipse 3.2/3.3</h3>
+			<h3>Eclipse 3.2/3.3 Update Site</h3>
 			<ul>
 				<li><b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.1-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 		</div>
 
         <div class="homeitem3col">
-			<h3>Archives and Eclipse 3.1</h3>
+			<h3>Eclipse 3.1 and Archives Sites</h3>
 			<ul>
 				<li>Mylar 0.6.0 for 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>

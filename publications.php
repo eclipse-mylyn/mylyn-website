@@ -44,9 +44,8 @@
 	            </li>
 				<li>
 					<a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
-	                Project creation proposal</a><br>
-	                <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif">presentation</a>
-
+	                Mylar project creation proposal</a> (May 2005)<br>
+	                <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"> Creation review</a>
 	            </li>
 	            <li>
 		            <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-pdf.gif"></a> by Kersten and Murphy. 

@@ -18,20 +18,18 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h3>$pageTitle</h3></div>
+		<!-- <div align="center"><h3>$pageTitle</h3></div>-->
 			
 		<div class="homeitem3col">
 			<h3>Presentations</h3>
 			<ul>
 	            <li>
-	            	March 2006, EclipseCon talk: 
-	            	<a href="publications/2006-03-mylar-eclipsecon.ppt">
-	            	Mylar: a Task Focused UI for Eclipse [PPT]</a>
+		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
+	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, March 2006)
 	            </li>
 	            <li>
-	            	March 2005, EclipseCon talk: 
-	            	<a href="publications/2005-03-mylar-eclipsecon-web.ppt">
-	            	Mylar: a degree-of-interest model for Eclipse [PPT]</a>
+	            	<a href="publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="images/icon-ppt.gif">
+	            	Mylar: a degree-of-interest model for Eclipse</a> (EclipseCon talk, March 2005)
 	            </li>
 			</ul> 
 		</div>
@@ -40,10 +38,9 @@
 			<h3>Publications</h3>
 			<ul>
 	            <li>
-	            	March 2005, IEEE Software<a href="#ieee-copyright">*</a> article: 
-	            	Murphy, Kersten and Findlater. <a href="publications/2005-03-mylar-aosd-web.ppt">
-	            	<a href="publications/2006-07-mylar-ieee.pdf">How are Java software developers using the Eclipse IDE?</a>&nbsp;
-					<img border=0 src="images/icon-pdf.gif"></a>
+		            <a href="publications/2006-07-mylar-ieee.pdf"><img border=0 src="images/icon-pdf.gif">
+	            	How are Java software developers using the Eclipse IDE?</a> by Murphy, Kersten and Findlater. 
+	            	(March 2005, IEEE Software article<a href="#ieee-copyright">*</a>)
 	            </li>
 				<li>
 	                May 2005, eclipse.org 

@@ -17,7 +17,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div align="center"><h2>$pageTitle</h2></div>
+	<div align="center"><h3>$pageTitle</h3></div>
 		
 	<div id="midcolumn">
 		

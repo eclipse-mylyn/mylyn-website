@@ -27,28 +27,36 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h2>$pageTitle</h2></div>
-		<p>The goal of the Mylar project is to evolve a focused user interface
-		for the Eclipse platform.  At the core of Mylar is a mechanism
-		that that makes our interaction with a system explicit.
-		Existing tools make the structure of the system explicit,
-		and as a result overload us with irrelevant 
-		information when the size of a system dwarfs 
-		what we need to know to complete a task. 
-		Initially the Mylar project will provide a model for 
-		exposing interaction history via task contexts, user interface 
-		facilities for making these contexts explicit, and support for
-		Java development.</p>
-		<p>Mylar has been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
-		as a part of his PhD thesis, supervised by
-		<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
-		Software Practices Lab at UBC</a>, the
-		<a href="https://www-927.ibm.com/ibm/cas/">IBM 
-		Centre for Advanced Studies</a>, and
-		<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
-		
 		We are actively seeking and supporting <a href="dev.php">contributions</a> 
 		in the form of code, ideas, and documentation.</p>
+
+		<div class="homeitem3col">
+			<h3>About</h3>
+			<ul>
+				<li>
+					The goal of the Mylar project is to evolve a focused user interface
+					for the Eclipse platform.  At the core of Mylar is a mechanism
+					that that makes our interaction with a system explicit.
+					Existing tools make the structure of the system explicit,
+					and as a result overload us with irrelevant 
+					information when the size of a system dwarfs 
+					what we need to know to complete a task. 
+					Initially the Mylar project will provide a model for 
+					exposing interaction history via task contexts, user interface 
+					facilities for making these contexts explicit, and support for
+					Java development.
+				</li>
+				<li>
+					<p>Mylar has been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
+					as a part of his PhD thesis, supervised by
+					<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
+					Software Practices Lab at UBC</a>, the
+					<a href="https://www-927.ibm.com/ibm/cas/">IBM 
+					Centre for Advanced Studies</a>, and
+					<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
+				</li>
+			</ul>
+		</div>
 		
 		<div class="homeitem3col">
 			<h3>Legal</h3>

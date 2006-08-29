@@ -23,12 +23,6 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
-	
-	<!--
-		<div align="center">
-			<h1>$pageTitle</h1>
-		</div>
-	  -->
 	  	
 		<div align="left">
 			<table border="0" cellpadding="4">

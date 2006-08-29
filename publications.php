@@ -43,9 +43,9 @@
 	            	(March 2005, IEEE Software article<a href="#ieee-copyright">*</a>)
 	            </li>
 				<li>
-	                May 2005, eclipse.org 
-	                <a href="publications/2005-04-mylar-proposal.html">Project creation review</a>
-	                , presentation: <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
+					<a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
+	                Project creation proposal</a><br>
+	                <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif">presentation</a>
 	            </li>
 	            <li>
 	            	March 2005, AOSD research paper: 

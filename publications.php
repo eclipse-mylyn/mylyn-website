@@ -41,10 +41,10 @@
 			<h3>Publications</h3>
 			<ul>
 	            <li>
-	            	March 2005, IEEE Software article: 
+	            	March 2005, IEEE Software<a href="#ieee-copyright">*</a> article: 
 	            	Murphy, Kersten and Findlater. <a href="publications/2005-03-mylar-aosd-web.ppt">
-	            	How are Java software developers using the Eclipse IDE?</a>&nbsp;
-					<a href="publications/2006-07-mylar-ieee.pdf"><img border=0 src="images/icon-pdf.gif"></a>
+	            	<a href="publications/2006-07-mylar-ieee.pdf">How are Java software developers using the Eclipse IDE?</a>&nbsp;
+					<img border=0 src="images/icon-pdf.gif"></a>
 	            </li>
 				<li>
 	                May 2005, eclipse.org 
@@ -56,8 +56,8 @@
 	            <li>
 	            	March 2005, AOSD research paper: 
 	            	<a href="publications/2005-03-mylar-aosd-web.ppt">
-	            	Mylar: a degree-of-interest model for IDEs [PPT]</a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf">[PDF]</a>
+	            	Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-ppt.gif"></a>&nbsp;
+					<a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif"></a>
 	            </li>
 			</ul> 
 		</div>
@@ -66,7 +66,7 @@
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">Related Research Projects</a>
 		for links to other research papers related to Mylar.
 		</p>
-		<p>* <font size=-2>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish
+		<p><a name="ieee-copyright">*</a> <font size=-2>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish
 		this material for advertising or promotional purposes or for creating new collective works for resale or redistribution
 		to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.</font>
 		</p>

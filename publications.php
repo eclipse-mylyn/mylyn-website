@@ -13,7 +13,7 @@
 	# Paste your HTML content between the EOHTML markers!	
 	include("_sideMylarIs.php");
 	include("_sideNews.php");
-	include("_sideIncubator.php");
+	include("_sideCommon.php");
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -47,16 +47,13 @@
 	            </li>
 				<li>
 	                May 2005, eclipse.org 
-	                <a href="publications/2005-04-mylar-proposal.html">
-	                Project creation review</a>
-	                <a href="publications/2005-05-mylar-creation-review.ppt">
-					[PPT]</a>
+	                <a href="publications/2005-04-mylar-proposal.html">Project creation review</a>
+	                , presentation: <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 	            </li>
 	            <li>
 	            	March 2005, AOSD research paper: 
-	            	<a href="publications/2005-03-mylar-aosd-web.ppt">
-	            	Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-ppt.gif"></a>&nbsp;
-					<a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif"></a>
+	            	Kersten and Murphy.  <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-pdf.gif"></a>
+	            	, <a href="publications/2005-03-mylar-aosd-web.ppt">presentation: <img border=0 src="images/icon-ppt.gif"></a>
 	            </li>
 			</ul> 
 		</div>

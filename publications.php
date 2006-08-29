@@ -44,13 +44,14 @@
 	            </li>
 				<li>
 					<a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
-	                Mylar project creation proposal</a> (May 2005)<br>
+	                Mylar project creation proposal</a> (May 2005), 
 	                <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"> Creation review</a>
 	            </li>
 	            <li>
-		            <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-pdf.gif"></a> by Kersten and Murphy. 
-		            (March 2005, AOSD research paper)
-		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif">presentation</a>
+		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
+		            Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. 
+		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"> presentation</a> (March 2005, AOSD research paper)
+		            
 	            </li>
 			</ul> 
 		</div>

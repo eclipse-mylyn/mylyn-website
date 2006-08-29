@@ -25,9 +25,6 @@
 		<!--
 		<div align="center"><h1><?= $pageTitle ?></h1></div>
 		-->
-		<p>In part thanks to the Bugzilla integration that it provides, the
-		Mylar project makes heavy use of Bugzilla for tracking bugs, planning,
-		and discussing design issues.</p>
 		
 		<div class="homeitem3col">
 			<h3>New Bug Reports</h3>

@@ -45,12 +45,12 @@
 				<li>
 		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
-		            Mylar project creation proposal and review</a> by Kersten and Murphy. (May 2005)
+		            Mylar project creation proposal and review</a> (May 2005)
 	            </li>
 	            <li>
 		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
-		            Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. (March 2005, AOSD research paper)
+		            Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. (March 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> paper)
 	            </li>
 			</ul> 
 		</div>

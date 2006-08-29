@@ -30,7 +30,9 @@
 		<div align="center"><h1>$pageTitle</h1></div>
           
         <p>Please use the newsgroup for posting questions about Mylar (<a href="http://dev.eclipse.org/newsManager/newsRequestForm.html">register here</a>).
-        </p>
+        In part thanks to the Bugzilla integration that it provides, the
+		Mylar project makes heavy use of <a href="bugs.php">Bugzilla</a> for tracking bugs, planning,
+		and discussing design issues.</p>
 
         <div class="homeitem3col">
 			<h3>Newsgroups and Mailing Lists</h3>

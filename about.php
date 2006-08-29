@@ -33,7 +33,7 @@
  	-->
 
 		<div class="homeitem3col">
-			<h3>About</h3>
+			<h3>About Mylar</h3>
 			<ul>
 				<li>
 					The goal of the Mylar project is to evolve a focused user interface
@@ -50,7 +50,7 @@
 					Java development.-->
 				</li>
 				<li>
-					<p>Mylar was been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
+					Mylar was been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
 					as a part of his PhD thesis, supervised by
 					<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 					Software Practices Lab at UBC</a>, the

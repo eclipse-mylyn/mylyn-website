@@ -43,7 +43,7 @@
             	March 2005, IEEE Software article: 
             	Murphy, Kersten and Findlater. <a href="publications/2005-03-mylar-aosd-web.ppt">
             	How are Java software developers using the Eclipse IDE?</a>&nbsp;
-				<a href="publications/2006-07-mylar-ieee.pdf">[PDF]</a>
+				<a href="publications/2006-07-mylar-ieee.pdf"><img border=0 src="images/icon-pdf.gif"></a>
             </li>
 			<li>
                 May 2005, eclipse.org 

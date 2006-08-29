@@ -43,20 +43,20 @@
 	            	(March 2005, IEEE Software article<a href="#ieee-copyright">*</a>)
 	            </li>
 				<li>
-					<a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif"></a>
 		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2005-04-mylar-proposal.html">Mylar project creation proposal and review</a> by Kersten and Murphy. (May 2005)
+		            <a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
+		            Mylar project creation proposal and review</a> by Kersten and Murphy. (May 2005)
 	            </li>
 	            <li>
-		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif"></a>
 		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. (March 2005, AOSD research paper)
+		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
+		            Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. (March 2005, AOSD research paper)
 	            </li>
 			</ul> 
 		</div>
 		<p>
 		
-		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">Related Research Projects</a>
+		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">related research Projects</a>
 		for links to other research papers related to Mylar.
 		</p>
 		<p><a name="ieee-copyright">*</a> <font size=-3>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.</font></p>

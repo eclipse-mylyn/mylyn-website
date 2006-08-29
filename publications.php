@@ -46,11 +46,12 @@
 					<a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
 	                Project creation proposal</a><br>
 	                <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif">presentation</a>
+
 	            </li>
 	            <li>
-	            	March 2005, AOSD research paper: 
-	            	Kersten and Murphy.  <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-pdf.gif"></a>
-	            	, <a href="publications/2005-03-mylar-aosd-web.ppt">presentation: <img border=0 src="images/icon-ppt.gif"></a>
+		            <a href="publications/2005-03-mylar-aosd.pdf">Mylar: a degree-of-interest model for IDEs <img border=0 src="images/icon-pdf.gif"></a> by Kersten and Murphy. 
+		            (March 2005, AOSD research paper)
+		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif">presentation</a>
 	            </li>
 			</ul> 
 		</div>
@@ -61,13 +62,12 @@
 		</p>
 		<p><a name="ieee-copyright">*</a> <font size=-3>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.</font></p>
 	
+		<div id="rightcolumn">
+			$commonside
+		</div>
+		
 	</div>
 	
-	<div id="rightcolumn">
-		$commonside
-	</div>
-	
-	<p>&nbsp;</p>
 	<p>&nbsp;</p>
 </div>
 

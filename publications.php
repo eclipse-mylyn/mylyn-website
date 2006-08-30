@@ -61,8 +61,9 @@
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.
 		</p>
+		<!--
 		<p><a name="ieee-copyright">*</a> <font size=-3>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.</font></p>
-	
+		-->
 	</div>
 	</div>
 	

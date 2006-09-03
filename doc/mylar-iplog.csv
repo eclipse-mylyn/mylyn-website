@@ -143,8 +143,9 @@ for 0.5.2
 2006-08-23, trac,		154798,	Steffen Pingel,		<100,		mkersten,	repository migration fix
 2006-08-24, tasks,		154877,	Steffen Pingel,		<100,		relves,		use common date format in task editor
 2006-08-25,	trac,		151899,	Steffen Pingel,		<100,		mkersten,	repository task data extensions
-2006-08-25, tasks,		15820,	Willian Mitsuda,	<1000,		mkersten,	open/activate task dialogs
+2006-08-25, tasks,		152234,	Willian Mitsuda,	<1000,		mkersten,	open/activate task dialogs
 2006-08-25, tasks,		103093,	Jeff Pound,			<1000,		relves,		spell checking of comment fields
+2006-09-03, tasks,		155712,	Eugene Kuleshov,	<1000,		mkersten,	concurrency fixes
 
 0.6.3
 2006-08-28, bugzilla,	153018,	Nathan Hapke,		<100,		relves,		improvements to headless tests

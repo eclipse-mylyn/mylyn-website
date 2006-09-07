@@ -177,6 +177,7 @@ Developers (Zest)
 2006-08-21,	zest,		154256,	Del Myers,			<500,		irbull,		Client/supplier nodes are no longer selectable in the nested graph
 2006-08-21,	zest,		154421,	Del Myers,			<100,		irbull,		Static graph viewer not cleared properly when new input is set.
 2006-09-07, zest,		154259, Del Myers, 			<1000,		irbull,		Abstract graph model nodes and connections into interfaces
+2006-09-07, zest,		156266,	Del Myers,			<10,		irbull,		setupLayout does not handle cases where no objects should appear in the layout: ClassCastException in AbstractLayoutAlgorithm.setupLayout when using a filter
 
 Third Party Software
 

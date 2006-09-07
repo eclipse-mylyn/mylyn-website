@@ -151,6 +151,7 @@ for 0.5.2
 2006-08-28, bugzilla,	153018,	Nathan Hapke,		<100,		relves,		improvements to headless tests
 2006-08-28, tasks,		155153,	Eugene Kuleshov,	<1000,		relves,		add repository action added to repository selection
 2006-08-31,	tasks,		155261, Steffen Pingel,		<100,		relves,		moved externalization code from BugzillaTaskExternalizer to DelegationTaskExternalizer
+2006-09-07, sandbox,	155904,	Eugene Kuleshov,	<100,		mkersten,	http refresh fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

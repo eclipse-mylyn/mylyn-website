@@ -180,6 +180,7 @@ Developers (Zest)
 2006-09-07, zest,		156266,	Del Myers,			<10,		irbull,		setupLayout does not handle cases where no objects should appear in the layout: ClassCastException in AbstractLayoutAlgorithm.setupLayout when using a filter
 2006-09-11, zest, 		156528, Del Myers,			<100,		irbull,		StaticStaticGraphViewer does not take JFace Viewer Filters into account
 2006-09-12, zest,		154063,	Raphael Ackermann,	<10,		irbull, 	ClassCastException when Empty Selection in Zest View
+2006-09-12,	zest,		156915,	Del Myers,			<10,		irbull,		Nested Graph viewer no longer shrinks with the view port
 
 Third Party Software
 

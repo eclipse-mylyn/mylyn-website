@@ -33,7 +33,7 @@
 			<h3>Flash Demos (out of date but useful)</h3> 
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB)
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB) Also see the <a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Getting_Started">Getting Started</a> section of the FAQ.
                 </li>
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)

@@ -155,6 +155,7 @@ for 0.5.2
 2006-09-07, sandbox,	155861,	Eugene Kuleshov,	<100,		mkersten,	mantis template
 2006-09-07,	tasks,		150339,	Willian Mitsuda,	<100,		mkersten,	layout improvements
 2006-09-14, tasks,		155309,	Willian Mitsuda,	<10,		mkersten,	new group for actions
+2006-09-14, tasks,		142703,	Yuri V. Baburov,	<1000,		relves,		task activity timing patch with unit tests
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

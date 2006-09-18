@@ -50,7 +50,7 @@
 					Java development.-->
 				</li>
 				<li>
-					Mylar was been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
+					Mylar has been created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
 					as a part of his PhD thesis, supervised by
 					<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
 					Software Practices Lab at UBC</a>, the

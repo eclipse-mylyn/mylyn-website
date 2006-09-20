@@ -10,6 +10,7 @@
 	$branding = <<<EOBRANDING
 <STYLE TYPE="text/css">
   .sideitem { border-width: 1px 1px; }
+  body { font-size: small; }
   #midcolumn { margin-top: 5px; }
 </STYLE>
 

@@ -27,13 +27,13 @@
         <p>Mylar documentation is still sparse.  The flash
         videos provide an introduction to the basic features.  The best way to learn more is by reading the 
         <a href="/mylar/doc/new.php">New & Noteworthy</a> and looking through the <a href="presentations.php">EclipseCon 2006 presentation</a>. For questions about using Mylar 
-        <a href="users.php">use the newsgroup</a> and consult the <a href="doc/faq.php">FAQ</a>. </p>
+        <a href="users.php">use the newsgroup</a> and consult the <a href="doc/faq.php">FAQ</a>. Also see the <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide">User Guide</a>.</p>
          
         <div class="homeitem3col">
 			<h3>Flash Demos (out of date but useful)</h3> 
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB) Also see the <a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Getting_Started">Getting Started</a> section of the FAQ.
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB)
                 </li>
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)

@@ -80,7 +80,7 @@
         <div class="homeitem3col">
 			<h3>Developer Builds</h3>
 			<ul>
-				<li>Eclipse 3.3M2: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
+				<li>Eclipse 3.3M1: <b>download.eclipse.org/technology/mylar/update-site/dev</b></li>
 				<li>Headless Tasks Framework (3.2 only): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.6.2.zip&r=1">mylar-lib-0.6.2.zip</a>
 			</ul>
 		</div>

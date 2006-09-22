@@ -53,18 +53,24 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Eclipse 3.2/3.3 Update Site</h3>
+			<h3>Mylar 0.6.2 Update Site</h3>
 			<ul>
-				<li><b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
+				<li>Eclipse 3.2<b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        	</li>
+			</ul>
+			<ul>
+				<li>Eclispe 3.3M1<b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        	<br><i>NOTE: Mylar 0.7.0, scheduled for Oct 29, will support Eclipse 3.3M3</i>
 	        	</li>
 			</ul>
 		</div>
 
         <div class="homeitem3col">
-			<h3>Eclipse 3.1 and Archives Sites</h3>
+			<h3>Archives Sites</h3>
 			<ul>
-				<li>Mylar 0.6.0 for 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b>  
+				<li>Eclipse 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 				<li>Archive versions: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>

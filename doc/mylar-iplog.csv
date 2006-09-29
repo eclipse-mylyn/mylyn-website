@@ -159,6 +159,7 @@ for 0.5.2
 
 0.7.0
 2006-09-20, tasks,		157704, John Anvik,			<10,		relves,		added setting to not decode attributes in html stream tokenizer  
+2006-09-29, jira,		159340, Eugene Juleshov,	<100,		mkersten,	query dialog fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

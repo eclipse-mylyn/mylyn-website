@@ -147,7 +147,7 @@ for 0.5.2
 2006-08-25, tasks,		103093,	Jeff Pound,			<1000,		relves,		spell checking of comment fields
 2006-09-03, tasks,		155712,	Eugene Kuleshov,	<1000,		mkersten,	concurrency fixes
 
-0.6.3
+0.7.0
 2006-08-28, bugzilla,	153018,	Nathan Hapke,		<100,		relves,		improvements to headless tests
 2006-08-28, tasks,		155153,	Eugene Kuleshov,	<1000,		relves,		add repository action added to repository selection
 2006-08-31,	tasks,		155261, Steffen Pingel,		<100,		relves,		moved externalization code from BugzillaTaskExternalizer to DelegationTaskExternalizer
@@ -156,8 +156,6 @@ for 0.5.2
 2006-09-07,	tasks,		150339,	Willian Mitsuda,	<100,		mkersten,	layout improvements
 2006-09-14, tasks,		155309,	Willian Mitsuda,	<10,		mkersten,	new group for actions
 2006-09-14, tasks,		142703,	Yuri V. Baburov,	<1000,		relves,		task activity timing patch with unit tests
-
-0.7.0
 2006-09-20, tasks,		157704, John Anvik,			<10,		relves,		added setting to not decode attributes in html stream tokenizer  
 2006-09-29, jira,		159340, Eugene Juleshov,	<100,		mkersten,	query dialog fix
 2006-09-29, tasks,		157579, Willian Mitsuda 	<100,		relves,		sorting of attachments section in editor and retrieve contexts wizard

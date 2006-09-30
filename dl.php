@@ -56,13 +56,12 @@
 			<h3>Mylar 0.6.2 Update Site</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.7.0-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 			<ul>
-				<li>Eclispe 3.3M1: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
-	        	<br>NOTE: Mylar 0.7.0, scheduled for Oct 29, will support Eclipse 3.3M2
+				<li>Eclispe 3.3M2: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.7.0-e3.3.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 		</div>

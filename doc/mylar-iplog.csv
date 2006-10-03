@@ -160,6 +160,9 @@ for 0.5.2
 2006-09-29, jira,		159340, Eugene Juleshov,	<100,		mkersten,	query dialog fix
 2006-09-29, tasks,		157579, Willian Mitsuda 	<100,		relves,		sorting of attachments section in editor and retrieve contexts wizard
 
+0.8.0
+2006-10-02, tasks,		159400, Willian Mitsuda 	<1000,		relves,		changed add existing task to execute in background thread
+
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs
 2006-06-11,	zest,		146300,	Chris Bennett,		<500,		irbull,		Extended Layout API to include bendpoints

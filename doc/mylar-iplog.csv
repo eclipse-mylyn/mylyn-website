@@ -159,6 +159,7 @@ for 0.5.2
 2006-09-20, tasks,		157704, John Anvik,			<10,		relves,		added setting to not decode attributes in html stream tokenizer  
 2006-09-29, jira,		159340, Eugene Juleshov,	<100,		mkersten,	query dialog fix
 2006-09-29, tasks,		157579, Willian Mitsuda 	<100,		relves,		sorting of attachments section in editor and retrieve contexts wizard
+2006-10-04, tasks,		159749, Willian Mitsuda 	<10,		relves,		task editor expand all comments performance improvements
 
 0.8.0
 2006-10-02, tasks,		159400, Willian Mitsuda 	<1000,		relves,		changed add existing task to execute in background thread

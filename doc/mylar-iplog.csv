@@ -163,6 +163,7 @@ for 0.5.2
 
 0.8.0
 2006-10-02, tasks,		159400, Willian Mitsuda 	<1000,		relves,		changed add existing task to execute in background thread
+2006-10-10, tasks,		160232,	Raphael Ackermann,	<100,		mkersten,	category menu formatting fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

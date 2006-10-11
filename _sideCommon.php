@@ -20,9 +20,9 @@
 			
 			<li>
 			 <form method="post" action="Web_Links.html">
-							<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate Mylar at EPIC</a>
-						<table border="0" cellspacing="0" cellpadding="0" align="left">
-							<tr><td valign="top">
+						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate Mylar at EPIC</a>
+						<br>
+						
 								<select name="rating">
 								<option selected>10</option>
 								<option>9</option>
@@ -35,14 +35,11 @@
 								<option>2</option>
 								<option>1</option>
 								</select>
-							</td>
-							<td valign="top">
+
 							<input type="hidden" name="ratinglid" value="560">
 							<input type="hidden" name="ratinguser" value="outside">
 							<input type="hidden" name="req" value="addrating">
 							<input type="submit" value="Submit">
-							</td>
-							</tr></table>
 				</form>
 			</li>
 			

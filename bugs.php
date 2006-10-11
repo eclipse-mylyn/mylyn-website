@@ -32,14 +32,14 @@
 				<li>The <a href="dl.php">The Mylar Bugzilla Connector</a> is the preferred way to submit bugs, since it has automatic duplicate detection.
 				</li>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-				<img border=0 src="images/task-repository-new.gif">&nbsp;The Bugzilla Web Interface/a> can also be used.  For defects provide
+				<img border=0 src="images/task-repository-new.gif">&nbsp;The Bugzilla Web Interface</a> can also be used.  For defects provide
 				details on how to reproduce.  For enhancements please outline a use case.
 				</li>
 			</ul>
 		</div>
 		 
 		<div class="homeitem3col">
-			<h3>Bugzilla Queries</h3>
+			<h3>Queries</h3>
 			<ul>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&priority=P1&priority=P2&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="images/query.gif">&nbsp;Scheduled for this week (P1 and P2)</a>

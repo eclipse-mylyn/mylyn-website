@@ -21,7 +21,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	include("_sideMylarIs.php");
-	include("_sideNews.php");
+	include("_sideFeedback.php");
 	include("_sideIncubator.php");
 	$html = <<<EOHTML
 

@@ -18,6 +18,7 @@
 	# End: page-specific settings
 	
 	include("_sideCommon.php");
+	include("_sideFeedback.php");
 	include("_sideNews.php");
 	$html = <<<EOHTML
   

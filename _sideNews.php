@@ -9,10 +9,6 @@
 					<span class="dates">(Aug 4, 2006)</span><br>&nbsp;
 				</li>
 				<li>
-					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
-					<span class="dates">(Jul 9, 2006)</span><br>&nbsp;
-				</li>
-				<li>
 					Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
 					Eclipse Mylar: Less is More</a>
 					<span class="dates">(May 12, 2006)</span><br>&nbsp;

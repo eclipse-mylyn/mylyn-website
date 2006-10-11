@@ -27,12 +27,15 @@
 		-->
 		
 		<div class="homeitem3col">
-			<h3>New Bug Reports</h3>
+			<h3>New Bugs</h3>
 			<ul>
+				<li>We recommend the <a href="dl.php">Mylar Bugzilla Connector</a> for submitting bugs, and using the
+				duplicate detection feature.
+				</li>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
 				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests.
-				For defects please provide details on how to reproduce.  For enhancements outline a use case. 
-				</p>
+				For defects please provide details on how to reproduce.  For enhancements outline a use case.
+				</li>
 			</ul>
 		</div>
 		 
@@ -55,6 +58,26 @@
 				<img border=0 src="images/query.gif">&nbsp;&nbsp;MacOS-specific reports</a> 
 			</ul>
 		</div>
+		
+		<div class="homeitem3col">
+			<h3>Voting</h3>
+			<ul>
+				<li>
+				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
+				</li>
+				<li>
+				  Vote for
+				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bconnector%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+				  task repository connectors</a>
+				</li>
+				<li>
+				  Vote for
+				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bbridge%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+				  structure bridges</a>
+				</li>
+			</ul>
+		</div>
+		
 		<p>&nbsp;</p>
 	</div>
 	

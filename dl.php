@@ -54,7 +54,6 @@
         
 		<p><b>NOTE:</b>Mylar 0.7.0 can fail to start on the latest <b>BEA JRockit VM</b>.  An update will be available on 2006-10-11.</p>
         
-        
         <div class="homeitem3col">
 			<h3>Mylar 0.7.0 Update Site</h3>
 			<ul>

@@ -12,10 +12,12 @@
 				Vote</a> for connectors
 				<!-- <img border=0 src="images/vote.gif"> -->
 			</li>
+			<!--
 			<li>
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-ratelink-lid-560.html">
 				Comment on Mylar</a> at EPIC
 			</li>
+			-->
 			
 			<li>
 			 <form method="post" action="Web_Links.html">

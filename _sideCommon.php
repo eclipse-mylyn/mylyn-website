@@ -20,11 +20,12 @@
 			-->
 			
 			<li>
+			<br>&nbsp;
 			 <form method="post" action="Web_Links.html">
 				<table align="center" border="0" width="175" cellspacing="0" cellpadding="0">
 				<tr><td align="center"><b>Rate Mylar at EPIC</b></a></td></tr>
 				<tr><td>
-				<table border="0" cellspacing="0" cellpadding="0" align="center">
+				<table border="0" cellspacing="0" cellpadding="0" align="left">
 				<tr><td valign="top">
 				<select name="rating">
 				<option selected>10</option>

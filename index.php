@@ -79,6 +79,7 @@
 
 	<div id="rightcolumn">
 		$commonside
+		$feedbackside
 		$newsside
 	</div>
 </div>

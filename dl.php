@@ -100,6 +100,7 @@
 
 	<div id="rightcolumn">
 		$commonside
+		$feedbackside
 		$mylarIsSide
 	</div>
 </div>

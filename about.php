@@ -91,6 +91,7 @@
 	
 	<div id="rightcolumn">
 		$mylarIsSide
+		$feedbackside
 		$incubatorSide
 	</div>
 	

@@ -29,12 +29,11 @@
 		<div class="homeitem3col">
 			<h3>New Bugs</h3>
 			<ul>
-				<li>We recommend the <a href="dl.php">Mylar Bugzilla Connector</a> for submitting bugs, and using the
-				duplicate detection feature.
+				<li>The <a href="dl.php">The Mylar Bugzilla Connector</a> is the preferred way to submit bugs, since it has automatic duplicate detection.
 				</li>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylar">
-				<img border=0 src="images/task-repository-new.gif">&nbsp;Submit bugzilla reports</a> for any problems or enhancement requests.
-				For defects please provide details on how to reproduce.  For enhancements outline a use case.
+				<img border=0 src="images/task-repository-new.gif">&nbsp;The Bugzilla Web Interface/a> can also be used.  For defects provide
+				details on how to reproduce.  For enhancements please outline a use case.
 				</li>
 			</ul>
 		</div>

@@ -21,6 +21,20 @@
 		<!-- <div align="center"><h3>$pageTitle</h3></div>-->
 			
 		<div class="homeitem3col">
+			<h3>Articles</h3>
+			<ul>
+				<li>
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+	            <li>
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+			</ul> 
+		</div>
+			
+		<div class="homeitem3col">
 			<h3>Presentations</h3>
 			<ul>
 	            <li>

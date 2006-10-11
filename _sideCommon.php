@@ -46,6 +46,7 @@
 				</form>
 			</li>
 			
+			<!--
 			<li>
 			 <form method="post" action="Web_Links.html">
 				<table align="left" border="0" cellspacing="0" cellpadding="0">
@@ -82,6 +83,7 @@
 				</table>
 				</form>
 			</li>
+			-->
 		</ul> 
 	</div> 
 EOHTML

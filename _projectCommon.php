@@ -32,6 +32,7 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Downloads", "/mylar/dl.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Bugs", "/mylar/bugs.php", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ (wiki)", "http://wiki.eclipse.org/index.php/Mylar_FAQ", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;User Guide (wiki)", "http://wiki.eclipse.org/index.php/Mylar_User_Guide", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylar/doc/new.php", "_self", 1);
 
 	$Nav->addNavSeparator("Developers (wiki)", "http://wiki.eclipse.org/index.php/Mylar", "_self", 1);

@@ -22,7 +22,7 @@
 			<li>
 			<br>&nbsp;
 			 <form method="post" action="Web_Links.html">
-				<table align="left" border="0" width="175" cellspacing="0" cellpadding="0">
+				<table align="left" border="0" cellspacing="0" cellpadding="0">
 				<tr><td align="left"><a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate Mylar at EPIC</a></td></tr>
 				<tr><td>
 				<table border="0" cellspacing="0" cellpadding="0" align="left">

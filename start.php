@@ -25,6 +25,7 @@
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
           
         <p>For questions about using Mylar see the <a href="users.php">Users page</a>.
+        </p>
          
         <div class="homeitem3col">
 			<h3>Getting started</h3> 

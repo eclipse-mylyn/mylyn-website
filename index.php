@@ -64,11 +64,12 @@
 			<h3>Recent and Upcoming Events</h3>
 			<ul>
 				<li>
-	                <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
-	                Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
-	            	<br>
-	            	<a href="http://www.eclipsecon.org/2006/Sub.do?id=164"><img border=0 
-					 src="http://www.eclipsecon.org/2006/images/banner132x38.gif"/></a>
+	                <a href="http://www.eclipse.org/community/webinars2006.php">
+	                Mylar A Task Focused UI for Eclipse</a> by Mik Kersten, eclipse.org Webinar (Oct 25, 8:00am PST)
+	            </li>
+				<li>
+	                <a href="http://www.cs.uoregon.edu/fse-14/prelim-program.html">
+	                 Using Task Context to Improve Programmer Productivity</a> by Mik Kersten and Gail Murphy (Nov 7, 10:00am PST)
 	            </li>
 			</ul>
 		</div> 

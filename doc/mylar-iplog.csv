@@ -165,6 +165,7 @@ for 0.5.2
 2006-10-02, tasks,		159400, Willian Mitsuda 	<1000,		relves,		changed add existing task to execute in background thread
 2006-10-10, tasks,		160232,	Raphael Ackermann,	<100,		mkersten,	category menu formatting fix
 2006-10-11, tasks,		160315,	Raphael Ackermann,	<1000,		mkersten,	on the fly category creation
+2006-10-11, tasks,		157700,	Ducky Sherwood,		<10,		relves,		rename of user name field in task repository preference page
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

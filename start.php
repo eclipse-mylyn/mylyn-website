@@ -30,17 +30,28 @@
         <a href="users.php">use the newsgroup</a> and consult the <a href="doc/faq.php">FAQ</a>. Also see the <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide">User Guide</a>.</p>
          
         <div class="homeitem3col">
-			<h3>Flash Demos (out of date but useful)</h3> 
+			<h3>Getting started</h3> 
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html">Getting started</a> (v0.4, 3.5 min, 8.7 MB)
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+	            <li>
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+				<li>
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
+					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
                 </li>
+                <!--
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)
                 </li>
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html">Using Active views</a> (v0.3, 2 min, 3 MB)
                 </li>
+                -->
 			</ul>
 		</div>      
 		
@@ -58,14 +69,14 @@
                 </li>
 				<li>
                     Query support: Repository queries in task list view
-                    <br><a href="dl.php">(currently JIRA and Bugzilla)</a>
+                    <br><a href="dl.php">(currently Bugzilla, Trac, and JIRA)</a>
                 </li>
 				<li>
                     Full integration: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
 				change notifications. </td>
 	            <td class="smallParagraph" align="left" valign="top" bgcolor="#F1F3F5">
-	            <br><a href="dl.php">(currently Bugzilla only)</a>
+	            <br><a href="dl.php">(currently Bugzilla and Trac)</a>
                 </li>
 			</ul>
 		</div> 

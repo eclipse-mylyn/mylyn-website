@@ -79,14 +79,13 @@
 	            <td class="smallParagraph" align="left" valign="top" bgcolor="#F1F3F5">
 	            <br><a href="dl.php">(currently Bugzilla and Trac)</a>
                 </li>
+				<li>
+				<a href="bugs.php">
+				<img border=0 src="images/vote.gif"> Vote for a connector</a>
+				if your repository is not supported, or file a new request if not listed.
+				</li>
 			</ul>
 		</div> 
-		
-		<p>
-		<a href="bugs.php">
-		<img border=0 src="images/vote.gif"> Vote for a connector</a>
-		if your repository is not supported, or file a new request if not listed.
-		</p>
 		<p>&nbsp;</p>
 	</div>
 	

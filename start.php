@@ -42,10 +42,6 @@
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
 					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
                 </li>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
-					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
-                </li>
                 <!--
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)

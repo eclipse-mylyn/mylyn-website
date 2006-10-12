@@ -53,7 +53,7 @@
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>Publications</h3>
+			<h3>Papers & Propsoals</h3>
 			<ul>
 				<!--
 	            <li>
@@ -70,7 +70,7 @@
 	            <li>
 		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
-		            Mylar: a degree-of-interest model for IDEs</a> by Kersten and Murphy. (Mar 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> paper)
+		            Mylar: a degree-of-interest model for IDEs</a> by Mik Kersten and Gail Murphy (Mar 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> paper)
 	            </li>
 			</ul> 
 		</div>

@@ -61,7 +61,7 @@
 		</div>
 		
 		<div class="homeitem">
-			<h3>Recent and Upcoming Events</h3>
+			<h3>Upcoming Events</h3>
 			<ul>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">

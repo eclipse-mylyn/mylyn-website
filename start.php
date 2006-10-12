@@ -22,12 +22,9 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<div align="center"><h1>$pageTitle</h1></div>
+		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
           
-        <p>Mylar documentation is still sparse.  The flash
-        videos provide an introduction to the basic features.  The best way to learn more is by reading the 
-        <a href="/mylar/doc/new.php">New & Noteworthy</a> and looking through the <a href="presentations.php">EclipseCon 2006 presentation</a>. For questions about using Mylar 
-        <a href="users.php">use the newsgroup</a> and consult the <a href="doc/faq.php">FAQ</a>. Also see the <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide">User Guide</a>.</p>
+        <p>For questions about using Mylar see the <a href="users.php">Users page</a>.
          
         <div class="homeitem3col">
 			<h3>Getting started</h3> 
@@ -40,6 +37,10 @@
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
 		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
+				<li>
+                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
+					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
+                </li>
 				<li>
                     <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
 					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
@@ -82,7 +83,7 @@
 		</div> 
 		
 		<p>
-		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bconnector%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<a href="bugs.php">
 		<img border=0 src="images/vote.gif"> Vote for a connector</a>
 		if your repository is not supported, or file a new request if not listed.
 		</p>

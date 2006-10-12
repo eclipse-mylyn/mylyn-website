@@ -31,6 +31,10 @@
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
 		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
+	            <li>
+		            <a href=" http://www.eclipsezone.com/articles/mylar/"><img border=0 src="images/icon-webdoc.gif">
+		           	Revolutionize your productivity with Eclipse Mylar</a> by Riyad Kalla (Apr 2006)
+	            </li>
 			</ul> 
 		</div>
 			

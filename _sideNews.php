@@ -1,8 +1,13 @@
 <?php
     $newsside = <<<EOHTML
 		<div class="sideitem">
-			<h6><a href="archive.php">Blogs & Articles...</a></a></h6>
+			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
+				<li>
+					Mik Kersten: <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/">
+					Task-focused programming with Mylar</a>
+					<span class="dates">(Oct 10, 2006)</span><br>&nbsp;
+				</li>
 				<li>
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=linking_mylar_with_google_code">
 					Link Mylar with Google Code Hosting...</a>
@@ -12,11 +17,6 @@
 					Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
 					Eclipse Mylar: Less is More</a>
 					<span class="dates">(May 12, 2006)</span><br>&nbsp;
-				</li>
-				<li>
-					Riyad Kalla: <a href="http://www.eclipsezone.com/articles/mylar/">
-					Revolutionize your productivity with Eclipse Mylar</a>
-					<span class="dates">(Apr 10, 2006)</span><br>&nbsp;
 				</li>
 				<li>
 					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">

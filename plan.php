@@ -10,7 +10,7 @@
 	$pageAuthor		= "Mik Kersten";
 	 
 #	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/new.html";
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/dev/plan.html";
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/plan.html";
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {

@@ -168,7 +168,7 @@ for 0.5.2
 2006-10-11, tasks,		157700,	Ducky Sherwood,		<10,		relves,		rename of user name field in task repository preference page
 2006-10-15, team,		117517,	Eike Stepper,		<1000,		mkersten,	commit comment templates	
 2006-10-16, tasks,		160686,	Raphael Ackermann,	<10,		mkersten,	single selection fix
-
+2006-10-19, tasks,		143323,	Willian Mitsuda,	<100,		mkersten,	spacing fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

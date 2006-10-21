@@ -8,7 +8,7 @@
 				<span class="dates">(Oct 29)</span>
 			</li>
 			<li>
-				<i>Mylar 0.9 planned for Nov 10</i>
+				<i>0.9 planned for Nov 10</i>
 			</li>
 		</ul> 
 	</div> 

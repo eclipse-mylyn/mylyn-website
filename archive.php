@@ -36,7 +36,7 @@
 					<span class="dates">(Oct 12, 2006)</span><br>&nbsp;
 				</li>
 				<li>
-					Blaine Buxton: <a href="http://www.infoq.com/news/mylar">
+					Blaine Buxton: <a href="http://blog.blainebuxton.com/2006/10/eclipse-mylar.html">
 					Eclipse Mylar I'm in love.  This is just too gorgeous.</a>
 					<span class="dates">(Oct 11, 2006)</span><br>&nbsp;
 				</li>

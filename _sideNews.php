@@ -4,6 +4,11 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
+					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
+					What's Cooking at Eclipse</a>
+					<span class="dates">(Oct 15, 2006)</span><br>&nbsp;
+				</li>
+				<li>
 					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
 					Changing the way you work with Mylar</a>
 					<span class="dates">(Oct 12, 2006)</span><br>&nbsp;

@@ -33,12 +33,12 @@
 				<li>
 					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
 					Changing the way you work with Mylar</a>
-					<span class="dates">(Oct 12, 2006)</span><br>&nbsp;
+					<span class="dates">(Oct 12, 2006)</span>
 				</li>
 				<li>
 					Blaine Buxton: <a href="http://blog.blainebuxton.com/2006/10/eclipse-mylar.html">
 					Eclipse Mylar I'm in love.  This is just too gorgeous.</a>
-					<span class="dates">(Oct 11, 2006)</span><br>&nbsp;
+					<span class="dates">(Oct 11, 2006)</span>
 				</li>
 				<li>
 					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>

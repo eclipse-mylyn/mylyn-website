@@ -37,15 +37,6 @@
 					Eclipse Killer Plugin Mylar</a>
 					<span class="dates">(Nov 14, 2005)</span><br>&nbsp;
 				</li>
-				<li>
-					Kirill Grouchnikov: <a href="http://weblogs.java.net/blog/kirillcool/archive/2005/11/mylar_a_very_us.html">
-					A very useful Eclipse plugin</a>
-					<span class="dates">(Nov 7, 2005)</span><br>&nbsp;
-				</li>
-				<li> 
-					Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
-					<span class="dates">(Jul 28, 2005)</span><br>
-				</li>
 			</ul>
 		</div>
 EOHTML

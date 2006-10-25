@@ -33,13 +33,13 @@
 				<li>
 					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
 					What's Cooking at Eclipse</a>
-					<span class="dates">(Oct 15, 2006)</span><br>&nbsp;
+					<span class="dates">(Oct 15, 2006)</span>
 				</li>
 				<li>
 					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
 					Changing the way you work with Mylar</a>
 					<span class="dates">(Oct 12, 2006)</span>
-				</li>
+				</li> 
 				<li>
 					Blaine Buxton: <a href="http://blog.blainebuxton.com/2006/10/eclipse-mylar.html">
 					Eclipse Mylar I'm in love.  This is just too gorgeous.</a>

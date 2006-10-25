@@ -157,7 +157,7 @@ for 0.5.2
 2006-09-14, tasks,		155309,	Willian Mitsuda,	<10,		mkersten,	new group for actions
 2006-09-14, tasks,		142703,	Yuri V. Baburov,	<1000,		relves,		task activity timing patch with unit tests
 2006-09-20, tasks,		157704, John Anvik,			<10,		relves,		added setting to not decode attributes in html stream tokenizer  
-2006-09-29, jira,		159340, Eugene Juleshov,	<100,		mkersten,	query dialog fix
+2006-09-29, jira,		159340, Eugene Kuleshov,	<100,		mkersten,	query dialog fix
 2006-09-29, tasks,		157579, Willian Mitsuda 	<100,		relves,		sorting of attachments section in editor and retrieve contexts wizard
 2006-10-04, tasks,		159749, Willian Mitsuda 	<10,		relves,		task editor expand all comments performance improvements
 
@@ -172,8 +172,8 @@ for 0.5.2
 2006-10-21, tasks		161806, Willian Mitsuda,	<100,		mkersten,	task progress bar fix
 
 0.9.0
-2006-10-23, tasks,		161835, Eugene Juleshov,	<1000,		relves,		automatic repository/product selection for new task actions
-
+2006-10-23, tasks,		161835, Eugene Kuleshov,	<1000,		relves,		automatic repository/product selection for new task actions
+2006-10-25, tasks,		162130, Eugene Kuleshov,	<1000,		relves,		addition of http auth credentils for web connector
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

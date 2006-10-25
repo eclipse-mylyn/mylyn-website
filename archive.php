@@ -41,6 +41,11 @@
 					<span class="dates">(Oct 11, 2006)</span>
 				</li>
 				<li>
+					(in Russian)<a href="http://www.novemberain.com/blog/?p=1016">
+					Mylar: The next level of working with pleasure in Eclipse</a>
+					<span class="dates">(Sep 28, 2006)</span>
+				</li>
+				<li>
 					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
 					<span class="dates">(Jul 9, 2006)</span>
 				</li>

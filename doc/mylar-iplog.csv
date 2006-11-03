@@ -176,6 +176,7 @@ for 0.5.2
 2006-10-25, tasks,		162130, Eugene Kuleshov,	<1000,		relves,		addition of http auth credentils for web connector
 2006-10-31,	sandbox,	162569,	Jochen Hiller,		<10,		mkersten,	web repository template fix
 2006-11-01, tasks,		163000,	Meghan Allen,		<10,		mkersten,	class typo
+2006-11-02, tasks,		163282,	Eugene Kuleshov,	<100,		mkersten,	made change set adaptable to task
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

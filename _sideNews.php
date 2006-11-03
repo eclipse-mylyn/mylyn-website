@@ -4,6 +4,11 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
+					Litrik: <a href="http://litrik.blogspot.com/2006/10/commit-comment-templates-in-mylar-080.html">
+					Commit comment templates in Mylar 0.8.0</a>
+					<span class="dates">(Oct 27, 2006)</span><br>&nbsp;
+				</li>			
+				<li>
 					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
 					What's Cooking at Eclipse</a>
 					<span class="dates">(Oct 15, 2006)</span><br>&nbsp;

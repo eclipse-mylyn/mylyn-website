@@ -63,6 +63,7 @@
 			<ul>
 				<li>Eclispe 3.3M2: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.8.0-e3.3.tgz&r=1">&nbsp;[site zip]</a>
+	        		<br><i><b>Note</b>: the upcoming Mylar 0.9 and the current dev build supports Ecipse 3.3M3</i>
 	        	</li>
 			</ul>
 		</div>
@@ -80,7 +81,7 @@
         <div class="homeitem3col">
 			<h3>Developer Builds</h3>
 			<ul>
-				<li>Eclipse 3.3M2: <b>download.eclipse.org/technology/mylar/update-site/dev</b>
+				<li>Eclipse 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/dev</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Development_builds">(compatibility)</a></li>
 				<li>Headless Tasks Framework (3.2 only): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.6.2.zip&r=1">mylar-lib-0.6.2.zip</a>
 			</ul>

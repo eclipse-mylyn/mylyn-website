@@ -226,7 +226,7 @@ Third Party Software
 
 name including version, directory location or jar file, license name and version, 	usage,,,
 commons-httpclient,		org.eclipse.mylar.core,			APL,						web repository connections
-commons-cocec,			org.eclipse.mylar.core,			APL,						web repository connections
+commons-codec,			org.eclipse.mylar.core,			APL,						web repository connections
 commons-logging,		org.eclipse.mylar.core,			APL,						web repository connections
 commons-logging-api,	org.eclipse.mylar.core,			APL,						web repository connections
 xmlrpc-common,			org.eclipse.mylar.core,			APL,						web repository connections

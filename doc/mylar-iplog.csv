@@ -183,6 +183,7 @@ for 0.5.2
 2006-11-06, sandbox,	163448,	Eugene Kuleshov,	<100,		mkersten,	null arg fix
 2006-11-06,	sandbox, 	163451,	Eugene Juleshov,	<10,		mkersten,	null check
 2006-11-06, tasks,		162285, Willian Mitsuda,	<10,		mkersten, 	caret position fix
+2006-11-06, tasks,		161837, Willian Mitsuda,	<1000,		mkersten, 	filing of new tasks to category
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

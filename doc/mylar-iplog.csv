@@ -191,9 +191,9 @@ for 0.5.2
 2006-11-08, sandbox,	163736,	Eugene Kuleshov,	<100,		mkersten,	bad param fix
 2006-11-08, bugzilla,	151622, Eugene Kuleshov,	<10,		relves,		comment numbers added to outline
 2006-11-08, tasks,		151622,	Eugene Kuleshov,	<100,		mkersten,	comment numbers
-2006-11-08, tasks,		163579,	Meghan Allen,		<10,		mkersten,	perspective collection fix
-2006-11-09, tasks		163615,	Meghan Allen,		<10,		mkersten,	collection fix
-
+2006-11-08, monitor,	163579,	Meghan Allen,		<10,		mkersten,	perspective collection fix
+2006-11-09, monitor,	163615,	Meghan Allen,		<10,		mkersten,	collection fix
+2006-11-09, monitor,	163712,	Meghan Allen,		<10,		mkersten,	formatting fix
 
 
 Developers (Zest)

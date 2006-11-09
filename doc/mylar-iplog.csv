@@ -188,7 +188,7 @@ for 0.5.2
 2006-11-06, tasks,		162285, Willian Mitsuda,	<10,		mkersten, 	caret position fix
 2006-11-06, tasks,		161837, Willian Mitsuda,	<1000,		mkersten, 	filing of new tasks to category
 2006-11-07,	tasks,		139212,	Eugene Kuleshov,	<1000,		mkersten,	url represtation of JIRA queries
-
+2006-11-08, sandbox,	163736,	Eugene Kuleshov,	<100,		mkersten,	bad param fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

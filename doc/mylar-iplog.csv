@@ -190,6 +190,8 @@ for 0.5.2
 2006-11-07,	tasks,		139212,	Eugene Kuleshov,	<1000,		mkersten,	url represtation of JIRA queries
 2006-11-08, sandbox,	163736,	Eugene Kuleshov,	<100,		mkersten,	bad param fix
 2006-11-08, bugzilla,	151622, Eugene Kuleshov,	<10,		relves,		comment numbers added to outline
+2006-11-08, tasks,		151622,	Eugene Kuleshov,	<100,		mkersten,	comment numbers
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

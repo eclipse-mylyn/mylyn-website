@@ -54,16 +54,15 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.8 Update Site</h3>
+			<h3>Mylar 0.9 Update Site</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.8.0-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 			<ul>
-				<li>Eclispe 3.3M2: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
+				<li>Eclispe 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.8.0-e3.3.tgz&r=1">&nbsp;[site zip]</a>
-	        		<br><i><b>Note</b>: the upcoming Mylar 0.9 and the current dev build supports Ecipse 3.3M3</i>
 	        	</li>
 			</ul>
 		</div>

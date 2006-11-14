@@ -196,6 +196,9 @@ for 0.5.2
 2006-11-09, monitor,	163712,	Meghan Allen,		<10,		mkersten,	formatting fix
 2006-11-08, tasks,		158976,	Eugene Kuleshov,	<100,		mkersten,	template fixes
 
+1.0.0
+2006-11-14, bugzilla,	161618, Willian Mitsuda,	<100,		relves,		filtered tree in bugzilla product selection
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

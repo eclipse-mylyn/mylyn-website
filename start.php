@@ -66,19 +66,18 @@
 			<ul>
 				<li>
                     Web only: Reports linked via drag-and-drop, editing via embedded 
-					browser, </td> 
-					<br><a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">(any web-based repository)</a>
+					browser, 
+					<a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">(any web-based repository)</a>
                 </li>
 				<li>
                     Query support: Repository queries in task list view
-                    <br><a href="dl.php">(currently Bugzilla, Trac, and JIRA)</a>
+                    <a href="dl.php">(currently Bugzilla, Trac, and JIRA)</a>
                 </li>
 				<li>
                     Full integration: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
-				change notifications. </td>
-	            <td class="smallParagraph" align="left" valign="top" bgcolor="#F1F3F5">
-	            <br><a href="dl.php">(currently Bugzilla and Trac)</a>
+				change notifications.
+	            <a href="dl.php">(currently Bugzilla and Trac)</a>
                 </li>
 				<li>
 				<a href="bugs.php">

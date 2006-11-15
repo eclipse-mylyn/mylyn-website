@@ -32,7 +32,7 @@
 			<ul>
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
-					Webinar: Task-Focused Programming with Mylar</a> (56 min, Oct 2006)
+					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
                 </li>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">

@@ -73,12 +73,12 @@
 	            <li>
 		            <a href="publications/2006-11-mylar-fse.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2006-11-mylar-fse.pdf"><img border=0 src="images/icon-pdf.gif">
-		            Using task context to improve programmer productivity</a> by Mik Kersten and Gail Murphy (Nov 2006, <a href="http://www.cs.uoregon.edu/fse-14/">Foundations of Software Engineering</a> conference paper)
+		            Using task context to improve programmer productivity</a> by Mik Kersten and Gail Murphy (Nov 2006, <a href="http://www.cs.uoregon.edu/fse-14/">FSE</a> conference paper)
 	            </li>
 	            <li>
 		            <a href="publications/2006-11-mylar-cscw.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2006-11-mylar-cscw.pdf"><img border=0 src="images/icon-pdf.gif">
-		            WYSIWYN: Using Task Focus to Ease Collaboration</a> by Mik Kersten, Rob Elves and Gail Murphy (Nov 2006, <a href="http://software-research.ca/social-se/">Computer Supported Cooperative Work</a> workshop paper)
+		            WYSIWYN: Using Task Focus to Ease Collaboration</a> by Mik Kersten, Rob Elves and Gail Murphy (Nov 2006, <a href="http://software-research.ca/social-se/">CSCW</a> workshop paper)
 	            </li>
 				<li>
 		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
@@ -88,7 +88,7 @@
 	            <li>
 		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
-		            Mylar: a degree-of-interest model for IDEs</a> by Mik Kersten and Gail Murphy (Mar 2005, <a href="http://aosd.net/2005/index.php">Aspect-Oriented Software Development</a> conference paper)
+		            Mylar: a degree-of-interest model for IDEs</a> by Mik Kersten and Gail Murphy (Mar 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> conference paper)
 	            </li>
 			</ul> 
 		</div>

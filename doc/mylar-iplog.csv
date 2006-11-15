@@ -201,6 +201,7 @@ for 0.5.2
 2006-11-14, bugzilla,	161618, Willian Mitsuda,	<100,		relves,		filtered tree in bugzilla product selection
 2006-11-14, tasks,		161820, Steffen Pingel,		<1000,		relves,		synchronization warning in tasklist (icon) and tooltip  
 2006-11-14,	tasks,		164232,	Eugene Kuleshov,	<100,		mkersten,	html comment fix
+2006-11-14, monitor,	164398,	Brian de Alwis,		<10,		relves,		synched htmltag update over to monitor.usage  
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

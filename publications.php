@@ -41,6 +41,14 @@
 		<div class="homeitem3col">
 			<h3>Presentations</h3>
 			<ul>
+				<li>
+                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
+					Webinar: Task-Focused Programming with Mylar</a> (56 min, Oct 2006)
+                </li>
+	            <li>
+		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
+	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
+	            </li>			
 	            <li>
 		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
 	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)

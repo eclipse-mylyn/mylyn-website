@@ -237,7 +237,8 @@ Developers (Zest)
 2006-10-25,	zest,		159667,	Del Myers,			see 162306,	irbull,		ZoomContributionViewItem doesn't check for widget disposal.
 2006-10-25,	zest,		160368, Del Myers,			see 162306, irbull,		label placement on arcs
 2006-10-25,	zest,		160931,	Del Myers,			see 162306,	irbull,		Automatic colouring/width-adjustment based on edge weight causes unexpected results.
-2006-11-15,	zest,		163098, Del Myers,			< 500,		irbull,		Rectangle focus tool doesn't work properly in overviewer
+2006-11-15,	zest,		163098, Del Myers,			<500,		irbull,		Rectangle focus tool doesn't work properly in overviewer
+2006-11-15,	zest,		160367, Del Myers,			<2000,		irbull,		Zest: dynamically changeable colors and styles
 
 Third Party Software
 

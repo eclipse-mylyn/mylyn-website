@@ -196,14 +196,15 @@ for 0.5.2
 2006-11-09, monitor,	163712,	Meghan Allen,		<10,		mkersten,	formatting fix
 2006-11-08, tasks,		158976,	Eugene Kuleshov,	<100,		mkersten,	template fixes
 
-
 1.0.0
 2006-11-14, bugzilla,	161618, Willian Mitsuda,	<100,		relves,		filtered tree in bugzilla product selection
 2006-11-14, tasks,		161820, Steffen Pingel,		<1000,		relves,		synchronization warning in tasklist (icon) and tooltip  
 2006-11-14,	tasks,		164232,	Eugene Kuleshov,	<100,		mkersten,	html comment fix
 2006-11-14, monitor,	164398,	Brian de Alwis,		<10,		relves,		synched htmltag update over to monitor.usage  
 2006-11-15, trac,		164536, Steffen Pingel,		<1000,		relves,		people section lifted into abstract editor, made available in trac editor
+2006-11-15, tasks,		164219,	Eugene Kuleshov,	<100,		mkersten,	error handling
 2006-11-15, tasks,		164752, Steffen Pingel,		<100,		relves,		add me to cc field not being saved in editor
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

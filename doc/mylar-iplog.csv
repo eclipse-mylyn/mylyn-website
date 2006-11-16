@@ -203,6 +203,7 @@ for 0.5.2
 2006-11-14,	tasks,		164232,	Eugene Kuleshov,	<100,		mkersten,	html comment fix
 2006-11-14, monitor,	164398,	Brian de Alwis,		<10,		relves,		synched htmltag update over to monitor.usage  
 2006-11-15, trac,		164536, Steffen Pingel,		<1000,		relves,		people section lifted into abstract editor, made available in trac editor
+2006-11-15, tasks,		164752, Steffen Pingel,		<100,		relves,		add me to cc field not being saved in editor
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

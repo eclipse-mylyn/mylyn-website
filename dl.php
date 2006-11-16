@@ -82,7 +82,7 @@
 			<ul>
 				<li>Eclipse 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/dev</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Development_builds">(compatibility)</a></li>
-				<li>Headless Tasks Framework (3.2 only): <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.6.2.zip&r=1">mylar-lib-0.6.2.zip</a>
+				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-0.9.0.zip</a>
 			</ul>
 		</div>
 

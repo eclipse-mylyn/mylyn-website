@@ -101,7 +101,7 @@
 		$commonside
 		<center>
 		<a href="sandbox/zest_screenshots.php">
-		<img src="images/zest_screen1_th.jpg"/><BR>
+		<img src="images/zest_screen1_th.jpg" width=180px/><BR>
 		Screenshots
 		</a>
 		<center>

@@ -24,8 +24,11 @@
 
 <div id="maincontent">
 
-		<div class="homeitem3col">
+		<H2>Screenshot Gallery</H2>
 		Click on an image for full screen view
+		
+		<div class="homeitem3col">
+
 		<h3>Zest Screenshots</h3>
 		<center>
 		<P>

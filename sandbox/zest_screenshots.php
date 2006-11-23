@@ -24,8 +24,10 @@
 
 <div id="maincontent">
 
-		<H2>Screenshot Gallery</H2>
+		<div id="midcolumn">
+		<H1>Screenshot Gallery</H1>
 		Click on an image for full screen view
+		</div>
 		
 		<div class="homeitem3col">
 

@@ -99,7 +99,7 @@
 	</div>
 	<div id="rightcolumn">
 		$commonside
-		<img src="images/zest_screen1.JPG" width=60px/>
+		<img src="images/zest_screen1.JPG" width=180px/>
 	</div>
 	<div id="rightcolumn">
 		$commonside

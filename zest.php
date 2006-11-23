@@ -89,13 +89,17 @@
                 </li>
  		<li>
 			Currently the viewers and layout package are only available from our CVS repository.<BR>
-			Create a new CVS location: <I>dev.eclipse.org/home/technology</I><BR>
+			Create a new CVS location: <I>dev.eclipse.org/cvsroot/technology</I><BR>
                         <B>Checkout:</B> <BR>
 			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.layouts</I><BR>
 			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.core</I><BR>
                 </li>
 		</ul>
 		</div>  
+	</div>
+	<div id="rightcolumn">
+		$commonside
+		Zest ScreenShots
 	</div>
 	<div id="rightcolumn">
 		$commonside

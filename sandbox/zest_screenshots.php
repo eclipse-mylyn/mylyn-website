@@ -23,27 +23,28 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-		Click on an image for full screen view
+
 		<div class="homeitem3col">
+		Click on an image for full screen view
 		<h3>Zest Screenshots</h3>
 		<center>
 		<P>
 		<BR>
-		<A HREF="../image/zest_screen1.JPG">
+		<A HREF="../images/zest_screen1.JPG">
 		<img src="../images/zest_screen1_600.jpg"><BR>
 		Plug-in Dependency Visualization (Static Graph Viewer)
 		</A>
 		</P>
 		<P>
 		<BR>
-		<A HREF="../image/zest_screen2.jpg">
+		<A HREF="../images/zest_screen2.jpg">
 		<img src="../images/zest_screen2_600.jpg"><BR>
 		Family Tree (Tree Graph Viewer)
 		</A>
 		</P>
 		<P>
 		<BR>
-		<A HREF="../image/zest_screen3.jpg">
+		<A HREF="../images/zest_screen3.jpg">
 		<img src="../images/zest_screen3_600.jpg"><BR>
 		Package Explorer (Nested Graph Viewer)
 		</A>

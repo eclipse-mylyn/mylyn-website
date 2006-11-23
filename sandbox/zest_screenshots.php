@@ -25,7 +25,7 @@
 <div id="maincontent">
 		<div class="homeitem3col">
 		<h3>Zest Screenshots</h3>
-		<img src="../images/zest_screen1.JPG" width=400px/>
+		<img src="../images/zest_screen1.JPG" width=600px/>
 		</div>  
 	</div>
 	

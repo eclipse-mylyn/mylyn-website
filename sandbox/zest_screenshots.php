@@ -27,6 +27,7 @@
 		<h3>Zest Screenshots</h3>
 		<center>
 		<P>
+		<BR>
 		<img src="../images/zest_screen1_600.jpg">
 		</P>
 		

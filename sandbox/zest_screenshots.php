@@ -26,7 +26,9 @@
 		<div class="homeitem3col">
 		<h3>Zest Screenshots</h3>
 		<center>
+		<P>
 		<img src="../images/zest_screen1_600.jpg">
+		</P>
 		
 		</center>
 		</div>  

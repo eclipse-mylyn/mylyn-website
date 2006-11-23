@@ -100,7 +100,7 @@
 	<div id="rightcolumn">
 		$commonside
 		<center>
-		<a href="zest_screenshots.php">
+		<a href="sandbox/zest_screenshots.php">
 		<img src="images/zest_screen1_th.jpg"/><BR>
 		Screenshots
 		</a>

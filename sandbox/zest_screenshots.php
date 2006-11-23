@@ -31,12 +31,14 @@
 		<img src="../images/zest_screen1_600.jpg"><BR>
 		Plug-in Dependency Visualization (Static Graph Viewer)
 		</P>
+		<P>
 		<BR>
 		<img src="../images/zest_screen2_600.jpg"><BR>
 		Family Tree (Tree Graph Viewer)
 		</P>
+		<P>
 		<BR>
-		<img src="../images/zest_screen2_600.jpg"><BR>
+		<img src="../images/zest_screen3_600.jpg"><BR>
 		Package Explorer (Nested Graph Viewer)
 		</P>
 		

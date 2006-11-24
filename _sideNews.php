@@ -4,6 +4,11 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
+					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">
+					You must try Mylar</a>
+					<span class="dates">(Nov 23, 2006)</span><br>&nbsp;
+				</li>
+				<li>
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=mylar_has_turned_one">
 					Mylar has turned One!</a>
 					<span class="dates">(Oct 30, 2006)</span><br>&nbsp;

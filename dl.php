@@ -44,7 +44,7 @@
 			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 			        Eclipse views and editors on task context.
 					</p>
-					We recommend that you use Eclispe's Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
+					We recommend that you use <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">Eclispe's Update Manager to install Mylar</a>.
 					Use only the <b><i>"Search for new features.."</i></b> option when installing, and then select the features you need.
 			        </td>
 			     <td>

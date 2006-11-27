@@ -210,6 +210,7 @@ for 0.5.2
 2006-11-23, tasks,		165088, Willian Mitsuda,	<1000,		mkersten,	open remote task dialog
 2006-11-24, tasks,		151602,	Erkki Lindpere,		<1000,		mkersten,	login for web connector
 2006-11-24, tasks,		165755, Eugene Kuleshov,	<10,		mkersten,	double click fix
+2006-11-26,	tasks,		165169,	Willian Mitsuda,	<100,		mkersten,	image preview fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

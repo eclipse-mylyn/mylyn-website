@@ -4,12 +4,12 @@
 		<h6>Releases</h6>
 		<ul>
 			<li>
-				<a href="doc/new.php">Mylar 0.9</a>
-				<span class="dates">(Nov 12)</span>
+				<a href="doc/new.php">Mylar 0.9.1 (RC1)</a>
+				<span class="dates">(Nov 28)</span>
 			</li>
 			<!--
 			<li>
-				<i>0.9 planned for Nov 10</i>
+				<i>0.9.2 planned for Dec. 5</i>
 			</li>
 			-->
 		</ul> 

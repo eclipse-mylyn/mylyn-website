@@ -6,7 +6,7 @@
 			<li>
 				<a href="doc/new.php">Mylar 0.9.1 (RC1)</a>
 				<span class="dates">(Nov 28)</span>
-			</li>
+			</li><br>&nbsp;
 			<!--
 			<li>
 				<i>0.9.2 planned for Dec. 5</i>

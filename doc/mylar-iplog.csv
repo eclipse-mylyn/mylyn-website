@@ -216,6 +216,9 @@ for 0.5.2
 2006-11-27,	tasks		165852,	Willian Mitsuda,	<100,		mkersten,	login fix
 2006-11-27, tasks,		165581,	Willian Mitsuda,	<1000,		mkersten,	open repository task action
 
+1.0RC2
+2006-12-04,	tasks,		166296,	Willian Mitsuda,	<100,		relves,		reply line wrapping fix
+
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs
 2006-06-11,	zest,		146300,	Chris Bennett,		<500,		irbull,		Extended Layout API to include bendpoints

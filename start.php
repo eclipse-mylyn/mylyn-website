@@ -24,7 +24,7 @@
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		
-		<p>For questions about using Mylar see the <a href="users.php">Users</a> page...
+		<p>For questions about using Mylar see the <a href="users.php">Users</a> page.
         </p>
          
         <div class="homeitem3col">

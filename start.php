@@ -37,7 +37,7 @@
 					&nbsp;&nbsp;0-5 min: overview of the problem and solution
 					&nbsp;&nbsp;5-15 min: demonstration of task management
 					&nbsp;&nbsp;15-23 min: demonstration of task context
-					&nbsp;&nbsp;23-30 min: demonstration of integration
+					&nbsp;&nbsp;23-30 min: demonstration of team integration and planning
 					&nbsp;&nbsp;34-40 min: technology & frameworks
                 </li>
 				<li>

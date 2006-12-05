@@ -24,7 +24,7 @@
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		
-		<p>For questions about using Mylar see the <a href="users.php">Users</a> page.
+		<p>For questions about using Mylar see the <a href="users.php">Users</a> page...
         </p>
          
         <div class="homeitem3col">
@@ -34,10 +34,10 @@
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
 					<br>
-					&nbsp;&nbsp;0-5 min: overview of the problem and solution
-					&nbsp;&nbsp;5-15 min: demonstration of task management
-					&nbsp;&nbsp;15-23 min: demonstration of task context
-					&nbsp;&nbsp;23-30 min: demonstration of team integration and planning
+					&nbsp;&nbsp;0-5 min: overview of the problem
+					&nbsp;&nbsp;5-15 min: demo of task management
+					&nbsp;&nbsp;15-23 min: demo of task context
+					&nbsp;&nbsp;23-30 min: demo of team integration and planning
 					&nbsp;&nbsp;34-40 min: technology & frameworks
                 </li>
 				<li>

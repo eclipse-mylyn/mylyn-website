@@ -33,12 +33,11 @@
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
-					<br>
-					&nbsp;&nbsp;0-5 min: overview of the problem
-					&nbsp;&nbsp;5-15 min: demo of task management
-					&nbsp;&nbsp;15-23 min: demo of task context
-					&nbsp;&nbsp;23-30 min: demo of team integration and planning
-					&nbsp;&nbsp;34-40 min: technology & frameworks
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;0-5 min: overview of the problem
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;5-15 min: demo of task management
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-23 min: demo of task context
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;23-30 min: demo of team integration and planning
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks
                 </li>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">

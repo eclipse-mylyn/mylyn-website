@@ -5,7 +5,7 @@
 		<ul>
 			<li>
 				<a href="doc/new.php">Mylar 0.9.2</a>
-				<span class="dates">(Nov 28)</span>
+				<span class="dates">(Dec. 7)</span>
 			</li>
 			<!--
 			<li>

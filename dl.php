@@ -45,7 +45,7 @@
 			        Eclipse views and editors on task context.
 					</p>
 					We recommend that you use <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">Eclispe's Update Manager to install Mylar</a>.
-					<br>NOTE: Use only the <b><i>"Search for new features.."</i></b> option when installing, and then select the features you need, as visible to the right.
+					<p>NOTE: Use only the <b><i>"Search for new features.."</i></b> option when installing, and then select the features you need, as visible to the right.</p>
 			        </td>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">

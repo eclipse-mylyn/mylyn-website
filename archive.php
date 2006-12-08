@@ -37,7 +37,7 @@
 				<li>
 					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
 					Task Based Development</a>
-					<span class="dates">(Dec 4, 2006)</span><br>&nbsp;
+					<span class="dates">(Dec 4, 2006)</span><br>
 				</li>
 				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">

@@ -33,7 +33,7 @@
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/mylar-two-weeks-later.html">
 					Mylar Two Weeks Later</a>
 					<span class="dates">(Dec 6, 2006)</span>
-				</li>
+				</li> 
 				<li>
 					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
 					Task Based Development</a>

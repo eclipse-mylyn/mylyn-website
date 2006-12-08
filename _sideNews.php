@@ -13,7 +13,7 @@
 					You must try Mylar</a>
 					<span class="dates">(Nov 23, 2006)</span><br>&nbsp;
 				</li>
-				<li>
+				<li> 
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=mylar_has_turned_one">
 					Mylar has turned One!</a>
 					<span class="dates">(Oct 30, 2006)</span><br>&nbsp;

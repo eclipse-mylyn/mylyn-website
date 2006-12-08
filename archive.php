@@ -30,6 +30,16 @@
 			<h3>News & Blogs Archive</h3>
 			<ul>	
 				<li>
+					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/mylar-two-weeks-later.html">
+					Mylar Two Weeks Later</a>
+					<span class="dates">(Dec 6, 2006)</span>
+				</li>
+				<li>
+					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
+					Task Based Development</a>
+					<span class="dates">(Dec 4, 2006)</span><br>&nbsp;
+				</li>
+				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">
 					You must try Mylar</a>
 					<span class="dates">(Nov 23, 2006)</span>

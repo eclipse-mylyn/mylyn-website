@@ -4,6 +4,11 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
+					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
+					Task Based Development</a>
+					<span class="dates">(Dec 4, 2006)</span><br>&nbsp;
+				</li>
+				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">
 					You must try Mylar</a>
 					<span class="dates">(Nov 23, 2006)</span><br>&nbsp;
@@ -47,11 +52,6 @@
 					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">
 					Mylar's ultra-fast release cycles</a>
 					<span class="dates">(Apr 8, 2006)</span><br>&nbsp;
-				</li>
-				<li>
-					Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
-					Eclipse Killer Plugin Mylar</a>
-					<span class="dates">(Nov 14, 2005)</span><br>&nbsp;
 				</li>
 			</ul>
 		</div>

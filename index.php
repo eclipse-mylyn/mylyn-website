@@ -29,7 +29,7 @@
 			<table border="0" cellpadding="4">
 	          <tr>
 	          	<td valign="top"><a href="images/mylar-verview.gif">
-	          		<a href="doc/images/mylar-verview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
+	          		<a href="doc/images/mylar-overview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
 	          		<br><div align=center>Screenshot</div></a>
 	          	</td>
 	          	<td valign="top">&nbsp;</td>

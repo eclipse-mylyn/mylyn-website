@@ -28,7 +28,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
+  <div id="midcolumn" style="width:78%">
 		<!--
 		<div align="center">
 			<h1>$pageTitle</h1>
@@ -93,20 +93,10 @@
 				<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
 			</ul>
 		</div>
-		
-
-       <!--	<div align="left">
-
-		</div> 
- 		-->
-		<p>&nbsp;</p>
-		
 	</div>
-
+	
 	<div id="rightcolumn">
-		$commonside
-		$feedbackside
-		<!--$mylarIsSide-->
+		<img src="images/ui-legend.gif">
 	</div>
 </div>
 

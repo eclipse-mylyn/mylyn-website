@@ -43,26 +43,20 @@
 				<li>If a task is stuck with outgoing changes or gets mid-air collisions use the <i>Synchronize</i> 
 				action on the popup menu.
 	        	</li>       	
+	        	<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
 			</ul>
 		</div>
 		
 		 <div class="homeitem3col">
-			<h3>Source Repositories</h3>
+			<h3>Task Context Tips</h3>
 			<ul>
 				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
-			</ul>
-		</div>
-
-        <div class="homeitem">
-			<h3>View Shortcuts</h3>
-			<ul>
 				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
-				<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
 			</ul>
 		</div>
 		
-		   <div class="homeitem3col">
-			<h3>Keyboard Shortcuts</h3>
+		   <div class="homeitem">
+			<h3>Shortcuts</h3>
 			<h4>Task List view</h4>
 			<ul>
 				<li><code>Ctrl+F</code>: find</li>
@@ -95,7 +89,7 @@
 			</ul>
 		</div>
 		
-		<div class="homeitem3col">
+		<div class="homeitem">
 			<h3>UI Legend</h3>
 			<img src="images/ui-legend.gif">
 		</div>

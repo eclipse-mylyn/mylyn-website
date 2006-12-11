@@ -93,25 +93,35 @@
     			<li>Delete: delete selected </li>
     			<li>F5: synchronize</li> 
 			</ul>
+			<h4>General</h4>			
+			<ul>
+				<li><pre>Ctrl+F9</pre>: activate task dialog</li>
+				<li><pre>Ctrl+Shift+F9</pre>: deactivate task</li>
+				<li><pre>Ctrl+F12</pre>: open task dialog</li>
+				<li><pre>Ctrl+Shift+F12</pre>: open repository task dialog</li>
+			</ul>
+			<h4>Context manipulation</h4>			
+			<ul>
+				<li><pre>Ctrl+Shift+Up</pre>: mark as landmark</li>
+				<li><pre>Ctrl+Shift+Down</pre>: mark less interesting</li>			
+			</ul>
+			<h4>Useful Eclipse shortcuts</h4>			
+			<ul>
+				<li><pre>Alt+Shift+Q, K</pre>: show ''Task List'' view</li>
+				<li><pre>Ctrl+F10</pre>: invoke view menu or ruler menu in editor (e.g. to toggle ''Collapse All'' in ''Task List'')</li>			
+			</ul>
 		</div>
+		
+		 <div class="homeitem3col">
+			<h3>Drag and drop</h3>
+			<ul>
+				<li>Dragging URLs to ''Task List'': in Mozilla/Firefox just drag, in Internet Explorer <pre>Ctrl+drag</pre></li>
+			</ul>
+		</div>
+		
 
        <!--	<div align="left">
-			General
-* <code>Ctrl+F9</code>: activate task dialog
-* <code>Ctrl+Shift+F9</code>: deactivate task
-* <code>Ctrl+F12</code>: open task dialog
-* <code>Ctrl+Shift+F12</code>: open repository task dialog
 
-Context manipulation
-* <code>Ctrl+Shift+Up</code>: mark as landmark
-* <code>Ctrl+Shift+Down</code>: mark less interesting
-
-Drag and drop
-* Dragging URLs to ''Task List'': in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code>
-
-Useful Eclipse shortcuts
-* <code>Alt+Shift+Q, K</code>: show ''Task List'' view
-* <code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle ''Collapse All'' in ''Task List'')
 		</div> 
  		-->
 		<p>&nbsp;</p>

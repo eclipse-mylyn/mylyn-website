@@ -47,7 +47,7 @@
 			</ul>
 		</div>
 		
-		 <div class="homeitem2col">
+		 <div class="homeitem3col">
 			<h3>Task Context Tips</h3>
 			<ul>
 				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>

@@ -25,6 +25,8 @@
 <div id="maincontent">
 	<div id="midcolumn">
 	  	
+	    <b>Mylar 1.0 is now available!  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a></b>.
+	  	
 		<div align="left">
 			<table border="0" cellpadding="4">
 	          <tr>
@@ -40,8 +42,6 @@
 	        </table>
         </div>
         
-        <b>Mylar 1.0 is now available, see the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a></b>.
-	 
 		<div class="homeitem">
 			<h3>Community</h3>
 			<ul>

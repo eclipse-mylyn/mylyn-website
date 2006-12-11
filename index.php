@@ -76,7 +76,7 @@
 			<ul>
 				<li>
 					<b><i>Mylar 1.0 released!</i></b><br>&nbsp;
-					<br>See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Announcement</a>, (Dec 11, 2006)
+					<br>See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Announcement</a>, <br>(Dec 11, 2006)
 				</li>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">

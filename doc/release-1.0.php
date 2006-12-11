@@ -5,7 +5,7 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylar New & Noteworthy";
+	$pageTitle 		= ""Release Notes for Mylar 1.0";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	

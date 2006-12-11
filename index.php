@@ -24,7 +24,6 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
-	  	
 	  	<div align="left">
 			<table border="0" cellpadding="4">
 	          <tr>
@@ -42,7 +41,6 @@
 	          </tr>
 	        </table>
         </div>
-        
 		<div class="homeitem">
 			<h3>Community</h3>
 			<ul>
@@ -83,11 +81,12 @@
 	            -->
 			</ul>
 		</div> 
+		<!--
 		<div align="left">
 			<p>&nbsp</p>
 		</div>
+		-->
 	</div>
-
 	<div id="rightcolumn">
 		$commonside
 		$feedbackside

@@ -34,7 +34,7 @@
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;0-5 min: overview
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;5-15 min: task management demo
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: team integration and planning
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: task context demo
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks
                 </li>
 				<li>

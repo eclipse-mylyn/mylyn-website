@@ -93,6 +93,7 @@
     			<li>Delete: delete selected </li>
     			<li>F5: synchronize</li> 
 			</ul>
+			<p>&nbsp;</p>
 			<h4>General</h4>			
 			<ul>
 				<li><code>Ctrl+F9</code>: activate task dialog</li>

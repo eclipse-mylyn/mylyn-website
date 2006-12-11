@@ -15,7 +15,7 @@
 </STYLE>
 
 <div id="branding">
-<h1>Mylar Technology Project</h1>
+<center><img border=0 src="images/mylar-banner.gif"></center>
 </div>
 EOBRANDING;
 	$Menu->setProjectBranding($branding);

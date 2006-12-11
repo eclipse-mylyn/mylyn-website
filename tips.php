@@ -95,7 +95,7 @@
 			</ul>
 			<h4>General</h4>			
 			<ul>
-				<li><pre>Ctrl+F9</pre>: activate task dialog</li>
+				<li><code>Ctrl+F9</code>: activate task dialog</li>
 				<li><pre>Ctrl+Shift+F9</pre>: deactivate task</li>
 				<li><pre>Ctrl+F12</pre>: open task dialog</li>
 				<li><pre>Ctrl+Shift+F12</pre>: open repository task dialog</li>

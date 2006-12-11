@@ -51,7 +51,8 @@
 			<h3>Task Context Tips</h3>
 			<ul>
 				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
-				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
+				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
+				<li>If a task change set disappears deactivate and reactive the task to refresh.</li>
 			</ul>
 		</div>
 		
@@ -70,7 +71,7 @@
 				<li><code>Ctrl+F12</code>: open task dialog</li>
 				<li><code>Ctrl+Shift+F12</code>: open repository task dialog</li>
 			</ul>
-			<h4>Context manipulation</h4>			
+			<h4>Interest manipulation</h4>			
 			<ul>
 				<li><code>Ctrl+Shift+Up</code>: mark as landmark</li>
 				<li><code>Ctrl+Shift+Down</code>: mark less interesting</li>			

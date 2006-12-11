@@ -35,27 +35,6 @@
 		</div>
 		-->
         
-        <div align="left">
-               
-        
-	    <!--    <table border="0">
-	        	<tr>
-	        		<td valign="top"><p>
-			        <img src="images/feature.gif">
-			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
-			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
-			        Eclipse views and editors on task context.
-					</p>
-					We recommend that you use <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">Eclispe's Update Manager to install Mylar</a>.
-					<p>NOTE: Use only the <b><i>"Search for new features.."</i></b> option when installing, and then select the features you need, as visible to the right.</p>
-			        </td>
-			     <td>
-					<img src="/mylar/images/install-overview.gif">
-			     </td>
-			    </tr>
-			</table> -->
-		</div>
-        
         <div class="homeitem3col">
 			<h3>Task List Tips</h3>
 			<ul>
@@ -93,7 +72,6 @@
     			<li>Delete: delete selected </li>
     			<li><code>F5</code>: synchronize</li> 
 			</ul>
-			<p>&nbsp;</p>
 			<h4>General</h4>			
 			<ul>
 				<li><code>Ctrl+F9</code>: activate task dialog</li>
@@ -109,7 +87,7 @@
 			<h4>Useful Eclipse shortcuts</h4>			
 			<ul>
 				<li><code>Alt+Shift+Q, K</code>: show ''Task List'' view</li>
-				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle ''Collapse All'' in ''Task List'')</li>			
+				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle <b>Collapse All</b> in the Task List)</li>			
 			</ul>
 		</div>
 		

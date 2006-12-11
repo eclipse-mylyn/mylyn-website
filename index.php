@@ -29,8 +29,8 @@
 			<table border="0" cellpadding="4">
 	          <tr>
 	          	<td valign="top"><a href="images/mylar-verview.gif">
-	          		<a href="images/mylar-verview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
-	          		<br>Screenshot</a>
+	          		<a href="doc/images/mylar-verview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
+	          		<br>[screenshot]</a>
 	          	</td>
 	          	<td valign="top">&nbsp;</td>
 	            <td valign="top">
@@ -69,7 +69,7 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<b><i>Mylar 1.0 is available!</i></b><br>&nbsp;<br>&nbsp;See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a>, (Dec 11th 2006)
+					<b><i>Mylar 1.0 is available!</i></b><br>See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a>, (Dec 11th 2006)<br>&nbsp;
 				</li>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">

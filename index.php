@@ -28,14 +28,16 @@
 	  	<div align="left">
 			<table border="0" cellpadding="4">
 	          <tr>
-	          	<td valign="top"><img border=0 src="images/screenshot-mylar-small.gif"></td>
+	          	<td valign="top"><a href="images/mylar-verview.gif"><img border=0 src="images/screenshot-mylar-small.gif"></a></td>
 	          	<td valign="top">&nbsp;</td>
 	            <td valign="top">
 					<p>
 					Mylar is a task-focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones.  It makes tasks a first class part of Eclipse, and integrates
 					task repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylar monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 					</p>
-					<a href="images/mylar-verview.gif">Screenshot</a>
+					<p>
+						<a href="images/mylar-verview.gif">Screenshot</a>
+					</p>
 			  	</td>
 	          </tr>
 	        </table>

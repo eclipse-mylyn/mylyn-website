@@ -61,13 +61,13 @@
                 </li>
 				<li>
                     Query support: Repository queries in task list view
-                    <a href="dl.php">(currently Bugzilla, Trac, and JIRA)</a>
+                    <a href="dl.php">(currently Bugzilla, Trac, and JIRA and web connector templates)</a>
                 </li>
 				<li>
                     Full integration: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
 				change notifications.
-	            <a href="dl.php">(Bugzilla JIRA and Trac)</a>
+	            <a href="dl.php">(Bugzilla, JIRA and Trac)</a>
                 </li>
 				<li>
 				<a href="bugs.php">

@@ -58,6 +58,9 @@
 					Centre for Advanced Studies</a>, and
 					<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
 				</li>
+				<li>
+					A history and credits for Mylar are listed in the <a href="http://eclipse.org/mylar/doc/release-1.0.php">About Mylar 1.0</a>
+				</li>
 			</ul>
 		</div>
 		

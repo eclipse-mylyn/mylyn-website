@@ -23,7 +23,7 @@
 	$html = <<<EOHTML
   
 <div id="maincontent">
-	<div id="midcolumn">		
+  <div id="midcolumn" style="width:78%">
 		<div class="homeitem3col">
 			<h3>News & Blogs Archive</h3>
 			<ul>	
@@ -166,12 +166,6 @@
                 </li>
 			</ul>
 		</div>
-	</div> 
-
-	<div id="rightcolumn">
-		$commonside
-		$newsside
-		$incubatorside
 	</div>
 </div>
 

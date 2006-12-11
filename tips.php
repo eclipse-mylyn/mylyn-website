@@ -28,13 +28,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-  <div id="midcolumn" style="width:78%">
-		<!--
-		<div align="center">
-			<h1>$pageTitle</h1>
-		</div>
-		-->
-        
+  <div id="midcolumn" style="width:78%">        
         <div class="homeitem3col">
 			<h3>Task List Tips</h3>
 			<ul>

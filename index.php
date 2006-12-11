@@ -30,7 +30,7 @@
 	          <tr>
 	          	<td valign="top"><a href="images/mylar-verview.gif">
 	          		<a href="doc/images/mylar-verview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
-	          		<br>[screenshot]</a>
+	          		<br><div align=center>Screenshot</div></a>
 	          	</td>
 	          	<td valign="top">&nbsp;</td>
 	            <td valign="top">

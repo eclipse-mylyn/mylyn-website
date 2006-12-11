@@ -36,6 +36,9 @@
 			<h3>About Mylar</h3>
 			<ul>
 				<li>
+					A history and credits for Mylar are listed in the <a href="http://eclipse.org/mylar/doc/release-1.0.php">About Mylar 1.0</a>
+				</li>
+				<li>
 					The goal of the Mylar project is to evolve a focused user interface
 					and task management for the Eclipse platform.  At the core of Mylar is a mechanism
 					that that makes our interaction with a system explicit.
@@ -57,9 +60,6 @@
 					<a href="https://www-927.ibm.com/ibm/cas/">IBM 
 					Centre for Advanced Studies</a>, and
 					<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
-				</li>
-				<li>
-					A history and credits for Mylar are listed in the <a href="http://eclipse.org/mylar/doc/release-1.0.php">About Mylar 1.0</a>
 				</li>
 			</ul>
 		</div>

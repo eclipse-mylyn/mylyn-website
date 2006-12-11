@@ -24,8 +24,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
-		<p>Listing ordered by number of bugs resolved. <i>Last updated: 2006-12-11</i></p>
+		Listing ordered by number of bugs resolved. <i>Last updated: 2006-12-11</i>
 		<div class="homeitem3col">
 		    <h3>Committers</h3>
 			<ul>

@@ -75,6 +75,11 @@
 					<span class="dates">(Sep 28, 2006)</span>
 				</li>
 				<li>
+					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=linking_mylar_with_google_code">
+					Link Mylar with Google Code Hosting...</a>
+					<span class="dates">(Aug 4, 2006)</span><br>
+				</li>
+				<li>
 					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
 					<span class="dates">(Jul 9, 2006)</span>
 				</li>

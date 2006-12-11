@@ -55,7 +55,7 @@
         <div class="homeitem3col">
 			<h3>View Shortcuts</h3>
 			<ul>
-				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements. Also see <a href='http://wiki.eclipse.org/index.php/Mylar_User_Guide#Keyboard_and_Alt.2BClick_mappings_on_Linux'>configuration on Linux</a>.</li>
+				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements. Also see <a href='http://wiki.eclipse.org/index.php/Mylar_User_Guide#Keyboard_mappings_on_Linux'>keyboard mappings on Linux</a>.</li>
 			</ul>
 		</div>
 		

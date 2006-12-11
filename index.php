@@ -25,9 +25,7 @@
 <div id="maincontent">
 	<div id="midcolumn">
 	  	
-	    <b>Mylar 1.0 is now available!  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a></b>.
-	  	
-		<div align="left">
+	  	<div align="left">
 			<table border="0" cellpadding="4">
 	          <tr>
 	          	<td valign="top"><img border=0 src="images/screenshot-mylar-small.gif"></td>
@@ -79,6 +77,8 @@
 			<p>&nbsp</p>
 		</div>
 	</div>
+
+    <b>Mylar 1.0 is now available!  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a></b>.  
 
 	<div id="rightcolumn">
 		$commonside

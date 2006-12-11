@@ -78,7 +78,7 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<b><i>Mylar 1.0 is available!</i></b><br>&nbsp;
+					<b><i>Mylar 1.0 released!</i></b><br>&nbsp;
 					<br>See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Announcement</a>, (Dec 11, 2006)
 				</li>
 				<li>

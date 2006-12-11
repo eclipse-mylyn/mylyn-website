@@ -50,7 +50,6 @@
 			<h3>Task Context Tips</h3>
 			<ul>
 				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
-				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
 				<li>If a task change set disappears deactivate and reactive the task to refresh.</li>
 			</ul>
 		</div>
@@ -66,6 +65,7 @@
 			</ul>
 			<h4>General</h4>			
 			<ul>
+				<li><code>Alt+click</code> or <code>Alt+RightArrow</code>: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
 				<li><code>Ctrl+F9</code>: activate task dialog</li>
 				<li><code>Ctrl+Shift+F9</code>: deactivate task</li>
 				<li><code>Ctrl+F12</code>: open task dialog</li>

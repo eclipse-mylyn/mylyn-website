@@ -34,8 +34,8 @@
 			<ul>
 				<li>The Task List can be restored via its view menu -> Restore Tasks from History...	        
 	        	</li>
-				<li>If a task is stuck with outgoing changes or gets mid-air collisions use the <i>Synchronize</i> 
-				action on the popup menu.
+				<li>If a task is stuck with outgoing changes or a mid-air collision occurrs use the <i>Synchronize</i> 
+				action on the task's popup menu.
 	        	</li>       	
 			</ul>
 		</div>

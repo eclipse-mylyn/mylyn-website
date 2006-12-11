@@ -32,9 +32,10 @@
 	          	<td valign="top">&nbsp;</td>
 	            <td valign="top">
 					<p>
-					Mylar is a task focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones.  It makes tasks a first class part of Eclipse, and integrates
+					Mylar is a task-focused UI for Eclipse that makes working with very large workspaces as easy as working with small ones.  It makes tasks a first class part of Eclipse, and integrates
 					task repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylar monitors your work activity to identify information relevant to the task-at-hand. Mylar uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 					</p>
+					<a href="images/mylar-verview.gif">Screenshot</a>
 			  	</td>
 	          </tr>
 	        </table>
@@ -64,7 +65,7 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<b>Mylar 1.0 is available!</b>  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a>, (Dec 11th 2006)
+					<b><i>Mylar 1.0 is available!</i></b><br>&nbsp;<br>&nbsp;See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a>, (Dec 11th 2006)
 				</li>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">

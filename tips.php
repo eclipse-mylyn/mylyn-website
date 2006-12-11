@@ -39,12 +39,8 @@
 			<h3>Task List Tips</h3>
 			<ul>
 				<li>If you wish to discard outgoing changes on a task (ie. in case of mid-air collisions), use the synchronize (F5) option in the tasklist popup menu. This will retrieve the latest data from the repository and will present a dialog indicating that your local changes will be overwritten (you may opt to keep your new comment if desired).
-	        	</li>	        	
-			</ul>
-			<ul>
-				<li><li>
-	        		The Task List can be restored from history via it's view menu -> Restore Tasks from History...
-	        	</li>
+	        	</li>       	
+				<li>The Task List can be restored from history via it's view menu -> Restore Tasks from History...	        	
 	        	</li>
 			</ul>
 		</div>
@@ -68,8 +64,8 @@
 			<h4>Task List view</h4>
 			<ul>
 				<li><code>Ctrl+F</code>: find</li>
-				<li>Insert: new personal task</li>
-    			<li>Delete: delete selected </li>
+				<li><code>Insert</code>: new personal task</li>
+    			<li><code>Delete</code>: delete selected </li>
     			<li><code>F5</code>: synchronize</li> 
 			</ul>
 			<h4>General</h4>			

@@ -53,7 +53,7 @@
 			</ul>
 		</div>
 
-        <div class="homeitem3col">
+        <div class="homeitem">
 			<h3>View Shortcuts</h3>
 			<ul>
 				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
@@ -84,13 +84,21 @@
 			<h4>Useful Eclipse shortcuts</h4>			
 			<ul>
 				<li><code>Alt+Shift+Q, K</code>: show ''Task List'' view</li>
-				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle <b>Collapse All</b> in the Task List)</li>			
+				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor</li>			
 			</ul>
 		</div>
-	</div>
-	
-	<div id="rightcolumn">
-		<img src="images/ui-legend.gif">
+		        <div class="homeitem">
+			<h3>View Shortcuts</h3>
+			<ul>
+				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
+				<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
+			</ul>
+		</div>
+		
+		<div class="homeitem3col">
+			<h3>UI Legend</h3>
+			<img src="images/ui-legend.gif">
+		</div>
 	</div>
 </div>
 

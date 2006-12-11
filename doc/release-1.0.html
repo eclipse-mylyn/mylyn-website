@@ -5,47 +5,49 @@
 fundamental shift in the way
 <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDEs</a> 
 work. Today’s applications and frameworks are composed of millions of lines of 
-code. What the state-of-the-art IDEs have done is made all of that code 
-instantly accessible. But when used on large systems, views and searches of the 
-system will often contain thousands of elements. The result of this information 
-overload is that developers often spend more time repetitively scrolling, 
-searching, and navigating code than they do programming.&nbsp; The key intuition behind Mylar is that for any task that we do, any bug that 
+code, and what state-of-the-art IDEs have done is made all of that code 
+instantly accessible. But when used on large systems, the IDEs view and search 
+facilities often contain thousands of elements. The result of this
+<a href="http://en.wikipedia.org/wiki/Information_overload">information overload</a> 
+is that developers often spend more time repetitively scrolling, searching, and 
+navigating code than they do programming.&nbsp; The key intuition behind Mylar is that for any task that we do, any bug that 
 we need to fix or feature we add, we only care about a subset of the system. 
-Mylar makes this subset explicit by automatically managing
+Mylar makes this subset explicit by transforming our programming activity into a
 <a href="http://kerstens.org/mik/publications/2006-11-mylar-fse.pdf">task 
-context</a> on our behalf.&nbsp; The result is that structure views show only 
+context</a> model.&nbsp; The result is that structure views show only 
 the relevant information, changes are grouped by task, multi-tasking only 
 requires a single click, and expertise becomes easy to share and recall.&nbsp; </p>
 <h4>History </h4>
 <p>In 2003, I was working on integrating new modularity technologies with IDEs. 
-Aspect-oriented programming tools like <a href="http://www.eclipse.org/aspectj/">
-AspectJ</a>, as well as model-driven development tools, showed promise in 
-removing significant 
+Model-driven and <a href="http://aosd.net/">aspect-oriented programming</a> tools 
+showed promise in removing significant 
 amounts of the <a href="http://en.wikipedia.org/wiki/Accidental_complexity">
 accidental complexity</a> that creeps into our systems. But even with improved 
 modularity, it became clear that the
 <a href="http://en.wikipedia.org/wiki/Essential_complexity">essential complexity</a> 
 of systems would continue growing, while our ability to deal with that 
-complexity would not. I knew that <a href="http://www.cs.ubc.ca/~murphy/">Gail 
-Murphy</a>, a professor at the University of British Columbia, had a deep 
-appreciation for this problem and would have a uniquely practical and empirical 
-approach to finding a solution, as evidenced by the
+complexity would not. I had noticed interesting research on the
 <a href="http://www.cs.ubc.ca/labs/spl/projects/feat/">FEAT</a> and
-<a href="http://www.cs.ubc.ca/labs/spl/projects/hipikat/">Hipikat</a> research 
-projects. I had a feeling that this problem could be solved with her guidance, 
-and she convinced me that the best way to find a solution was by doing a PhD.
+<a href="http://www.cs.ubc.ca/labs/spl/projects/hipikat/">Hipikat</a> projects, 
+and realized that that <a href="http://www.cs.ubc.ca/~murphy/">Gail 
+Murphy</a>, a professor at the University of British Columbia, had a deep 
+appreciation for this problem and a uniquely practical and empirical 
+approach to finding solutions. She convinced me that the best way to to tackle 
+the problem was by doing a PhD.
 </p>
 <p>I have loved programming since I was ten years old, when I learned English 
 from a <a href="http://www.computercloset.org/TimexSinclairZX1000.htm">Sinclair 
-ZX1000</a> manual. At <a href="http://www.parc.com/">Xerox PARC</a> got infected 
+ZX1000</a> manual. After completing my undergrad and joining the
+<a href="http://www.eclipse.org/aspectj/">
+AspectJ</a> team at <a href="http://www.parc.com/">Xerox PARC</a> I got infected 
 with a passion for building tools that make people more productive. What would 
 sometimes slow me down is
 <a href="http://en.wikipedia.org/wiki/Repetitive_strain_injury">RSI</a> that 
 resulted from very long workdays. The start of my thesis gave me a chance to 
 reflect on what the underlying problem was: I was constantly clicking the mouse 
 and keyboard to find and re-find the information I needed to get work done. What 
-I hadn’t noticed before is that I was always browsing for the same elements, and 
-that the tools were showing them within deep hierarchies instead of grouping them 
+I hadn’t noticed before is that I was always browsing and searching for the same 
+elements because the tools I was using buried them within deep hierarchies instead of grouping them 
 in a more reasonable way. Gail and I brainstormed weekly on how the structure 
 relevant to developers’ tasks could be identified and presented. She instilled 
 in me the need to validate any whacky ideas that we came up with via user 
@@ -66,7 +68,7 @@ first hundred developers who were willing to participate in our user study. Four
 months later we had collected enough data to validate with statistical 
 significance that <a href="http://kerstens.org/mik/publications.html">Mylar 
 makes programmers more productive</a>. Thanks to the constant releases and the 
-fact that all work done on Mylar was done with Mylar, we had produced a 
+fact that all work done on Mylar was done with Mylar, by that time we had produced a 
 reasonably well-integrated tool that we were happy to share with others.
 <a href="http://www.eclipse.org/mylar/doc/new-0.4.html">Mylar 0.4</a> was our 
 first public release on eclipse.org, and happened on November 4th, 2005. </p>
@@ -82,19 +84,17 @@ increasing needs. Since then we have resolved 1826 bug reports, over 200 of
 which were resolved by community contributions. </p>
 <p>The result is <a href="http://www.eclipse.org/mylar/doc/new.php">Mylar 1.0</a>, 
 which integrates task context seamlessly across the Eclipse IDE, and brings 
-developers’ tasks into Eclipse via connectors to the 
+developers’ tasks into Eclipse from repositories that include
 <a href="http://www.bugzilla.org/">Bugzilla</a>,
 <a href="http://www.atlassian.com/software/jira/">JIRA</a>, 
-<a href="http://trac.edgewall.org/">Trac</a>, as 
-well as other web-based repositories. More importantly, Mylar 1.0 provides 
+<a href="http://trac.edgewall.org/">Trac</a>. More importantly, Mylar 1.0 provides 
 frameworks to integrate task context with other kinds of artifacts and task 
-repositories, which enables integrators to provide the benefits of task 
-context to a rapidly growing number of developers. </p>
+repositories, which enables integrators to provide Mylar's benefits to a rapidly growing number of developers. </p>
 <h4>Credits </h4>
 <p>Gail Murphy and the <a href="http://www.cs.ubc.ca">Department of Computer 
 Science</a> at the University of British Columbia created the academic 
-environment that made it possible to bring Mylar from blue sky brainstorming, to a tool 
-used daily by thousands of developers, in less than 3 years. The
+environment that made it possible to bring Mylar from blue sky brainstorming, to 
+a tool used daily by thousands of developers, in less than 3 years. The
 <a href="http://www.ibm.com/ibm/cas/">IBM Centre for Advanced Studies</a> and
 <a href="http://www.nserc-crsng.gc.ca/">NSERC</a> funding of my PhD made it 
 possible for me to focus all of my energy on the implementation and validation 
@@ -122,7 +122,7 @@ and a platform for innovation.</p>
 “first things first” when I was mismanaging my tasks. It brings me great 
 satisfaction that Mylar provides tool support that automates his advice.<br>
 </p>
-<p><a href="http://en.wikipedia.org/wiki/Hacker">Happy hacking</a>,<br>
+<p>Happy coding,<br>
 </p>
 <p>Mik Kersten<br>
 2006-12-11</p>

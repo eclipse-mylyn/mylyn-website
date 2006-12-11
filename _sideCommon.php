@@ -4,8 +4,8 @@
 		<h6>Releases</h6>
 		<ul>
 			<li>
-				<a href="doc/new.php">Mylar 0.9.2</a>
-				<span class="dates">(Dec. 7)</span>
+				<a href="doc/new.php">Mylar 1.0.0</a>
+				<span class="dates">(Dec.11)</span>
 			</li>
 			<!--
 			<li>

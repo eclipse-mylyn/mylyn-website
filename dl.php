@@ -55,15 +55,15 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Mylar 0.9 Update Site</h3>
+			<h3>Mylar 1.0 Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.9.2-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.0-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 			<ul>
 				<li>Eclispe 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.9.2-e3.3.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.0-e3.3.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
 			</ul>
 		</div>
@@ -83,7 +83,7 @@
 			<ul>
 				<li>Eclipse 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/dev</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Development_builds">(compatibility)</a></li>
-				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-0.9.0.zip</a>
+				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>
 		</div>
 

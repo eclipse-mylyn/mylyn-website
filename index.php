@@ -41,7 +41,7 @@
 			            </tr>
 			        </table>
 	          	</td>
-	          	<td valign="top">&nbsp;</td>
+	          	<td valign="top"></td>
 	            <td valign="top">
 					<p>
 					Mylar is a task-focused UI for Eclipse that reduces information overload and makes multi-tasking easy.  

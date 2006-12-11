@@ -42,7 +42,8 @@
 			        <img src="images/feature.gif">
 			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
 			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
-			        Eclipse views and editors on task context.  We recommend that you use <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">Eclispe's Update Manager to install Mylar</a>.
+			        Eclipse views and editors on task context.  We recommend that you use the
+			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
 					<p><a href="https://dev.eclipse.org/mailman/listinfo/mylar-announce">Subscribe</a> to get notified of new releases.
 					
 					<p><i>NOTE: Use only the <b><i>"Search for new features.."</i></b> option when installing.</i></p>

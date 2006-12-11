@@ -45,18 +45,6 @@
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
 		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
-			    <!--
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">
-					Overview flash video</a> (out-of-date v0.4, 3.5 min, 8.7 MB)
-                </li>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html">Working with tasks and Bugzilla reports </a> (v0.4, 3.5 min, 6 MB)
-                </li>
-				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html">Using Active views</a> (v0.3, 2 min, 3 MB)
-                </li>
-                -->
 			</ul>
 		</div>      
 		
@@ -80,7 +68,7 @@
                     Full integration: Authoring of reports within native Eclipse editor, 
 				offline editing, incoming/outgoing status, compare and 
 				change notifications.
-	            <a href="dl.php">(currently Bugzilla and Trac)</a>
+	            <a href="dl.php">(Bugzilla JIRA and Trac)</a>
                 </li>
 				<li>
 				<a href="bugs.php">

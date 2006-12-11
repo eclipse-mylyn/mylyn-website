@@ -9,7 +9,7 @@
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/new.html";
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylar/doc/release-1.0.html";
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {

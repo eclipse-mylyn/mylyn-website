@@ -63,11 +63,12 @@
 		<div class="homeitem">
 			<h3>Events</h3>
 			<ul>
-				<li>Dec 11, 2006: <b>Mylar 1.0 is available!</b>  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a>.  
-
+				<li>
+					<b>Mylar 1.0 is available!</b>  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a>, (Dec 11th 2006)
+				</li>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">
-	                Mylar A Task Focused UI for Eclipse</a> by Mik Kersten, eclipse.org Webinar (Oct 25, 8:00am PST)
+	                Mylar Webinar</a> by Mik Kersten, (Oct 25, 2006)
 	            </li>
 	            <!--
 				<li>

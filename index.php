@@ -61,24 +61,26 @@
 		</div>
 		
 		<div class="homeitem">
-			<h3>Upcoming Events</h3>
+			<h3>Events</h3>
 			<ul>
+				<li>Dec 11, 2006: <b>Mylar 1.0 is available!</b>  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a>.  
+
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">
 	                Mylar A Task Focused UI for Eclipse</a> by Mik Kersten, eclipse.org Webinar (Oct 25, 8:00am PST)
 	            </li>
+	            <!--
 				<li>
 	                <a href="http://www.cs.uoregon.edu/fse-14/prelim-program.html">
 	                 Using Task Context to Improve Programmer Productivity</a> by Mik Kersten and Gail Murphy (Nov 7, 10:00am PST)
 	            </li>
+	            -->
 			</ul>
 		</div> 
 		<div align="left">
 			<p>&nbsp</p>
 		</div>
 	</div>
-
-    <b>Mylar 1.0 is now available!  See the <a href="http://eclipse.org/mylar/doc/release-1.0.php">Release Notes</a> and <a href="http://www.eclipse.org/mylar/doc/new.php">New & Noteworthy</a></b>.  
 
 	<div id="rightcolumn">
 		$commonside

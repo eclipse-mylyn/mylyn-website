@@ -130,11 +130,13 @@
 			<h3>Event Archive</h3>
 			<ul>
 				<li>
+	                <a href="http://www.cs.uoregon.edu/fse-14/prelim-program.html">
+	                 Using Task Context to Improve Programmer Productivity</a> by Mik Kersten and Gail Murphy (Nov 7, 10:00am PST)
+	            </li>
+				<li>
 	                <a href="http://www.eclipsecon.org/2006/Sub.do?id=164">
 	                Mylar Talk</a> at EclipseCon 2006</a>, March 20-23, Santa Clara, USA
 	            	<br>
-	            	<a href="http://www.eclipsecon.org/2006/Sub.do?id=164"><img border=0 
-					 src="http://www.eclipsecon.org/2006/images/banner132x38.gif"/></a>
 	            </li>
 			
 				<li>Mylar BoF at <a href="http://www.eclipsecon.org">EclipseCon 2006</a>, Grand Ballroom, Santa Clara Convention Center, Santa Clara, USA</li>, <span class="dates">(Mar. 21, 2006)</span>

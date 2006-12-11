@@ -36,24 +36,7 @@
 		-->
         
         <div align="left">
-        
-General
-* <code>Ctrl+F9</code>: activate task dialog
-* <code>Ctrl+Shift+F9</code>: deactivate task
-* <code>Ctrl+F12</code>: open task dialog
-* <code>Ctrl+Shift+F12</code>: open repository task dialog
-
-Context manipulation
-* <code>Ctrl+Shift+Up</code>: mark as landmark
-* <code>Ctrl+Shift+Down</code>: mark less interesting
-
-Drag and drop
-* Dragging URLs to ''Task List'': in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code>
-
-Useful Eclipse shortcuts
-* <code>Alt+Shift+Q, K</code>: show ''Task List'' view
-* <code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle ''Collapse All'' in ''Task List'')
-        
+               
         
 	    <!--    <table border="0">
 	        	<tr>
@@ -86,14 +69,11 @@ Useful Eclipse shortcuts
 	        	</li>
 			</ul>
 		</div>
-
-        <div class="homeitem3col">
+		
+		 <div class="homeitem3col">
 			<h3>Source Repositories</h3>
 			<ul>
-				<li>Eclipse 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>
-	        	</li>
-				<li>Archive versions: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
+				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
 			</ul>
 		</div>
 
@@ -101,12 +81,12 @@ Useful Eclipse shortcuts
 			<h3>View Shortcuts</h3>
 			<ul>
 				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements. Also see <a href='http://wiki.eclipse.org/index.php/Mylar_User_Guide#Keyboard_and_Alt.2BClick_mappings_on_Linux'>configuration on Linux</a>.</li>
-				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-0.9.0.zip</a>
 			</ul>
 		</div>
 		
 		   <div class="homeitem3col">
 			<h3>Keyboard Shortcuts</h3>
+			<h4>Task List view</h4>
 			<ul>
 				<li>Ctrl+F: find</li>
 				<li>Insert: new personal task</li>
@@ -116,9 +96,22 @@ Useful Eclipse shortcuts
 		</div>
 
        <!--	<div align="left">
-			<b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <b><a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required</b>.
-			<br>
-		    <b>Supported repositories</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
+			General
+* <code>Ctrl+F9</code>: activate task dialog
+* <code>Ctrl+Shift+F9</code>: deactivate task
+* <code>Ctrl+F12</code>: open task dialog
+* <code>Ctrl+Shift+F12</code>: open repository task dialog
+
+Context manipulation
+* <code>Ctrl+Shift+Up</code>: mark as landmark
+* <code>Ctrl+Shift+Down</code>: mark less interesting
+
+Drag and drop
+* Dragging URLs to ''Task List'': in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code>
+
+Useful Eclipse shortcuts
+* <code>Alt+Shift+Q, K</code>: show ''Task List'' view
+* <code>Ctrl+F10</code>: invoke view menu or ruler menu in editor (e.g. to toggle ''Collapse All'' in ''Task List'')
 		</div> 
  		-->
 		<p>&nbsp;</p>

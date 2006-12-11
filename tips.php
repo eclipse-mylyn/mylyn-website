@@ -43,7 +43,6 @@
 				<li>If a task is stuck with outgoing changes or gets mid-air collisions use the <i>Synchronize</i> 
 				action on the popup menu.
 	        	</li>       	
-	        	<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
 			</ul>
 		</div>
 		
@@ -63,6 +62,7 @@
 				<li><code>Ctrl+F</code>: find</li>
 				<li><code>Insert</code>: new personal task</li>
     			<li><code>F5</code>: synchronize selected</li> 
+    			<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code></li>
 			</ul>
 			<h4>General</h4>			
 			<ul>

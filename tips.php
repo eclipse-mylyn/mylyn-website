@@ -81,13 +81,6 @@
 				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor</li>			
 			</ul>
 		</div>
-		        <div class="homeitem">
-			<h3>View Shortcuts</h3>
-			<ul>
-				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
-				<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
-			</ul>
-		</div>
 		
 		<div class="homeitem">
 			<h3>UI Legend</h3>

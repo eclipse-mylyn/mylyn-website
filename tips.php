@@ -38,10 +38,11 @@
         <div class="homeitem3col">
 			<h3>Task List Tips</h3>
 			<ul>
-				<li>If you wish to discard outgoing changes on a task (ie. in case of mid-air collisions), use the synchronize (F5) option in the tasklist popup menu. This will retrieve the latest data from the repository and will present a dialog indicating that your local changes will be overwritten (you may opt to keep your new comment if desired).
-	        	</li>       	
-				<li>The Task List can be restored from history via it's view menu -> Restore Tasks from History...	        	
+				<li>The Task List can be restored from history via it's view menu -> Restore Tasks from History...	        
 	        	</li>
+				<li>If a task is stuck with outgoing changes or gets mid-air collisions use the <i>Synchronize</i> 
+				action on the popup menu.
+	        	</li>       	
 			</ul>
 		</div>
 		
@@ -55,7 +56,7 @@
         <div class="homeitem3col">
 			<h3>View Shortcuts</h3>
 			<ul>
-				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements. Also see <a href='http://wiki.eclipse.org/index.php/Mylar_User_Guide#Keyboard_mappings_on_Linux'>keyboard mappings on Linux</a>.</li>
+				<li>Alt+click or Alt+RightArrow: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li>
 				<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer do <code>Ctrl+drag</code></li>
 			</ul>
 		</div>
@@ -66,8 +67,7 @@
 			<ul>
 				<li><code>Ctrl+F</code>: find</li>
 				<li><code>Insert</code>: new personal task</li>
-    			<li><code>Delete</code>: delete selected </li>
-    			<li><code>F5</code>: synchronize</li> 
+    			<li><code>F5</code>: synchronize selected</li> 
 			</ul>
 			<h4>General</h4>			
 			<ul>

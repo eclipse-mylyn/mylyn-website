@@ -79,7 +79,7 @@
 		
 		<div class="homeitem">
 			<h3>UI Legend (Ctrl+Alt+Shift+?)</h3>
-			<img src="images/ui-legend.gif">
+			<div align="center"><img src="images/ui-legend.gif"></div>
 		</div>
 	</div>
 </div>

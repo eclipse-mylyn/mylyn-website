@@ -28,12 +28,8 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
+  <div id="midcolumn" style="width:78%">    
         $contents
-	</div>
-	
-	<div id="rightcolumn">
-		$commonside
 	</div>
 </div>
 

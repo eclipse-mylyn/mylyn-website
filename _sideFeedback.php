@@ -16,7 +16,6 @@
 			<li>
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
-				<p>
 				<select name="rating">
 				<option selected>10</option>
 				<option>9</option>
@@ -33,9 +32,7 @@
 				<input type="hidden" name="ratinguser" value="outside">
 				<input type="hidden" name="req" value="addrating">
 				<input type="submit" value="Submit">
-				</form>
-				</p>
-			</li>
+				</form></li>
 		</ul> 
 	</div> 
 EOHTML

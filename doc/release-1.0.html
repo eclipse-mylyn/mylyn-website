@@ -4,36 +4,32 @@
 <p>Mylar’s task-focused user interface is a new technology that represents a 
 fundamental shift in the way
 <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDEs</a> 
-work. As the complexity of applications has grown, IDEs have made it easier to 
-browse and edit the structure of these systems. Content assist provided instant 
-access to that modularity in the editor, while refactoring has facilitated 
-making structural changes.&nbsp; As the size of systems has continued to grow 
-IDEs' structure views have become overloaded with thousands of elements. 
-Searches often return hundreds of hits.&nbsp; The resulting information overload 
-has been causing us to waste a tremendous amount of time browsing, scrolling, 
-and navigating to identify the information we need. What’s worse is that we’re 
-constantly multi-tasking, and whenever we switch tasks we waste yet more time 
-re-creating this context. </p>
-<p>The key intuition behind Mylar is that for any task that we do, any bug that 
+work. Today’s applications and frameworks are composed of millions of lines of 
+code. What the state-of-the-art IDEs have done is made all of that code 
+instantly accessible. But when used on large systems, views and searches of the 
+system will often contain thousands of elements. The result of this information 
+overload is that developers often spend more time repetitively scrolling, 
+searching, and navigating code than they do programming.&nbsp; The key intuition behind Mylar is that for any task that we do, any bug that 
 we need to fix or feature we add, we only care about a subset of the system. 
 Mylar makes this subset explicit by automatically managing
 <a href="http://kerstens.org/mik/publications/2006-11-mylar-fse.pdf">task 
 context</a> on our behalf.&nbsp; The result is that structure views show only 
 the relevant information, changes are grouped by task, multi-tasking only 
-requires a single click, and expertise becomes easy to share.&nbsp; </p>
+requires a single click, and expertise becomes easy to share and recall.&nbsp; </p>
 <h4>History </h4>
 <p>In 2003, I was working on integrating new modularity technologies with IDEs. 
 Aspect-oriented programming tools like <a href="http://www.eclipse.org/aspectj/">
-AspectJ</a>, as well as model-driven development tools, can remove significant 
+AspectJ</a>, as well as model-driven development tools, showed promise in 
+removing significant 
 amounts of the <a href="http://en.wikipedia.org/wiki/Accidental_complexity">
 accidental complexity</a> that creeps into our systems. But even with improved 
-modularity, it became clear to me that the
+modularity, it became clear that the
 <a href="http://en.wikipedia.org/wiki/Essential_complexity">essential complexity</a> 
 of systems would continue growing, while our ability to deal with that 
 complexity would not. I knew that <a href="http://www.cs.ubc.ca/~murphy/">Gail 
 Murphy</a>, a professor at the University of British Columbia, had a deep 
 appreciation for this problem and would have a uniquely practical and empirical 
-approach to finding a solution as evidenced by the
+approach to finding a solution, as evidenced by the
 <a href="http://www.cs.ubc.ca/labs/spl/projects/feat/">FEAT</a> and
 <a href="http://www.cs.ubc.ca/labs/spl/projects/hipikat/">Hipikat</a> research 
 projects. I had a feeling that this problem could be solved with her guidance, 
@@ -49,7 +45,7 @@ resulted from very long workdays. The start of my thesis gave me a chance to
 reflect on what the underlying problem was: I was constantly clicking the mouse 
 and keyboard to find and re-find the information I needed to get work done. What 
 I hadn’t noticed before is that I was always browsing for the same elements, and 
-that the IDE was showing them within a deep hierarchy instead of grouping them 
+that the tools were showing them within deep hierarchies instead of grouping them 
 in a more reasonable way. Gail and I brainstormed weekly on how the structure 
 relevant to developers’ tasks could be identified and presented. She instilled 
 in me the need to validate any whacky ideas that we came up with via user 
@@ -86,45 +82,45 @@ increasing needs. Since then we have resolved 1826 bug reports, over 200 of
 which were resolved by community contributions. </p>
 <p>The result is <a href="http://www.eclipse.org/mylar/doc/new.php">Mylar 1.0</a>, 
 which integrates task context seamlessly across the Eclipse IDE, and brings 
-developers’ tasks into Eclipse via connectors to the Bugzilla, JIRA, Trac, as 
+developers’ tasks into Eclipse via connectors to the 
+<a href="http://www.bugzilla.org/">Bugzilla</a>,
+<a href="http://www.atlassian.com/software/jira/">JIRA</a>, 
+<a href="http://trac.edgewall.org/">Trac</a>, as 
 well as other web-based repositories. More importantly, Mylar 1.0 provides 
 frameworks to integrate task context with other kinds of artifacts and task 
-repositories, enabling future versions of Mylar to bring the benefits of task 
+repositories, which enables integrators to provide the benefits of task 
 context to a rapidly growing number of developers. </p>
 <h4>Credits </h4>
 <p>Gail Murphy and the <a href="http://www.cs.ubc.ca">Department of Computer 
 Science</a> at the University of British Columbia created the academic 
-environment that made it possible to bring Mylar from a research idea, to a tool 
-used daily by thousands of developers, all in less than 3 years. The
+environment that made it possible to bring Mylar from blue sky brainstorming, to a tool 
+used daily by thousands of developers, in less than 3 years. The
 <a href="http://www.ibm.com/ibm/cas/">IBM Centre for Advanced Studies</a> and
 <a href="http://www.nserc-crsng.gc.ca/">NSERC</a> funding of my PhD made it 
 possible for me to focus all of my energy on the implementation and validation 
 of Mylar. </p>
-<p><a href="http://robertelves.com/">Robert Elves</a>, whom Gail and I 
-discovered after seeing his research in the use of Eclipse navigation to rank 
-editors by relevance, is the main reason that the Tasks framework works as well 
+<p><a href="http://robertelves.com/">Robert Elves</a> is the main reason that the Tasks framework works as well 
 as it does today. His relentless drive and tireless effort have single-handedly 
 supported the requests and needs of hundreds of Mylar users.
 <a href="http://steffenpingel.de/">Steffen Pingel</a> and
 <a href="http://www.jroller.com/page/eu">Eugene Kuleshov</a> have provided 
 countless valuable contributions to Mylar, and thanks to the eclipse.org process 
-of meritocracy, have become committers on the project without ever meeting face 
-to face with the other members of the team. The following individuals have also 
-made significant contributions leading up to Mylar 1.0 (in order of bugs 
+of <a href="http://www.eclipse.org/projects/dev_process/">meritocracy</a>, have become committers on the project without ever meeting face-to-face with the other members of the team. The following individuals have also 
+made substantial contributions leading up to Mylar 1.0 (in order of bugs 
 resolved): Shawn Minto, Ken Sueda, Jeff Pound, Wesley Coelho, Willian Mitsuda, 
 Brock Janiczak, Lean Findlater, Nathan Hapke, Raphael Ackermann, Meghan Allen, 
 and Gunnar Wagenknecht. </p>
 <p>Mylar would not have been possible without the remarkable extensibility of 
 the <a href="http://www.eclipse.org/">Eclipse Platform</a>. We extend a huge 
-thank you to the amazing teams that created the Eclipse SDK, and to their 
-self-hosted and open philosophy of building tools. Those principles resulted in 
-the most extensible tool framework the world has seen, a vibrant community, and 
-a platform for innovation. </p>
+thank you to the teams that created the Eclipse SDK, and to their 
+self-hosted and open philosophy of building tools. Their work has resulted in 
+the most extensible and comprehensive tool framework, a vibrant user community 
+and a platform for innovation.</p>
 <p>Finally, the seeds of these ideas came from
 <a href="http://www.cs.ubc.ca/~gregor/">Gregor Kiczales</a> constantly repeating 
 “less is more” over my shoulder when I was getting buried in complexity, and 
 “first things first” when I was mismanaging my tasks. It brings me great 
-satisfaction to know that we have automated his advice.<br>
+satisfaction that Mylar provides tool support that automates his advice.<br>
 </p>
 <p><a href="ref%20http:/en.wikipedia.org/wiki/Hacker">Happy hacking</a>,<br>
 </p>

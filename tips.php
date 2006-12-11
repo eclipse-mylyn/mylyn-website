@@ -83,7 +83,7 @@
 		</div>
 		
 		<div class="homeitem">
-			<h3>UI Legend</h3>
+			<h3>UI Legend (Ctrl+Alt+Shift+?)</h3>
 			<img src="images/ui-legend.gif">
 		</div>
 	</div>

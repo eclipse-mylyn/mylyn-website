@@ -17,11 +17,6 @@
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=mylar_has_turned_one">
 					Mylar has turned One!</a>
 					<span class="dates">(Oct 30, 2006)</span><br>&nbsp;
-				</li>	
-				<li>
-					Litrik: <a href="http://litrik.blogspot.com/2006/10/commit-comment-templates-in-mylar-080.html">
-					Commit comment templates in Mylar 0.8.0</a>
-					<span class="dates">(Oct 27, 2006)</span><br>&nbsp;
 				</li>			
 				<li>
 					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">

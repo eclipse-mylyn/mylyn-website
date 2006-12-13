@@ -76,8 +76,6 @@
 		<div class="homeitem3col">
 			<h3>Blogs Archive</h3>		
 			<ul>				
-			
-			
 				<li>
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=big_secret_of_mylar_s">
 					Big secret of Mylar's easy to use dialogs. / Eclipse</a>

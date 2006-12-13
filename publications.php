@@ -70,7 +70,7 @@
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>Papers & Propsoals</h3>
+			<h3>Research Papers</h3>
 			<ul>
 				<!--
 	            <li>
@@ -88,11 +88,6 @@
 		            <a href="publications/2006-11-mylar-cscw.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2006-11-mylar-cscw.pdf"><img border=0 src="images/icon-pdf.gif">
 		            WYSIWYN: Using Task Focus to Ease Collaboration</a> by Mik Kersten, Rob Elves and Gail Murphy (Nov 2006, <a href="http://software-research.ca/social-se/">CSCW</a> workshop paper)
-	            </li>
-				<li>
-		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
-		            Mylar project creation proposal and review</a> (May 2005)
 	            </li>
 	            <li>
 		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>

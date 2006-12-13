@@ -76,6 +76,13 @@
 		<div class="homeitem3col">
 			<h3>Blogs Archive</h3>		
 			<ul>				
+			
+			
+				<li>
+					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=big_secret_of_mylar_s">
+					Big secret of Mylar's easy to use dialogs. / Eclipse</a>
+					<span class="dates">(Dec 13, 2006)</span>
+				</li> 
 				<li>
 					Jimisola Laursen: <a href="http://www.jimisola.com/2006/12/12/mylar-10-released/">
 					Mylar 1.0 released</a>

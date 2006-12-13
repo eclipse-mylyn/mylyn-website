@@ -21,7 +21,7 @@
 		<!-- <div align="center"><h3>$pageTitle</h3></div>-->
 			
 		<div class="homeitem3col">
-			<h3>Tutorial Articles</h3>
+			<h3>Selected Articles</h3>
 			<ul>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
@@ -36,15 +36,17 @@
 					Five Reasons to Love Mylar: Part One</a>
 					by Wayne Beaton <span class="dates">(Dec 7, 2006)</span>, 
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-two.html">
-					Part Two</a><span class="dates">(Dec 8, 2006)</span>,
+					Part Two</a> <span class="dates">(Dec 8, 2006)</span>,
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
-					Part Three</a><span class="dates">(Dec 11, 2006)</span><br>
+					Part Three</a> <span class="dates">(Dec 11, 2006)</span>,
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-four.html">
+					Part Four </a><span class="dates">(Dec 11, 2006)</span><br>
 				</li> 
 			</ul> 
 		</div>
 			
 		<div class="homeitem3col">
-			<h3>Presentations</h3>
+			<h3>Selected Presentations</h3>
 			<ul>
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">

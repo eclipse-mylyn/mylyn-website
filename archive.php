@@ -131,12 +131,11 @@
 				<li>Ed Burnette: <a href="http://www.eclipsezone.com/eclipse/forums/t20933.html">Mylar is the next killer app for Eclipse</a>
 				<span class="dates">(July 28, 2005)</span></li>
 							
-				
 			</ul>
 		</div> 				
 
 		<div class="homeitem3col">
-			<h3>Articles Archive</h3>
+			<h3>Publications Archive</h3>
 			<ul>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
@@ -149,6 +148,11 @@
 	            <li>
 		            <a href=" http://www.eclipsezone.com/articles/mylar/"><img border=0 src="images/icon-webdoc.gif">
 		           	Revolutionize your productivity with Eclipse Mylar</a> by Riyad Kalla (Apr 2006)
+	            </li>
+	            <li>
+		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
+		            <a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
+		            Mylar project creation proposal and review</a> (May 2005)
 	            </li>
 			</ul>
 		</div> 

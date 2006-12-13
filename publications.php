@@ -32,14 +32,11 @@
 		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 	            <li>
-					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html">
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html"><img border=0 src="images/icon-webdoc.gif">
 					Five Reasons to Love Mylar: Part One</a>
 					<span class="dates">(Dec 7, 2006)</span>, 
-					&nbsp;&nbsp;&nbsp;
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-two.html">
-					Part Two</a><span class="dates">(Dec 8, 2006)</span>
-					&nbsp;&nbsp;&nbsp;
-					&nbsp;&nbsp;&nbsp;
+					Part Two</a><span class="dates">(Dec 8, 2006)</span>,
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
 					Part Three</a><span class="dates">(Dec 11, 2006)</span><br>
 				</li> 

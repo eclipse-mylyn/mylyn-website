@@ -33,11 +33,11 @@
 					<span class="dates">(Dec 7, 2006)</span>
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-two.html">
-					Five Reasons to Love Mylar: Part Two</a>
+					Part Two</a>
 					<span class="dates">(Dec 8, 2006)</span>
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
-					Five Reasons to Love Mylar: Part Three</a>
+					Part Three</a>
 					<span class="dates">(Dec 11, 2006)</span><br>
 				</li> 
 				<li>
@@ -99,10 +99,6 @@
 				Eclipse Mylar: Less is More</a>
 				<span class="dates">(May 12, 2006)</span></li>
 				
-				<li>Riyad Kalla: <a href="http://www.eclipsezone.com/articles/mylar/">
-				Revolutionize your productivity with Eclipse Mylar</a>
-				<span class="dates">(Apr. 10, 2006)</span></li>
-
 				<li>
 					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">
 					Mylar's ultra-fast release cycles</a>
@@ -138,6 +134,24 @@
 				
 			</ul>
 		</div> 				
+
+		<div class="homeitem3col">
+			<h3>Articles Archive</h3>
+			<ul>
+				<li>
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+	            <li>
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
+		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
+	            </li>
+	            <li>
+		            <a href=" http://www.eclipsezone.com/articles/mylar/"><img border=0 src="images/icon-webdoc.gif">
+		           	Revolutionize your productivity with Eclipse Mylar</a> by Riyad Kalla (Apr 2006)
+	            </li>
+			</ul>
+		</div> 
 
 		<div class="homeitem3col">
 			<h3>Event Archive</h3>

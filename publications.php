@@ -54,6 +54,10 @@
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
                 </li>
 	            <li>
+		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="images/icon-podcast.gif">
+	            	Eclipsing Information Overload</a> (Dr.Dobbs Podcast, Dec 2006)
+	            </li>
+	            <li>
 		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
 	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
 	            </li>			

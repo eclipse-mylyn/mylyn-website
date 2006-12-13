@@ -28,34 +28,84 @@
 			<h3>News Archive</h3>
 			<ul>
 				<li>
-					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
+					Eclipse Foundation: <a href="http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20061212005142&newsLang=en">
+					Eclipse Mylar Introduces Major New Innovation for Developer Productivity</a>
+					<span class="dates">(Dec 12, 2006)</span><br>
+				</li>
+				<li>
+					John K. Waters, Application Development Trends: <a href="http://www.adtmag.com/article.aspx?id=19805">
+					Too Much Information? Eclipse UI Tool Focuses on Tasks</a>
+					<span class="dates">(Dec 11, 2006)</span><br>
+				</li>
+				<li>
+					Paul Krill, InfoWorld: <a href="http://www.infoworld.com/article/06/12/11/HNmylar_1.html">
+					Eclipse clears developer clutter - Mylar task manager is readied</a>
+					<span class="dates">(Dec 11, 2006)</span><br>
+				</li>
+				<li>
+					Peter Coffee, InfoWorld: <a href="http://www.eweek.com/article2/0%2C1895%2C2070968%2C00.asp">
+					Framing the SOA Scene - Task-centered tools and virtual stacks combine to let developers compose a better picture</a>
+					<span class="dates">(Dec 11, 2006)</span><br>
+				</li>
+				<li>
+					Antone Gonsalves, InformationWeek: <a href="http://www.informationweek.com/software/showArticle.jhtml?articleID=196603112&subSection=Open+Source">
+					Eclipse Challenges Visual Studio.Net In Europe, Other Regions </a>
+					<span class="dates">(Dec 11, 2006)</span><br>
+				</li>
+				<li>
+					Daniel Spiewak, EclipseZone: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
 					Task Based Development</a>
 					<span class="dates">(Dec 4, 2006)</span><br>
 				</li>
 				<li>
-					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
-					Task Based Development</a>
-					<span class="dates">(Dec 4, 2006)</span><br>
-				</li>
-				<li>
-					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
+					Edward J. Correia, SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
 					What's Cooking at Eclipse</a>
 					<span class="dates">(Oct 15, 2006)</span>
 				</li>
 				<li>
-					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
+					Rob Thornton, InfoQ: <a href="http://www.infoq.com/news/mylar">
 					Changing the way you work with Mylar</a>
 					<span class="dates">(Oct 12, 2006)</span>
 				</li> 
 				<li>
-					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
+					R.J. Lorimer, EclipseZone: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
 					<span class="dates">(Jul 9, 2006)</span>
 				</li>
 			</ul>
 		</div>
 		<div class="homeitem3col">
-			<h3>Blogs Archive</h3>
-			<ul>	
+			<h3>Blogs Archive</h3>		
+			<ul>				
+				<li>
+					Jimisola Laursen: <a href="http://www.jimisola.com/2006/12/12/mylar-10-released/">
+					Mylar 1.0 released</a>
+					<span class="dates">(Dec 12, 2006)</span>
+				</li> 
+				<li>
+					Gedanken Verloren: <a href="http://jroller.com/page/musk?entry=revisiting_mylar_1_0_0">
+					Revisiting Mylar 1.0.0</a>
+					<span class="dates">(Dec 12, 2006)</span>
+				</li>
+				<li>
+					James Cooley: <a href="http://james.cooley.ie/2006/12/12/1165943520000.html">
+					Mylar 1.0 - efficient multi-tasking for large projects</a>
+					<span class="dates">(Dec 12, 2006)</span>
+				</li> 			
+				<li>
+					Brett Cannon: <a href="http://sayspy.blogspot.com/2006/12/mylar-10-released-for-eclipse.htmll">
+					Mylar 1.0 released for Eclipse</a>
+					<span class="dates">(Dec 12, 2006)</span>
+				</li> 			
+				<li>
+					Mark Watson: <a href="http://mark-watson.blogspot.com/2006/12/eclipse-mylar-automating-context.html">
+					Eclipse Mylar: automating context manangement for work tasks</a>
+					<span class="dates">(Dec 12, 2006)</span>
+				</li> 			
+				<li>
+					David Peterson: <a href="http://www.oreillynet.com/xml/blog/2006/12/hello_mylar_eclipse_clears_awa.html?CMP=OTC-TY3388567169&ATT=Hello+Mylar+Eclipse+Clears+Away+Clutter+Integrates+Task-Oriented+Approach">
+					Hello, Mylar! (Eclipse Clears Away Clutter; Integrates Task-Oriented Approach)</a>
+					<span class="dates">(Dec 11, 2006)</span>
+				</li> 	
 				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html">
 					Five Reasons to Love Mylar: Part One</a>

@@ -21,7 +21,7 @@
 		<!-- <div align="center"><h3>$pageTitle</h3></div>-->
 			
 		<div class="homeitem3col">
-			<h3>Articles</h3>
+			<h3>Tutorial Articles</h3>
 			<ul>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
@@ -97,6 +97,8 @@
 			</ul> 
 		</div>
 		<p>
+		
+		For more publicatoins see the <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">Archive page</a>.
 		
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.

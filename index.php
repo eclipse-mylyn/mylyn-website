@@ -75,8 +75,9 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<a href="http://eclipse.org/mylar/doc/release-1.0.php">
-					<h3><img border=0 src="images/feature.gif">&nbsp;<b>Mylar 1.0 released!</i></h3><br> (Dec 11, 2006)
+					<a href="http://www.eclipse.org/org/press-release/20061212_mylar.php">
+					<h4><img border=0 src="images/feature.gif">&nbsp;<b>Mylar 1.0 released!</i></h4><br> (Dec 11, 2006)
+					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Read the About Mylar 1.0</a>
 				</li>
 				<li>
 	                <a href="http://www.eclipse.org/community/webinars2006.php">

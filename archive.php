@@ -24,8 +24,37 @@
   
 <div id="maincontent">
   <div id="midcolumn" style="width:78%">
+  		<div class="homeitem3col">
+			<h3>News Archive</h3>
+			<ul>
+				<li>
+					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
+					Task Based Development</a>
+					<span class="dates">(Dec 4, 2006)</span><br>
+				</li>
+				<li>
+					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
+					Task Based Development</a>
+					<span class="dates">(Dec 4, 2006)</span><br>
+				</li>
+				<li>
+					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
+					What's Cooking at Eclipse</a>
+					<span class="dates">(Oct 15, 2006)</span>
+				</li>
+				<li>
+					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
+					Changing the way you work with Mylar</a>
+					<span class="dates">(Oct 12, 2006)</span>
+				</li> 
+				<li>
+					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
+					<span class="dates">(Jul 9, 2006)</span>
+				</li>
+			</ul>
+		</div>
 		<div class="homeitem3col">
-			<h3>News & Blogs Archive</h3>
+			<h3>Blogs Archive</h3>
 			<ul>	
 				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html">
@@ -46,11 +75,6 @@
 					<span class="dates">(Dec 6, 2006)</span>
 				</li> 
 				<li>
-					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t85560.rhtml">
-					Task Based Development</a>
-					<span class="dates">(Dec 4, 2006)</span><br>
-				</li>
-				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">
 					You must try Mylar</a>
 					<span class="dates">(Nov 23, 2006)</span>
@@ -65,16 +89,6 @@
 					Commit comment templates in Mylar 0.8.0</a>
 					<span class="dates">(Oct 27, 2006)</span>
 				</li>	
-				<li>
-					SD Times: <a href="http://www.sdtimes.com/article/special-20061015-01.html">
-					What's Cooking at Eclipse</a>
-					<span class="dates">(Oct 15, 2006)</span>
-				</li>
-				<li>
-					Rob Thornton: <a href="http://www.infoq.com/news/mylar">
-					Changing the way you work with Mylar</a>
-					<span class="dates">(Oct 12, 2006)</span>
-				</li> 
 				<li>
 					Blaine Buxton: <a href="http://blog.blainebuxton.com/2006/10/eclipse-mylar.html">
 					Eclipse Mylar I'm in love.  This is just too gorgeous.</a>
@@ -91,14 +105,10 @@
 					<span class="dates">(Aug 4, 2006)</span><br>
 				</li>
 				<li>
-					R.J. Lorimer: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
-					<span class="dates">(Jul 9, 2006)</span>
+					Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
+					Eclipse Mylar: Less is More</a>
+					<span class="dates">(May 12, 2006)</span>
 				</li>
-			
-				<li>Peter Hendriks: <a href="http://blogs.infosupport.com/peterhe/archive/2006/05/12/6051.aspx">
-				Eclipse Mylar: Less is More</a>
-				<span class="dates">(May 12, 2006)</span></li>
-				
 				<li>
 					Eugene Kuleshov: <a href="http://swik.net/Eclipse/Euxx/Mylar's+ultra-fast+release+cycles/c4nm">
 					Mylar's ultra-fast release cycles</a>

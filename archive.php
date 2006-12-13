@@ -28,6 +28,17 @@
 			<h3>News & Blogs Archive</h3>
 			<ul>	
 				<li>
+					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html">
+					Five Reasons to Love Mylar: Part One</a>
+					<span class="dates">(Dec 7, 2006)</span><br>
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-two.html">
+					Five Reasons to Love Mylar: Part Two</a>
+					<span class="dates">(Dec 8, 2006)</span><br>
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
+					Five Reasons to Love Mylar: Part Three</a>
+					<span class="dates">(Dec 11, 2006)</span><br>
+				</li> 
+				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/mylar-two-weeks-later.html">
 					Mylar Two Weeks Later</a>
 					<span class="dates">(Dec 6, 2006)</span>

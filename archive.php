@@ -28,6 +28,11 @@
 			<h3>News Archive</h3>
 			<ul>
 				<li>
+					Rob Thornton: <a href="http://www.infoq.com/news/2006/12/mylar-1-0-interview">
+					InfoQ Interview with Mylar Project Lead Mik Kersten</a>
+					<span class="dates">(Dec 13, 2006)</span><br>
+				</li>
+				<li>
 					Eclipse Foundation: <a href="http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20061212005142&newsLang=en">
 					Eclipse Mylar Introduces Major New Innovation for Developer Productivity</a>
 					<span class="dates">(Dec 12, 2006)</span><br>

@@ -4,6 +4,11 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
+					Rob Thornton: <a href="http://www.infoq.com/news/2006/12/mylar-1-0-interview">
+					InfoQ Interview with Mylar Project Lead Mik Kersten</a>
+					<span class="dates">(Dec 13, 2006)</span><br>&nbsp;
+				</li>
+				<li>
 					Jimisola Laursen: <a href="http://www.jimisola.com/2006/12/12/mylar-10-released/">
 					Mylar 1.0 released</a>
 					<span class="dates">(Dec 12, 2006)</span><br>&nbsp;

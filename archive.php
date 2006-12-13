@@ -87,7 +87,7 @@
 					<span class="dates">(Dec 12, 2006)</span>
 				</li> 
 				<li>
-					Gedanken Verloren: <a href="http://jroller.com/page/musk?entry=revisiting_mylar_1_0_0">
+					Stefan Langer: <a href="http://jroller.com/page/musk?entry=revisiting_mylar_1_0_0">
 					Revisiting Mylar 1.0.0</a>
 					<span class="dates">(Dec 12, 2006)</span>
 				</li>
@@ -182,7 +182,7 @@
 				Jira support in Mylar</a>
 				<span class="dates">(Jan. 11, 2006)</span></li>
 								
-				<li> Gedanken Verloren: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
+				<li>Stefan Langer: <a href="http://www.jroller.com/page/musk?entry=eclipse_killer_plugin_mylar">
 				Eclipse Killer Plugin Mylar</a>
 				<span class="dates">(Nov. 14, 2005)</span></li>
 				

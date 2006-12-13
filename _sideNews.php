@@ -9,7 +9,7 @@
 					<span class="dates">(Dec 12, 2006)</span><br>&nbsp;
 				</li> 
 				<li>
-					Gedanken Verloren: <a href="http://jroller.com/page/musk?entry=revisiting_mylar_1_0_0">
+					Stefan Langer: <a href="http://jroller.com/page/musk?entry=revisiting_mylar_1_0_0">
 					Revisiting Mylar 1.0.0</a>
 					<span class="dates">(Dec 12, 2006)</span><br>&nbsp;
 				</li>

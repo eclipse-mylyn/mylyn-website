@@ -100,7 +100,7 @@
 		</div>
 		<p>
 		
-		For more publicatoins see the <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">Archive page</a>.
+		For all publications see the <a href="http://www.eclipse.org/mylar/archive.php">Archive page</a>.
 		
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.

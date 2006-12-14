@@ -76,11 +76,11 @@
 			<ul>
 				<li>
 	                <a href="news://news.eclipse.org/eclipse.technology.mylar">
-					users newsgroup:</a> discussions and minor release announcements
+					users newsgroup:</a> users discussions and support
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[archive]</a></li>
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylar-announce">
-					mylar-announce@eclipse.org:</a> major release and events
+					mylar-announce@eclipse.org:</a> major releases and events
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[archive]</a></li>
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylar-dev">

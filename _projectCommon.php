@@ -15,7 +15,7 @@
 </STYLE>
 
 <div id="branding">
-<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<center>
 <img border=0 src="/mylar/images/mylar-banner.gif"></center>
 </div>
 EOBRANDING;

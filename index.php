@@ -45,7 +45,7 @@
 					Mylar is a task-focused UI for Eclipse that reduces information overload and makes multi-tasking easy.  
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 					repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylar monitors your work activity to identify information relevant to the task-at-hand, and uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
-			  		<br>
+			  		<br>&nbsp;<br>
 			  		<a href="bugs.php">
 					<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>

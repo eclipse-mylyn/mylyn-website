@@ -54,10 +54,11 @@
 			</ul>
 		</div>             
 	</div>
-	
+	<!--
 	<div id="rightcolumn">
 		$commonside
 	</div>
+	-->
 </div>
 
 

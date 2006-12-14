@@ -78,10 +78,11 @@
 		</div> 
 		<p>&nbsp;</p>
 	</div>
-	
+	<!--
 	<div id="rightcolumn">
 		$commonside
 	</div>
+	-->
 </div>
 
 

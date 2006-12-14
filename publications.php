@@ -112,7 +112,6 @@
 	</div>
 	
 	<div id="rightcolumn">
-		$commonside
 		$newsside
 	</div>
 		

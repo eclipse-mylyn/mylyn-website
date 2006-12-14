@@ -2,6 +2,7 @@
     $feedbackside = <<<EOHTML
 	<div class="sideitem">
 		<h6>Feedback</h6>
+		<font size=1>
 		<a href="bugs.php">
 		Vote</a> for connectors<br>
 		 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
@@ -23,6 +24,7 @@
 			<input type="hidden" name="req" value="addrating">
 			<input type="submit" value="Submit">
 			</form>
+		</font>
 	</div> 
 EOHTML
 

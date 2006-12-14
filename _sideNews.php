@@ -4,8 +4,13 @@
 			<h6><a href="archive.php">News & Blogs...</a></a></h6>
 			<ul>
 				<li>
-					Rob Thornton: <a href="http://www.infoq.com/news/2006/12/mylar-1-0-interview">
-					InfoQ Interview with Mylar Project Lead Mik Kersten</a>
+					Ed Burnette, ZDNet: <a href="http://blogs.zdnet.com/Burnette/?p=218&page=1">
+					Q&A with Mik Kersten, Mylar project lead</a>
+					<span class="dates">(Dec 13, 2006)</span><br>&nbsp;
+				</li>
+				<li>
+					Rob Thornton, InfoQ: <a href="http://www.infoq.com/news/2006/12/mylar-1-0-interview">
+					Interview with Mylar Project Lead Mik Kersten</a>
 					<span class="dates">(Dec 13, 2006)</span><br>&nbsp;
 				</li>
 				<li>

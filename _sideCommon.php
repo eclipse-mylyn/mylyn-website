@@ -1,8 +1,8 @@
 <?php
     $commonside = <<<EOHTML
 	<div class="sideitem">
-		<font size=-1>
 		<h6>Releases</h6>
+		<font size=-1>
 			<a href="doc/new.php">Mylar 1.0.0</a>
 			<span class="dates">(Dec 11)</span>
 		<br>

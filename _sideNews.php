@@ -1,8 +1,9 @@
 <?php
     $newsside = <<<EOHTML
 		<div class="sideitem">
-		<font size=-1>
+		
 		<h6><a href="archive.php">News & Blogs...</a></a></h6>
+		<font size=-1>
 			Ed Burnette, ZDNet: <a href="http://blogs.zdnet.com/Burnette/?p=218&page=1">
 			Q&A with Mik Kersten, Mylar project lead</a>
 			<span class="dates">(Dec 13)</span><br>&nbsp;

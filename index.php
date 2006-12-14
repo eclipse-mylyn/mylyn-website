@@ -45,6 +45,28 @@
 					Mylar is a task-focused UI for Eclipse that reduces information overload and makes multi-tasking easy.  
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 					repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylar monitors your work activity to identify information relevant to the task-at-hand, and uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylar also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
+			  		<br>
+			  		<a href="bugs.php">
+					<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
+					<select name="rating">
+					<option selected>10</option>
+					<option>9</option>
+					<option>8</option>
+					<option>7</option>
+					<option>6</option>
+					<option>5</option>
+					<option>4</option>
+					<option>3</option>
+					<option>2</option>
+					<option>1</option>
+					</select>
+					<input type="hidden" name="ratinglid" value="560">
+					<input type="hidden" name="ratinguser" value="outside">
+					<input type="hidden" name="req" value="addrating">
+					<input type="submit" value="Submit">
+					</form>
+			  	
 			  	</td>
 	          </tr>
 	        </table>
@@ -93,7 +115,6 @@
 	</div>
 	<div id="rightcolumn">
 		$commonside
-		$feedbackside
 		$newsside
 	</div>
 </div>

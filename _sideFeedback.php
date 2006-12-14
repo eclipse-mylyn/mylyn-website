@@ -3,17 +3,8 @@
 	<div class="sideitem">
 		<h6>Feedback</h6>
 		<ul>
-			<li>
-				<a href="bugs.php">
-				Vote</a> for connectors
-			</li>
-			<!--
-			<li>
-				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-ratelink-lid-560.html">
-				Comment on Mylar</a> at EPIC
-			</li>
-			-->
-			<li>
+			<a href="bugs.php">
+			Vote</a> for connectors<br>
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
 				<select name="rating">
@@ -32,8 +23,7 @@
 				<input type="hidden" name="ratinguser" value="outside">
 				<input type="hidden" name="req" value="addrating">
 				<input type="submit" value="Submit">
-				</form></li>
-		</ul> 
+				</form>
 	</div> 
 EOHTML
 

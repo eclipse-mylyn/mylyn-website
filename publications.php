@@ -86,7 +86,7 @@
 	            <li>
 		            <a href="publications/2006-11-mylar-fse.ppt"><img border=0 src="images/icon-ppt.gif"></a>
 		            <a href="publications/2006-11-mylar-fse.pdf"><img border=0 src="images/icon-pdf.gif">
-		            Using task context to improve programmer productivity</a> by Mik Kersten and Gail Murphy (Nov 2006, <a href="http://www.cs.uoregon.edu/fse-14/">FSE</a> conference paper)
+		            Using task context to improve programmer productivity</a> by Mik Kersten and Gail Murphy (Nov 2006, <a href="http://www.cs.uoregon.edu/fse-14/">Foundations of Software Engineering</a> conference paper)
 	            </li>
 	            <li>
 		            <a href="publications/2006-11-mylar-cscw.ppt"><img border=0 src="images/icon-ppt.gif"></a>

@@ -30,6 +30,10 @@
 				Eclipse clears developer clutter - Mylar task manager is readied</a>
 				<span class="dates">(Dec 11)</span><br>&nbsp;
 			<br>
+				Cote, Red Monk: <a href="http://www.redmonk.com/cote/archives/2006/12/more_on_mylar_t.html">
+				More on Mylar: Tasks, Picking, Agile ALM</a>
+				<span class="dates">(Dec 6, 2006)</span><br>&nbsp;
+			<br>
 				Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/11/you-must-try-mylar.html">
 				You must try Mylar</a>
 				<span class="dates">(Nov 23)</span><br>&nbsp;

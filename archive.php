@@ -30,7 +30,7 @@
 				<li>
 					Ed Burnette, ZDNet: <a href="http://blogs.zdnet.com/Burnette/?p=218&page=1">
 					Q&A with Mik Kersten, Mylar project lead</a>
-					<span class="dates">(Dec 13, 2006)</span><br>&nbsp;
+					<span class="dates">(Dec 13, 2006)</span><br>
 				</li>
 				<li>
 					Rob Thornton: <a href="http://www.infoq.com/news/2006/12/mylar-1-0-interview">
@@ -85,10 +85,15 @@
 		</div>
 		<div class="homeitem3col">
 			<h3>Blogs Archive</h3>		
-			<ul>				
+			<ul>	
 				<li>
 					Eugene Kuleshov: <a href="http://jroller.com/page/eu?entry=big_secret_of_mylar_s">
 					Big secret of Mylar's easy to use dialogs. / Eclipse</a>
+					<span class="dates">(Dec 13, 2006)</span>
+				</li> 
+				<li>
+					Daniel Spiewak: <a href="http://www.eclipsezone.com/eclipse/forums/t86198.rhtml">
+					Applying Mylar</a>
 					<span class="dates">(Dec 13, 2006)</span>
 				</li> 
 				<li>
@@ -133,6 +138,19 @@
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
 					Part Three</a>
 					<span class="dates">(Dec 11, 2006)</span><br>
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-four.html">
+					Part Four</a>
+					<span class="dates">(Dec 12, 2006)</span><br>
+					<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-five.html">
+					Part Five</a>
+					<span class="dates">(Dec 13, 2006)</span><br>
+				</li> 
+				<li>
+					Cote, Red Monk: <a href="http://www.redmonk.com/cote/archives/2006/12/more_on_mylar_t.html">
+					More on Mylar: Tasks, Picking, Agile ALM</a>
+					<span class="dates">(Dec 6, 2006)</span>
 				</li> 
 				<li>
 					Wayne Beaton: <a href="http://wbeaton.blogspot.com/2006/12/mylar-two-weeks-later.html">

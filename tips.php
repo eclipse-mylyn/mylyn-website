@@ -28,7 +28,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-  <div id="midcolumn">        
+  <div id="midcolumn" style="width:95%">        
         <div class="homeitem3col">
 			<h3>Task List Tips</h3>
 			<ul>

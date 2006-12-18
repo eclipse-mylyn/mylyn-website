@@ -26,7 +26,12 @@
   <div id="midcolumn" style="width:92%">
   		<div class="homeitem3col">
 			<h3>News Archive</h3>
-			<ul>
+			<ul>			
+				<li>
+					Tony Baer, Computerwire: <a href="http://www.computerwire.com/industries/research/?pid=20B9C446%2D4DD5%2D4A8D%2DBAB3%2D5B3C5B84FF9E">
+					Eclipse Mylar Aims to Cut Developer Task Clutter</a>
+					<span class="dates">(Dec 15, 2006)</span><br>
+				</li>
 				<li>
 					Ed Burnette, ZDNet: <a href="http://blogs.zdnet.com/Burnette/?p=218&page=1">
 					Q&A with Mik Kersten, Mylar project lead</a>

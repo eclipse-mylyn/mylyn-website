@@ -26,9 +26,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
-		<div align="center"><h1>$pageTitle</h1></div>
-          
+	<div id="midcolumn">          
         <p>Please use the newsgroup for posting questions about Mylar (<a href="http://dev.eclipse.org/newsManager/newsRequestForm.html">register here</a>).
         In part thanks to the Bugzilla integration that it provides, the
 		Mylar project makes heavy use of <a href="bugs.php">Bugzilla</a> for tracking bugs, planning,
@@ -52,7 +50,25 @@
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
-		</div>             
+		</div>       
+		
+		<div class="homeitem3col">
+			<h3>Support Expectations</h3>
+			<ul>
+				<li>
+                    Tasks List, Focused UI, and frameworks: top support priority of committers
+                </li>
+				<li>
+                    Bugzilla Connector: supported by committers
+				</li>
+				<li>
+                    Trac Connector: supported by committers
+				</li>
+				<li>
+                    JIRA Connector: supported by community contributions, managed by committers
+				</li>
+			</ul>
+		</div>        
 	</div>
 	<!--
 	<div id="rightcolumn">

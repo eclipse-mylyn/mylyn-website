@@ -50,7 +50,7 @@
 		
 		   <div class="homeitem">
 			<h3>Shortcuts</h3>
-			<b>Task List view</b>
+			<b>&nbsp;Task List view</b>
 			<ul>
 				<li><code>Ctrl+C</code>: copy taks/query URL and description</li>
 				<li><code>Ctrl+F</code>: find</li>
@@ -58,7 +58,7 @@
     			<li><code>F5</code>: synchronize selected</li> 
     			<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code></li>
 			</ul>
-			<b>General</b>			
+			<b>&nbsp;General</b>			
 			<ul>
 				<li><code>Alt+click</code> or <code>Alt+RightArrow</code>: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
 				<li><code>Ctrl+F9</code>: activate task dialog</li>
@@ -66,12 +66,12 @@
 				<li><code>Ctrl+F12</code>: open task dialog</li>
 				<li><code>Ctrl+Shift+F12</code>: open repository task dialog</li>
 			</ul>
-			<h4>Interest manipulation</h4>			
+			<b>&nbsp;Interest manipulation</b>			
 			<ul>
 				<li><code>Ctrl+Shift+Up</code>: mark as landmark</li>
 				<li><code>Ctrl+Shift+Down</code>: mark less interesting</li>			
 			</ul>
-			<h4>Useful Eclipse shortcuts</h4>			
+			<b>&nbsp;Useful Eclipse shortcuts</b>			
 			<ul>
 				<li><code>Alt+Shift+Q, K</code>: show ''Task List'' view</li>
 				<li><code>Ctrl+F10</code>: invoke view menu or ruler menu in editor</li>			

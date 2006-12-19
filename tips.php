@@ -50,8 +50,9 @@
 		
 		   <div class="homeitem">
 			<h3>Shortcuts</h3>
-			<h4>Task List view</h4>
+			'''Task List view'''
 			<ul>
+				<li><code>Ctrl+C</code>: copy taks/query URL and description</li>
 				<li><code>Ctrl+F</code>: find</li>
 				<li><code>Insert</code>: new personal task</li>
     			<li><code>F5</code>: synchronize selected</li> 

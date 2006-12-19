@@ -59,7 +59,7 @@
                     <b>Tasks List, Focused UI, and frameworks</b>: top support priority of committers
                 </li>
 				<li>
-                    <b>Bugzilla Connector</b>: supported by committers
+                    <b>Bugzilla Connector</b>: supported by committers, used for project
 				</li>
 				<li>
                     <b>Trac Connector</b>: supported by committers

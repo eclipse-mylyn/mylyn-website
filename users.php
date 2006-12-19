@@ -56,16 +56,16 @@
 			<h3>Support Expectations</h3>
 			<ul>
 				<li>
-                    Tasks List, Focused UI, and frameworks: top support priority of committers
+                    <b>Tasks List, Focused UI, and frameworks</b>: top support priority of committers
                 </li>
 				<li>
-                    Bugzilla Connector: supported by committers
+                    <b>Bugzilla Connector</b>: supported by committers
 				</li>
 				<li>
-                    Trac Connector: supported by committers
+                    <b>Trac Connector</b>: supported by committers
 				</li>
 				<li>
-                    JIRA Connector: supported by community contributions, managed by committers
+                    <b>JIRA Connector</b>: supported by community contributions, managed by committers
 				</li>
 			</ul>
 		</div>        

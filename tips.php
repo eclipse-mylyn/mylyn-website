@@ -50,7 +50,7 @@
 		
 		   <div class="homeitem">
 			<h3>Shortcuts</h3>
-			'''Task List view'''
+			<b>Task List view</b>
 			<ul>
 				<li><code>Ctrl+C</code>: copy taks/query URL and description</li>
 				<li><code>Ctrl+F</code>: find</li>
@@ -58,7 +58,7 @@
     			<li><code>F5</code>: synchronize selected</li> 
     			<li>When dragging URLs to the Task List: in Mozilla/Firefox just drag, in Internet Explorer <code>Ctrl+drag</code></li>
 			</ul>
-			<h4>General</h4>			
+			<b>General</b>			
 			<ul>
 				<li><code>Alt+click</code> or <code>Alt+RightArrow</code>: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
 				<li><code>Ctrl+F9</code>: activate task dialog</li>

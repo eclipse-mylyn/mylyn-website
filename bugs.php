@@ -94,7 +94,7 @@
 	
 </div>
 <div id="rightcolumn"> 
-	<font size=1>
+	<font size=2>
 	<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 	<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 	</font>

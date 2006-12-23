@@ -224,7 +224,8 @@ for 0.5.2
 2006-12-12,	bugzilla,	167227,	Torkild Ulvøy Resheim,	<10,	relves,		bugzilla connector query support for new Bugzilla 2.23
 2006-12-18, monitor,	165800, Taivo Evard,		<100,		mkersten,	encodings fix
 2006-12-18,	tasks,		168248,	Willian Mitsuda,	<100,		mkersten,	task dialog open policy
-2006-12-18, tasks,		167282, Erkki Lindpere,		<10,		mkersten,	redirect fix
+2006-12-22, tasks,		167282, Erkki Lindpere,		<10,		mkersten,	redirect fix
+2006-12-22, tasks,		168782, Redsolo,			<100,		mkersten,	empty repository list saving fix
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

@@ -58,12 +58,14 @@
 			<h3>Mylar 1.0 Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.0-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.2.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.2.tgz&r=1">&nbsp;[src]</a>
 	        	</li>
 			</ul>
 			<ul>
-				<li>Eclispe 3.3M3: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.0-e3.3.tgz&r=1">&nbsp;[site zip]</a>
+				<li>Eclispe 3.3M4: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.3.tgz&r=1">&nbsp;[site zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.3.tgz&r=1">&nbsp;[src]</a>
 	        	</li>
 			</ul>
 		</div>

@@ -229,6 +229,7 @@ for 0.5.2
 
 1.0.x
 2007-01-05, tasks,		164661,	Willian Mitsuda,	<100,		mkersten,	open of multiple tasks
+2007-01-05, tasks,		165169,	Willian Mitsuda,	<100,		mkersten,	fix image preview scrolling
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

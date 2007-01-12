@@ -51,8 +51,8 @@
 			<h3>Selected Presentations</h3>
 			<ul>
 				<li>
+					<a href="publications/2006-10-mylar-webinar.ppt"><img border=0 src="images/icon-ppt.gif"></a>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
-                    <a href="publications/2006-10-mylar-webinar.ppt"><img border=0 src="images/icon-ppt.gif">
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
                 </li>
 	            <li>

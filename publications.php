@@ -40,7 +40,7 @@
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-three.html">
 					Part Three</a> <span class="dates">(Dec 11, 2006)</span>,
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-four.html">
-					Part Four </a><span class="dates">(Dec 11, 2006)</span><br>, 
+					Part Four </a><span class="dates">(Dec 11, 2006)</span>, 
 					<a href=""http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-five.html">
 					Part Five </a><span class="dates">(Dec 13, 2006)</span><br>
 				</li> 

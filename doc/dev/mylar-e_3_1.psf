@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+	<provider id="org.eclipse.team.cvs.core.cvsnature">
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar,org.eclipse.mylar,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar-feature,org.eclipse.mylar-feature,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar-site,org.eclipse.mylar-site"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.bugs,org.eclipse.mylar.bugs,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.bugzilla-feature,org.eclipse.mylar.bugzilla-feature,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.bugzilla.core,org.eclipse.mylar.bugzilla.core,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.bugzilla.tests,org.eclipse.mylar.bugzilla.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.bugzilla.ui,org.eclipse.mylar.bugzilla.ui,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.core,org.eclipse.mylar.core,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.core.tests,org.eclipse.mylar.core.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.doc,org.eclipse.mylar.doc,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.ide,org.eclipse.mylar.ide,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.ide-feature,org.eclipse.mylar.ide-feature,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.ide.tests,org.eclipse.mylar.ide.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.java,org.eclipse.mylar.java,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.java.tests,org.eclipse.mylar.java.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.jira,org.eclipse.mylar.jira,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.jira-feature,org.eclipse.mylar.jira-feature,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.jira.tests,org.eclipse.mylar.jira.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.monitor,org.eclipse.mylar.monitor,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.monitor.reports,org.eclipse.mylar.monitor.reports,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.monitor.tests,org.eclipse.mylar.monitor.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.tasklist,org.eclipse.mylar.tasklist,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.tasklist.tests,org.eclipse.mylar.tasklist.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.tests,org.eclipse.mylar.tests,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.ui,org.eclipse.mylar.ui,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.web,org.eclipse.mylar.web,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.xml,org.eclipse.mylar.xml,e_3_1"/>
+		<project reference="1.0,:extssh:dev.eclipse.org:/home/technology,org.eclipse.mylar/org.eclipse.mylar.xml.tests,org.eclipse.mylar.xml.tests,e_3_1"/>
+	</provider>
+</psf>

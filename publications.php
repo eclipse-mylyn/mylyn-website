@@ -64,10 +64,6 @@
 	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
 	            </li>			
 	            <li>
-		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
-	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
-	            </li>
-	            <li>
 	            	<a href="publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="images/icon-ppt.gif">
 	            	Mylar: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
 	            </li>

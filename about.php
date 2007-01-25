@@ -22,7 +22,7 @@
 	# Paste your HTML content between the EOHTML markers!	
 	include("_sideMylarIs.php");
 	include("_sideFeedback.php");
-	include("_sideIncubator.php");
+	include("_sidePhase.php");
 	$html = <<<EOHTML
 
 <div id="maincontent">

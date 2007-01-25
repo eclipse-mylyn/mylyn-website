@@ -94,7 +94,7 @@
 	
 	<div id="rightcolumn">
 		$mylarIsSide
-		$incubatorSide
+		$sidePhase
 	</div>
 	
 	<p>&nbsp;</p>

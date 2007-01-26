@@ -11,7 +11,8 @@
 			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
 			<fileset file="../org.eclipse.mylar.doc/doc/integrating.html" />
 			-->
-		</copy>
+		</copy> 
+		<!--
 		<copy todir="doc/dev">
 			<fileset file="../org.eclipse.mylar.doc/doc/dev/plan.html" />
 		</copy>
@@ -21,6 +22,7 @@
 		<copy todir="doc/images">
 			<fileset dir="../org.eclipse.mylar.doc/doc/images" />
 		</copy>
+		-->
 	</target>
 
 	<target name="copy-release" description="Doc Release Update">

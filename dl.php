@@ -82,9 +82,9 @@
 				<li>Archive versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
 			</ul>
 		</div>
-
+ 
         <div class="homeitem3col">
-			<h3>Developer Builds</h3>
+			<h3>Dev Builds</h3>
 			<ul>
 				<li>Eclipse 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/dev</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Development_builds">(compatibility)</a></li>

@@ -46,6 +46,8 @@
 			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
 					NOTE: <i><b>use only the "Search for new features.."</i></b> option when installing.
 					<p><a href="https://dev.eclipse.org/mailman/listinfo/mylar-announce">Subscribe</a> to get notified of new releases.
+			        <p><i>New to Eclipse?</i> First install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
+			        then use <i>Help -> Software Updates -> Search for new..</i> and add the update site listed below.
 			        </td>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">
@@ -57,13 +59,13 @@
         <div class="homeitem3col">
 			<h3>Mylar 1.0 Update Sites</h3>
 			<ul>
-				<li>Eclipse 3.2: <b>download.eclipse.org/technology/mylar/update-site/e3.2</b>
+				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.2.tgz&r=1">&nbsp;[site zip]</a>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.2.zip&r=1">&nbsp;[src]</a>
 	        	</li>
 			</ul>
 			<ul>
-				<li>Eclispe 3.3M4: <b>download.eclipse.org/technology/mylar/update-site/e3.3</b>
+				<li>Eclispe 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.3.tgz&r=1">&nbsp;[site zip]</a>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.3.zip&r=1">&nbsp;[src]</a>
 	        	</li>
@@ -73,17 +75,17 @@
         <div class="homeitem3col">
 			<h3>Archives Sites</h3>
 			<ul>
-				<li>Eclipse 3.1: <b>download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
+				<li>Eclipse 3.1: <b>http://download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>
 	        	</li>
-				<li>Archive versions: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
+				<li>Archive versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
 			</ul>
 		</div>
 
         <div class="homeitem3col">
 			<h3>Developer Builds</h3>
 			<ul>
-				<li>Eclipse 3.3M4: <b>download.eclipse.org/technology/mylar/update-site/dev</b>
+				<li>Eclipse 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/dev</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Development_builds">(compatibility)</a></li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>

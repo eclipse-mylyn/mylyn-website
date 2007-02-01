@@ -45,9 +45,10 @@
 			        Eclipse views and editors on task context.  We recommend that you use the
 			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
 					NOTE: <i><b>use only the "Search for new features.."</i></b> option when installing.
-					<p><a href="https://dev.eclipse.org/mailman/listinfo/mylar-announce">Subscribe</a> to get notified of new releases.
-			        <p><i>New to Eclipse?</i> First install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
-			        then use <i>Help -> Software Updates -> Search for new..</i> and add the update site listed below.
+			        <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
+			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
+			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
+			        <p><a href="https://dev.eclipse.org/mailman/listinfo/mylar-announce">Subscribe</a> to get notified of new releases.
 			        </td>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">
@@ -92,7 +93,7 @@
 		</div>
 
        	<div align="left">
-			<b>Supported platforms</b>: <a href="http://www.eclipse.org/downloads/download.php?file=/eclipse/downloads/drops/R-3.2-200606291905/eclipse-SDK-3.2-win32.zip">Eclipse SDK</a> 3.2 and 3.1, <b><a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required</b>.
+			<b>Supported platforms</b>: <b><a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required</b>.
 			<br>
 		    <b>Supported repositories (<a href="users.php">info</a>)</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
 		</div> 

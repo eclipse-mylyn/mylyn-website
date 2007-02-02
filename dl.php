@@ -58,7 +58,7 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Mylar 1.0 Update Sites</h3>
+			<h3>Mylar 1.0.1 Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.2.tgz&r=1">&nbsp;[zip]</a>

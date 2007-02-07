@@ -119,9 +119,11 @@
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3999&conference=2007">
 					Team version control mashup with Mylar</a> short talk by Eugene Kuleshov (March 8, 11:50a-12:00)	
 				</li>
+				<!--
 				<li>
 					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Mylar 1.0 released</a> (Dec 11, 2006)
 				</li>
+				-->
 			</ul>
 		</div> 
 		<!--

@@ -259,6 +259,10 @@
 			<h3>Event Archive</h3>
 			<ul>
 				<li>
+	                <a href="http://www.eclipse.org/community/webinars2006.php">
+	                Mylar Webinar</a> by Mik Kersten, (Oct 25, 2006)
+	            </li>
+				<li>
 	                <a href="http://www.cs.uoregon.edu/fse-14/prelim-program.html">
 	                 Using Task Context to Improve Programmer Productivity</a> by Mik Kersten and Gail Murphy (Nov 7, 10:00am PST)
 	            </li>

@@ -97,15 +97,28 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<a href="http://www.eclipse.org/org/press-release/20061212_mylar.php">
-					<font size=2><img border=0 src="images/feature.gif">&nbsp;<i>Mylar 1.0 released!</i></a></font>
+					<a href="http://eclipsecon.org/2007"><img border=0 src="images/logo-eclipsecon.gif"></a>
 					<br>&nbsp;<br>
-					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Read the Mylar 1.0 History and Credits...</a> (Dec 11, 2006)
+					
+					<br>Long talk: <a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3855&conference=2007">
+					Task-focused programming with Mylar</a> by Mik Kersten (March 6, 11:10-12:00)
+						
+					<br>Short talk: <a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3897&conference=2007">
+					Mylar, XPlanner and Scrum</a> by Ravi Kumar (March 6, 13:40-13:50)
+	
+					<br>BOF: <http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4190&conference=2007>Mylar BOF</a>
+					organized by the Mylar Committers (March 6, 19:30-20:45)
+	
+					<br>Panel: <a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3829&conference=2007">
+					The 2006 Google Summer of Code at Eclipse (March 6, 13:30-14:20)
+	
+					<br>Short talk: <a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3999&conference=2007">
+					Team version control mashup with Mylar</a> by Eugene Kuleshov (March 8, 11:50a-12:00)
+					
 				</li>
-				<li>
-	                <a href="http://www.eclipse.org/community/webinars2006.php">
-	                Mylar Webinar</a> by Mik Kersten, (Oct 25, 2006)
-	            </li>
+				<<li>
+					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Mylar 1.0 released</a> (Dec 11, 2006)
+				</li>
 			</ul>
 		</div> 
 		<!--

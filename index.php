@@ -107,12 +107,12 @@
 					Mylar, XPlanner and Scrum</a> short talk by Ravi Kumar and Karl Ewald (March 6, 13:40-13:50)
 				</li>
 				<li>
-					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4190&conference=2007">
-					Mylar BOF</a> organized by the Mylar Committers (March 6, 19:30-20:45)
-				</li>
-				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3829&conference=2007">
 					The 2006 Google Summer of Code at Eclipse</a> panel (March 6, 13:30-14:20)
+				</li>
+				<li>
+					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4190&conference=2007">
+					Mylar BOF</a> organized by the Mylar Committers (March 6, 19:30-20:45)
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3999&conference=2007">

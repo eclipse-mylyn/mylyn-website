@@ -98,11 +98,11 @@
 			<ul>
 				<li>
 					<a href="http://eclipsecon.org/2007"><img border=0 src="images/logo-eclipsecon.gif"></a>
-				</li>
-				<li>					
+				<br>				
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3855&conference=2007">
 					Task-focused programming with Mylar</a> talk by Mik Kersten and Rob Elves (March 6, 11:10-12:00)
-					<br>	
+				</li>
+				<li>	
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3897&conference=2007">
 					Mylar, XPlanner and Scrum</a> short talk by Ravi Kumar and Karl Ewald (March 6, 13:40-13:50)
 				</li>

@@ -238,6 +238,8 @@ for 0.5.2
 2006-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services (IPZilla CQ: 1117)
 2006-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
 2006-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
+2006-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
+
 
 
 

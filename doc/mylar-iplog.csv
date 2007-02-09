@@ -240,6 +240,7 @@ for 0.5.2
 2006-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
 2006-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
 2006-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
+2006-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
 
 
 

@@ -235,11 +235,11 @@ for 0.5.2
 2007-01-23, tasks,		170450,	Dmitry Stadnik,		<10,		mkersten,	mac font fix  
 2007-01-26, tasks,		168652,	Hasan Ceylan		<100,		relves,		Turkish local fix
 2007-02-01, web site,	170427, Alex Blewitt,		<10,		mkersten,	download page fix
-2006-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services (IPZilla CQ: 1117)
+2006-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services
 2006-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
 2006-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
 2006-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
-
+2006-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
 
 
 

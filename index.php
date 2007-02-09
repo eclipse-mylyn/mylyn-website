@@ -108,7 +108,8 @@
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3829&conference=2007">
-					The 2006 Google Summer of Code at Eclipse</a> panel (March 6, 13:30-14:20)
+					The 2006 Google Summer of Code at Eclipse</a> panel with Philippe Ombredanne, Francois Granade,
+					Remy Chi Jian Suen, Steffen Pingel Mik Kersten and others(March 6, 13:30-14:20)
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4190&conference=2007">
@@ -116,7 +117,12 @@
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3999&conference=2007">
-					Team version control mashup with Mylar</a> short talk by Eugene Kuleshov (March 8, 11:50a-12:00)	
+					Team version control mashup with Mylar</a> short talk by Eugene Kuleshov (March 8, 11:50-12:00)	
+				</li>
+				<li>
+					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4221&conference=2007">
+					Usability and User Interface Best Practices in Eclipse</a> panel with Bob Fraser, Mik Kersten and others tba 
+					(March 8, 13:30-14:20)	
 				</li>
 				<!--
 				<li>

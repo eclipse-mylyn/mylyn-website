@@ -109,7 +109,7 @@
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=3829&conference=2007">
 					The 2006 Google Summer of Code at Eclipse</a> panel with Philippe Ombredanne, Francois Granade,
-					Remy Chi Jian Suen, Steffen Pingel Mik Kersten and others(March 6, 13:30-14:20)
+					Remy Chi Jian Suen, Steffen Pingel and Mik Kersten (March 6, 13:30-14:20)
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=4190&conference=2007">

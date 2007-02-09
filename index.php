@@ -131,11 +131,11 @@
 				-->
 			</ul>
 		</div> 
-		<!--
+		
 		<div align="left">
 			<p>&nbsp</p>
 		</div>
-		-->
+	
 	</div>
 	<div id="rightcolumn">
 		$commonside

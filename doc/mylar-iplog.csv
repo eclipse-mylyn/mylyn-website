@@ -243,6 +243,7 @@ for 0.5.2
 2006-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
 2006-02-12,	bugzilla,	173575, John Anvik,			<1000,		relves,		Bugzilla task history (headless)
 2006-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
+2006-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
 
 
 

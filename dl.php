@@ -58,15 +58,35 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>Mylar 1.0.1 Update Sites</h3>
+			<h3>Update Sites</h3>
 			<ul>
 				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
-	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.2.tgz&r=1">&nbsp;[zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.2.tgz&r=1">&nbsp;[zip]</a>
+	        		<!--
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.2.zip&r=1">&nbsp;[src]</a>
+	        		-->
 	        	</li>
 			</ul>
 			<ul>
-				<li>Eclispe 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
+				<li>Eclispe 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.3.tgz&r=1">&nbsp;[zip]</a>
+	        		<!--
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.3.zip&r=1">&nbsp;[src]</a>
+	        		-->
+	        	</li>
+			</ul>
+		</div>
+        
+        <div class="homeitem3col">
+			<h3>1.0 Archive Sites</h3>
+			<ul>
+				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2</b>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.2.tgz&r=1">&nbsp;[zip]</a>
+	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.2.zip&r=1">&nbsp;[src]</a>
+	        	</li>
+			</ul>
+			<ul>
+				<li>Eclispe 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3</b>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-1.0.1-e3.3.tgz&r=1">&nbsp;[zip]</a>
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-1.0.1-e3.3.zip&r=1">&nbsp;[src]</a>
 	        	</li>
@@ -74,7 +94,7 @@
 		</div>
 
         <div class="homeitem3col">
-			<h3>Archives Sites</h3>
+			<h3>0.x Archive Sites</h3>
 			<ul>
 				<li>Eclipse 3.1: <b>http://download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
 	        		<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">&nbsp;[site zip]</a>

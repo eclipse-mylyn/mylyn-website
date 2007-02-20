@@ -100,7 +100,7 @@
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-0.6.0-e3.1.tgz&r=1">
 						<img border=0 src="images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.2.zip&r=1">
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.1.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>	
 					3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
 	        	</li>

@@ -45,7 +45,7 @@
 			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 			        Eclipse views and editors on task context.  We recommend that you use the
 			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
-					NOTE: <i><b>use only the "Search for new features.."</i></b> option when installing.
+					<i><b>Use only the "Search for new features.."</i></b> option when installing.
 			        <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
@@ -103,7 +103,7 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Dev Builds <a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>Dev Builds<a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.3</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>

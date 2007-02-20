@@ -29,13 +29,7 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	<div id="midcolumn">
-		<!--
-		<div align="center">
-			<h1>$pageTitle</h1>
-		</div>
-		-->
-        
+	<div id="midcolumn">  
         <div align="left">
 	        <table border="0">
 	        	<tr>
@@ -56,7 +50,6 @@
 			    </tr>
 			</table>
 		</div>
-        
         <div class="homeitem3col">
 			<h3>Update Sites</h3>
 			<ul>

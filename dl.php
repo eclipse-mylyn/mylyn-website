@@ -24,6 +24,7 @@
 	include("_sideCommon.php");
 	include("_sideFeedback.php");
 	include("_sideMylarIs.php");
+	include("_sideSubscribe.php");
 		
 	$html = <<<EOHTML
 
@@ -48,7 +49,6 @@
 			        <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
-			        <p><a href="https://dev.eclipse.org/mailman/listinfo/mylar-announce">Subscribe</a> to get notified of new releases.
 			        </td>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">
@@ -125,7 +125,7 @@
 	<div id="rightcolumn">
 		$commonside
 		$feedbackside
-		$mylarIsSide
+		$sideSubscribe
 	</div>
 </div>
 

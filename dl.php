@@ -58,7 +58,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-2.0M1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclispe 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
+					3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
 	        	</li>
 			</ul>
 			<ul>
@@ -67,7 +67,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-2.0M1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
+					3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        	</li>
 			</ul>
 		</div>
@@ -80,7 +80,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclipse 3.3M4: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3
+					3.3M4: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3
 	        	</li>
 			</ul>
 			<ul>
@@ -89,7 +89,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclipse 3.2: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2
+					3.2: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2
 	        	</li>
 			</ul>
 		</div>
@@ -102,9 +102,9 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>	
-					Eclipse 3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
+					3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
 	        	</li>
-				<li>Older versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
+				<li>Older versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
 			</ul>
 		</div>
  
@@ -112,10 +112,10 @@
 			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					Eclipse 3.3M5: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3
+					3.3M5: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3
 				</li>
 				<li>
-					Eclipse 3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2
+					3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2
 				</li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>

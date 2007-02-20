@@ -51,7 +51,7 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>Update Sites</h3>
+			<h3>Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.3.tgz&r=1">
@@ -80,7 +80,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclipse 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3</b>
+					Eclipse 3.3M4: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3
 	        	</li>
 			</ul>
 			<ul>
@@ -89,7 +89,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2</b>
+					Eclipse 3.2: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2
 	        	</li>
 			</ul>
 		</div>
@@ -102,7 +102,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>	
-					Eclipse 3.1: <b>http://download.eclipse.org/technology/mylar/update-site/e3.1</b> (Mylar 0.6.0) 
+					Eclipse 3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
 	        	</li>
 				<li>Older versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x)</li>
 			</ul>
@@ -124,7 +124,7 @@
        	<div align="left">
 			<b>Supported platforms</b>: <b><a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required</b>.
 			<br>
-		    <b>Supported repositories</b> <a href="users.php"><img alt="More Info" border=0 src="images/icon-help.gif"></a>: 
+		    <b>Supported repositories</b>: 
 		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
 		</div> 
 		<p>&nbsp;</p>

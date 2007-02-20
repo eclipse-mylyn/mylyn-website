@@ -77,10 +77,10 @@
 			<h3>1.0 Archive Sites</h3>
 			<ul>
 				<li>
-					<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
-						<img alt="Source Code" border=0 src="images/icon-zip.gif"></a>
-                    <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
-                    	<img alt="Update Site Zip" border=0 src="images/icon-source.gif"></a>
+					<a alt="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
+						<img border=0 src="images/icon-zip.gif"></a>
+                    <a alt="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
+                    	<img border=0 src="images/icon-source.gif"></a>
 					Eclipse 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3</b>
 	        	</li>
 			</ul>
@@ -103,12 +103,12 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Dev Builds</h3>
+			<h3>Dev Builds <a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.3</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>
 				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.2</b>
-				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>
+				&nbsp;<a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>
 		</div>

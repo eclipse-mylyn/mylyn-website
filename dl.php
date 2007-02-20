@@ -51,7 +51,7 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.3.zip&r=1">
@@ -109,7 +109,7 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					3.3M5: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3

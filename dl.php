@@ -112,10 +112,10 @@
 			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.3</b>
+					Eclipse 3.3M5: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3
 				</li>
 				<li>
-					Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.2</b>
+					Eclipse 3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2
 				</li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>

@@ -1,7 +1,7 @@
 <?php
     $mylarIsSide = <<<EOHTML
 		<div class="sideitem">
-			<h6>&quot;Mylar(r)&quot; is</h6>
+			<h6>&quot;Mylar&quot; is</h6>
 			<font size=1>
 				A polyester film used to avoid blindness when staring at a solar eclipse.
 			</font>

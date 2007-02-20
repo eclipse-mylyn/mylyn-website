@@ -102,9 +102,9 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.1.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>	
-					0.6.0: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 3.1) 
+					0.6.0: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Eclipse 3.1) 
 	        	</li>
-				<li>Older versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
+				<li>Older: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
 			</ul>
 		</div>
  

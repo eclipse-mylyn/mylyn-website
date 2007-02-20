@@ -103,7 +103,7 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Dev Builds<a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>Dev Builds <a alt="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.3</b>
 				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>
@@ -119,7 +119,6 @@
 		    <b>Supported repositories</b> <a href="users.php"><img alt="More Info" border=0 src="images/icon-help.gif"></a>: 
 		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
 		</div> 
-
 		<p>&nbsp;</p>
 	</div>
 

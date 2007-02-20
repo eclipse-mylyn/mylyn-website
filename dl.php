@@ -106,9 +106,9 @@
 			<h3>Dev Builds</h3>
 			<ul>
 				<li>Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.3</b>
-				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases">(info)</a></li>
+				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>
 				<li>Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/dev/e3.2</b>
-				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases">(info)</a></li>
+				&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Releases"><img alt="More Info" border=0 src="images/icon-help.gif"></a></li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
 			</ul>
 		</div>
@@ -116,7 +116,8 @@
        	<div align="left">
 			<b>Supported platforms</b>: <b><a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required</b>.
 			<br>
-		    <b>Supported repositories (<a href="users.php">info</a>)</b>: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
+		    <b>Supported repositories</b> <a href="users.php"><img alt="More Info" border=0 src="images/icon-help.gif"></a>: 
+		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.1.1 and later.
 		</div> 
 
 		<p>&nbsp;</p>

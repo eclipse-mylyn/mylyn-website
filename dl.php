@@ -58,7 +58,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-2.0M1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
+					Eclipse 3.3M5: <b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b>
 	        	</li>
 			</ul>
 			<ul>
@@ -67,7 +67,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/mylar-src-2.0M1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
+					Eclipse 3.2: <b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b>
 	        	</li>
 			</ul>
 		</div>
@@ -80,7 +80,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					3.3M4: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3
+					Eclipse 3.3M4: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3
 	        	</li>
 			</ul>
 			<ul>
@@ -89,7 +89,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					3.2: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2
+					Eclipse 3.2: http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2
 	        	</li>
 			</ul>
 		</div>
@@ -102,7 +102,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-0.6.0-e3.1.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>	
-					3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
+					Eclipse 3.1: http://download.eclipse.org/technology/mylar/update-site/e3.1 (Mylar 0.6.0) 
 	        	</li>
 				<li>Older versions: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
 			</ul>

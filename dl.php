@@ -78,11 +78,10 @@
 			<ul>
 				<li>
 					<a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img alt="Source Code" border=0 src="images/icon-zip.gif"></a>
                     <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/src-archive/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>
-					&nbsp;
-					Eclispe 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3</b>
+                    	<img alt="Update Site Zip" border=0 src="images/icon-source.gif"></a>
+					Eclipse 3.3M4: <b>http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3</b>
 	        	</li>
 			</ul>
 			<ul>

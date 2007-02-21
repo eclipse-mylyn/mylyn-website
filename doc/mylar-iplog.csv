@@ -246,6 +246,8 @@ for 0.5.2
 2006-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
 2006-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
 
+2.0M2
+2006-02-20, tasks,		174358,	Shawn Minto,		<1000,		relves,		Task kind added to RepositoryTaskData 
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

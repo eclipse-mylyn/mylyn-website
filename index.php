@@ -116,6 +116,10 @@
 					Mylar BOF</a> organized by the Mylar Committers (March 6, 19:30-20:45)
 				</li>
 				<li>
+					<a href="http://eclipsezilla.eclipsecon.org/show_bug.cgi?id=4282">
+					Mylar - Collaboration through Task Contexts</a> poster presented by Rob Elves (March 7, 17:20-19:30)
+				</li>
+				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3999&conference=2007">
 					Team version control mashup with Mylar</a> short talk by Eugene Kuleshov (March 8, 11:50-12:00)	
 				</li>

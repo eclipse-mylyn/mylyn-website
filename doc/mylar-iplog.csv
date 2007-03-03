@@ -245,6 +245,7 @@ for 0.5.2
 2006-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
 2006-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
 2006-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
+2006-03-02, tasks,		168756, Willian Mitsuda,	<100,		mkersten,	search page opening
 
 2.0M2
 2006-02-20, tasks,		174358,	Shawn Minto,		<1000,		relves,		Task kind added to RepositoryTaskData 

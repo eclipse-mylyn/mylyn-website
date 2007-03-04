@@ -117,7 +117,7 @@
 				</li>
 				<li>
 					<a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=4293">
-					Task-Focused Desktop BOF</a> organized Mik Kersten and Rob Elves (March 6, 20:45-22:00)
+					Task-Focused Desktop BOF</a> organized by Mik Kersten and Rob Elves (March 6, 20:45-22:00)
 				</li>
 				<li>
 					<a href="http://eclipsezilla.eclipsecon.org/show_bug.cgi?id=4282">

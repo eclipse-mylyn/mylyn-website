@@ -116,6 +116,10 @@
 					Mylar BOF</a> organized by the Mylar Committers (March 6, 19:30-20:45)
 				</li>
 				<li>
+					<a href="http://www.eclipsecon.org/2007/index.php?page=sub/&id=4293">
+					Task-Focused Desktop BOF</a> organized Mik Kersten and Rob Elves (March 6, 20:45-22:00)
+				</li>
+				<li>
 					<a href="http://eclipsezilla.eclipsecon.org/show_bug.cgi?id=4282">
 					Mylar - Collaboration through Task Contexts</a> poster presented by Rob Elves (March 7, 17:20-19:30)
 				</li>

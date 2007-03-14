@@ -252,6 +252,7 @@ for 0.5.2
 2006-02-21, tasks,		174864,	Shawn Minto,		<1000,		relves,		extension for automatic repository creation
 2006-03-01, bugzilla,	175003,	John Anvik,			<100,		relves,		TaskHistory serialization
 2006-03-12, bugzilla,	175771,	John Anvik,			<10,		relves,		QueryHitCollector reset
+2006-03-13, tasks,		177240,	Benjamin Pasero,	<10,		relves,		Allow to open multiple tasks at once
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

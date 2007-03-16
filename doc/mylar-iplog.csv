@@ -257,6 +257,11 @@ for 0.5.2
 2006-03-14, tasks,		177320,	Michael Valenta,	<250,		mkersten,	proxy settings
 2006-03-14,	tasks,		176300,	Michael Valenta,	<10,		mkersten,	grid layout fix
 2006-03-14, bugzilla,	177237,	Shawn Minto,		<10,		relves,		Incorrect status message after validation
+2006-03-15, tasks,		173990, Juerg Billeter,		<250,		mkersten,	customizable editor IDs
+
+
+
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

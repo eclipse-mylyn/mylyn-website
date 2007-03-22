@@ -44,6 +44,8 @@
 			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
 			        </td>
+			        <p>Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Integrators">Mylar integration downloads</a>
+			        <p>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">
 			     </td>

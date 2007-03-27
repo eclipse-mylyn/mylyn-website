@@ -35,6 +35,7 @@
 		<h3>Zest Snippets</h3>
 		<P>
 		<BR>
+		<ul>
 		<li>
 		<H2>SWT Style Snippets</H2>
 		<A HREF="GraphSnippet1.html">1. Simple graph with 3 nodes and 3 edges</A><BR>
@@ -45,6 +46,8 @@
 		<H2>JFace Viewer Style Snippets</H2>
 		<A HREF="GraphJFaceSnippet1.html">1. Simple graph using the IGraphEntityContentProvider</A><BR>
 		</li>
+		
+		</ul>
 		</div>  
 	</div>
 	

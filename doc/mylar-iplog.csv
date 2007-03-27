@@ -266,7 +266,7 @@ for 0.5.2
 2006-03-22, sandbox,	170540,	Meghan Allen,		<250,		mkersten,	servlet fixes
 2006-03-22, monitor,	176133,	Meghan Allen,		<250,		mkersten,	view file fixes
 2006-03-26, java,		179176,	Wayne Beaton,		<10,		mkersten,	tooltip typo fix
-
+2006-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

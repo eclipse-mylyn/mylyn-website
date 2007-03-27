@@ -35,7 +35,7 @@
 		<center>
 		<P>
 		<BR>
-		<B>SWT Style Snippets</B>
+		<H2>SWT Style Snippets</H2><BR>
 		<A HREF="GraphSnippet1.html">Simple graph with 3 nodes and 3 edges</A>
 		</center>
 		</div>  

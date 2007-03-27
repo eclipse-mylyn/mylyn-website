@@ -44,7 +44,7 @@
 		<li>
 		<H2>JFace Viewer Style Snippets</H2>
 		<A HREF="GraphJFaceSnippet1.html">1. Simple graph using the IGraphEntityContentProvider</A><BR>
-		<A HREF="GraphJFaceSnippet1.html">2. Simple graph using the IGraphContentProvider</A><BR>
+		<A HREF="GraphJFaceSnippet2.html">2. Simple graph using the IGraphContentProvider</A><BR>
 		</li>
 		
 		</ul>

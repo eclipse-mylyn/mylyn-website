@@ -62,6 +62,13 @@
 		<h3>Information</h3>
 		<ul>
 		<li>
+			<B>Getting Started:</B> Zest can either be used as an SWT "widget" style API or 
+			                       through the user of a viewer.  There are several
+			                       <A HREF="http://www.eclipse.org/mylar/sandbox/zest/zest_snippets.php">code snippets</A> 
+			                       available to illustrate both approaches. 
+                </li>
+		
+		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts
 			that can be used independently of Zest in SWT and Swing applications. 
 			The layout package uses a facade to provide a single, easy to use, API for all

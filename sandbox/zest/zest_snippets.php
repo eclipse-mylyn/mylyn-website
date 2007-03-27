@@ -39,6 +39,9 @@
 		<A HREF="GraphSnippet2.html">2. Simple graph with 3, self loops and images</A><BR>
 		<A HREF="GraphSnippet3.html">3. Simple graph with a selection listener</A><BR>
 		
+		<H2>JFace Viewer Style Snippets</H2>
+		<A HREF="GraphJFaceSnippet1.html">1. Simple graph using the IGraphEntityContentProvider</A><BR>
+		
 		</div>  
 	</div>
 	

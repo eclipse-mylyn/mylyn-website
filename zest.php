@@ -120,7 +120,6 @@
 			<ul>
 				<li><A HREF="images/zest_screen1.JPG">Static Graph Viewer</a></li>
                 <li><A HREF="images/zest_screen2.jpg">Tree Graph Viewer</A></li>
-                <li><A HREF="images/zest_screen3.jpg">Nested Graph Viewer</A></li>
 			</ul>
 		</div>
 	</div>

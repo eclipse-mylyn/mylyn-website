@@ -35,9 +35,9 @@
 		<P>
 		<BR>
 		<H2>SWT Style Snippets</H2>
-		<A HREF="GraphSnippet1.html">1. Simple graph with 3 nodes and 3 edges</A>
-		<A HREF="GraphSnippet2.html">2. Simple graph with 3, self loops and images</A>
-		<A HREF="GraphSnippet3.html">3. Simple graph with a selection listener/A>
+		<A HREF="GraphSnippet1.html">1. Simple graph with 3 nodes and 3 edges</A><BR>
+		<A HREF="GraphSnippet2.html">2. Simple graph with 3, self loops and images</A><BR>
+		<A HREF="GraphSnippet3.html">3. Simple graph with a selection listener</A><BR>
 		
 		</div>  
 	</div>

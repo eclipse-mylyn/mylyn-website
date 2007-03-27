@@ -99,9 +99,7 @@ public class GraphJFaceSnippet3 {
 		dialog.setFilterExtensions(new String[] { "*.sgf", "*.*" }); //Windows wild cards
 
 		String directory = System.getProperty("user.dir");
-		System.out.println(directory);
 		dialog.setFilterPath(directory);
-		//dialog.setFilterPath(System.getProperty("user.dir") + "src/org/eclipse/mylar/zest/examples/jface/"); //Windows path
 
 		shell.setLayout(new FillLayout(SWT.VERTICAL));
 		shell.setSize(400, 400);

@@ -43,7 +43,7 @@
 			        <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
-			        <p>Also see: <a href="http://wiki.eclipse.org/index.php/Mylar_Integrators">Mylar Integration Downloads</a></p>
+			        <p>Also see: <a href="http://wiki.eclipse.org/index.php/Mylar_Integration">Mylar Integration Downloads</a></p>
 			        </td>
 			     <td>
 					<img src="/mylar/images/install-overview.gif">

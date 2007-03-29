@@ -268,6 +268,11 @@ for 0.5.2
 2006-03-26, java,		179176,	Wayne Beaton,		<10,		mkersten,	tooltip typo fix
 2006-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
 2006-03-28, tasks,		179618,	Shawn Minto,		<100,		relves,		Abstract editor cleanup and ability to override createAttributes
+2006-03-28, tasks,		179829,	Shawn Minto,		<10,		mkersten,	task editor date format extensibility
+
+
+
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

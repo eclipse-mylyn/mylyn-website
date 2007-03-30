@@ -269,8 +269,8 @@ for 0.5.2
 2006-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
 2006-03-28, tasks,		179618,	Shawn Minto,		<100,		relves,		Abstract editor cleanup and ability to override createAttributes
 2006-03-28, tasks,		179829,	Shawn Minto,		<10,		mkersten,	task editor date format extensibility
-2006-03-29,	resources,	178931,	Fabio,				<250,		mkersten,	default resource exclusions
-2006-03-29,	resources,	178931,	Fabio,				<100,		mkersten,	adaptiation to resources
+2006-03-29,	resources,	178931,	Fabio Zadrozny,		<250,		mkersten,	default resource exclusions
+2006-03-29,	resources,	178931,	Fabio Zadrozny,		<100,		mkersten,	adaptiation to resources
 2006-03-29, monitor,	173961, Meghan Allen,		<250,		mkersten,	montitor log rollover
 
 

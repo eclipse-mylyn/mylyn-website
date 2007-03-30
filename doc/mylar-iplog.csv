@@ -277,6 +277,13 @@ for 0.5.2
 2006-03-30,	tasks,		166990,	Leo Dos Santos,		<100,		relves,		multi-monitor tooltip position fix
 2006-03-30, tasks,		179076,	Shawn Minto,		<20,		relves,		Focus on summary for new repository task editor
 2006-03-30, bugzilla,	179576,	Shawn Minto,		<10,		relves,		Support status whiteboard field
+2006-03-30, context,	174671,	Shawn Minto,		<10,		mkersten,	opening fix
+2006-03-30, tasks,		bug 180252,		Shawn Minto,		<10,		mkersten,	root category fix
+
+
+
+
+
 
 Developers (Zest)
 2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs

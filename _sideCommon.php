@@ -4,7 +4,7 @@
 		<h6>Releases</h6>
 		<font size=1>
 			<a href="doc/new.php">Mylar 2.0M2</a>
-			<span class="dates">(Feb 16)</span>
+			<span class="dates">(March 30)</span>
 			<br><i>Mylar 2.0M3 (June 15)</i>
 		<!--
 		<br>

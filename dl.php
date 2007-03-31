@@ -55,7 +55,7 @@
 			<h3>Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.3.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M2-e3.3.zip&r=1">
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M1-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
@@ -64,7 +64,7 @@
 			</ul>
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M1-e3.2.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M2-e3.2.zip&r=1">
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M1-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>

@@ -47,13 +47,6 @@
 				<li>
 					Also see: <a href="zest.html">Zest page</a> for that component's committers.
 				</li>
-				<li>
-                	<a href="http://www.ianbull.com">Ian Bull</a>, Zest Sandbox owner<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=irbull&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-                	[77 bugs]</a>
-                </li>
-                <li>
-                	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a>, project scientist
-                </li>
 			</ul> 
 		</div>
 
@@ -117,6 +110,9 @@
 				Gunnar Wagenknecht: last active 2006-05-04 <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=gunnar%40wagenknecht.org&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				[3 bugs]</a>
 				</li>
+				<li>
+                	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> co-creator of Mylar
+                </li>
 			</ul> 
 		</div>
 	</div> 

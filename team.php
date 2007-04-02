@@ -24,7 +24,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved. <i>Last updated: 2006-04-02</i>
+		Listing ordered by number of bugs resolved. Also see: <a href="zest.html">Zest page</a> for that component's committers.  <i>Last updated: 2006-04-02</i>
 		<div class="homeitem3col">
 		    <h3>Committers</h3>
 			<ul>
@@ -43,9 +43,6 @@
 				<li>
 					<a href="http://www.jroller.com/page/eu">Eugene Kuleshov</a>, Generic Web Connector component owner <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=eu%40&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					[88 bugs]</a>
-				</li>
-				<li>
-					Also see: <a href="zest.html">Zest page</a> for that component's committers.
 				</li>
 			</ul> 
 		</div>

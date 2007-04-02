@@ -108,7 +108,7 @@
 				[3 bugs]</a>
 				</li>
 				<li>
-                	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> co-creator of Mylar
+                	<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a>: co-creator of Mylar
                 </li>
 			</ul> 
 		</div>

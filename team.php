@@ -24,7 +24,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved. Also see: <a href="zest.html">Zest page</a> for that component's committers.  <i>Last updated: 2006-04-02</i>
+		Listing ordered by number of bugs resolved. Also see the <a href="zest.html">Zest page</a> for that component's committers.  <i>Last updated: 2006-04-02</i>
 		<div class="homeitem3col">
 		    <h3>Committers</h3>
 			<ul>

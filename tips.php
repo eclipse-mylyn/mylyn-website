@@ -32,19 +32,19 @@
         <div class="homeitem3col">
 			<h3>Task List Tips</h3>
 			<ul>
-				<li>The Task List can be restored via its view menu -> Restore Tasks from History...	        
-	        	</li>
 				<li>If a task is stuck with outgoing changes or a mid-air collision occurrs use the <i>Synchronize</i> 
-				action on the task's popup menu.
-	        	</li>       	
+				action or <i>Mark -> Clear Outgoing</i>.
+	        	</li>       
+	        	<li>The Task List can be restored via its view menu -> Restore Tasks from History...	        
+	        	</li>	
 			</ul>
 		</div>
 		
 		 <div class="homeitem3col">
 			<h3>Task Context Tips</h3>
 			<ul>
-				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
 				<li>If a task change set disappears deactivate and reactive the task to refresh.</li>
+				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
 			</ul>
 		</div>
 		
@@ -61,6 +61,7 @@
 			<b>&nbsp;General</b>			
 			<ul>
 				<li><code>Alt+click</code> or <code>Alt+RightArrow</code>: show all children of an element in a focused view, then click to select. Hold down alt to keep drilling in, click on whitespace in view to show all root elements.</li> 
+				<li><code>Ctrl+Shift+Alt+RightArrow</code> Quick Context View</li> 
 				<li><code>Ctrl+F9</code>: activate task dialog</li>
 				<li><code>Ctrl+Shift+F9</code>: deactivate task</li>
 				<li><code>Ctrl+F12</code>: open task dialog</li>

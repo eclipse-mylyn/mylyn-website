@@ -57,7 +57,7 @@
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M2-e3.3.zip&r=1">
 						<img border=0 src="images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M1-e3.3.zip&r=1">
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M2-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
 					<b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b> (Eclipse 3.3M6)
 	        	</li>
@@ -66,7 +66,7 @@
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M2-e3.2.zip&r=1">
 						<img border=0 src="images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M1-e3.2.zip&r=1">
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M2-e3.2.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
 					<b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b> (Eclipse 3.2)
 	        	</li>

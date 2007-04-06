@@ -118,7 +118,7 @@
 				<li>
 					3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2
 				</li>
-				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-0.9.0.zip&r=1">mylar-lib-1.0.0.zip</a>
+				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>
 			</ul>
 		</div>
 

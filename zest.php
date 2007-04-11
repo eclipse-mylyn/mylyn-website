@@ -67,7 +67,11 @@
 			                       <A HREF="http://www.eclipse.org/mylar/sandbox/zest/zest_snippets.php">code snippets</A> 
 			                       available to illustrate both approaches. 
                 </li>
-		
+				<li>
+			<B>Download Zest 0.4:</B> <A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A><BR>
+							 <A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A><BR>
+							 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
+                </li>
 		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts
 			that can be used independently of Zest in SWT and Swing applications. 

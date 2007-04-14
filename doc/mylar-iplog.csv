@@ -235,61 +235,62 @@ for 0.5.2
 2007-01-23, tasks,		170450,	Dmitry Stadnik,		<10,		mkersten,	mac font fix  
 2007-01-26, tasks,		168652,	Hasan Ceylan		<100,		relves,		Turkish local fix
 2007-02-01, web site,	170427, Alex Blewitt,		<10,		mkersten,	download page fix
-2006-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services
-2006-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
-2006-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
-2006-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
-2006-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
-2006-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
-2006-02-12,	bugzilla,	173575, John Anvik,			<1000,		relves,		Bugzilla task history (headless)
-2006-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
-2006-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
-2006-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
-2006-03-02, tasks,		168756, Willian Mitsuda,	<100,		mkersten,	search page opening
+2007-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services
+2007-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
+2007-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
+2007-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
+2007-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
+2007-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
+2007-02-12,	bugzilla,	173575, John Anvik,			<1000,		relves,		Bugzilla task history (headless)
+2007-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
+2007-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
+2007-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
+2007-03-02, tasks,		168756, Willian Mitsuda,	<100,		mkersten,	search page opening
 
 2.0M2
-2006-02-20, tasks,		174358,	Shawn Minto,		<1000,		relves,		Task kind added to RepositoryTaskData 
-2006-02-21, tasks,		174864,	Shawn Minto,		<1000,		relves,		extension for automatic repository creation
-2006-03-01, bugzilla,	175003,	John Anvik,			<100,		relves,		TaskHistory serialization
-2006-03-12, bugzilla,	175771,	John Anvik,			<10,		relves,		QueryHitCollector reset
-2006-03-13, tasks,		177240,	Benjamin Pasero,	<10,		relves,		Allow to open multiple tasks at once
-2006-03-14, tasks,		175826,	Juerg Billeter,		<100,		relves,		Adding task repository not respecting userManaged
-2006-03-14, tasks,		177320,	Michael Valenta,	<250,		mkersten,	proxy settings
-2006-03-14,	tasks,		176300,	Michael Valenta,	<10,		mkersten,	grid layout fix
-2006-03-14, bugzilla,	177237,	Shawn Minto,		<10,		relves,		Incorrect status message after validation
-2006-03-15, tasks,		173990, Juerg Billeter,		<250,		mkersten,	customizable editor IDs
-2006-03-16, tasks,		176669,	Benjamin Pasero,	<250,		mkersten,	category gradients
-2006-03-16, tasks,		176133, Meghan Allen,		<250,		mkersten,	view file button
-2006-03-16,	tasks,		175873, Meghan Allen,		<250,		mkersten,	editor fix
-2006-03-18,	tasks,		176740,	Jean Michel Lemieux,<250,		mkersten,	notification suppression
-2006-03-21,	tasks,		161458,	Leo Dos Santos,		<100,		relves,		favicon download support
-2006-03-22, sandbox,	170540,	Meghan Allen,		<250,		mkersten,	servlet fixes
-2006-03-22, monitor,	176133,	Meghan Allen,		<250,		mkersten,	view file fixes
-2006-03-26, java,		179176,	Wayne Beaton,		<10,		mkersten,	tooltip typo fix
-2006-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
-2006-03-28, tasks,		179618,	Shawn Minto,		<100,		relves,		Abstract editor cleanup and ability to override createAttributes
-2006-03-28, tasks,		179829,	Shawn Minto,		<10,		mkersten,	task editor date format extensibility
-2006-03-29,	resources,	178931,	Fabio Zadrozny,		<250,		mkersten,	default resource exclusions
-2006-03-29,	resources,	178931,	Fabio Zadrozny,		<100,		mkersten,	adaptiation to resources
-2006-03-29, monitor,	173961, Meghan Allen,		<250,		mkersten,	montitor log rollover
-2006-03-30, context,	173727,	Igor Fedorenko,		<250,		mkersten,	expansion preference
-2006-03-30,	tasks,		162222,	Leo Dos Santos,		<100,		relves,		multi-monitor notification position fix
-2006-03-30,	tasks,		166990,	Leo Dos Santos,		<100,		relves,		multi-monitor tooltip position fix
-2006-03-30, tasks,		179076,	Shawn Minto,		<20,		relves,		Focus on summary for new repository task editor
-2006-03-30, bugzilla,	179576,	Shawn Minto,		<10,		relves,		Support status whiteboard field
-2006-03-30, context,	174671,	Shawn Minto,		<10,		mkersten,	opening fix
-2006-03-30, tasks,		180252,	Shawn Minto,		<10,		mkersten,	root category fix
+2007-02-20, tasks,		174358,	Shawn Minto,		<1000,		relves,		Task kind added to RepositoryTaskData 
+2007-02-21, tasks,		174864,	Shawn Minto,		<1000,		relves,		extension for automatic repository creation
+2007-03-01, bugzilla,	175003,	John Anvik,			<100,		relves,		TaskHistory serialization
+2007-03-12, bugzilla,	175771,	John Anvik,			<10,		relves,		QueryHitCollector reset
+2007-03-13, tasks,		177240,	Benjamin Pasero,	<10,		relves,		Allow to open multiple tasks at once
+2007-03-14, tasks,		175826,	Juerg Billeter,		<100,		relves,		Adding task repository not respecting userManaged
+2007-03-14, tasks,		177320,	Michael Valenta,	<250,		mkersten,	proxy settings
+2007-03-14,	tasks,		176300,	Michael Valenta,	<10,		mkersten,	grid layout fix
+2007-03-14, bugzilla,	177237,	Shawn Minto,		<10,		relves,		Incorrect status message after validation
+2007-03-15, tasks,		173990, Juerg Billeter,		<250,		mkersten,	customizable editor IDs
+2007-03-16, tasks,		176669,	Benjamin Pasero,	<250,		mkersten,	category gradients
+2007-03-16, tasks,		176133, Meghan Allen,		<250,		mkersten,	view file button
+2007-03-16,	tasks,		175873, Meghan Allen,		<250,		mkersten,	editor fix
+2007-03-18,	tasks,		176740,	Jean Michel Lemieux,<250,		mkersten,	notification suppression
+2007-03-21,	tasks,		161458,	Leo Dos Santos,		<100,		relves,		favicon download support
+2007-03-22, sandbox,	170540,	Meghan Allen,		<250,		mkersten,	servlet fixes
+2007-03-22, monitor,	176133,	Meghan Allen,		<250,		mkersten,	view file fixes
+2007-03-26, java,		179176,	Wayne Beaton,		<10,		mkersten,	tooltip typo fix
+2007-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
+2007-03-28, tasks,		179618,	Shawn Minto,		<100,		relves,		Abstract editor cleanup and ability to override createAttributes
+2007-03-28, tasks,		179829,	Shawn Minto,		<10,		mkersten,	task editor date format extensibility
+2007-03-29,	resources,	178931,	Fabio Zadrozny,		<250,		mkersten,	default resource exclusions
+2007-03-29,	resources,	178931,	Fabio Zadrozny,		<100,		mkersten,	adaptiation to resources
+2007-03-29, monitor,	173961, Meghan Allen,		<250,		mkersten,	montitor log rollover
+2007-03-30, context,	173727,	Igor Fedorenko,		<250,		mkersten,	expansion preference
+2007-03-30,	tasks,		162222,	Leo Dos Santos,		<100,		relves,		multi-monitor notification position fix
+200703-30,	tasks,		166990,	Leo Dos Santos,		<100,		relves,		multi-monitor tooltip position fix
+2007-03-30, tasks,		179076,	Shawn Minto,		<20,		relves,		Focus on summary for new repository task editor
+2007-03-30, bugzilla,	179576,	Shawn Minto,		<10,		relves,		Support status whiteboard field
+2007-03-30, context,	174671,	Shawn Minto,		<10,		mkersten,	opening fix
+2007-03-30, tasks,		180252,	Shawn Minto,		<10,		mkersten,	root category fix
 
 2.0M3
-2006-04-02, tasks,		180487, Boris Pruessmann,	<100,		relves,		content assist support for task editor
-2006-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
-2006-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
-2006-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
-2006-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
-2006-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
-2006-04-13, tasks,		182398, Shawn Minto,		<10			mkersten,	open fix
-2006-04-13, tasks		180487,	Boris Pruessmann,	<250,		mkersten,	context assist
-
+2007-04-02, tasks,		180487, Boris Pruessmann,	<100,		relves,		content assist support for task editor
+2007-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-13, tasks,		182398, Shawn Minto,		<10			mkersten,	open fix
+2007-04-13, tasks,		180487,	Boris Pruessmann,	<250,		mkersten,	context assist
+2007-04-13, tasks,		172021,	Lubos Pochman,		<100,		relves,		support deletion of comments and attachments in editor
+2007-04-14, tasks,		182369,	Shawn Minto,		<50,		relves,		port detection in url
 
 
 Developers (Zest)

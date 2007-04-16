@@ -25,7 +25,7 @@
 <div id="maincontent">
 
 		<div id="midcolumn">
-		<H1><A HREF="http://www.eclipse.org/mylar/zest.php">Zest</a> Snippets</H1>
+		<H1><A HREF="http://www.eclipse.org/mylar/zest.php">Zest</a>  -> Zest Snippets</H1>
 		Click on a snippet to see the code
 		</div>
 		
@@ -46,6 +46,7 @@
 		<A HREF="GraphJFaceSnippet1.html">1. Simple graph using the IGraphEntityContentProvider</A><BR>
 		<A HREF="GraphJFaceSnippet2.html">2. Simple graph using the IGraphContentProvider</A><BR>
 		<A HREF="GraphJFaceSnippet3.html">3. GraphViewer which uses a file to read the graph</A> (<A HREF="SimpleGraph.sgf">Simple Graph File</A>)<BR>
+		<A HREF="GraphJFaceSnippet4.html">4. Simple graph with a selection listener</A> <BR>
 		</li>
 		
 		</ul>

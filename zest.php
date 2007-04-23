@@ -132,7 +132,7 @@
 	</div>
 	<div id="rightcolumn">
 		$commonside
-		<div class="sideitem">
+		<div class="sideitem" align=right>
 			<h6>Zest Viewers</h6>
 			<ul>
 				<li><A HREF="images/zest_screen1.JPG">Static Graph Viewer</a></li>

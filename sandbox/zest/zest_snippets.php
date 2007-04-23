@@ -40,6 +40,7 @@
 		<A HREF="GraphSnippet1.html">1. Simple graph with 3 nodes and 3 edges</A><BR>
 		<A HREF="GraphSnippet2.html">2. Simple graph with 3, self loops and images</A><BR>
 		<A HREF="GraphSnippet3.html">3. Simple graph with a selection listener</A><BR>
+		<A HREF="GraphSnippet4.html">4. Simple graph with a custom tooltip on the conncetions</A><BR>
 		</li>
 		<li>
 		<H2>JFace Viewer Style Snippets</H2>

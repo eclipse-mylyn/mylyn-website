@@ -132,7 +132,7 @@
 	</div>
 	<div id="rightcolumn">
 		$commonside
-		<div class="sideitem" align=right>
+		<div class="sideitem" align=left>
 			<h6>Zest Viewers</h6>
 			<ul>
 				<li><A HREF="images/zest_screen1.JPG">Static Graph Viewer</a></li>
@@ -142,7 +142,7 @@
 	</div>
 	<div id="rightcolumn">
 		$commonside
-		<div class="sideitem">
+		<div class="sideitem" align=left>
 			<h6><A HREF="http://wiki.eclipse.org/index.php/Mylar_Zest_Visualization#Layout_Algorithms">Layout Algorithms</A></h6>
 			<ul>
 				<li>Spring Layout Algorithm</li>

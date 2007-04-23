@@ -27,7 +27,7 @@
 		<div id="midcolumn">
 		<H1><A HREF="http://www.eclipse.org/mylar/zest.php">Zest</a>  -> Zest Snippets</H1>
 		Click on a snippet to see the code
-		</div>
+		
 		
 		<div class="homeitem3col">
 

@@ -41,6 +41,7 @@
 		<A HREF="GraphSnippet2.html">2. Simple graph with 3, self loops and images</A><BR>
 		<A HREF="GraphSnippet3.html">3. Simple graph with a selection listener</A><BR>
 		<A HREF="GraphSnippet4.html">4. Simple graph with a custom tooltip on the conncetions</A><BR>
+		<A HREF="GraphSnippet5.html">5. A Graph with a paint listener</A><BR>
 		</li>
 		<li>
 		<H2>JFace Viewer Style Snippets</H2>
@@ -48,6 +49,7 @@
 		<A HREF="GraphJFaceSnippet2.html">2. Simple graph using the IGraphContentProvider</A><BR>
 		<A HREF="GraphJFaceSnippet3.html">3. GraphViewer which uses a file to read the graph</A> (<A HREF="SimpleGraph.sgf">Simple Graph File</A>)<BR>
 		<A HREF="GraphJFaceSnippet4.html">4. Simple graph with a selection listener</A> <BR>
+		
 		</li>
 		
 		</ul>

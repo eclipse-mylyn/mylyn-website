@@ -47,13 +47,6 @@
 		Family Tree (Tree Graph Viewer)
 		</A>
 		</P>
-		<P>
-		<BR>
-		<A HREF="../images/zest_screen3.jpg">
-		<img src="../images/zest_screen3_600.jpg"><BR>
-		Package Explorer (Nested Graph Viewer)
-		</A>
-		</P>
 		</center>
 		</div>  
 	</div>

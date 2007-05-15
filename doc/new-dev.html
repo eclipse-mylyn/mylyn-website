@@ -13,11 +13,17 @@
 	</tr>
 	<tr>
 		<td bgcolor="#E0D0E6"><font size="1">2.0M3<br>
-		<i>May. 11</i></font></td>
+		<i>May. 14</i></font></td>
 		<td bgcolor="#E0D0E6" align="center">
-		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-02-17&chfieldto=2007-03-31&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-		<font size="1">x</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#E0D0E6"><font size="1">Shawn...</font></td>
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-04-01&chfieldto=2007-05-15&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">181</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#E0D0E6"><font size="1">Meghan Allen made significant 
+		improvements to the UI Usage Reporting infrastructure that she has 
+		contributed.&nbsp; Shawn Minto resolved 6 bugs and provided numerous 
+		fixes. Boris Pruessmann contributed task editor content assist. 
+		Additional bug fixes and enhancements were provided by Benjamin Pasero, 
+		Lubox Pochman, Tobias Widmer, Bryan Hunt, Andrew Overholt and Frank 
+		Becker. </font></td>
 	</tr>
 	<tr>
 		<td bgcolor="#FAF7FB"><font size="1">2.0M2<br>
@@ -53,11 +59,9 @@
 <a href="http://eclipse.org/mylar/doc/new-1.0.html">Mylar 0.6-1.0</a>, <a href="http://eclipse.org/mylar/doc/new-0.5.html">Mylar 0.5</a>,&nbsp;
 <a href="http://eclipse.org/mylar/doc/new-0.4.html">Mylar 0.4</a>, <a href="http://eclipse.org/mylar/doc/new-0.3.html">Mylar 0.3</a></b></p>
 <p><b>Update Notes</b> <br>
-&nbsp;&nbsp;&nbsp; - <span style="background-color: #FFFF00">Changes: changes to 
-commit templates now connector-specific,</span><br>
-&nbsp;&nbsp;&nbsp; - We recommend using the Eclipse 3.3M6 release due to the 
+&nbsp;&nbsp;&nbsp; - We recommend using the Eclipse 3.3M7 release due to the 
 numerous UI improvements (see Eclipse 3.3 only items below).<br>
-&nbsp;&nbsp;&nbsp; - The 2.0M2 release will reset your task activity timings 
+&nbsp;&nbsp;&nbsp; - 2.0M2 and later releases will reset your task activity timings 
 (Mylar now uses a new and much more robust timing mechanism).<br>
 &nbsp;&nbsp;&nbsp; - The offline task data cache will be reset, so submit outgoing changes before 
 	updating.<br>
@@ -79,9 +83,9 @@ latest</a> XmlRpcPlugin.<br>&nbsp;</p>
 			</td>
 			<td valign="top" width="70%">
 			The <i>Task List</i> layout has been updated to use a custom drawn 
-			tree instead of relying on multiple columns.&nbsp; This provides the 
+			tree instead of relying on multiple columns in order to provide the 
 			following improvements:<ul>
-				<li>Subtasks are now supported (see Bugzilla section)</li>
+				<li>Support for subtasks (for an example see the Bugzilla section)</li>
 				<li>The icon columns no longer take up a large amount of 
 				horizontal space, making more of the Summary visible.&nbsp; Sort 
 				using <i>Sort by</i> in the view menu.</li>
@@ -90,11 +94,13 @@ latest</a> XmlRpcPlugin.<br>&nbsp;</p>
 				<li>The icon scheme has been updated to make incoming indicators 
 				easier to pick out, hits more consistent with tasks, and the 
 				kind of task appear on the icon (see the <i>Help -&gt; Mylar UI 
-				Legend</i> for the icon scheme).&nbsp; Note that the incoming 
-				overlay location is configurable via <i>Preferences -&gt; Task List 
-				-&gt; Layout</i>.</li>
+				Legend</i> for the updated scheme).&nbsp; Note in particular 
+				that new tasks now have the task icon background and are 
+				distinguished by a special incoming indicator.</li>
 			</ul>
-			<p>Please use
+			<p>Note that the incoming overlays can also be configured to use the 
+			Synchronize view style icons and left-facing placement via <i>Preferences -&gt; Task List 
+				-&gt; Layout</i>.&nbsp; Please use
 			<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=182772">bug 
 			182772</a> for feedback or reporting any OS-specific rendering 
 			problems.</p>
@@ -176,7 +182,7 @@ latest</a> XmlRpcPlugin.<br>&nbsp;</p>
 			List, several non-overlapping projects, different sets of tasks for 
 			different venues (e.g. home vs. work).&nbsp; For 2.0M3 switching 
 			working sets is only supported via the working set switcher on the 
-			main toolbar.&nbsp; Note that to switch to see only one working set 
+			main toolbar.&nbsp; To switch to see only one working set 
 			you need to Ctrl+click that working set, otherwise multiple will be 
 			visible.&nbsp; The create a new Task Working Set use the <i>Edit...</i> 
 			button visible below.<p>
@@ -196,8 +202,8 @@ latest</a> XmlRpcPlugin.<br>&nbsp;</p>
 			</td>
 			<td valign="top" width="70%">
 		The offline support has been improved to be more transparent.&nbsp; 
-		Offline data for all tasks, even unread ones, is eagerly downloaded.&nbsp; 
-		Before going offline all you need to do is run one successful 
+		Offline data for all tasks, even unread ones, is downloaded in the 
+		background, so before going offline all you need to do is run one successful 
 		synchronization.&nbsp; If switching frequently between being connected 
 		note that you can toggle background synchronizations via the <i>
 		Synchronize Automatically</i> button in the <i>Task List</i> view menu.&nbsp; 

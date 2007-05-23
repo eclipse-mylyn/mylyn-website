@@ -12,7 +12,6 @@
 				A focused user interface used to avoid information blindness when staring at Eclipse.
 			</font>
 		</div> 
-		-->
 EOHTML
 
 ?>

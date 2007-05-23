@@ -307,7 +307,8 @@ for 0.5.2
 2007-05-11, tasks,		180487,	Shawn Minto,		<250,		mkersten,	content assist fix
 2007-05-11, tasks,		185380, Shawn Minto,		<250,		mkersten,	tool tip improvements
 
-
+2.0RC0
+2007-05-23, tasks,		187097, Willian Mitsuda,	<20,		relves,		fix quoting of empty lines
 
 
 Developers (Zest)

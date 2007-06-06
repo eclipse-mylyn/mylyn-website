@@ -235,21 +235,21 @@ for 0.5.2
 2007-01-23, tasks,		170450,	Dmitry Stadnik,		<10,		mkersten,	mac font fix  
 2007-01-26, tasks,		168652,	Hasan Ceylan		<100,		relves,		Turkish local fix
 2007-02-01, web site,	170427, Alex Blewitt,		<10,		mkersten,	download page fix
-2007-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services
+2007-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services contribution (IPZilla CQ 1117)
 2007-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
-2007-02-06,	monitor,	165822, Brian de Alwis,		<1000,		mkersten,	monitor logging cleanup
+2007-02-06,	monitor,	165822, Brian de Alwis,		<250,		mkersten,	monitor logging cleanup
 2007-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
 2007-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
 2007-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
-2007-02-12,	bugzilla,	173575, John Anvik,			<1000,		relves,		Bugzilla task history (headless)
+2007-02-12,	bugzilla,	173575, John Anvik,			<250,		relves,		Bugzilla task history (headless)
 2007-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
 2007-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
 2007-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
 2007-03-02, tasks,		168756, Willian Mitsuda,	<100,		mkersten,	search page opening
 
 2.0M2
-2007-02-20, tasks,		174358,	Shawn Minto,		<1000,		relves,		Task kind added to RepositoryTaskData 
-2007-02-21, tasks,		174864,	Shawn Minto,		<1000,		relves,		extension for automatic repository creation
+2007-02-20, tasks,		174358,	Shawn Minto,		<250,		relves,		Task kind added to RepositoryTaskData 
+2007-02-21, tasks,		174864,	Shawn Minto,		<250,		relves,		extension for automatic repository creation
 2007-03-01, bugzilla,	175003,	John Anvik,			<100,		relves,		TaskHistory serialization
 2007-03-12, bugzilla,	175771,	John Anvik,			<10,		relves,		QueryHitCollector reset
 2007-03-13, tasks,		177240,	Benjamin Pasero,	<10,		relves,		Allow to open multiple tasks at once
@@ -311,6 +311,7 @@ for 0.5.2
 2007-05-23, tasks,		187097, Willian Mitsuda,	<20,		relves,		fix quoting of empty lines
 2007-05-27,	doc,		185863,	Balazs Brinkus,		<250,		mkersten,	universal intro
 2007-05-29, trac,		189411,	Erik Pearson,		<100,		mkersten, 	trac attachment fix
+2007-05-29, xplanner,	130240, Helen Bershadskaya,	<4000,		mkersten,	CodeGear XPlanner contribution (IPZilla CQ 1321)
 2007-06-04, tasks, 		189743,	Greg Gibeling,		<10,		mkersten,	command char fix
 2007-06-04, tasks,		188543,	Frank Becker,		<100,		mkersten,	platform selection fix
 2007-06-04, tasks,		188415, Leo Dos Santos,		<100,		mkersten,	positioning fix
@@ -360,13 +361,14 @@ Developers (Zest)
 Third Party Software
 
 name including version, directory location or jar file, license name and version, 	usage,,,
-commons-httpclient,		org.eclipse.mylar.core,			APL,						web repository connections
-commons-codec,			org.eclipse.mylar.core,			APL,						web repository connections
-commons-logging,		org.eclipse.mylar.core,			APL,						web repository connections
-commons-logging-api,	org.eclipse.mylar.core,			APL,						web repository connections
-xmlrpc-common-3.0,		org.eclipse.mylar.core,			APL,						web repository connections
-xmlrpc-client-3.0,		org.eclipse.mylar.core,			APL,						web repository connections
-ws-commons-util,		org.eclipse.mylar.core,			APL,						web repository connections
+commons-httpclient,		org.eclipse.mylar,				APL,						web repository connections
+commons-codec,			org.eclipse.mylar,				APL,						web repository connections
+commons-logging,		org.eclipse.mylar,				APL,						web repository connections
+commons-logging-api,	org.eclipse.mylar,				APL,						web repository connections
+xmlrpc-common-3.0,		org.eclipse.mylar,				APL,						web repository connections
+xmlrpc-client-3.0,		org.eclipse.mylar,				APL,						web repository connections
+ws-commons-util,		org.eclipse.mylar,				APL,						web repository connections
+rome-0.8,				org.eclipse.mylar, 				APL,						web repository connections
 axis-1.3.jar,			org.eclipse.mylar.jira.core,	APL,						web repository connections
 commons-discovery-0.2,	org.eclipse.mylar.jira.core,	APL,						web repository connections
 jaxrpc,					org.eclipse.mylar.jira.core,	APL,						web repository connections

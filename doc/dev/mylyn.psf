@@ -12,10 +12,10 @@
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context.tests,org.eclipse.mylyn.context.tests"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context.ui,org.eclipse.mylyn.context.ui"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.doc,org.eclipse.mylyn.doc"/>
-		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide,org.eclipse.mylyn.ide"/>
+		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.ui,org.eclipse.mylyn.ide.ui"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide-feature,org.eclipse.mylyn.ide-feature"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.tests,org.eclipse.mylyn.ide.tests"/>
-		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java,org.eclipse.mylyn.java"/>
+		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java.ui,org.eclipse.mylyn.java.ui"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java.tests,org.eclipse.mylyn.java.tests"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.jira-feature,org.eclipse.mylyn.jira-feature"/>
 		<project reference="1.0,:pserver:dev.eclipse.org/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.jira.core,org.eclipse.mylyn.jira.core"/>

@@ -4,30 +4,30 @@
 
 	<target name="copy-web" description="Doc Web Update">
 		<copy todir="doc">
-			<fileset file="../org.eclipse.mylar.doc/doc/*.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/*.html" />
 			<!--
-			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/new-0.4.0.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/integrating.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/faq.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/new-0.4.0.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/contributing.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/integrating.html" />
 			-->
 		</copy> 
 		<!--
 		<copy todir="doc/dev">
-			<fileset file="../org.eclipse.mylar.doc/doc/dev/plan.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/dev/plan.html" />
 		</copy>
 		<copy todir="doc/images/dev">
-			<fileset dir="../org.eclipse.mylar.doc/doc/images/dev" />
+			<fileset dir="../org.eclipse.mylyn.doc/doc/images/dev" />
 		</copy>
 		<copy todir="doc/images">
-			<fileset dir="../org.eclipse.mylar.doc/doc/images" />
+			<fileset dir="../org.eclipse.mylyn.doc/doc/images" />
 		</copy>
 		-->
 	</target>
 
 	<target name="copy-release" description="Doc Release Update">
 		<copy todir="doc">
-			<fileset file="../org.eclipse.mylar.doc/doc/new.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/new.html" />
 		</copy>
 	</target>
 

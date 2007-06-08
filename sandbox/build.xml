@@ -4,18 +4,18 @@
 
 	<target name="copy-web" description="Doc Web Update">
 		<copy todir="doc">
-			<fileset file="../org.eclipse.mylar.doc/doc/faq.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/new-0.3.html" />
-			<fileset file="../org.eclipse.mylar.doc/doc/contributing.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/faq.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/new-0.3.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/contributing.html" />
 		</copy>
 		<copy todir="doc/images">
-			<fileset dir="../org.eclipse.mylar.doc/doc/images"/>
+			<fileset dir="../org.eclipse.mylyn.doc/doc/images"/>
 		</copy> 
 	</target>
 
 	<target name="copy-release" description="Doc Release Update">
 		<copy todir="doc">
-			<fileset file="../org.eclipse.mylar.doc/doc/new.html" />
+			<fileset file="../org.eclipse.mylyn.doc/doc/new.html" />
 		</copy>
 	</target>
 	

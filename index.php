@@ -96,7 +96,7 @@
 			<h3>News</h3>
 			<ul>
 				<li>
-					<h2>Please note that the project rename is still underway.  See the <a href="rename.php">Rename FAQ</a> for details.</h2>
+					<h2><i>Please note that the project rename is still underway.  See the <a href="rename.php">Rename FAQ</a> for details.</i></h3>
 				</li>
 				<li>
 					Mik's blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn.  Long live Mylyn!</a>

@@ -93,7 +93,7 @@
 		</div> 
 		
 		<div class="homeitem">
-			<h3>Events</h3>
+			<h3>News</h3>
 			<ul>
 				<li>
 					<h2>Please note that the project rename is still underway.  See the <a href="rename.php">Rename FAQ</a> for details.</h2>

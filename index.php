@@ -27,7 +27,7 @@
 	  	<div align="left">
 			<table border="0" cellpadding="4">
 			  <tr>
-			    <td>
+			    <td colspan=2>
 			       <a href="rename.php">Mylar is reborn.  Long live Mylyn!</a>
 			    </td>
 			  </tr>
@@ -71,7 +71,6 @@
 					<input type="hidden" name="req" value="addrating">
 					<input type="submit" value="Submit">
 					</form>
-			  	
 			  	</td>
 	          </tr>
 	        </table>

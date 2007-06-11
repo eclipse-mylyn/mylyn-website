@@ -96,7 +96,7 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
-					<font size=+1>Please note that the project rename is still underway.  See the <a href="rename.php">Rename FAQ</a> for details.</font>
+					<h2>Please note that the project rename is still underway.  See the <a href="rename.php">Rename FAQ</a> for details.</h2>
 				</li>
 				<li>
 					Mik's blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn.  Long live Mylyn!</a>

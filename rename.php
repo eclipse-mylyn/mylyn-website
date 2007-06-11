@@ -5,11 +5,11 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylar to Mylyn Project Rename";
+	$pageTitle 		= "Mylar New & Noteworthy";
 	$pageKeywords	= "Mylar, Eclipse";
 	$pageAuthor		= "Mik Kersten";
-	 
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/doc/rename.html";
+	
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/rename.html";
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {
@@ -26,10 +26,9 @@
 		
 	$html = <<<EOHTML
 
-<div id="maincontent">
-  <div id="midcolumn" style="width:92%">    
-        $contents
-	</div>
+<div id="midcolumn" style="width:92%">
+     $contents
+</div>
 </div>
 
 

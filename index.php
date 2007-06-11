@@ -26,11 +26,6 @@
 	<div id="midcolumn">
 	  	<div align="left">
 			<table border="0" cellpadding="4">
-			  <tr>
-			    <td colspan=2>
-			       <a href="rename.php">Mylar is reborn.  Long live Mylyn!</a>
-			    </td>
-			  </tr>
 	          <tr>
 	          	<td valign="top">
 	        		<table border="0" cellpadding="0">
@@ -101,6 +96,11 @@
 			<h3>Events</h3>
 			<ul>
 				<li>
+					<a href="rename.php">Mylar is reborn.  Long live Mylyn!</a>
+				</li>
+			
+				<!--
+				<li>
 					<a href="http://eclipsecon.org/2007"><img border=0 src="images/logo-eclipsecon.gif"></a>
 				<br>				
 					<a href="http://www.eclipsecon.org/2007/index.php?not_accepted=0&page=sub/&id=3855&conference=2007">
@@ -136,6 +136,8 @@
 					Usability and User Interface Best Practices in Eclipse</a> panel with Bob Fraser, Mik Kersten and others tba 
 					(March 8, 13:30-14:20)	
 				</li>
+				-->
+				
 				<!--
 				<li>
 					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Mylar 1.0 released</a> (Dec 11, 2006)

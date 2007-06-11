@@ -26,6 +26,11 @@
 	<div id="midcolumn">
 	  	<div align="left">
 			<table border="0" cellpadding="4">
+			  <tr>
+			    <td>
+			       <a href="rename.php">Mylar is reborn.  Long live Mylyn!</a>
+			    </td>
+			  </tr>
 	          <tr>
 	          	<td valign="top">
 	        		<table border="0" cellpadding="0">

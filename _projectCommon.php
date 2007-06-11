@@ -16,7 +16,7 @@
 
 <div id="branding">
 <center>
-<img border=0 src="/mylar/images/banner-mylyn.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img border=0 src="/mylyn/images/banner-mylyn.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </center>
 </div>
 EOBRANDING;

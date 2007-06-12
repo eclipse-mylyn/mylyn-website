@@ -1,66 +1,72 @@
 <project>
-  <short-name>Mylar</short-name>
+  <short-name>Mylyn</short-name>
   <bugzilla>
-    <product name="Mylar"/>
+    <product name="Mylyn"/>
   </bugzilla>
 
-  <committers url="/mylar/dev.php"/>
-  <contributors url="/mylar/dev.php"/>
-  <leaders url="/mylar/team.php"/>
+  <committers url="/mylyn/dev.php"/>
+  <contributors url="/mylyn/dev.php"/>
+  <leaders url="/mylyn/team.php"/>
   
-  <cvs repository="/cvsroot/technology/" path="org.eclipse.mylar" />
+  <cvs repository="/cvsroot/tools/" path="org.eclipse.mylyn" />
 
-  <description url="/mylar/index.php"
-     paragraph-url="/mylar/project-info/project-page-paragraph.html"/>
+  <description url="/mylyn/index.php"
+     paragraph-url="/mylyn/project-info/project-page-paragraph.html"/>
 
-  <summary paragraph-url="/mylar/project-info/executive-summary.html"/>
+  <summary paragraph-url="/mylyn/project-info/executive-summary.html"/>
 
-  <getting-started url="/mylar/users.php"/>
+  <getting-started url="/mylyn/start.php"/>
 
   <!--
   <ip-log url="/projects/slides/Web%20Tools%20Platform%201.0%20Project%20IP%20Log.pdf"/> 
   -->
 
   <mailing-lists>
-    <list name="mylar-announce"/>
-    <list name="mylar-dev"/>
+    <list name="mylyn-announce"/>
+    <list name="mylyn-integrators"/>
+    <list name="mylyn-dev"/>
   </mailing-lists>
   
   <newsgroups>
-	<newsgroup name="eclipse.technology.mylar"/>
+	<newsgroup name="eclipse.technology.mylyn"/>
   </newsgroups>
   
-  <project-plan url="/mylar/plan.php"/>
+  <project-plan url="/mylyn/plan.php"/>
   <releases>
     <release 
        status="completed"
        name="0.5"
        date="06/04/2006"
-       download="/mylar/dl.php" />
+       download="/mylyn/dl.php" />
     <release 
        status="completed"
        name="0.6"
        date="28/06/2006"
-       plan="/mylar/plan.php" />
+       plan="/mylyn/plan.php" />
     <release 
        status="completed"
        name="0.7"
        date="29/08/2006"
-       plan="/mylar/plan.php" />
+       plan="/mylyn/plan.php" />
     <release 
        status="completed"
        name="0.8"
        date="21/10/2006"
-       plan="/mylar/plan.php" />
+       plan="/mylyn/plan.php" />
     <release 
        status="completed"
        name="0.9"
        date="12/11/2006"
-       plan="/mylar/plan.php" />
+       plan="/mylyn/plan.php" />
     <release 
-       status="scheduled"
+       status="completed"
        name="1.0"
        date="11/12/2006"
-       plan="/mylar/plan.php" />
+       plan="/mylyn/plan.php" />
+    <release 
+       status="scheduled"
+       name="2.0"
+       date="29/06/2007"
+       plan="/mylyn/plan.php" />
   </releases>
 </project>

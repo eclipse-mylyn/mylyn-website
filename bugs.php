@@ -14,8 +14,8 @@
 	$votesBugs = new ProjectBugs("tools.mylyn");
 	$votesEnhancements = new ProjectBugs("tools.mylyn", 2);
 	
-	$pageTitle 		= "Mylar Bugs";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Mylyn Bugs";
+	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
 ?>
 

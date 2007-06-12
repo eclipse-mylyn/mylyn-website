@@ -1,0 +1,395 @@
+Committers
+
+mkersten,
+relves,
+spingel,
+ekuleshov,
+gmurphy
+
+Third Party Software
+
+name including version, directory location or jar file, license name and version, 	usage,,,
+
+--- http-client ---
+commons-httpclient-3.0.1,		org.eclipse.mylar,				APL,						web repository connections
+commons-codec-1.3,				org.eclipse.mylar,				APL,						web repository connections
+commons-logging-1.0.4,			org.eclipse.mylar,				APL,						web repository connections
+commons-logging-api-1.0.4,		org.eclipse.mylar,				APL,						web repository connections
+
+--- xmlrpc ---
+xmlrpc-common-3.0,				org.eclipse.mylar,				APL,						web repository connections
+xmlrpc-client-3.0,				org.eclipse.mylar,				APL,						web repository connections
+ws-commons-util-1.0.1,			org.eclipse.mylar,				APL,						web repository connections
+
+--- Axis ---
+axis-1.3.jar,					org.eclipse.mylar.jira.core,	APL,						web repository connections
+commons-discovery-0.2,			org.eclipse.mylar.jira.core,	APL,						web repository connections
+jaxrpc-1.1,						org.eclipse.mylar.jira.core,	APL,						web repository connections
+saaj-1.2,						org.eclipse.mylar.jira.core,	APL,						web repository connections
+wsdl4j-1.5.1.jar,				org.eclipse.mylar.jira.core,	APL,						web repository connections
+
+--- Rome ---
+rome-0.8,						org.eclipse.mylar, 				APL,						web repository connections
+
+Developers
+
+------------------------- 2.0 (Europa) -------------------------
+
+2.0M1
+2007-01-05, tasks,		164661,	Willian Mitsuda,	<100,		mkersten,	open of multiple tasks
+2007-01-05, tasks,		165169,	Willian Mitsuda,	<100,		mkersten,	fix image preview scrolling
+2007-01-21, monitor,	170979, Meghan Allen,		<10, 		mkersten,	off-by one fix
+2007-01-21, monitor,	170981, Meghan Allen,		<10, 		mkersten,	formatting fix
+2007-01-23, tasks,		170450,	Dmitry Stadnik,		<10,		mkersten,	mac font fix  
+2007-01-26, tasks,		168652,	Hasan Ceylan		<100,		relves,		Turkish local fix
+2007-02-01, web site,	170427, Alex Blewitt,		<10,		mkersten,	download page fix
+2007-02-01, jira,		165389,	Brock Janiczak,		<4000,		mkersten,	jira core services contribution (IPZilla CQ 1117)
+2007-02-05, monitor,	172768, Brian de Alwis,		<100,		mkersten, 	workbench shutdown fix
+2007-02-06,	monitor,	165822, Brian de Alwis,		<250,		mkersten,	monitor logging cleanup
+2007-02-07,	monitor,	165820, Brian de Alwis,		<100,		mkersten,	xml conversion fix
+2007-02-09, tasks,		173171, Andrew Overholt,	<10,		mkersten,	@Override fix
+2007-02-09,	tasks,		168073, Shawn Minto,		<10,		relves,		accept all ssl certs
+2007-02-12,	bugzilla,	173575, John Anvik,			<250,		relves,		Bugzilla task history (headless)
+2007-02-14, tasks,		173991,	Juerg Billeter,		<100,		mkersten, 	URL-based repository task creation
+2007-02-15, core,		174357,	Shawn Minto,		<10,		mkersten,	startup fix
+2007-02-16, bugzilla,	174363,	John Anvik,			<100,		relves,		TaskRevision objects missing data
+2007-03-02, tasks,		168756, Willian Mitsuda,	<100,		mkersten,	search page opening
+
+2.0M2
+2007-02-20, tasks,		174358,	Shawn Minto,		<250,		relves,		Task kind added to RepositoryTaskData 
+2007-02-21, tasks,		174864,	Shawn Minto,		<250,		relves,		extension for automatic repository creation
+2007-03-01, bugzilla,	175003,	John Anvik,			<100,		relves,		TaskHistory serialization
+2007-03-12, bugzilla,	175771,	John Anvik,			<10,		relves,		QueryHitCollector reset
+2007-03-13, tasks,		177240,	Benjamin Pasero,	<10,		relves,		Allow to open multiple tasks at once
+2007-03-14, tasks,		175826,	Juerg Billeter,		<100,		relves,		Adding task repository not respecting userManaged
+2007-03-14, tasks,		177320,	Michael Valenta,	<250,		mkersten,	proxy settings
+2007-03-14,	tasks,		176300,	Michael Valenta,	<10,		mkersten,	grid layout fix
+2007-03-14, bugzilla,	177237,	Shawn Minto,		<10,		relves,		Incorrect status message after validation
+2007-03-15, tasks,		173990, Juerg Billeter,		<250,		mkersten,	customizable editor IDs
+2007-03-16, tasks,		176669,	Benjamin Pasero,	<250,		mkersten,	category gradients
+2007-03-16, tasks,		176133, Meghan Allen,		<250,		mkersten,	view file button
+2007-03-16,	tasks,		175873, Meghan Allen,		<250,		mkersten,	editor fix
+2007-03-18,	tasks,		176740,	Jean Michel Lemieux,<250,		mkersten,	notification suppression
+2007-03-21,	tasks,		161458,	Leo Dos Santos,		<100,		relves,		favicon download support
+2007-03-22, sandbox,	170540,	Meghan Allen,		<250,		mkersten,	servlet fixes
+2007-03-22, monitor,	176133,	Meghan Allen,		<250,		mkersten,	view file fixes
+2007-03-26, java,		179176,	Wayne Beaton,		<10,		mkersten,	tooltip typo fix
+2007-03-27, tasks,		179598,	Shawn Minto,		<10,		relves,		template repositories being added twice
+2007-03-28, tasks,		179618,	Shawn Minto,		<100,		relves,		Abstract editor cleanup and ability to override createAttributes
+2007-03-28, tasks,		179829,	Shawn Minto,		<10,		mkersten,	task editor date format extensibility
+2007-03-29,	resources,	178931,	Fabio Zadrozny,		<250,		mkersten,	default resource exclusions
+2007-03-29,	resources,	178931,	Fabio Zadrozny,		<100,		mkersten,	adaptiation to resources
+2007-03-29, monitor,	173961, Meghan Allen,		<250,		mkersten,	montitor log rollover
+2007-03-30, context,	173727,	Igor Fedorenko,		<250,		mkersten,	expansion preference
+2007-03-30,	tasks,		162222,	Leo Dos Santos,		<100,		relves,		multi-monitor notification position fix
+2007-03-30,	tasks,		166990,	Leo Dos Santos,		<100,		relves,		multi-monitor tooltip position fix
+2007-03-30, tasks,		179076,	Shawn Minto,		<20,		relves,		Focus on summary for new repository task editor
+2007-03-30, bugzilla,	179576,	Shawn Minto,		<10,		relves,		Support status whiteboard field
+2007-03-30, context,	174671,	Shawn Minto,		<10,		mkersten,	opening fix
+2007-03-30, tasks,		180252,	Shawn Minto,		<10,		mkersten,	root category fix
+
+2.0M3
+2007-04-02, tasks,		180487, Boris Pruessmann,	<100,		relves,		content assist support for task editor
+2007-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
+2007-04-13, tasks,		182398, Shawn Minto,		<10			mkersten,	open fix
+2007-04-13, tasks,		180487,	Boris Pruessmann,	<250,		mkersten,	context assist
+2007-04-13, tasks,		172021,	Lubos Pochman,		<100,		relves,		support deletion of comments and attachments in editor
+2007-04-14, tasks,		182369,	Shawn Minto,		<50,		relves,		port detection in url
+2007-04-16, monitor,	178604, Meghan Allen,		<250,		mkersten,	monitor file fixes
+2007-04-20,	tasks,		183128, Tobias Widmer,		<100,		mkersten,	dnd fix
+2007-04-20,	tasks,		180850,	Bryan Hunt,			<100,		mkersten,	layout fix
+2007-04-25, tasks,		177891,	Benjamin Pasero,	<100,		mkersten,	laout improvement
+2007-04-25, tasks,		182762,	Shawn Minto,		<250,		relves,		busy indication on editor tab
+2007-04-26, tasks,		184269,	Shawn Minto,		<50,		relves,		fix for due dates disabled even when connector doesn't support
+2007-04-27, tasks,		184469,	Meghan Allen,		<250,		mkersten,	monitor fixes
+2007-05-01, tasks,		184961, Andrew Overholt,	<10,		mkersten, 	typo fix
+2007-05-02, tasks,		185190,	Shawn Minto,		<50,		relves,		copy details fix 
+2007-05-08, monitor,	179146,	Meghan Allen,		<250,		mkersten,	automatic prompting
+2007-05-08, tasks,		181957,	Shawn Minto,		<10,		relves,		filter key codes in filtered mode
+2007-05-09, bugzilla,	170452, Frank Becker,		<100,		mkersten,	mac selection fix
+2007-05-09, monitor,	184564, Meghan Allen,		<250,		mkersten,	stats fix
+2007-05-11, tasks,		180487,	Shawn Minto,		<250,		mkersten,	content assist fix
+2007-05-11, tasks,		185380, Shawn Minto,		<250,		mkersten,	tool tip improvements
+
+2.0RC0
+2007-05-23, tasks,		187097, Willian Mitsuda,	<20,		relves,		fix quoting of empty lines
+2007-05-27,	doc,		185863,	Balazs Brinkus,		<250,		mkersten,	universal intro
+2007-05-29, trac,		189411,	Erik Pearson,		<100,		mkersten, 	trac attachment fix
+2007-05-29, xplanner,	130240, Helen Bershadskaya,	<4000,		mkersten,	CodeGear XPlanner contribution (IPZilla CQ 1321)
+2007-06-04, tasks, 		189743,	Greg Gibeling,		<10,		mkersten,	command char fix
+2007-06-04, tasks,		188543,	Frank Becker,		<100,		mkersten,	platform selection fix
+2007-06-04, tasks,		188415, Leo Dos Santos,		<100,		mkersten,	positioning fix
+2007-06-04, tasks,		165380, Willian Mitsuda,	<250,		mkersten,	editor linking
+2007-06-06,	tasks,		144161,	Leo Dos SAntos,		<250,		mkersten,	task trim
+
+
+
+------------------------- 0.4.10 - 1.0.1 -------------------------
+
+0.4.10
+date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
+2006-02-28, tasklist,  	129511,	Eugene Kuleshov,	<100,		mkersten,	key comparison
+2006-03-02, bugzilla, 	129459,	Ian Whalley, 		<10,		mkersten,	charset fix
+2006-03-02, bugzilla, 	116514,	Ian Whalley, 		<100,		mkersten,	IBM JDK support
+2006-03-07, ui,			128567, Wang Bin,			<10,		mkersten,	clean-up of interest filter addition
+2006-03-07, ui,			130698, Wang Bin,			<10,		mkersten,	redraw optimization
+2006-03-07, ui,			128569, Wang Bin,			<10,		mkersten,	control flow optimization
+2006-03-09, tasklist,	130459,	Eugene Kuleshov, 	<100,		mkersten,	support for non-URL based repositories
+2006-03-15, bugzilla, 	130435, Ian Whalley,		<10,		mkersten,	NPE guards 
+
+0.5.0
+date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
+2006-03-28, jira,		133483,	Brock Janiczak,		<10,		mkersten,	switch to selection listeners
+2006-03-28, ide,		131422,	Brock Janiczak,		<10,		mkersten,	3.2M6 API port
+2006-03-28, bugzilla,	134352,	Brock Janiczak,		<10,		mkersten,	query layout
+2006-04-04, monitor,	133233, Brian De Alwis,		<100,		mkersten,	made obfuscation optional 
+ 
+0.5.1 
+2006-04-18, ide,		136899,	Brock Janiczak,		<10,		mkersten,	3.2RC1 compatability
+2006-04-18, ide,		135538,	Gunnar Wagenknecht,	<10,		mkersten,	3.2RC1 compatability
+2006-04-27, jira,		129086, Brock Janiczak,		<1000,		mkersten,	JIRA query wizard
+2006-04-27, jira,		129086, Eugne Kuleshov,		<1000,		mkersten,	JIRA query wizard
+
+0.5.2
+2006-05-04, monitor,	139293,	Leah Findlater,		<10,		mkersten,	made questionnaire page optional
+2006-05-11, bugzilla,	141251,	Brock Janiczak,		<100,		mkersten,	progress for settings validation
+2006-05-12, tasklist,	132656, Stefan Langer,		<100,		mkersten,	disabling of internal browser
+2006-05-16, tasklist,	141656,	Brock Janiczak,		<10,		mkersten,	based on constraint
+2006-05-16, jira,		139320,	Brock Janiczak,		<100,		mkersten,	update for new JIRA APIs
+2006-05-17, jira,		139320,	Brock Janiczak,		<1000,		mkersten,	form-based JIRA editor
+2006-05-17, tasklist,	142362, Brian de Alwis,		<10,		mkersten,	check for running workbench
+2006-05-18, bugzilla,	117035,	David Barri,		<100,		relves,		fixes for alternate encodings
+
+0.5.3
+2006-05-23,	tasklist,	142898,	Raphael Ackermann, 	<10,		relves,		search attribute update streamlining
+2006-05-25,	core,		102663,	Brian de Alwis,		<1000,		mkersten,	multiple window support
+2006-05-30, jira,		139314, Eugene Kuleshov,	<100,		mkersten,	jira query editing
+2006-06-02, ide,		142875,	Brock Janiczak,		<100,		mkersten,	subclipse change sets
+2006-06-06, bugzilla,	102851,	Jeff Pound,			<100,		relves,		attachments
+2006-06-12, ide,		146385,	Gunnar Wagenknecht, <10,		mkersten,	subclipse loading
+2006-06-13, ide,		146806, Raphael Ackermann,	<10,		mkersten,	log messages
+
+0.6.0
+2006-06-14,	tasklist,	146396,	Eugene Kuleshov,	<100,		mkersten,	repository settings page refactoring
+2006-06-15, java.tests,	147041,	Raphael Ackermann, 	<10,		mkersten,	test tear down fix
+2006-06-16, trac,		145794, Steffen Pingel,		<1000,		mkersten,	test cases for Trac integration
+2006-06-16,	jira,		143612,	Eugene Kuleshov,	<100,		mkersten,	new jira task integration
+2006-06-19, bugzilla,	146868, Nathan Hapke,		<1000,		relves,		bugzilla time tracking attributes with unit tests
+2006-06-19,	tasklist,	146617,	Steffen Pingel, 	<10,		mkersten,	handle format fix
+2006-06-20, tasklist,	145194,	Felix Schwarz,		<100,		mkersten,	test and patch for determining children
+2006-06-21, ide,		145074,	Gunnar Wagenknecht, <1000,		mkersten,	team provider extension point
+2006-06-21, trac,		147816, Steffen Pingel,		<1000,		mkersten,	trac core and model
+2006-06-21, trac,		147817, Steffen Pingel,		<100,		mkersten,	connector settings
+2006-06-21, trac,		148090, Steffen Pingel,		<1000,		mkersten,	query support
+2006-06-22, bugzilla,	144256, Nathan Hapke,		<100,		mkersten,	ssl connection fix
+2006-06-25, ide,		148512,	Brock Janiczak,		<1000,		mkersten,	commit support for team providers
+2006-06-25, tasklist,	147752, Izzet Safer, 		<10,		mkersten,	exception handling fix
+2006-06-26,	tasklist,	102851,	Jeff Pound,			<1000,		mkersten,	attachment table
+2006-06-26, tasklist,	145787,	Jeff Pound,			<100,		mkersten,	attachment actions
+2006-06-26,	jira,		148178,	Brock Janiczak,		<100,		mkersten,	JIRA authentication fix
+2006-06-27,	tasklist,	148760,	Jeff Pound,			<100,		mkersten,	attachment names fix
+2006-06-28,	bugzilla,	142891,	Jeff Pound,			<1000,		mkersten,	search param persistence
+2006-06-28,	tasklist,	148378,	Steffen Pingel,		<100,		mkersten,	settings page flexibility
+
+0.6.1
+2006-07-04,	monitor,	145437,	Brian de Alwis,		<100,		mkersten,	monitor lifecycle listenting
+2006-07-04,	trac,		147817,	Steffen Pingel,		<1000,		mkersten,	trac connector settings
+2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
+2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
+2006-07-05, trac,		148378,	Steffen Pingle,		<100,		mkersten,	settings page flexibility and tests
+2006-07-06, bugzilla	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
+2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
+2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
+2006-07-10,	bugzilla,	148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
+2006-07-11,	bugzilla,	150065,	Brock Jankiczak,	<10,		mkersten,	gzip stream support
+2006-07-11,	jira,		149939,	Steffen Pingel,		<100,		mkersten,	test case for repository notification
+2006-07-11,	tasklist,	150041,	Izzet Safer,		<10,		mkersten,	task deletion improvement
+2006-07-11,	tasklist,	149850, Willian Mitsuda,	<100,		mkersten,	refresh shortcut
+2006-07-12,	tasklist,	135605,	Jeff Pound,			<1000,		mkersten,	create features from Error Log
+2006-07-12,	tasklist,	150327,	Eugene Kuleshov,	<1000,		mkersten,	repository templates
+2006-07-14,	trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
+2006-07-14, trac,		150683,	Steffen Pingel,		<10,		mkersten,	null check
+2006-07-14,	trac,		150677,	Steffen Pingel,		<100,		mkersten,	repository template
+2006-07-14,	trac,		150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
+2006-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
+2006-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
+2006-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
+2006-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
+2006-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
+2006-07-27, tasks,		147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
+2006-07-27, jira,		149605,	Eugene Juleshov,	<1000,		mkersten,	JIRA query form improvements
+2006-07-27,	trac,		151077,	Steffen Pingel,		<100,		mkersten,	digest authentication
+2006-07-27,	tasks,		150884,	Steffen Pingel,		<100,		mkersten,	new web task wizard refactoring
+2006-07-27, tasks,		151896,	Nathan Hapke,		<100,		mkersten,	SSL fix
+2006-07-27, bugzilla,	143567,	Jeff Pound,			<1000,		mkersten,	duplicate detection
+2006-07-27,	trac,		150890,	Steffen Pingel,		<100,		mkersten,	url format fix
+2006-07-29, bugzilla,	148903,	Jeff Pound,			<100,		mkersten,	context attachmenet ui
+2006-07-30,	jira,		150695,	Eugene Kuleshov,	<100,		mkersten,	patch with bug 149605
+2006-07-30,	trac,		150456,	Steffen Pingel,		<1000,		mkersten,	test migration to mylar.eclipse.org server
+
+0.6.2
+2006-08-02,	trac,		152325,	Steffen Pingel,		<100,		mkersten,	attribute update
+2006-08-02,	trac,		147609,	Steffen Pingel,		<100o,		mkersten,	new task creation fix
+2006-08-02, tasks,		151907, Steffen Pingel,		<100,		relves,		generalize the attribute for attachment filenames
+2006-08-02, tasks,		149866, Jeff Pound,			<100,		relves,		immediate upload from new attachment wizard
+2006-08-03, tasks,		149095,	Jeff Pound,			<1000,		mkersten,	attachment improvements
+2006-08-03, tasks,		149865,	Jeff Pound,			<10,		mkersten,	line wrap fix
+2006-08-03, tasks,		152760,	Eugene Kuleshov,	<100,		mkersten,	template for google hosting
+2006-08-03,	context,	150892,	Izzet Safer,		<100,		mkersten,	apply mylar handler
+2006-08-03, monitor,	152377,	Nathan Hapke,		<10,		mkersten,	var assignment fix
+2006-08-09, bugzilla,	153147, Jeff Pound,			<100,		relves,		attach context option in attachment wizard 
+2006-08-09, tasks,		152903, Felix Schwarz,		<10,		relves,		bypass connector type selection if only one exists
+2006-08-09, bugzilla,	153152, Jeff Pound,			<10,		relves,		auto select patch/attach context if .patch file attached
+2006-08-11, trac,		153496,	Steffen Pingel,		<10,		relves,		fix for html entities
+2006-08-12, trac,		142783, Steffen Pingel		<10,		relves,		layout fix for generalized search page
+2006-08-12, trac,		153539, Steffen Pingel		<100,		relves,		generalized issue search for trac
+2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		added editor action: open in default editor 
+2006-08-15, bugzilla,	149867,	Jeff Pound,			<100,		relves,		editor action: Adds Open With Text, moves "Open With" to submenu
+2006-08-15, context,	153960, Nathan Hapke,		<10,		relves,		unzip in ZipFileUtil now returns list of files unzipped
+2006-08-18, tasks,		148720, Nathan Hapke,		<10,		relves,		refactor of method in InProgressTaskCollector
+2006-08-18, trac,		150670, Steffen Pingel,		<1000,		relves,		attribute persistance for trac
+2006-08-18, tasks,		154379, Steffen Pingel,		<10,		relves,		description displayed in notification if report has no comments
+2006-08-18, bugzilla,	152279,	Jeff Pound,			<100,		mkersten,	stack trace tetst
+2006-08-21, tasks,		154377, Steffen Pingel,		<100,		relves,		made description field editable if allowed
+2006-08-21, bugzilla,	154434, Steffen Pingel,		<100,		relves,		display outline for new bug editor
+2006-08-21, trac,		154464, Steffen Pingel,		<100,		relves,		only accept valid trac web pages
+2006-08-21, tasks,		154441, Steffen Pingel,		<1000,		relves,		validate upload and download capability
+2006-08-21, tasks,		154372, Steffen Pingel,		<100,		relves,		operations failing when access is anonymous 
+2006-08-21, docs,		154430, Steffen Pingel,		<100,		mkersten,	trac project sets
+2006-08-23,	tasks,		154798, Steffen Pingel,		<1000,		mkersten,	query externalization improvements
+2006-08-23, trac,		154798,	Steffen Pingel,		<100,		mkersten,	repository migration fix
+2006-08-24, tasks,		154877,	Steffen Pingel,		<100,		relves,		use common date format in task editor
+2006-08-25,	trac,		151899,	Steffen Pingel,		<100,		mkersten,	repository task data extensions
+2006-08-25, tasks,		152234,	Willian Mitsuda,	<1000,		mkersten,	open/activate task dialogs
+2006-08-25, tasks,		103093,	Jeff Pound,			<1000,		relves,		spell checking of comment fields
+2006-09-03, tasks,		155712,	Eugene Kuleshov,	<1000,		mkersten,	concurrency fixes
+
+0.7.0
+2006-08-28, bugzilla,	153018,	Nathan Hapke,		<100,		relves,		improvements to headless tests
+2006-08-28, tasks,		155153,	Eugene Kuleshov,	<1000,		relves,		add repository action added to repository selection
+2006-08-31,	tasks,		155261, Steffen Pingel,		<100,		relves,		moved externalization code from BugzillaTaskExternalizer to DelegationTaskExternalizer
+2006-09-07, sandbox,	155904,	Eugene Kuleshov,	<100,		mkersten,	http refresh fix
+2006-09-07, sandbox,	155861,	Eugene Kuleshov,	<100,		mkersten,	mantis template
+2006-09-07,	tasks,		150339,	Willian Mitsuda,	<100,		mkersten,	layout improvements
+2006-09-14, tasks,		155309,	Willian Mitsuda,	<10,		mkersten,	new group for actions
+2006-09-14, tasks,		142703,	Yuri V. Baburov,	<1000,		relves,		task activity timing patch with unit tests
+2006-09-20, tasks,		157704, John Anvik,			<10,		relves,		added setting to not decode attributes in html stream tokenizer  
+2006-09-29, jira,		159340, Eugene Kuleshov,	<100,		mkersten,	query dialog fix
+2006-09-29, tasks,		157579, Willian Mitsuda 	<100,		relves,		sorting of attachments section in editor and retrieve contexts wizard
+2006-10-04, tasks,		159749, Willian Mitsuda 	<10,		relves,		task editor expand all comments performance improvements
+
+0.8.0
+2006-10-02, tasks,		159400, Willian Mitsuda 	<1000,		relves,		changed add existing task to execute in background thread
+2006-10-10, tasks,		160232,	Raphael Ackermann,	<100,		mkersten,	category menu formatting fix
+2006-10-11, tasks,		160315,	Raphael Ackermann,	<1000,		mkersten,	on the fly category creation
+2006-10-11, tasks,		157700,	Ducky Sherwood,		<10,		relves,		rename of user name field in task repository preference page
+2006-10-15, team,		117517,	Eike Stepper,		<1000,		mkersten,	commit comment templates	
+2006-10-16, tasks,		160686,	Raphael Ackermann,	<10,		mkersten,	single selection fix
+2006-10-19, tasks,		143323,	Willian Mitsuda,	<100,		mkersten,	spacing fix
+2006-10-21, tasks		161806, Willian Mitsuda,	<100,		mkersten,	task progress bar fix
+
+0.9.0
+2006-10-23, tasks,		161835, Eugene Kuleshov,	<1000,		relves,		automatic repository/product selection for new task actions
+2006-10-25, tasks,		162130, Eugene Kuleshov,	<1000,		relves,		addition of http auth credentils for web connector
+2006-10-31,	sandbox,	162569,	Jochen Hiller,		<10,		mkersten,	web repository template fix
+2006-11-01, tasks,		163000,	Meghan Allen,		<10,		mkersten,	class typo
+2006-11-02, tasks,		163282,	Eugene Kuleshov,	<100,		mkersten,	made change set adaptable to task
+2006-11-02, tasks,		163286,	Willian Mitsuda,	<100,		mkersten,	population of task open dialog
+2006-11-02, tasks,		163286,	Eugene Kuleshov,	<100,		mkersten,	population of task open dialog
+2006-11-02, sandbox,	158069,	Eugene Kuleshov, 	<1000,		mkersten,	sandbox connector UI streamlining
+2006-11-06, sandbox,	163448,	Eugene Kuleshov,	<100,		mkersten,	null arg fix
+2006-11-06,	sandbox, 	163451,	Eugene Juleshov,	<10,		mkersten,	null check
+2006-11-06, tasks,		162285, Willian Mitsuda,	<10,		mkersten, 	caret position fix
+2006-11-06, tasks,		161837, Willian Mitsuda,	<1000,		mkersten, 	filing of new tasks to category
+2006-11-07,	tasks,		139212,	Eugene Kuleshov,	<1000,		mkersten,	url represtation of JIRA queries
+2006-11-08, sandbox,	163736,	Eugene Kuleshov,	<100,		mkersten,	bad param fix
+2006-11-08, bugzilla,	151622, Eugene Kuleshov,	<10,		relves,		comment numbers added to outline
+2006-11-08, tasks,		151622,	Eugene Kuleshov,	<100,		mkersten,	comment numbers
+2006-11-08, monitor,	163579,	Meghan Allen,		<10,		mkersten,	perspective collection fix
+2006-11-09, monitor,	163615,	Meghan Allen,		<10,		mkersten,	collection fix
+2006-11-09, monitor,	163712,	Meghan Allen,		<10,		mkersten,	formatting fix
+2006-11-08, tasks,		158976,	Eugene Kuleshov,	<100,		mkersten,	template fixes
+
+1.0RC1
+2006-11-14, bugzilla,	161618, Willian Mitsuda,	<100,		relves,		filtered tree in bugzilla product selection
+2006-11-14, tasks,		161820, Steffen Pingel,		<1000,		relves,		synchronization warning in tasklist (icon) and tooltip  
+2006-11-14,	tasks,		164232,	Eugene Kuleshov,	<100,		mkersten,	html comment fix
+2006-11-14, monitor,	164398,	Brian de Alwis,		<10,		relves,		synched htmltag update over to monitor.usage  
+2006-11-15, trac,		164536, Steffen Pingel,		<1000,		relves,		people section lifted into abstract editor, made available in trac editor
+2006-11-15, tasks,		164219,	Eugene Kuleshov,	<100,		mkersten,	error handling
+2006-11-15, tasks,		164752, Steffen Pingel,		<100,		relves,		add me to cc field not being saved in editor
+2006-11-20,	doc,		165271,	Joseph Marques,		<10,		mkersten,	psf file fix
+2006-11-21,	monitor,	163728,	Meghan Allen,		<1000,		mkersten,	reportign wizard	
+2006-11-21, tasks,		165035, Eugene Kuleshov,	<100,		mkersten,	template escaping fix
+2006-11-23, tasks,		165088, Willian Mitsuda,	<1000,		mkersten,	open remote task dialog
+2006-11-24, tasks,		151602,	Erkki Lindpere,		<1000,		mkersten,	login for web connector
+2006-11-24, tasks,		165755, Eugene Kuleshov,	<10,		mkersten,	double click fix
+2006-11-26,	tasks,		165169,	Willian Mitsuda,	<100,		mkersten,	image preview fix
+2006-11-26,	tasks,		165853,	Willian Mitsuda,	<100,		mkersten,	mantix template fix
+2006-11-26, tasks,		165816,	Eugene Kuleshov,	<100,		mkersten,	failing test fix
+2006-11-27,	tasks		165852,	Willian Mitsuda,	<100,		mkersten,	login fix
+2006-11-27, tasks,		165581,	Willian Mitsuda,	<1000,		mkersten,	open repository task action
+
+1.0RC2
+2006-12-04,	tasks,		166296,	Willian Mitsuda,	<100,		relves,		reply line wrapping fix
+2006-12-04,	tasks,		166609,	Eugene Kuleshov,	<1000,		relves,		asynchronous task list save
+
+1.0.1
+2006-12-12,	bugzilla,	167227,	Torkild Ulvøy Resheim,	<10,	relves,		bugzilla connector query support for new Bugzilla 2.23
+2006-12-18, monitor,	165800, Taivo Evard,		<100,		mkersten,	encodings fix
+2006-12-18,	tasks,		168248,	Willian Mitsuda,	<100,		mkersten,	task dialog open policy
+2006-12-22, tasks,		167282, Erkki Lindpere,		<10,		mkersten,	redirect fix
+2006-12-22, tasks,		168782, Redsolo,			<100,		mkersten,	empty repository list saving fix
+
+Zest Sandbox
+2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs
+2006-06-11,	zest,		146300,	Chris Bennett,		<500,		irbull,		Extended Layout API to include bendpoints
+2006-07-27,	zest,		151889,	Del Myers,			<1500,		irbull,		Nested Graph Viewer is coupled with a tree viewer and a bread-crumb widget.
+2006-07-28,	zest,		152180,	Del Myers,			<1000,		irbull,		Added self loops to graphs
+2006-07-28,	zest,		114452,	Del Myers,			<1000,		irbull,		Allow multiple connections between nodes
+2006-08-1,	zest,		151327,	Del Myers,			<1000,		irbull,		"New Feature: providers for colours and fonts, etc on nodes and connections."
+2006-08-1,	zest,		152284,	Del Myers,			<1500,		irbull,		Remove NestedFreeFormLayer
+2006-08-1,	zest,		152393,	Del Myers,			<500,		irbull,		Make top level node selectable in nested graph
+2006-08-8,	zest,		150585,	Del Myers,			<1500,		irbull,		Arcs don't connect entities not visible in nested graph
+2006-08-8,	zest,		153170,	Del Myers,			<500,		irbull,		Arcs on visible nodes in the client/supplier panes should not be visible if they don't have an end in the main pane
+2006-08-9,	zest,		153221,	Del Myers,			<1000,		irbull,		Add Marquee selection to root level in Nested Viewewr
+2006-08-9,	zest,		153348,	Del Myers,			<100,		irbull,		Nested graphs aren't styled correctly
+2006-08-9,	zest,		152613,	Del Myers,			<1000,		irbull,		Add support for client / supplier panes in the Nested Viewer
+2006-08-9,	zest,		150449,	Chris Bennett,		<1000,		irbull,		Refactoring changes to include constraints
+2006-08-16,	zest,		153466,	Del Myers,			<3000,		irbull,		client/supplier panes in the nested viewer cause problems on large graphs
+2006-08-16,	zest,		154076,	Raphael Ackermann,	<50,		irbull,		running StaticGraphicalViewer using a Job results in SWTException: Invalid thread access
+2006-08-17,	zest,		152530,	Del Myers,			<1500,		irbull,		Add Bezier Connections
+2006-08-21,	zest,		154176,	Del Myers,			<100,		irbull,		Clipping region for bezier curves doesn't take label into consideration
+2006-08-21,	zest,		154256,	Del Myers,			<500,		irbull,		Client/supplier nodes are no longer selectable in the nested graph
+2006-08-21,	zest,		154421,	Del Myers,			<100,		irbull,		Static graph viewer not cleared properly when new input is set.
+2006-09-07, zest,		154259, Del Myers, 			<1000,		irbull,		Abstract graph model nodes and connections into interfaces
+2006-09-07, zest,		156266,	Del Myers,			<10,		irbull,		setupLayout does not handle cases where no objects should appear in the layout: ClassCastException in AbstractLayoutAlgorithm.setupLayout when using a filter
+2006-09-11, zest, 		156528, Del Myers,			<100,		irbull,		StaticStaticGraphViewer does not take JFace Viewer Filters into account
+2006-09-12, zest,		154063,	Raphael Ackermann,	<10,		irbull, 	ClassCastException when Empty Selection in Zest View
+2006-09-12,	zest,		156915,	Del Myers,			<10,		irbull,		Nested Graph viewer no longer shrinks with the view port
+2006-10-25, zest,		162306, Del Myers,			<2500,		irbull,		This is actually a patch for a number of smaller changes
+2006-10-25, zest,		159645,	Del Myers,			see 162306,	irbull,		wrong size calculation in StaticGraphViewerImpl.applyLayoutInternal
+2006-10-25, zest,		159647,	Del Myers,			see 162306,	irbull,		Zooming problem in views
+2006-10-25, zest,		159656, Del Myers,			see 162306,	irbull,		tag bug comments are starting to be disorganized
+2006-10-25,	zest,		159667,	Del Myers,			see 162306,	irbull,		ZoomContributionViewItem doesn't check for widget disposal.
+2006-10-25,	zest,		160368, Del Myers,			see 162306, irbull,		label placement on arcs
+2006-10-25,	zest,		160931,	Del Myers,			see 162306,	irbull,		Automatic colouring/width-adjustment based on edge weight causes unexpected results.
+2006-11-15,	zest,		163098, Del Myers,			<500,		irbull,		Rectangle focus tool doesn't work properly in overviewer
+2006-11-15,	zest,		160367, Del Myers,			<2000,		irbull,		Zest: dynamically changeable colors and styles
+2006-12-19,	zest,		162309, Del Myers,			1,			irbull,		Enforce bounds style required on Zest layout package
+
+------------------------- 0.4.0 to 0.4.10 -------------------------
+
+Developers 
+see http://www.eclipse.org/mylar/doc/new-0.4.html
+
+-------------------------      0.3      -------------------------
+
+Developers
+see http://www.eclipse.org/mylar/doc/dev/changes.html
+

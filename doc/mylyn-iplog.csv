@@ -127,10 +127,11 @@ Developers
 2007-06-06,	tasks,		144161,	Leo Dos SAntos,		<250,		mkersten,	task trim
 2007-06-13, tasks		188429, Shawn Minto,		<100,		mkersten, 	resource leak fixes
 2007-06-13, tasks		192064, Shawn Minto,		<10,		relves, 	incoming not showing in archive
-2007-06-13,	tasks,		144161,	Leo Dos SAntos,		<100,		relves,		task trim improvements including popup menu
+2007-06-13,	tasks,		144161,	Leo Dos Santos,		<100,		relves,		task trim improvements including popup menu
 2007-06-13, tasks,		165380, Willian Mitsuda,	<20,		relves,		add Show in Task List to editor popup
 2007-06-13, monitor,	188499,	Meghan Allen,		<250,		mkersten,	monitor servlet fix
 2007-06-15, tasks,		192883, Balazs Brinkus,		<10,		mkersten,	ID fix
+2007-06-15, tasks,		186493,	Leo Dos Santos,		<250,		mkersten,	working set switcher
 
 
 ------------------------- 0.4.10 - 1.0.1 -------------------------

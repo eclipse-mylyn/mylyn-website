@@ -31,7 +31,7 @@
 <div id="maincontent">
 	<div id="midcolumn">  
         <div align="left">
-	        <table border="0">
+	        <table border="0"> 
 	        	<tr>
 	        		<td valign="top"><p>
 			        <img src="images/feature.gif">
@@ -120,6 +120,7 @@
 			</ul>
 		</div>
  
+ 		<!--
         <div class="homeitem3col">
 			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
@@ -132,6 +133,7 @@
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>
 			</ul>
 		</div>
+		-->
 
        	<div align="left">
 			<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.

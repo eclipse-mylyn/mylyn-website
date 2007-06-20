@@ -55,10 +55,10 @@
 			<h3>2.0RC1 Update Sites</h3>
 			<ul>
 				<li>
-					<b>http://download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)	
+					<b>download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)	
 	        	</li>
-	        	<li>
-					<b>http://download.eclipse.org/tools/mylyn/update/extras</b>
+	        	<li> 
+					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
 				<li>

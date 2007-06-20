@@ -52,7 +52,18 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>2.0M3 Update Sites (Recommended)<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>2.0RC0 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<b>http://download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)
+					<br><i>Eclipse SDK Integration, Bugzilla Connector, JIRA Connector</i>	        	
+	        	</li>
+	        	<li>
+					<b>http://download.eclipse.org/tools/mylyn/update/extras</b> (Eclipse 3.3RC1 and later)
+					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
+	        	</li>
+			</ul>
+			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.3.zip&r=1">

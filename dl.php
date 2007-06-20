@@ -62,7 +62,7 @@
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
 				<li>
-					<b>Eclipse 3.2 site to come...</b> (Eclipse 3.3RC1 and later)	
+					<b>Eclipse 3.2 site to come...</b>	
 	        	</li>
 				
 			</ul>

@@ -52,7 +52,7 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>2.0RC0 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>2.0RC0 Update Sites</h3>
 			<ul>
 				<li>
 					<b>http://download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)	

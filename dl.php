@@ -73,7 +73,7 @@
 						<img border=0 src="images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M3-e3.3.zip&r=1">
                     	<img border=0 src="images/icon-source.gif"></a>
-					<b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b> (Eclipse 3.3M7 and later)
+					<b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b> (Eclipse 3.3RC)
 	        	</li>
 			</ul>
 			<ul>

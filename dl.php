@@ -46,7 +46,7 @@
 			        <p>See: <a href="http://wiki.eclipse.org/index.php/Mylar_Extensions">Mylar Extensions</a> for additional downloads</p>
 			        </td>
 			     <td>
-					<img src="/mylar/images/install-overview.gif">
+					<!--<img src="/mylar/images/install-overview.gif">-->
 			     </td>
 			    </tr>
 			</table>

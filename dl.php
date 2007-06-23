@@ -52,7 +52,7 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>2.0RC1 Update Sites</h3>
+			<h3>2.0RC3 Update Sites</h3>
 			<ul>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)	

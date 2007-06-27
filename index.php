@@ -75,7 +75,7 @@
 	        </table>
         </div>
         <!--
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>Community</h3>
 			<ul>
 				<li>

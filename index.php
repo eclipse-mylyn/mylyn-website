@@ -2,7 +2,7 @@
 
 # Begin: page-specific settings.  Change these. 
 $pageTitle 		= "Eclipse Mylyn Open Source Project";
-$pageKeywords	= "Mylyn, Eclipse";
+$pageKeywords	= "Mylyn, Eclipse, Tasks, Bugs, Focus, UI";
 $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML

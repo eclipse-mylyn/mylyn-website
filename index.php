@@ -66,6 +66,8 @@
 	          </tr>
 	        </table>
         </div>
+</div>
+
         <!--
 		
 		<div class="homeitem3col">
@@ -94,14 +96,8 @@
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
 			</div> 
-		
-		<div align="left">
-			<p>&nbsp</p>
-		</div>
-		-->
-</div>
 
-     <!--
+
       			<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
 				<select name="rating">
@@ -121,11 +117,7 @@
 				<input type="hidden" name="req" value="addrating">
 				<input type="submit" value="Submit">
 				</form>
-     -->
-     
-     <!--
-     
-     <!--
+
 		<li>
 			<a href="http://eclipsecon.org/2007"><img border=0 src="images/logo-eclipsecon.gif"></a>
 		<br>				
@@ -165,7 +157,7 @@
 		<li>
 			<a href="http://eclipse.org/mylar/doc/release-1.0.php">Mylar 1.0 released</a> (Dec 11, 2006)
 		</li>
-		-->
+	-->
 							
 
 EOHTML;

@@ -30,7 +30,7 @@ $html = <<<EOHTML
 						<td width=20></td>
 						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
 						<td>
-							<table border="0" cellpadding="5">
+							<table border="0" cellpadding="0">
 								<tr>
 				          			<td><h2><a href="/mylyn/downloads">Downloads</a></h2></td>
 								</tr>
@@ -44,9 +44,9 @@ $html = <<<EOHTML
 						<td width=20></td>
 						<td><a href="/mylyn/downloads"><img border=0 src="images/community.jpg"></a></td>
 						<td>
-							<table border="0" cellpadding="5">
+							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><a href="/mylyn/downloads"><h2>Community</h2></a></td>
+				          			<td><h2><a href="/mylyn/downloads">Community</a></h2></td>
 								</tr>
 								<tr>
 					          		<td>get help and interact with users and developers</td>

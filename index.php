@@ -19,7 +19,7 @@
 	
 	$html = <<<EOHTML
   
-<div id="midcolumn" style="width:92%">
+<div id="midcolumn" style="width:95%">
 	  	<div align="left">
 			<table border="0" cellpadding="0>
 	          <tr>
@@ -57,7 +57,7 @@
 							Mylyn 2.0 will be part of the default Eclipse downloads as of June 29th.
 						</li>
 						<li>
-							FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a><br>, Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
+							FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a>, Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
 						</li>
 						<li>
 							...

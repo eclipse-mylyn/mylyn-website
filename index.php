@@ -29,9 +29,10 @@ $html = <<<EOHTML
 					<tr>
 						<td width=20></td>
 						<td>
-							<table border="0" cellpadding="10">
+							<table border="0" cellpadding="5">
 								<tr>
 				          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads</a></td>
+								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>
 					          	</tr>

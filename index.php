@@ -10,7 +10,7 @@ $html = <<<EOHTML
 <div id="midcolumn" style="width:92%">
 	<table border="0" cellpadding="0>
      	<tr>
-      		<td valign="top" aligh=left>
+      		<td valign="top">
 	          	<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
       		</td>
         	<td valign="top">

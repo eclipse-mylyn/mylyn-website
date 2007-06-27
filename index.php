@@ -53,12 +53,11 @@
 			          					          		</td>
 			          	</tr>
 			         </table>
-			         <br>&nbsp;
 					<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
 						<li>
-							Mylyn 2.0 will be part of the default Eclipse downloads.
+							Mylyn 2.0 will be part of the default Eclipse downloads as of June 29th.
 						</li>
 						<li>
 							FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a><br>
@@ -168,11 +167,13 @@
 			         -->
 	
 	</div>
+	<!--
 	<div id="rightcolumn">
 		$commonside
 		$feedbackside 
 		$newsside
 	</div>
+	-->
 </div>
 
 EOHTML;

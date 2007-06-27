@@ -7,8 +7,8 @@ $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:92%">
-	<table border="0" cellpadding="0">
+<div id="midcolumn" style="width:98%">
+	<table border="0" cellpadding="20">
      	<tr> 
       		<td valign="top">
 	          	<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>

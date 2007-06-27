@@ -20,7 +20,6 @@
 	$html = <<<EOHTML
   
 <div id="midcolumn" style="width:92%">
-	<div id="midcolumn">
 	  	<div align="left">
 			<table border="0" cellpadding="0">
 	          <tr>
@@ -140,7 +139,6 @@
 			<p>&nbsp</p>
 		</div>
 		-->
-	</div>
 </div>
 
      <!--

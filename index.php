@@ -61,6 +61,33 @@
 			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"><h2>Community</h2>: get help and interact with other users and developers</a></td>
 			          	</tr>
 			         </table>
+			         
+					<div class="homeitem3col">
+					<h3>Community</h3>
+					<ul>
+						<li>
+			                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
+							users newsgroup:</a> users discussions and support
+							<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">[archive]</a>
+							<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[old archive]</a></li>
+						<li>
+			                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">
+							mylyn-announce@eclipse.org:</a> major releases and events
+							<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-announce/maillist.html">[archive]</a>
+							<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[old archive]</a></li>
+						<li>
+			                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
+							mylyn-integrators@eclipse.org:</a> developer discussions and planning
+							<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
+						<li>
+			                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
+							mylyn-dev@eclipse.org:</a> developer discussions and planning
+							<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]
+							<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
+						<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+							Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
+					</ul>
+					</div> 
 			  	</td>
 			  	<td valign="top">
 	        		<table border="0" cellpadding="0">
@@ -75,34 +102,8 @@
 	        </table>
         </div>
         <!--
-		<div class="homeitem3col">
-			<h3>Community</h3>
-			<ul>
-				<li>
-	                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
-					users newsgroup:</a> users discussions and support
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">[archive]</a>
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[old archive]</a></li>
-				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">
-					mylyn-announce@eclipse.org:</a> major releases and events
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-announce/maillist.html">[archive]</a>
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[old archive]</a></li>
-				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
-					mylyn-integrators@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
-				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
-					mylyn-dev@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
-			</ul>
-		</div> 
 		-->
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>News</h3>
 			<ul>
 				<li>

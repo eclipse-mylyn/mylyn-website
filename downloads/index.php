@@ -6,8 +6,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Mylar Downloads";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Eclipse Mylyn Downloads";
+	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
 	# Add page-specific Nav bars here

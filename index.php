@@ -1,28 +1,16 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
-	#*****************************************************************************
-	#
-	#****************************************************************************
+# Begin: page-specific settings.  Change these. 
+$pageTitle 		= "Eclipse Mylyn Open Source Project";
+$pageKeywords	= "Mylyn, Eclipse";
+$pageAuthor		= "Mik Kersten";
 	
-	#
-	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Mylyn Open Source Project";
-	$pageKeywords	= "Mylar, Eclipse";
-	$pageAuthor		= "Mik Kersten";
-	
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-	# End: page-specific settings
-	
-	$html = <<<EOHTML
+$html = <<<EOHTML
   
 <div id="midcolumn" style="width:92%">
   	<div align="left">
 		<table border="0" cellpadding="0>
-          <tr>
+         	<tr>
           		<td valign="top" aligh=left>
         			<table border="0" cellpadding="0">
 						<tr>
@@ -38,16 +26,6 @@
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 					repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work activity to identify information relevant to the task-at-hand, and uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 					</p>
-					<table border="0" cellpadding="10">
-						<tr>
-							<td width=20></td>
-		          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads: get the latest and greatest</a></td>
-		          		</tr> 	 
-			        	<tr>
-			        		<td width=20></td>
-		          			<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with users and developers</a></td>
-		          		</tr>
-		         	</table>
 					<div class="homeitem3col">
 						<h3>News</h3>
 						<ul>
@@ -63,7 +41,7 @@
 						 </ul>	
 					</div> 
 		  		</td>
-          </tr>
+          	</tr>
         </table>
 	</div>
 </div>

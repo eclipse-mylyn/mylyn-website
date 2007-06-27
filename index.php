@@ -39,7 +39,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-							Mylyn 2.0 gets released on June 29th and will be packaged as part of the default Eclipse downloads.
+							<a href="http://www.eclipse.org/europa/">Europa</a> and Mylyn 2.0 are coming June 29th!
+						</li>
+						<li>
+							Mylyn will be packaged as part of the <a href="http://www.eclipse.org/downloads/indexProto.php"default Eclipse downloads</a>.
 						</li>
 						<li>
 							The project has been renamed from Mylar to Mylyn.  See the <a href="rename.php">FAQ</a> and read the <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a> blog entry.

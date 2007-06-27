@@ -32,33 +32,34 @@
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 					repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work activity to identify information relevant to the task-at-hand, and uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, planning, reusing past efforts, and sharing expertise.
 			  		<br>&nbsp;<br>
-			  		<a href="bugs.php">
-					<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
-					<select name="rating">
-					<option selected>10</option>
-					<option>9</option>
-					<option>8</option>
-					<option>7</option>
-					<option>6</option>
-					<option>5</option>
-					<option>4</option>
-					<option>3</option>
-					<option>2</option>
-					<option>1</option>
-					</select>
-					<input type="hidden" name="ratinglid" value="560">
-					<input type="hidden" name="ratinguser" value="outside">
-					<input type="hidden" name="req" value="addrating">
-					<input type="submit" value="Submit">
-					</form>
 					
 					<table border="0" cellpadding="4">
 						<tr>
 			          		<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads: get the latest and greatest</a></td>
 			          	</tr> 	 
 				        <tr>
-			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with other users and developers</a></td>
+			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with other users and developers</a>
+			          		
+			          			<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+								<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
+								<select name="rating">
+								<option selected>10</option>
+								<option>9</option>
+								<option>8</option>
+								<option>7</option>
+								<option>6</option>
+								<option>5</option>
+								<option>4</option>
+								<option>3</option>
+								<option>2</option>
+								<option>1</option>
+								</select>
+								<input type="hidden" name="ratinglid" value="560">
+								<input type="hidden" name="ratinguser" value="outside">
+								<input type="hidden" name="req" value="addrating">
+								<input type="submit" value="Submit">
+								</form>
+			          		</td>
 			          	</tr>
 			         </table>
 			         
@@ -102,7 +103,6 @@
 	        </table>
         </div>
         <!--
-		-->
 		<div class="homeitem3col">
 			<h3>News</h3>
 			<ul>
@@ -113,8 +113,6 @@
 					FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a><br>
 					Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
 				</li>
-			
-				<!--
 				<li>
 					<a href="http://eclipsecon.org/2007"><img border=0 src="images/logo-eclipsecon.gif"></a>
 				<br>				
@@ -151,19 +149,16 @@
 					Usability and User Interface Best Practices in Eclipse</a> panel with Bob Fraser, Mik Kersten and others tba 
 					(March 8, 13:30-14:20)	
 				</li>
-				-->
-				
-				<!--
 				<li>
 					<a href="http://eclipse.org/mylar/doc/release-1.0.php">Mylar 1.0 released</a> (Dec 11, 2006)
 				</li>
-				-->
 			</ul>
 		</div> 
 		
 		<div align="left">
 			<p>&nbsp</p>
 		</div>
+		-->
 	
 	</div>
 	<div id="rightcolumn">

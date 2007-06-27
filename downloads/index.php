@@ -33,21 +33,24 @@
         <div align="left">
 	        <table border="0"> 
 	        	<tr>
-	        		<td valign="top"><img src="/mylyn/images/downloads.gif"><p>
-			        
-			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
-			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
-			        Eclipse views and editors on task context.  We recommend that you use the
-			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
-					<i><b>Use only the "Search for new features.."</i></b> option when installing.
-			        <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
-			        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
-			        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
-			        <p>See: <a href="http://wiki.eclipse.org/index.php/Mylar_Extensions">Mylar Extensions</a> for additional downloads</p>
+	        		<td valign="top">
+	        			<img src="/mylyn/images/downloads.gif">
+	        		</td>
+			        <td>
+				        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
+				        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
+				        Eclipse views and editors on task context.  We recommend that you use the
+				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
+						<i><b>Use only the "Search for new features.."</i></b> option when installing with Eclispe 3.2.
+				    </td>
+				</tr>
+				<tr colspan=2>
+					<td> 
+				       <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
+				        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
+				        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
+				        <p>See: <a href="http://wiki.eclipse.org/index.php/Mylar_Extensions">Mylar Extensions</a> for additional downloads</p>
 			        </td>
-			     <td>
-					<!--<img src="/mylar/images/install-overview.gif">-->
-			     </td>
 			    </tr>
 			</table>
 		</div>

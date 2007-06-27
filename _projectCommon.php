@@ -29,7 +29,7 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;News & Archive", "/mylyn/news", 	"_self", 1);
 
 	$Nav->addNavSeparator("Users", "/mylyn/users.php", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Getting Started", "/mylyn/start", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Start", "/mylyn/start", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylyn/new", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Downloads", "/mylyn/downloads", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Bugs", "/mylyn/bugs", 	"_self", 1);

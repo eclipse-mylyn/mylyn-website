@@ -7,7 +7,7 @@ $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:95%">
+<div id="midcolumn" style="width:93%">
 	<table border="0" cellpadding="5">
      	<tr> 
       		<td valign="top">

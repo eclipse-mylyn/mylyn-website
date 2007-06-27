@@ -37,10 +37,10 @@
 	        			<img src="/mylyn/images/downloads.gif">
 	        		</td>
 			        <td>
-				        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
+				        The minimal Mylyn install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
 				        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 				        Eclipse views and editors on task context.  We recommend that you use the
-				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Download_Mylar">install Mylar</a>.
+				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">install Mylyn</a>.
 						<i><b>Use only the "Search for new features.."</i></b> option when installing with Eclispe 3.2.
 				    </td>
 				</tr>
@@ -49,7 +49,7 @@
 				       <p><b>New to Eclipse?</b> Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 				        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 				        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
-				        <p>See: <a href="http://wiki.eclipse.org/index.php/Mylar_Extensions">Mylar Extensions</a> for additional downloads</p>
+				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads</p>
 			        </td>
 			    </tr>
 			</table>
@@ -68,7 +68,7 @@
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>				
 			</ul>
-			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.3.zip&r=1">

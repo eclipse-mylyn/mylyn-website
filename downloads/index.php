@@ -33,8 +33,8 @@
         <div align="left">
 	        <table border="0"> 
 	        	<tr>
-	        		<td valign="top"><p>
-			        <img src="/mylyn/images/feature.gif">
+	        		<td valign="top"><img src="/mylyn/images/downloads.gif"><p>
+			        
 			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
 			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 			        Eclipse views and editors on task context.  We recommend that you use the

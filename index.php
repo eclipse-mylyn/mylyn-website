@@ -33,7 +33,7 @@
 			          	</tr>
 			        </table>
 	          	</td>
-	          	<td width=14></td>
+	          	<td width=20></td>
 	            <td valign="top">
 	            	<p>
 					Eclipse Mylyn is a task-focused UI that reduces information overload and makes multi-tasking easy.  
@@ -49,6 +49,7 @@
 			          					          		</td>
 			          	</tr>
 			         </table>
+			         <br>&nbsp;
 					<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>

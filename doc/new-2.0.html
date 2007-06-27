@@ -1,9 +1,9 @@
 <html>
 <body bgcolor="FFFFFF">
 
-<p>For the latest New &amp; Noteworthy see:
+<p>For the current New &amp; Noteworthy see: <b>
 <a href="http://www.eclipse.org/mylyn/doc/new.php">
-http://eclipse.org/mylyn/doc/new</a></p>
+http://eclipse.org/mylyn/doc/new</a></b></p>
 
 <table border="1" style="border-collapse: collapse" width="100%" id="table128" cellpadding="4" bordercolor="#FFFFFF">
 	<tr>
@@ -16,12 +16,15 @@ http://eclipse.org/mylyn/doc/new</a></p>
 		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
 	</tr>
 	<tr>
-		<td bgcolor="#E0D0E6"><font size="1">2.0<br>
+		<td bgcolor="#FAF7FB"><font size="1">2.0<br>
 		<i>Jun. 29</i></font></td>
-		<td bgcolor="#E0D0E6" align="center">
+		<td bgcolor="#FAF7FB" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-05-15&chfieldto=2007-06-29&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 		<font size="1">298</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#E0D0E6"><font size="1">Meghan...</font></td>
+		<td bgcolor="#FAF7FB"><font size="1">Key contributions and patches were 
+		provided by Leo Dos Santos, Balazs Brinkus, Shawn Minto, Willian Mitsuda, 
+		Frank Becker, Erik Pearson, Meghan Allen, Christian Dupuis, Tomasz Zarna, 
+		David Green and Mark Phippard.</font></td>
 	</tr>
 	<tr>
 		<td bgcolor="#FAF7FB"><font size="1">2.0M3<br>
@@ -72,6 +75,9 @@ http://eclipse.org/mylyn/doc/new</a></p>
 Mylyn 0.5</a>,&nbsp;
 <a href="http://eclipse.org/mylyn/doc/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/doc/new-0.3.html">
 Mylyn 0.3</a></b></p>
+
+<!--
+
 <p><b>Update Notes</b> <br>
 &nbsp;&nbsp;&nbsp; - We recommend using the Eclipse 3.3M7 release due to the 
 numerous UI improvements (see Eclipse 3.3 only items below).<br>
@@ -85,7 +91,8 @@ update notes</a>.<br>
 &nbsp;&nbsp;&nbsp; - Trac xml-rpc users: you will
 <a href="http://wiki.eclipse.org/index.php/Mylar_FAQ#Trac_Connector">need the 
 latest</a> XmlRpcPlugin.<br>&nbsp;</p>
-<p><b>Mylar -&gt; Mylyn Migration: </b></p>
+
+<p><b>Mylar -&gt; Mylyn Migration</b></p>
 <ul>
 	<li>No uninstall necessary during the update, the old plug-ins will 
 	automatically be disabled.</li>
@@ -105,17 +112,14 @@ at the 2.0 quality level or because they are experimental features.</p>
 	<li>Task Activity report</li>
 	<li>Legend moved to view menu</li>
 </ul>
-
+-->
 <hr>
-
-<h2>Contents</h2>
-<p>&nbsp;</p>
 
 <h2><a name="help">Help</a></h2>
 
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table355">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Welcome Content</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -150,24 +154,25 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table353">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Task and Working Set Switcher</b></p>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<p align="right"><b>Mylyn Working Sets</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p class="MsoPlainText">[The UI idiom is used a lot by Windows Vista 
-			and considerably by Apple apps like iTunes, so while new I think 
-			that it is here to stay. I realize that it takes getting used to, 
-			but I do think that it makes a lot of sense and at least we have not 
-			invented it from scratch. The metaphor is one of &quot;what am I working 
-			on now&quot;? You can then select a working set and within that working 
-			set select a task, and the bar tells you what you're working on. It 
-			also has the very nice and effect of scoping down the Find action to 
-			only the selected working set, and the task switching action to only 
-			the tasks in that working set (while the global task history 
-			switcher still gets to show all working sets).]<p class="MsoPlainText">
-			Clicking on working set will open edit set dialog.&nbsp; Clicking 
-			when none or multiple selected will bring up the edit sets dialog.<p class="MsoPlainText">
-			Need to add stuff to working sets.</td>
+			<p class="MsoPlainText">Mylyn now provides a unified working set 
+			mechanism for tasks and resources.&nbsp; Using the bar on the Task 
+			List create working sets that includes queries, categories and 
+			workspace projects.&nbsp; As long as Eclipse views are set to show 
+			the Window Working Set (this is the default), switching Mylyn 
+			working sets will cause both the Task List and Eclipse views to show 
+			only the elements that have been selected to be part of the working 
+			set when the views are <i>not</i> focused on the Active task.&nbsp; 
+			When views like the Package Explorer are focused and you navigate 
+			across working sets the elements will still populate the view as 
+			expected<p class="MsoPlainText">
+			<img src="images/2.0/working-sets-switch.gif"><p class="MsoPlainText">
+			To edit the working set use the pull-down menu visible above or 
+			click the working set's label.<p class="MsoPlainText">
+			<img src="images/2.0/working-sets-edit.gif"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -314,56 +319,8 @@ at the 2.0 quality level or because they are experimental features.</p>
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table359">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Offline Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Synchronize action on Task List will 
-			retrieve all missing data (good for working offline)</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
 <p>&nbsp;</p>
 <h2><a name="task-editor">Task Editor</a></h2>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table356">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Task Editor improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Task editor buttons can be used for 
-			activation, external browser opening.</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table357">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Offline support</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Robust format, repositories can be put into 
-			offline mode</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table335">
 		<tr>
@@ -457,53 +414,6 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <p>&nbsp;</p>
 <h2><a name="task-repositories">Task Repositories</a></h2>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table358">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Add from Search Results</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Add tasks and queries from search results</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table354">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Local tasks are a repository</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Merged with repository tasks...</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table349">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Misc</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">
-			Creation actions on Task Repositories view.<p class="MsoPlainText">
-			Search repository streamlining.</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table323">
 		<tr>
@@ -736,52 +646,6 @@ at the 2.0 quality level or because they are experimental features.</p>
 <p>&nbsp;</p>
 <h2><a name="connector-jira">Jira Connector (Incubation)</a></h2>
 
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table350">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>JIRA: Content Assist</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">...</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table351">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>JIRA: Operations</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Operations such as reassign are now 
-			supported.</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table352">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>JIRA: Subtasks</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">...</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table344">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
@@ -850,17 +714,6 @@ at the 2.0 quality level or because they are experimental features.</p>
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table319">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
-			<p align="right"><b>JIRA Core Services</b></p>
-			</td>
-			<td valign="top" width="70%">
-			The JIRA feature will now install without requiring additional 
-			downloads from Tigris.org.</td>
-		</tr>
-</table>
-
 <h2>&nbsp; </h2>
 <h2><a name="monitor-usage">UI Usage Reporting (Incubation)</a></h2>
 
@@ -911,25 +764,6 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <p>&nbsp;</p>
 <h2><a name="connector-trac">Trac Connector</a></h2>
-
-<table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table348">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>...</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">The component of a Trac ticket is now 
-			available in the commit template as ${task.product}:<br>
-			186706: Component field missing from changeset comment templates<br>
-			<a style="color: blue; text-decoration: underline; text-underline: single" href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=186706">
-			https://bugs.eclipse.org/bugs/show_bug.cgi?id=186706</a></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
 <table cellpadding="10" cellspacing="0" http://www.eclipse.org/mylar/doc/images/dev/ id="table322">
 		<tr>

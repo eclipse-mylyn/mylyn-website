@@ -32,7 +32,6 @@
 			          		</tr>
 			        	</table>
 	          		</td>
-	          		<td width=20></td>
 	            	<td valign="top">
 	            		<p>
 						Mylyn is a Task-Focused UI for Eclipse that reduces information overload and makes multi-tasking easy.  
@@ -50,18 +49,18 @@
 			          		</tr>
 			         	</table>
 						<div class="homeitem3col">
-						<h3>News</h3>
-						<ul>
-							<li>
-								Mylyn 2.0 will be part of the default Eclipse downloads as of June 29th.
-							</li>
-							<li>
-								FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a>, Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
-							</li>
-							<li>
-								...
-							</li>
-						</ul>	
+							<h3>News</h3>
+							<ul>
+								<li>
+									Mylyn 2.0 will be part of the default Eclipse downloads as of June 29th.
+								</li>
+								<li>
+									FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a>, Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
+								</li>
+								<li>
+									...
+								</li>
+							 </ul>	
 						</div> 
 			  		</td>
 	          </tr>

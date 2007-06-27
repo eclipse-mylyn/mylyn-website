@@ -55,10 +55,10 @@
 					
 					<table border="0" cellpadding="4">
 						<tr>
-			          		<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+			          		<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"><h2>Downloads</h2>: get the latest and greatest</a></td>
 			          	</tr> 	
 				        <tr>
-			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"><h2>Community</h2>: get help and interact with other users and developers</a></td>
 			          	</tr>
 			         </table>
 			  	</td>

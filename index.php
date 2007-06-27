@@ -45,7 +45,7 @@
 			          	</tr> 	 
 				        <tr>
 				        	<td width=20></td>
-			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with other users and developers</a>
+			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with users and developers</a>
 			          		</td>
 			          	</tr>
 			         </table>

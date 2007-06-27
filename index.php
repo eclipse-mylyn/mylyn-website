@@ -7,8 +7,8 @@ $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:98%">
-	<table border="0" cellpadding="20">
+<div id="midcolumn" style="width:96%">
+	<table border="0" cellpadding="10">
      	<tr> 
       		<td valign="top">
 	          	<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
@@ -42,13 +42,10 @@ $html = <<<EOHTML
 							<a href="http://www.eclipse.org/europa/">Europa</a> and Mylyn 2.0 are coming June 29th!
 						</li>
 						<li>
-							Mylyn will be packaged as part of the <a href="http://www.eclipse.org/downloads/indexProto.php"default Eclipse downloads</a>.
+							Mylyn will be packaged as part of the <a href="http://www.eclipse.org/downloads/indexProto.php">default Eclipse downloads</a>.
 						</li>
 						<li>
-							The project has been renamed from Mylar to Mylyn.  See the <a href="rename.php">FAQ</a> and read the <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a> blog entry.
-						</li>
-						<li>
-							...
+							<a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>  Read the <a href="rename.php">Rename FAQ</a>.
 						</li>
 					 </ul>	
 				</div> 

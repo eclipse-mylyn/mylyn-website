@@ -107,10 +107,11 @@
 			<h3>News</h3>
 			<ul>
 				<li>
-					<h2><i>Mylyn 2.0 is coming on June 29th!  Please note that the project rename is still underway and will be completed by the release.  See the <a href="rename.php">Rename FAQ</a> for details.</i></h3>
+					Mylyn 2.0 will be part of the default Eclipse downloads.
 				</li>
 				<li>
-					Mik's blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn.  Long live Mylyn!</a>
+					FAQ: <a href="rename.php">Project renamed from Mylar to Mylyn</a><br>
+					Blog: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>
 				</li>
 			
 				<!--

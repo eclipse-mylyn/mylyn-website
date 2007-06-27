@@ -63,8 +63,17 @@
 					</form>
 			  	</td>
 	          </tr>
+	          <tr>
+	          	<td></td>
+	          	<td>Downloads...</td>
+	          </tr>
+	          <tr>
+	          	<td></td>
+	          	<td>Downloads...</td>
+	          </tr>
 	        </table>
         </div>
+        <!--
 		<div class="homeitem">
 			<h3>Community</h3>
 			<ul>
@@ -93,7 +102,7 @@
 				--> 
 			</ul>
 		</div> 
-		
+		-->
 		<div class="homeitem">
 			<h3>News</h3>
 			<ul>

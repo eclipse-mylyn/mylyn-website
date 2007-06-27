@@ -24,15 +24,15 @@
 			<h3>Selected Articles</h3>
 			<ul>
 				<li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 	            <li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
+		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 	            <li>
-					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html"><img border=0 src="images/icon-webdoc.gif">
+					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-one.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 					Five Reasons to Love Mylar: Part One</a>
 					by Wayne Beaton <span class="dates">(Dec 7, 2006)</span>, 
 					<a href="http://wbeaton.blogspot.com/2006/12/five-reasons-to-love-mylar-part-two.html">
@@ -51,20 +51,20 @@
 			<h3>Selected Presentations</h3>
 			<ul>
 				<li>
-					<a href="publications/2006-10-mylar-webinar.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="images/icon-flash.gif">
+					<a href="publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
 					Webinar: Task-Focused Programming with Mylar</a> by Mik Kersten (56 min, Oct 2006)
                 </li>
 	            <li>
-		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="images/icon-podcast.gif">
+		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="/mylyn/images/icon-podcast.gif">
 	            	Eclipsing Information Overload</a> Mik Kersten interviewed by Jonathan Erickson (Dr.Dobbs Podcast, Dec 2006)
 	            </li>
 	            <li>
-		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="images/icon-ppt.gif">
+		            <a href="publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
 	            </li>			
 	            <li>
-	            	<a href="publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="images/icon-ppt.gif">
+	            	<a href="publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	Mylar: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
 	            </li>
 			</ul> 
@@ -75,24 +75,24 @@
 			<ul>
 				<!--
 	            <li>
-		            <a href="publications/2006-07-mylar-ieee.pdf"><img border=0 src="images/icon-pdf.gif">
+		            <a href="publications/2006-07-mylar-ieee.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">
 	            	How are Java software developers using the Eclipse IDE?</a> by Murphy, Kersten and Findlater. 
 	            	(July 2006, IEEE Software article<a href="#ieee-copyright">*</a>)
 	            </li>
 	            -->
 	            <li>
-		            <a href="publications/2006-11-mylar-fse.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2006-11-mylar-fse.pdf"><img border=0 src="images/icon-pdf.gif">
+		            <a href="publications/2006-11-mylar-fse.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+		            <a href="publications/2006-11-mylar-fse.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">
 		            Using task context to improve programmer productivity</a> by Mik Kersten and Gail Murphy (Nov 2006, <a href="http://www.cs.uoregon.edu/fse-14/">Foundations of Software Engineering</a> conference paper)
 	            </li>
 	            <li>
-		            <a href="publications/2006-11-mylar-cscw.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2006-11-mylar-cscw.pdf"><img border=0 src="images/icon-pdf.gif">
+		            <a href="publications/2006-11-mylar-cscw.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+		            <a href="publications/2006-11-mylar-cscw.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">
 		            WYSIWYN: Using Task Focus to Ease Collaboration</a> by Mik Kersten, Rob Elves and Gail Murphy (Nov 2006, <a href="http://software-research.ca/social-se/">CSCW</a> workshop paper)
 	            </li>
 	            <li>
-		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="images/icon-pdf.gif">
+		            <a href="publications/2005-03-mylar-aosd-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+		            <a href="publications/2005-03-mylar-aosd.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">
 		            Mylar: a degree-of-interest model for IDEs</a> by Mik Kersten and Gail Murphy (Mar 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> conference paper)
 	            </li>
 			</ul> 

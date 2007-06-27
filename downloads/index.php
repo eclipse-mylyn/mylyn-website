@@ -34,7 +34,7 @@
 	        <table border="0"> 
 	        	<tr>
 	        		<td valign="top"><p>
-			        <img src="images/feature.gif">
+			        <img src="/mylyn/images/feature.gif">
 			        The minimal Mylar install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
 			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 			        Eclipse views and editors on task context.  We recommend that you use the
@@ -65,22 +65,22 @@
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>				
 			</ul>
-			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.3.zip&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M3-e3.3.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 					<b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b> (Eclipse 3.3RC)
 	        	</li>
 			</ul>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.2.zip&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M3-e3.2.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 					<b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
@@ -91,18 +91,18 @@
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3 (Eclipse 3.3M4)
 	        	</li>
 			</ul>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.2.tgz&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2 (Eclipse 3.2)
 	        	</li>
 			</ul>
@@ -113,9 +113,9 @@
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-site-0.6.0-e3.1.tgz&r=1">
-						<img border=0 src="images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-src-0.6.0-e3.1.zip&r=1">
-                    	<img border=0 src="images/icon-source.gif"></a>	
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>	
 					0.6.0: http://download.eclipse.org/technology/mylar/update-site/0.6/e3.1 (Eclipse 3.1) 
 	        	</li>
 				<li>Older: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
@@ -124,13 +124,13 @@
  
  		<!--
         <div class="homeitem3col">
-			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
+			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					3.3M7: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3
 				</li>
 				<li>
-					3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2
+					3.2: http://download.eclipse.org/technology/mylar/update-site/dev/e3.2 
 				</li>
 				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>
 			</ul>

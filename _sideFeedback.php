@@ -2,9 +2,12 @@
     $feedbackside = <<<EOHTML
 	<div class="sideitem">
 		<h6>Feedback</h6>
-		<font size=1>
+		<font size=2>
+		<!--
 		<a href="bugs.php">Vote for connectors</a>
-		<br><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+		<br>
+		-->
+		<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 			<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Comment via EPIC</a>
 			<select name="rating">
 			<option selected>10</option>

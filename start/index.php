@@ -27,8 +27,11 @@
 		For questions about using Mylyn see the <a href="users.php">Users</a> page.
          
         <div class="homeitem3col">
-			<h3>Getting started</h3> 
+			<h3>Getting Started</h3> 
 			<ul>
+				<li>
+					<i>Articles and webinar for Mylyn 2.0 coming soon</i>
+				</li>
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
 					Webinar: Task-Focused Programming with Mylyn</a> by Mik Kersten (56 min, Oct 2006)
@@ -46,12 +49,12 @@
 	            </li>
 			</ul>
 		</div>      
-		
+
+		<!--		
 		<p>In addition to providing personal task management and support for task contexts, Mylyn has the following 
 		task/issue/bug/report repository integration.  The deeper the integration, the better and more streamlined
 		the user experienece.</p>
 
-		<!--
         <div class="homeitem3col">
 			<h3>Levels of Repository Integration</h3>
 			<ul>

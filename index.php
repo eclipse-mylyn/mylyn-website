@@ -32,7 +32,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><a href="/mylyn/downloads">Downloads</a></td>
+				          			<td><h3><a href="/mylyn/downloads">Downloads</a></h3></td>
 								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>

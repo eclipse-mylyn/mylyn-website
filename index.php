@@ -31,7 +31,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="5">
 								<tr>
-				          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads</a></td>
+				          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"><h2>Downloads</h2></a></td>
 								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>

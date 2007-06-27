@@ -52,19 +52,18 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>2.0RC3 Update Sites</h3>
+			<h3>2.0RC Update Sites</h3>
 			<ul>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3RC1 and later)	
 	        	</li>
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/e3.2</b> (Eclipse 3.2)	
+	        	</li>
 	        	<li> 
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
-	        	</li>
-				<li>
-					<b>Eclipse 3.2 site to come...</b>	
-	        	</li>
-				
+	        	</li>				
 			</ul>
 			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>

@@ -21,11 +21,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-	<!--
-		We are actively seeking and supporting <a href="dev.php">contributions</a> 
-		in the form of code, ideas, and documentation.</p>
- 	-->
-
+		<br>&nbsp;
 		<div class="homeitem3col">
 			<h3>About Mylyn</h3>
 			<ul>

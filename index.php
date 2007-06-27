@@ -49,7 +49,6 @@
 			          		</td>
 			          	</tr>
 			         </table>
-			         <br>&nbsp;
 					<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>

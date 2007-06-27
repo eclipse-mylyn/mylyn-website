@@ -31,7 +31,7 @@
 	        		<table border="0" cellpadding="0">
 						<tr>
 	          	    	  <td>
-			          		<a href="doc/images/tasklist-spash.jpg"><img border=0 src="images/screenshot-mylar-small.gif">
+			          		<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
 			          	  </td>
 			          	</tr>
 			        </table>
@@ -65,12 +65,12 @@
 	          </tr>
 	          <tr>
 	          	<td></td>
-	          	<td>Downloads...</td>
+	          	<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
 	          </tr>
 	          
 	          <tr>
 	          	<td></td>
-	          	<td>Community...</td>
+	          	<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
 	          </tr>
 	          
 	        </table>

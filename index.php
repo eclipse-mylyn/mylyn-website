@@ -55,8 +55,8 @@ $html = <<<EOHTML
 						</td>
 	          		</tr>
 	         	</table>
-	         	<br>&nbsp;
 				<div class="homeitem3col">
+					<br>&nbsp;
 					<h3>News</h3>
 					<ul>
 						<li>

@@ -27,15 +27,6 @@
 	  	<div align="left">
 			<table border="0" cellpadding="4">
 	          <tr>
-	          	<td valign="top">
-	        		<table border="0" cellpadding="0">
-						<tr>
-	          	    	  <td>
-			          		<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
-			          	  </td>
-			          	</tr>
-			        </table>
-	          	</td>
 	            <td valign="top">
 					Eclipse Mylyn is a task-focused UI that reduces information overload and makes multi-tasking easy.  
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
@@ -61,18 +52,26 @@
 					<input type="hidden" name="req" value="addrating">
 					<input type="submit" value="Submit">
 					</form>
+					
+					<table border="0" cellpadding="4">
+						<tr>
+			          		<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+			          	</tr> 	
+				        <tr>
+			          		<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+			          	</tr>
+			         </table>
 			  	</td>
+			  	<td valign="top">
+	        		<table border="0" cellpadding="0">
+						<tr>
+	          	    	  <td>
+			          		<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
+			          	  </td>
+			          	</tr>
+			        </table>
+	          	</td>
 	          </tr>
-	          <tr>
-	          	<td></td>
-	          	<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
-	          </tr>
-	          
-	          <tr>
-	          	<td></td>
-	          	<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
-	          </tr>
-	          
 	        </table>
         </div>
         <!--

@@ -29,16 +29,11 @@
 	          <tr>
 	          	<td valign="top">
 	        		<table border="0" cellpadding="0">
-	          	    	<tr>
+						<tr>
 	          	    	  <td>
-			          		<a href="doc/images/mylar-overview.gif"><img border=0 src="images/screenshot-mylar-small.gif">
+			          		<a href="doc/images/tasklist-spash.jpg"><img border=0 src="images/screenshot-mylar-small.gif">
 			          	  </td>
 			          	</tr>
-			          	<tr>
-			          	  <td>
-			          	    <a href="doc/images/mylar-overview.gif"><div align=center>Screenshot</div></a>
-			              </td>
-			            </tr>
 			        </table>
 	          	</td>
 	            <td valign="top">

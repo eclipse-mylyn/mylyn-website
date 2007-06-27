@@ -6,7 +6,7 @@ $pageKeywords	= "Mylyn, Eclipse";
 $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML
-  
+
 <div id="midcolumn" style="width:92%">
 	<table border="0" cellpadding="0>
      	<tr>
@@ -17,6 +17,9 @@ $html = <<<EOHTML
       			xxx
       		</td>
       	</tr>
+    </table>
+</div>			
+
       	<!--
         	<td valign="top">
         		<p>
@@ -56,8 +59,6 @@ $html = <<<EOHTML
 	  		</td>
       	</tr>
       	-->
-    </table>
-</div>			
 
 EOHTML;
 

@@ -33,7 +33,7 @@
 			          	</tr>
 			        </table>
 	          	</td>
-	          	<td width=8></td>
+	          	<td width=14></td>
 	            <td valign="top">
 	            	<p>
 					Eclipse Mylyn is a task-focused UI that reduces information overload and makes multi-tasking easy.  
@@ -141,13 +141,6 @@
 		</div>
 		-->
 	</div>
-	<!--
-	<div id="rightcolumn">
-		$commonside
-		$feedbackside 
-		$newsside
-	</div>
-	-->
 </div>
 
      <!--

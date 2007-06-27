@@ -36,8 +36,6 @@
 			          	</tr>
 			        </table>
 	          	</td>
-	          	<td width=6>
-	          	</td>
 	            <td valign="top">
 					Eclipse Mylyn is a task-focused UI that reduces information overload and makes multi-tasking easy.  
 					It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for

@@ -1,6 +1,12 @@
 <?php
     $feedbackside = <<<EOHTML
 	<div class="sideitem">
+		<!--
+		<font size=2>
+		<a href="bugs.php">Vote for connectors</a>
+		<br>
+		-->
+	
 		<h6>Feedback</h6>
 		<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 			<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Comment via EPIC</a>
@@ -26,8 +32,3 @@
 EOHTML
 
 ?>
-		<!--
-				<font size=2>
-		<a href="bugs.php">Vote for connectors</a>
-		<br>
-		-->

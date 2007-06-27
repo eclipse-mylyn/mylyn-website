@@ -28,11 +28,11 @@ $html = <<<EOHTML
 				<table border="0" cellpadding="5">
 					<tr>
 						<td width=20></td>
-						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></td>
+						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
 						<td>
 							<table border="0" cellpadding="5">
 								<tr>
-				          			<td><h2>Downloads</h2></a></td>
+				          			<td><h2><a href="/mylyn/downloads">Downloads</a></h2></td>
 								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>
@@ -40,9 +40,19 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr> 	 
-		        	<tr>
-		        		<td width=20></td>
-	          			<td><a href="/mylyn/community"><img border=0 src="images/community.jpg">Community: get help and interact with users and developers</a></td>
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/downloads"><img border=0 src="images/community.jpg"></a></td>
+						<td>
+							<table border="0" cellpadding="5">
+								<tr>
+				          			<td><a href="/mylyn/downloads"><h2>Community</h2></a></td>
+								</tr>
+								<tr>
+					          		<td>get help and interact with users and developers</td>
+					          	</tr>
+							</table>
+						</td>
 	          		</tr>
 	         	</table>
 				<div class="homeitem3col">

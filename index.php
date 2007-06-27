@@ -17,12 +17,9 @@
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	# End: page-specific settings
 	
-	include("_sideCommon.php");
-	include("_sideFeedback.php");
-	include("_sideNews.php");
 	$html = <<<EOHTML
   
-<div id="maincontent">
+<div id="midcolumn" style="width:92%">
 	<div id="midcolumn">
 	  	<div align="left">
 			<table border="0" cellpadding="0">
@@ -143,29 +140,6 @@
 			<p>&nbsp</p>
 		</div>
 		-->
-		
-					         <!--
-			          			<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-								<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
-								<select name="rating">
-								<option selected>10</option>
-								<option>9</option>
-								<option>8</option>
-								<option>7</option>
-								<option>6</option>
-								<option>5</option>
-								<option>4</option>
-								<option>3</option>
-								<option>2</option>
-								<option>1</option>
-								</select>
-								<input type="hidden" name="ratinglid" value="560">
-								<input type="hidden" name="ratinguser" value="outside">
-								<input type="hidden" name="req" value="addrating">
-								<input type="submit" value="Submit">
-								</form>
-			         -->
-	
 	</div>
 	<!--
 	<div id="rightcolumn">
@@ -175,6 +149,28 @@
 	</div>
 	-->
 </div>
+
+     <!--
+      			<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
+				<select name="rating">
+				<option selected>10</option>
+				<option>9</option>
+				<option>8</option>
+				<option>7</option>
+				<option>6</option>
+				<option>5</option>
+				<option>4</option>
+				<option>3</option>
+				<option>2</option>
+				<option>1</option>
+				</select>
+				<input type="hidden" name="ratinglid" value="560">
+				<input type="hidden" name="ratinguser" value="outside">
+				<input type="hidden" name="req" value="addrating">
+				<input type="submit" value="Submit">
+				</form>
+     -->
 
 EOHTML;
 

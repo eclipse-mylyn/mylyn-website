@@ -25,9 +25,9 @@
 <div id="maincontent">
 	<div id="midcolumn">
 	  	<div align="left">
-			<table border="0" cellpadding="4">
+			<table border="0" cellpadding="0">
 	          <tr>
-	          	<td valign="top">
+	          	<td valign="top" aligh=left>
 	        		<table border="0" cellpadding="0">
 						<tr>
 	          	    	  <td>
@@ -35,6 +35,8 @@
 			          	  </td>
 			          	</tr>
 			        </table>
+	          	</td>
+	          	<td width=6>
 	          	</td>
 	            <td valign="top">
 					Eclipse Mylyn is a task-focused UI that reduces information overload and makes multi-tasking easy.  

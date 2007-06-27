@@ -28,13 +28,15 @@ $html = <<<EOHTML
 				<table border="0" cellpadding="5">
 					<tr>
 						<td width=20></td>
-						<table border="0" cellpadding="10">
-							<tr>
-			          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads</a></td>
-							<tr>
-				          		<td>Get the latest and greatest</td>
-				          	</tr>
-						</table>
+						<td>
+							<table border="0" cellpadding="10">
+								<tr>
+				          			<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif">Downloads</a></td>
+								<tr>
+					          		<td>Get the latest and greatest</td>
+					          	</tr>
+							</table>
+						</td>
 	          		</tr> 	 
 		        	<tr>
 		        		<td width=20></td>

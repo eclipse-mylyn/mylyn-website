@@ -14,7 +14,7 @@ $html = <<<EOHTML
 	          	<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
       		</td>
       		<td>
-      			xxx
+      			Update in progress
       		</td>
       	</tr>
     </table>

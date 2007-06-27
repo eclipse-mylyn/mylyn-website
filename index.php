@@ -15,6 +15,7 @@ $html = <<<EOHTML
       		</td>
       		<td>
         	<td valign="top">
+        		<br>&nbsp;
         		<p>
 				Mylyn is a Task-Focused UI for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
@@ -32,7 +33,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><h3><a href="/mylyn/downloads">Downloads</a></h3></td>
+				          			<td><font size=+2><a href="/mylyn/downloads">Downloads</a></font></td>
 								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>

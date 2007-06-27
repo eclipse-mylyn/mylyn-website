@@ -33,7 +33,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><font size=+2><a href="/mylyn/downloads">Downloads</a></font></td>
+				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
 								</tr>
 								<tr>
 					          		<td>Get the latest and greatest</td>
@@ -47,7 +47,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><h2><a href="/mylyn/downloads">Community</a></h2></td>
+				          			<td><font size=+1><a href="/mylyn/downloads">Community</a></font></td>
 								</tr>
 								<tr>
 					          		<td>get help and interact with users and developers</td>

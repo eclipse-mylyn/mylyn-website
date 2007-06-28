@@ -43,7 +43,7 @@ $html = <<<EOHTML
 	          		</tr> 	 
 	          		<tr>
 						<td width=20></td>
-						<td><a href="/mylyn/downloads"><img border=0 src="images/community.jpg"></a></td>
+						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>

@@ -36,7 +36,7 @@
 		</table>
          
 		<div class="homeitem3col">
-			<h3>Community</h3>
+			<h3>Newsgroup and Mailing Lists</h3>
 			<ul>
 				<li>
 	                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
@@ -61,6 +61,11 @@
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div> 
+		<p>
+			<br>&nbsp;
+			<br>&nbsp;
+		</p>
+		
 </div>
 
 

@@ -9,7 +9,7 @@
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/doc/new.html";
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new.html";
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {

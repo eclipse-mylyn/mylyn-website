@@ -26,6 +26,7 @@ $html = <<<EOHTML
 				planning, reusing past efforts, and sharing expertise.
 
 				<table border="0" cellpadding="5">
+					<tr height=5>
 					<tr>
 						<td width=20></td>
 						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>

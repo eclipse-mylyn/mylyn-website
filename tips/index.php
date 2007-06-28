@@ -6,8 +6,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Mylar Tips and Tricks";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Mylyn Tips and Tricks";
+	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Rob Elves";
 	
 	# Add page-specific Nav bars here
@@ -80,8 +80,8 @@
 		</div>
 		
 		<div class="homeitem">
-			<h3>UI Legend (Ctrl+Alt+Shift+?)</h3>
-			<div align="center"><img src="images/ui-legend.gif"></div>
+			<h3>UI Legend (Ctrl+Alt+Shift+?)</h3> 
+			<div align="center"><img src="/mylyn/images/ui-legend.gif"></div>
 		</div>
 	</div>
 </div>

@@ -55,7 +55,7 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr>
-	          		<tr height=7>
+	          		<tr height=9>
 	          		</tr>
 	         	</table>
 				<div class="homeitem3col">

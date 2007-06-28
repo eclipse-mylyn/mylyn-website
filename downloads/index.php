@@ -119,7 +119,7 @@
 		</div>
 
         <div class="homeitem3col">
-			<h3>0.x Archive Sites</h3>
+			<h3>0.6 Archive Sites</h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-site-0.6.0-e3.1.tgz&r=1">

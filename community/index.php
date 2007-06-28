@@ -27,80 +27,40 @@
         <table border="0"> 
         	<tr>
         		<td valign="top">
-        			<img src="/mylyn/images/bug-report.png">
+        			<a href="/mylyn/bugs"><img src="/mylyn/images/bug-report.png"></a>
         		</td>
 		        <td>
-			        The minimal Mylyn install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
-			        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
-			        Eclipse views and editors on task context.  We recommend that you use the
-			        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">install Mylyn</a>.
-					<i><b>Use only the "Search for new features.."</i></b> option when installing with Eclispe 3.2.
+			        The preferred way of reporting and discussing defects and enhancement requests is via <a href="/mylyn/bugs">Bug Reports</a>.
 			    </td>
 			</tr>
 		</table>
          
-        <div class="homeitem3col">
-			<h3>Getting Started</h3> 
+		<div class="homeitem3col">
+			<h3>Community</h3>
 			<ul>
 				<li>
-					<i>Articles and webinar for Mylyn 2.0 coming soon</i>
-				</li>
+	                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
+					users newsgroup:</a> users discussions and support
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">[archive]</a>
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[old archive]</a></li>
 				<li>
-                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
-					Webinar: Task-Focused Programming with Mylyn</a> by Mik Kersten (56 min, Oct 2006)
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;5-15 min: task management demo
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: task context demo
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks
-                </li>
+	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">
+					mylyn-announce@eclipse.org:</a> major releases and events
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-announce/maillist.html">[archive]</a>
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[old archive]</a></li>
 				<li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-	            <li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-			</ul>
-		</div>      
-
-		<!--		
-		<p>In addition to providing personal task management and support for task contexts, Mylyn has the following 
-		task/issue/bug/report repository integration.  The deeper the integration, the better and more streamlined
-		the user experienece.</p>
-
-        <div class="homeitem3col">
-			<h3>Levels of Repository Integration</h3>
-			<ul>
+	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
+					mylyn-integrators@eclipse.org:</a> developer discussions and planning
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
 				<li>
-                    Web only: Reports linked via drag-and-drop, editing via embedded 
-					browser, 
-					<a href="http://www.eclipse.org/mylar/doc/faq.php#repositories-unsupported">(any web-based repository)</a>
-                </li>
-				<li>
-                    Query support: Repository queries in task list view
-                    <a href="dl.php">(currently Bugzilla, Trac, and JIRA and web connector templates)</a>
-                </li>
-				<li>
-                    Full integration: Authoring of reports within native Eclipse editor, 
-				offline editing, incoming/outgoing status, compare and 
-				change notifications.
-	            <a href="dl.php">(Bugzilla, JIRA and Trac)</a>
-                </li>
-				<li>
-				<a href="bugs.php">
-				<img border=0 src="/mylyn/images/vote.gif"> Vote for a connector</a>
-				if your repository is not supported, or file a new request if not listed.
-				</li>
+	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
+					mylyn-dev@eclipse.org:</a> developer discussions and planning
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div> 
-		-->
-		<p>&nbsp;</p>
-	</div>
-	<!--
-	<div id="rightcolumn">
-		$commonside
-	</div>
-	-->
 </div>
 
 

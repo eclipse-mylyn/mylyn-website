@@ -62,10 +62,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-							<a href="http://www.eclipse.org/europa/">Europa</a> and Mylyn 2.0 are coming June 29th!
+							Upcoming Webinar: <a href="http://live.eclipse.org/node/314">Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> Mik Kersten and Edward Correia
 						</li>
 						<li>
-							Mylyn will be packaged as part of the <a href="http://www.eclipse.org/downloads/indexProto.php">default Eclipse downloads</a>.
+							<a href="http://www.eclipse.org/europa/">Europa and Mylyn 2.0</a> are coming June 29th!
 						</li>
 						<li>
 							<a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>  Read the <a href="rename.php">Rename FAQ</a>.

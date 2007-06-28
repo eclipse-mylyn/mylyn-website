@@ -58,24 +58,24 @@
 			<h3>2.0RC4 Update Sites</h3>
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylar-site-2.0M3-e3.3.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylyn-site-2.0.0-e3.3.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylar-src-2.0M3-e3.3.zip&r=1">
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylyn-site-2.0.0-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 					<b>download.eclipse.org/tools/mylyn/update/e3.3</b> (Eclipse 3.3)
 	        	</li>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylar-site-2.0M3-e3.2.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylyn-site-2.0.0-e3.2.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylar-src-2.0M3-e3.2.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylyn-src-2.0.0-e3.2.zip&r=1">
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
 					<b>download.eclipse.org/tools/mylyn/update/e3.2</b> (Eclipse 3.2)
 	        	</li>
 				<li> 
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
-				</ul>	
+			</ul>	
 			<!--
 			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>

@@ -96,8 +96,8 @@
 					<b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
+		-->
 		</div>
-        -->
         <div class="homeitem3col">
 			<h3>1.0 Archive Sites</h3>
 			<ul>

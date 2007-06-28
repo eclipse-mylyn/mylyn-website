@@ -30,19 +30,13 @@
 <div id="maincontent">
   <div id="midcolumn" style="width:95%">        
         <div class="homeitem3col">
-			<h3>Task List Tips</h3>
+			<h3>Tips</h3>
 			<ul>
 				<li>If a task is stuck with outgoing changes or a mid-air collision occurrs use the <i>Synchronize</i> 
 				action or <i>Mark -> Clear Outgoing</i>.
 	        	</li>       
 	        	<li>The Task List can be restored via its view menu -> Restore Tasks from History...	        
 	        	</li>	
-			</ul>
-		</div>
-		
-		 <div class="homeitem3col">
-			<h3>Task Context Tips</h3>
-			<ul>
 				<li>If a task change set disappears deactivate and reactive the task to refresh.</li>
 				<li>When checking out a new project, deactivate the active task. Otherwise all newly created files will become interesting.</li>
 			</ul>
@@ -80,7 +74,7 @@
 		</div>
 		
 		<div class="homeitem">
-			<h3>UI Legend (Ctrl+Alt+Shift+?)</h3> 
+			<h3>UI Legend (Task List view menu)</h3> 
 			<div align="center"><img src="/mylyn/images/ui-legend.gif"></div>
 		</div>
 	</div>

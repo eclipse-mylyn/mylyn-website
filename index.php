@@ -47,10 +47,10 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><font size=+1><a href="/mylyn/downloads">Community</a></font></td>
+				          			<td><font size=+1><a href="/mylyn/community">Community</a></font></td>
 								</tr>
 								<tr>
-					          		<td>get help and interact with users and developers</td>
+					          		<td>Get help and interact with users and developers</td>
 					          	</tr>
 							</table>
 						</td>

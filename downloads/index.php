@@ -46,7 +46,7 @@
 				</tr>
 				<tr>
 					<td colspan=2>  
-				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads.</p>
+				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads.
 				        New to Eclipse?  Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 				        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 				        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.

@@ -26,21 +26,7 @@ $html = <<<EOHTML
 				planning, reusing past efforts, and sharing expertise.
 
 				<table border="0" cellpadding="5">
-					<tr height=9>
-					<tr>
-						<td width=20></td>
-						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
-						<td>
-							<table border="0" cellpadding="0">
-								<tr>
-				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
-								</tr>
-								<tr>
-					          		<td>Get the latest and greatest</td>
-					          	</tr>
-							</table>
-						</td>
-	          		</tr> 	 
+					<tr height=9>	 
 	          		<tr>
 						<td width=20></td>
 						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
@@ -55,6 +41,20 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr>
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Get the latest and greatest</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr> 
 	          		<tr height=11>
 	          		</tr>
 	         	</table>

@@ -76,6 +76,11 @@ $html = <<<EOHTML
 	        	</li>
 			</ul>	
 		</div>
+
+		<div class="homeitem">
+			<img src="/mylyn/images/install-overview.gif">
+		</div>
+
 		<div class="homeitem">
 			<h3>Extras</h3>
 			<ul>

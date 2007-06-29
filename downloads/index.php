@@ -67,7 +67,7 @@ $html = <<<EOHTML
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
                     -->
-					<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 	        	</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.2.zip&r=1">
@@ -76,7 +76,7 @@ $html = <<<EOHTML
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
                     -->
-					<b>download.eclipse.org/tools/mylyn/update/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
 	        	</li>
 			</ul>	
 		</div>

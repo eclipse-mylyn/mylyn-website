@@ -40,7 +40,7 @@ $html = <<<EOHTML
 				        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
 				        Eclipse views and editors on task context.  We recommend that you use the
 				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">install Mylyn</a>.
-						<i><b>Use only the "Search for new features.."</i></b> option when installing with Eclispe 3.2.
+						Use only the <i>USearch for new features..</i>option when installing with Eclispe 3.2.
 				    </td>
 				</tr>
 				<tr>
@@ -55,6 +55,10 @@ $html = <<<EOHTML
 		</div>
         <div class="homeitem3col">
 			<h3>2.0 Update Sites</h3>
+			<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+			<br>
+		    <b>Supported repositories</b>: 
+		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">
@@ -79,12 +83,10 @@ $html = <<<EOHTML
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
 				<li> 
-					<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-					<br>
-				    <b>Supported repositories</b>: 
-				    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
-	        	</li>
+				</li>
 			</ul>	
+		</div>
+		<div class="homeitem3col">
 			<h3>Extras</h3>
 			<ul>
 				<li> 
@@ -168,7 +170,7 @@ $html = <<<EOHTML
 			<tr height=9>	 
 	  		<tr>
 				<td width=10></td>
-				<td><a href="/mylyn/community"><img border=0 src="/images/bugs.gif"></a></td>
+				<td><a href="/mylyn/community"><img border=0 src="/mylyn/images/bugs.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
@@ -182,7 +184,7 @@ $html = <<<EOHTML
 	  		</tr>
 	  		<tr>
 				<td width=10></td>
-				<td><a href="/mylyn/downloads"><img border=0 src="/images/archives.gif"></a></td>
+				<td><a href="/mylyn/downloads"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>

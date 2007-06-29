@@ -79,8 +79,10 @@ $html = <<<EOHTML
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
 				<li> 
-					<b>download.eclipse.org/tools/mylyn/update/extras</b>
-					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
+					<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+					<br>
+				    <b>Supported repositories</b>: 
+				    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 	        	</li>
 			</ul>	
 			<h3>Extras</h3>
@@ -162,13 +164,6 @@ $html = <<<EOHTML
 		</div>
 		-->
 
-       	<div align="left">
-			<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-			<br>
-		    <b>Supported repositories</b>: 
-		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.3.3 and later.
-		</div> 
-		
 		<table border="0" cellpadding="5">
 			<tr height=9>	 
 	  		<tr>

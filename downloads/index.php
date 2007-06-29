@@ -34,20 +34,20 @@ $html = <<<EOHTML
 	        		<td valign="top">
 	        			<img src="/mylyn/images/downloads.gif">
 	        		</td>
-			        <td>
+			        <td valign="top">
 			        	<p>
-				        The minimal Mylyn install is a standalone Task List.  Optional <a href="start.php">Connectors</a> integrate the
-				        Task List with bug/task/issue repositories.  Bridges focus the user interface on the active task and installing
-				        all available bridges is recommended. 
+				        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
+				        Task List with bug/task/issue trackers and project management tools.  
+				        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 				        </p>
+				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> 
+				        lists additional Connectors and Bridges available for download.
 				        <p>
 						The preferred way of installing is via the 
 						<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">Update Manager</a>.
-						On Eclipse 3.2 use only the <i>USearch for new features..</i> option.
-						
-				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads.
+						On Eclipse 3.2 use only the <i>Search for new features..</i> option.				        
 			        </td>
-			        <td>
+			        <td valign="top">
 				        <img src="/mylyn/images/install-overview.gif">
 				    </td>
 			    </tr>

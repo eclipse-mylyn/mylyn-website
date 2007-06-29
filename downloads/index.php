@@ -55,10 +55,9 @@ $html = <<<EOHTML
 		</div>
         <div class="homeitem3col">
 			<h3>2.0 Update Sites</h3>
-			<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
+			Java: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
 			<br>
-		    <b>Supported repositories</b>: 
-		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
+		    Repositories: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">
@@ -78,12 +77,6 @@ $html = <<<EOHTML
                     -->
 					<b>download.eclipse.org/tools/mylyn/update/e3.2</b> (Eclipse 3.2)
 	        	</li>
-				<li> 
-					<b>download.eclipse.org/tools/mylyn/update/extras</b>
-					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
-	        	</li>
-				<li> 
-				</li>
 			</ul>	
 		</div>
 		<div class="homeitem3col">

@@ -163,6 +163,7 @@ $html = <<<EOHTML
 			<tr height=9>	 
 	  		<tr>
 				<td width=20></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
@@ -176,11 +177,11 @@ $html = <<<EOHTML
 	  		</tr>
 	  		<tr>
 				<td width=20></td>
-				<td><a href="/mylyn/downloads"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td><a href="/mylyn/downloads/archives.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr>
-		          			<td><font size=+0><a href="/mylyn/downloads/archives">Archives</a></font></td>
+		          			<td><font size=+0><a href="/mylyn/downloads/archives.php">Archives</a></font></td>
 						</tr>
 						<tr>
 			          		<td>Get older and unsupported Mylyn releases</td>

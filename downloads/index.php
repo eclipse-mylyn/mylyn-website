@@ -82,8 +82,8 @@ $html = <<<EOHTML
 			<h3>Mylyn Extensions</h3>
 			<ul>
 				<li> 
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-extras.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
 						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br>
 					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>

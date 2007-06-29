@@ -26,7 +26,7 @@
 			<h3>About Mylyn</h3>
 			<ul>
 				<li>
-					A history and credits of Mylyn (prefiously named Mylar) are listed in the <a href="http://eclipse.org/mylar/doc/release-1.0.php">About Mylar 1.0</a>
+					A history and credits of Mylyn (prefiously named Mylar) are listed in the <a href="http://eclipse.org/mylyn/doc/release-1.0.php">About Mylar 1.0</a>
 				</li>
 				<li>
 					The goal of the Mylyn project is to evolve a focused user interface

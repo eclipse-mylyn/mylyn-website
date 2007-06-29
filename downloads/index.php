@@ -84,10 +84,11 @@ $html = <<<EOHTML
 				<li> 
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br>
-					JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting
+					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
 	        	</li>
 	        	<li>
-	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">&nbsp;&nbsp;Third Party Extensions</a>
+	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
+	        		&nbsp;&nbsp;Third Party Extensions</a>: additional connectors and bridges
 				</li>
 			</ul>
 			<!--

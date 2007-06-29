@@ -170,11 +170,10 @@ $html = <<<EOHTML
 			<tr height=9>	 
 	  		<tr>
 				<td width=20></td>
-				<td><a href="/mylyn/community"><img border=0 src="/mylyn/images/bugs.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
-		          			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td>
+		          			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
 						</tr>
 						<tr>
 			          		<td>Report bugs and enhancement requests</td>

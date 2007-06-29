@@ -4,7 +4,7 @@
 	#
 	#****************************************************************************
 	
-	#
+	# 
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Mylar Download Archives";
 	$pageKeywords	= "Mylar, Eclipse";

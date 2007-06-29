@@ -59,7 +59,7 @@
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
 					<!--
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
@@ -68,7 +68,7 @@
 	        	</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.2.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
 					<!--
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
@@ -157,6 +157,41 @@
 		    <b>Supported repositories</b>: 
 		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.3.3 and later.
 		</div> 
+		
+		<table border="0" cellpadding="5">
+			<tr height=9>	 
+	  		<tr>
+				<td width=10></td>
+				<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+		          			<td><font size=+1><a href="/mylyn/bugs">Bugs</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Report bugs and enhancement requests</td>
+			          	</tr>
+					</table>
+				</td>
+	  		</tr>
+	  		<tr>
+				<td width=10></td>
+				<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+		          			<td><font size=+1><a href="/mylyn/downloads/archives">Archives</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Get older and unsupported Mylyn releases</td>
+			          	</tr>
+					</table>
+				</td>
+	  		</tr> 
+	  		<tr height=11>
+	  		</tr>
+	 	</table>
+		
 		<p>&nbsp;</p>
 	</div>
 

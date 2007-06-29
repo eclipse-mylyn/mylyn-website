@@ -35,16 +35,17 @@ $html = <<<EOHTML
 	        			<img src="/mylyn/images/downloads.gif">
 	        		</td>
 			        <td>
-				        The minimal Mylyn install is a standalone Task List.  <a href="start.php">Connectors</a> integrate the
-				        Task List with bug/task/issue repositories, and the Focused UI reduces information overload by focusing
-				        Eclipse views and editors on task context.  We recommend that you use the
-				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">install Mylyn</a>.
-						Use only the <i>USearch for new features..</i>option when installing with Eclispe 3.2.
+			        	<p>
+				        The minimal Mylyn install is a standalone Task List.  Optional <a href="start.php">Connectors</a> integrate the
+				        Task List with bug/task/issue repositories.  Bridges focus the user interface on the active task and installing
+				        all available bridges is recommended. 
+				        </p>
+				        <p>
+						The preferred way of installing is via the 
+						<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">Update Manager</a>.
+						On Eclipse 3.2 use only the <i>USearch for new features..</i> option.
 						
 				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads.
-				        New to Eclipse?  Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
-				        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
-				        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
 			        </td>
 			        <td>
 				        <img src="/mylyn/images/install-overview.gif">

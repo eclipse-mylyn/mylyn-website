@@ -55,9 +55,9 @@ $html = <<<EOHTML
 		</div>
         <div class="homeitem3col">
 			<h3>2.0 Update Sites</h3>
-			Java: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-			<br>
-		    Repositories: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
+			<p>
+			Requirements: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>, <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
+			</p>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">
@@ -109,39 +109,6 @@ $html = <<<EOHTML
 	        	</li>
 			</ul>
 		-->
-		</div>
-        <div class="homeitem3col">
-			<h3>1.0 Archive Sites</h3>
-			<ul>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3 (Eclipse 3.3M4)
-	        	</li>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.2.tgz&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2 (Eclipse 3.2)
-	        	</li>
-			</ul>
-		</div>
-
-        <div class="homeitem3col">
-			<h3>0.6 Archive Sites</h3>
-			<ul>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-site-0.6.0-e3.1.tgz&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-src-0.6.0-e3.1.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>	
-					0.6.0: http://download.eclipse.org/technology/mylar/update-site/0.6/e3.1 (Eclipse 3.1) 
-	        	</li>
-				<li>Older: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
-			</ul>
 		</div>
  
  		<!--

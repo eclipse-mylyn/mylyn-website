@@ -23,10 +23,9 @@
 	
 	include("/mylyn/_sideCommon.php");
 	include("/mylyn/_sideFeedback.php");
-	include("/mylyn/_sideMylarIs.php");
 	include("/mylyn/_sideSubscribe.php");
 		
-	$html = <<<EOHTML
+$html = <<<EOHTML
 
 <div id="maincontent">
 	<div id="midcolumn">  

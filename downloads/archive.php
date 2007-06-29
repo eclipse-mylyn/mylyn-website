@@ -48,7 +48,7 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-src-2.0M2-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>http://download.eclipse.org/tools/mylyn/update-archivee3.3</b> (Eclipse 3.3M6)
+					<b>http://download.eclipse.org/tools/mylyn/update-archive/3.3</b> (Eclipse 3.3M6)
 	        	</li>
 			</ul>
 			<ul>
@@ -57,9 +57,9 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-src-2.0M2-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>http://download.eclipse.org/tools/mylyn/update-archivee3.2</b> (Eclipse 3.2)
+					<b>http://download.eclipse.org/tools/mylyn/update-archive/3.2</b> (Eclipse 3.2)
 	        	</li>
-			</ul>
+			</ul> 
 		</div>
         
         <div class="homeitem3col">

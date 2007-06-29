@@ -31,11 +31,11 @@ $html = <<<EOHTML
         <div align="left">
 	        <table border="0"> 
 	        	<tr>
-	        		<td valign="top">
+	        		<td valign="center">
 	        			<br>&nbsp; 
 	        			<img src="/mylyn/images/downloads.gif">
 	        		</td>
-			        <td valign="top">
+			        <td valign="center">
 			        	<p>
 				        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 				        Task List with bug/task/issue trackers and project management tools.  
@@ -79,7 +79,7 @@ $html = <<<EOHTML
 		</div>
 
 		<div class="homeitem3col">
-			<h3>Extensions</h3>
+			<h3>Mylyn Extensions</h3>
 			<ul>
 				<li> 
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
@@ -87,8 +87,7 @@ $html = <<<EOHTML
 					JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting
 	        	</li>
 	        	<li>
-	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Mylyn Extensions Page</a> 
-					for additional Connectors and Bridges.	
+	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">&nbsp;&nbsp;Third Party Extensions</a>
 				</li>
 			</ul>
 			<!--
@@ -152,7 +151,7 @@ $html = <<<EOHTML
 		          			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Get older and unsupported Mylyn releases</td>
+			          		<td>Developer builds and previous versions</td>
 			          	</tr>
 					</table>
 				</td>

@@ -40,6 +40,42 @@
 			    </tr>
 			</table>
 		</div>
+		
+		<div class="homeitem3col">
+			<h3>1.0 Archive Sites</h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.3.tgz&r=1">
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.3.zip&r=1">
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
+					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.3 (Eclipse 3.3M4)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-site-1.0.1-e3.2.tgz&r=1">
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/1.0/mylar-src-1.0.1-e3.2.zip&r=1">
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
+					http://download.eclipse.org/technology/mylar/update-site/1.0/e3.2 (Eclipse 3.2)
+	        	</li>
+			</ul>
+		</div>
+
+        <div class="homeitem3col">
+			<h3>0.6 Archive Sites</h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-site-0.6.0-e3.1.tgz&r=1">
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/0.6/mylar-src-0.6.0-e3.1.zip&r=1">
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>	
+					0.6.0: http://download.eclipse.org/technology/mylar/update-site/0.6/e3.1 (Eclipse 3.1) 
+	        	</li>
+				<li>Older: http://download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</li>
+			</ul>
+		</div>
+		
+		
         <div class="homeitem3col">
 			<h3>2.0M2 Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="images/icon-help.gif"></a></h3>
 			<ul>

@@ -55,7 +55,7 @@
 			</table>
 		</div>
         <div class="homeitem3col">
-			<h3>2.0RC4 Update Sites</h3>
+			<h3>2.0 Update Sites</h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-site/mylyn-2.0.0-e3.3.zip&r=1">

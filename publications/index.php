@@ -7,7 +7,7 @@
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Selected Publications";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 		
 	# Paste your HTML content between the EOHTML markers!	
@@ -99,14 +99,16 @@
 		</div>
 		<p>
 		
-		For all publications see the <a href="http://www.eclipse.org/mylar/archive.php">Archive page</a>.
+		For all publications see the <a href="http://www.eclipse.org/mylyn/archive.php">Archive page</a>.
 		
-		Also see <a href="http://wiki.eclipse.org/index.php/Mylar_Related_Research_Projects">related research projects</a>
+		Also see <a href="http://wiki.eclipse.org/index.php/Mylyn_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.
 		</p>
 		<!--
 		<p><a name="ieee-copyright">*</a> <font size=-3>Copyright: © 2006 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.</font></p>
 		-->
+	
+		<p>&nbsp;</p>
 	</div>
 	</div>
 	
@@ -115,7 +117,6 @@
 	</div>
 		
 	
-	<p>&nbsp;</p>
 </div>
 
 EOHTML;

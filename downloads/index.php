@@ -32,6 +32,7 @@ $html = <<<EOHTML
 	        <table border="0"> 
 	        	<tr>
 	        		<td valign="top">
+	        			<br>&nbsp; 
 	        			<img src="/mylyn/images/downloads.gif">
 	        		</td>
 			        <td valign="top">

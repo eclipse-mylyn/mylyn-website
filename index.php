@@ -65,7 +65,7 @@ $html = <<<EOHTML
 							Upcoming Webinar: <a href="http://live.eclipse.org/node/314">Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> Mik Kersten and Edward Correia
 						</li>
 						<li>
-							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse downloads</a>.
+							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a>. 
 						</li>
 						<li>
 							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.

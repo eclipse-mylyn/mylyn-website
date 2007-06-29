@@ -55,7 +55,7 @@ $html = <<<EOHTML
 		</div>
         <div class="homeitem3col">
 			<h3>Mylyn 2.0 Update Sites</h3> 
-			<br>&nbsp;&nbsp;&nbsp;Requirements: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Optional: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
+			<br>&nbsp;&nbsp;&nbsp;Required: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Optional: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">

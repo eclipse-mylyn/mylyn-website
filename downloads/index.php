@@ -142,7 +142,7 @@ $html = <<<EOHTML
 					</table>
 				</td>
 				<td width=20></td> 
-				<td><a href="/mylyn/downloads/archives.php"><img border=0 src="/mylyn/images/archive.gif"></a></td>
+				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr>

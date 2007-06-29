@@ -40,19 +40,21 @@ $html = <<<EOHTML
 				        Eclipse views and editors on task context.  We recommend that you use the
 				        Eclipse Update Manager to <a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">install Mylyn</a>.
 						Use only the <i>USearch for new features..</i>option when installing with Eclispe 3.2.
-				    </td>
-				</tr>
-				<tr>
-					<td colspan=2>  
+						
 				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> for additional downloads.
 				        New to Eclipse?  Get <a href="http://java.sun.com/javase/downloads/index.jsp">Java</a>, then 
 				        install <a href="http://download.eclipse.org/eclipse/downloads/drops/R-3.2.1-200609210945/">Eclipse 3.2</a>
 				        and use <i>Help -> Software Updates -> Search for new..</i> with the update site listed below.
 			        </td>
+			        <td>
+				        <img src="/mylyn/images/install-overview.gif">
+				    </td>
 			    </tr>
 			</table>
+
+
 		</div>
-        <div class="homeitem">
+        <div class="homeitem3col">
 			<h3>2.0 Update Sites</h3> 
 			<br>&nbsp;&nbsp;Requirements: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>, <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 			<ul>
@@ -77,11 +79,7 @@ $html = <<<EOHTML
 			</ul>	
 		</div>
 
-		<div class="homeitem">
-			<img src="/mylyn/images/install-overview.gif">
-		</div>
-
-		<div class="homeitem">
+		<div class="homeitem3col">
 			<h3>Extras</h3>
 			<ul>
 				<li> 

@@ -50,7 +50,7 @@ $html = <<<EOHTML
 				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
 								</tr>
 								<tr>
-					          		<td>Get the latest and greatest</td>
+					          		<td>Get the latest and greatest Mylyn release</td>
 					          	</tr>
 							</table>
 						</td>

@@ -78,7 +78,19 @@ $html = <<<EOHTML
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
 	        	</li>
+				<li> 
+					<b>download.eclipse.org/tools/mylyn/update/extras</b>
+					<br><i>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</i>
+	        	</li>
 			</ul>	
+			<h3>Extras</h3>
+			<ul>
+				<li> 
+					<b>download.eclipse.org/tools/mylyn/update/extras</b>
+					<br>
+					JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting
+	        	</li>
+			</ul>
 			<!--
 			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
@@ -161,7 +173,7 @@ $html = <<<EOHTML
 			<tr height=9>	 
 	  		<tr>
 				<td width=10></td>
-				<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+				<td><a href="/mylyn/community"><img border=0 src="/images/bugs.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
@@ -175,7 +187,7 @@ $html = <<<EOHTML
 	  		</tr>
 	  		<tr>
 				<td width=10></td>
-				<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+				<td><a href="/mylyn/downloads"><img border=0 src="/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>

@@ -174,8 +174,6 @@ $html = <<<EOHTML
 			          	</tr>
 					</table>
 				</td>
-	  		</tr>
-	  		<tr>
 				<td width=20></td>
 				<td><a href="/mylyn/downloads/archives.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>

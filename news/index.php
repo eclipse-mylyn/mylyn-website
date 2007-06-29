@@ -24,6 +24,7 @@
   
 <div id="maincontent">
   <div id="midcolumn" style="width:92%">
+  		<i>Last updated 2006-12-15</i> 
   		<div class="homeitem3col">
 			<h3>News Archive</h3>
 			<ul>			

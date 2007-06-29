@@ -41,11 +41,11 @@
                 </li>
 				<li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
+		           	Task Focused Programming with [Mylyn], Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 	            <li>
 		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
+		           	Task Focused Programming with [Mylyn], Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 			</ul>
 		</div>      

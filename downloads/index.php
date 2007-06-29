@@ -43,10 +43,7 @@ $html = <<<EOHTML
 				        The preferred way of installing is via the 
 						<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">Update Manager</a>.
 						On Eclipse 3.2 use only the <i>Search for new features..</i> option.
-				        </p>
-				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">See the Mylyn Extensions Page</a> 
-				        for additional Connectors and Bridges.
-				        </p>				        
+				        </p>			        
 			        </td>
 			        <td valign="top">
 				        <img src="/mylyn/images/install-overview.gif">
@@ -82,13 +79,17 @@ $html = <<<EOHTML
 		</div>
 
 		<div class="homeitem3col">
-			<h3>Extras</h3>
+			<h3>Extensions</h3>
 			<ul>
 				<li> 
 					<b>download.eclipse.org/tools/mylyn/update/extras</b>
 					<br>
 					JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting
 	        	</li>
+	        	<li>
+	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Mylyn Extensions Page</a> 
+					for additional Connectors and Bridges.	
+				</li>
 			</ul>
 			<!--
 			<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>

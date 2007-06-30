@@ -81,6 +81,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col">
 			<h3>Mylyn Extensions</h3>
 			<ul>
+				<br>&nbsp;&nbsp;&nbsp;For additional components use the following update sites			
 				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
@@ -90,7 +91,7 @@ $html = <<<EOHTML
 	        	</li>
 	        	<li>
 	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
-	        		&nbsp;&nbsp;Third Party Extensions</a>: additional connectors and bridges
+	        		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 
 				</li>
 			</ul>
 			<!--

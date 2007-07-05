@@ -7,7 +7,7 @@
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Zest: The Eclipse Visualization Toolkit";
-	$pageKeywords	= "Mylar, Eclipse, Zest, Visualization";
+	$pageKeywords	= "Mylyn, Eclipse, Zest, Visualization";
 	$pageAuthor		= "Ian Bull";
 	
 	# Add page-specific Nav bars here
@@ -34,8 +34,8 @@
 	     <p>
 		<strong>Zest: The Eclipse Visualization Toolkit,</strong> is a set of 
 		visualization components built for Eclipse.  
-		Zest is a component of the Mylar project that 
-		can be used independently of the Mylar IDE 
+		Zest is a component of the Mylyn project that 
+		can be used independently of the Mylyn IDE 
 		support. The entire Zest library has been
 		developed in SWT and integrates seamlessly within Eclipse because of its
 		recognized design.   
@@ -64,14 +64,14 @@
 		<li>
 			<B>Getting Started:</B> Zest can either be used as an SWT "widget" style API or 
 			                       through the user of a viewer.  There are several
-			                       <A HREF="http://www.eclipse.org/mylar/sandbox/zest/zest_snippets.php">code snippets</A> 
+			                       <A HREF="http://www.eclipse.org/mylyn/sandbox/zest/zest_snippets.php">code snippets</A> 
 			                       available to illustrate both approaches. 
                 </li>
 				<li>
 			<B>Download Zest 0.4:</B> <BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A></I><BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A></I><BR>
-			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/technology/mylar/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A></I><BR>
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A></I><BR>
+			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
                 </li>
 		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts
@@ -89,7 +89,7 @@
                         RCP application.				
                 </li>        
                 <li> 
-                        <B>Bugs and Requests: </B> Like Mylar, we use the bug tracking software bugzilla at Eclipse.org.
+                        <B>Bugs and Requests: </B> Like Mylyn, we use the bug tracking software bugzilla at Eclipse.org.
                         Please report bugs and feature requests for Zest through this interface.  For a list
                         of current Zest issues, please refer to this query. <P>
 			If you find a Zest viewer that does not behave the way a JFace viewer does, this is considered
@@ -103,8 +103,8 @@
 			The latest development release is also available from our CVS repository.<BR>
 			Create a new CVS location: <I>dev.eclipse.org/cvsroot/technology</I><BR>
                         <B>Checkout:</B> <BR>
-			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.layouts</I><BR>
-			&nbsp;&nbsp;&nbsp;<I>mylar/sandbox/org.eclipse.mylar.zest.core</I><BR>
+			&nbsp;&nbsp;&nbsp;<I>mylyn/sandbox/org.eclipse.mylyn.zest.layouts</I><BR>
+			&nbsp;&nbsp;&nbsp;<I>mylyn/sandbox/org.eclipse.mylyn.zest.core</I><BR>
                 </li>
 		</ul>
 		</div>  
@@ -113,7 +113,7 @@
 		<h3>Committers</h3>
 		<ul>
 		<li>
-			<a href="http://www.ianbull.com">Ian Bull</a>, Zest Sandbox owner<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=irbull&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+			<a href="http://www.ianbull.com">Ian Bull</a>, Zest Sandbox owner<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=irbull&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
             [77 bugs]</a>
 		</li>
 		</ul>

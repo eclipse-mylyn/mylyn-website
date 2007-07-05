@@ -69,9 +69,9 @@
                 </li>
 				<li>
 			<B>Download Zest 0.4:</B> <BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A></I><BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A></I><BR>
-			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/technology/mylyn/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A></I><BR>
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A></I><BR>
+			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
                 </li>
 		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts
@@ -101,7 +101,7 @@
                 </li>
  		<li>
 			The latest development release is also available from our CVS repository.<BR>
-			Create a new CVS location: <I>dev.eclipse.org/cvsroot/technology</I><BR>
+			Create a new CVS location: <I>dev.eclipse.org/cvsroot/tools</I><BR>
                         <B>Checkout:</B> <BR>
 			&nbsp;&nbsp;&nbsp;<I>mylyn/sandbox/org.eclipse.mylyn.zest.layouts</I><BR>
 			&nbsp;&nbsp;&nbsp;<I>mylyn/sandbox/org.eclipse.mylyn.zest.core</I><BR>

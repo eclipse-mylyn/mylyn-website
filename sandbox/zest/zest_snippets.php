@@ -7,7 +7,7 @@
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Zest Snippets";
-	$pageKeywords	= "Mylar, Eclipse, Zest, Visualization";
+	$pageKeywords	= "Mylyn, Eclipse, Zest, Visualization";
 	$pageAuthor		= "Ian Bull";
 	
 	# Add page-specific Nav bars here
@@ -25,7 +25,7 @@
 <div id="maincontent">
 
 		<div id="midcolumn">
-		<H1><A HREF="http://www.eclipse.org/mylar/zest.php">Zest</a>  -> Zest Snippets</H1>
+		<H1><A HREF="http://www.eclipse.org/mylyn/zest.php">Zest</a>  -> Zest Snippets</H1>
 		Click on a snippet to see the code
 		
 		

@@ -98,6 +98,8 @@ $html = <<<EOHTML
 	<div align="homeitem3col"> 
 		<table border="0" cellpadding="5"> 
 			<tr>
+				<td>xxxx</td>
+				<!--
 				<td width=15></td>
 				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
 				<td>
@@ -122,10 +124,13 @@ $html = <<<EOHTML
 			          	</tr>
 					</table>
 				</td> 
+				-->
 			</tr> 
+			<!--
 			<tr height=11>
 				<td></td>
 			</tr>
+			-->
 		</table>
 
 	</div>

@@ -148,31 +148,14 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Dev Builds <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>Other <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					3.3M7: http://download.eclipse.org/tools/mylyn/update-archivedev/e3.3
+					Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>
 				</li>
-				<li>
-					3.2: http://download.eclipse.org/tools/mylyn/update-archivedev/e3.2
-				</li>
-				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>
 			</ul>
 		</div>
-
-       	<div align="left">
-			<b>Supported platforms</b>: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later required.
-			<br>
-		    <b>Supported repositories</b>: 
-		    <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later, <a href="http://www.atlassian.com/software/jira/">JIRA</a> 3.3.3 and later.
-		</div> 
 		<p>&nbsp;</p>
-	</div>
-
-	<div id="rightcolumn">
-		$commonside
-		$feedbackside
-		$sideSubscribe
 	</div>
 </div>
 

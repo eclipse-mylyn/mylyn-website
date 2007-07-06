@@ -77,7 +77,6 @@ $html = <<<EOHTML
 		</ul>	
 	</div>
 
-	<!--
 	<div class="homeitem3col">
 		<h3>Mylyn Extensions</h3>
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites	 
@@ -95,9 +94,8 @@ $html = <<<EOHTML
 			</li>
 		</ul>
 	</div>
-	-->
 	
-	<div align="left">
+	<div align="homeitem3col"> 
 		<table border="0" cellpadding="5">
 			<tr height=9>	 
 			<tr>

@@ -98,11 +98,12 @@ $html = <<<EOHTML
 		<table border="0" cellpadding="5"> 
 			<tr>
 				<td>
-					xxxxxxx
+					yyy
 				</td>
 			</tr> 
 		</table>
 	
+	<!--
 	<div align="homeitem3col"> 
 		<table border="0" cellpadding="5"> 
 			<tr>
@@ -112,7 +113,7 @@ $html = <<<EOHTML
 			</tr> 
 		</table>
 	</div>
-	
+	-->
 	
 					<!--
 				<td width=15></td>

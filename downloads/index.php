@@ -77,6 +77,41 @@ $html = <<<EOHTML
 		</ul>	
 	</div>
 
+	<div align="left">
+		<table border="0" cellpadding="5">
+			<tr height=9>	 
+			<tr>
+				<td width=15></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
+						</tr>
+						<tr>
+			          		<td>Report bugs and enhancement requests</td>
+			          	</tr>
+					</table>
+				</td>
+				<td width=20></td> 
+				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0"> 
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Developer builds and previous versions</td>
+			          	</tr>
+					</table>
+				</td> 
+			</tr> 
+			<tr height=11>
+			</tr>
+		</table>
+	</div>
+
+
 	<div class="homeitem3col">
 		<h3>Mylyn Extensions</h3>
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites	 
@@ -114,40 +149,6 @@ $html = <<<EOHTML
         	</li>
 		</ul>
 	-->
-	</div>
-	
-	<div align="left">
-		<table border="0" cellpadding="5">
-			<tr height=9>	 
-			<tr>
-				<td width=15></td>
-				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
-				<td>
-					<table border="0" cellpadding="0">
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
-						</tr>
-						<tr>
-			          		<td>Report bugs and enhancement requests</td>
-			          	</tr>
-					</table>
-				</td>
-				<td width=20></td> 
-				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
-				<td>
-					<table border="0" cellpadding="0"> 
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
-						</tr>
-						<tr>
-			          		<td>Developer builds and previous versions</td>
-			          	</tr>
-					</table>
-				</td> 
-			</tr> 
-			<tr height=11>
-			</tr>
-		</table>
 	</div>
 </div>
 

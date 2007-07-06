@@ -52,50 +52,6 @@ $html = <<<EOHTML
 		</table>
 	</div>	
 	
-    <div class="homeitem3col">
-		<h3>Mylyn 2.0 Update Sites</h3> 
-		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
-		<ul>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.3.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-				<!--
-                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.3.zip&r=1">
-                	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-                -->
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-        	</li>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-e3.2.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-				<!--
-                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-src-2.0.0-e3.2.zip&r=1">
-                	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
-                -->
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
-        	</li>
-		</ul>	
-	</div>
-
-	<div class="homeitem3col">
-		<h3>Mylyn Extensions</h3>
-		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites	 
-		<ul>
-			<li> 
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(3.3 and 3.2) 
-				<br>
-				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
-        	</li>
-        	<li>
-        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
-        		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 
-			</li>
-		</ul>
-	</div>
-	
-	
 	<div align="left">
 		<table border="0" cellpadding="5">
 			<tr height=9>	 

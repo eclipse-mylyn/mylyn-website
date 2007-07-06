@@ -50,43 +50,7 @@ $html = <<<EOHTML
 			    </td>
 		    </tr>
 		</table>
-	</div>
-	
-		<div align="left">
-		<table border="0" cellpadding="5">
-			<tr height=9>	 
-			<tr>
-				<td width=15></td>
-				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
-				<td>
-					<table border="0" cellpadding="0">
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
-						</tr>
-						<tr>
-			          		<td>Report bugs and enhancement requests</td>
-			          	</tr>
-					</table>
-				</td>
-				<td width=20></td> 
-				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
-				<td>
-					<table border="0" cellpadding="0"> 
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
-						</tr>
-						<tr>
-			          		<td>Developer builds and previous versions</td>
-			          	</tr>
-					</table>
-				</td> 
-			</tr> 
-			<tr height=11>
-			</tr>
-		</table>
-	</div>
-
-	
+	</div>	
 	
     <div class="homeitem3col">
 		<h3>Mylyn 2.0 Update Sites</h3> 
@@ -129,28 +93,44 @@ $html = <<<EOHTML
         		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 
 			</li>
 		</ul>
-		<!--
-		<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-		<ul>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.3.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M3-e3.3.zip&r=1">
-                	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-				<b>http://download.eclipse.org/technology/mylar/update-site/e3.3</b> (Eclipse 3.3RC)
-        	</li>
-		</ul>
-		<ul>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-site-2.0M3-e3.2.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-src-2.0M3-e3.2.zip&r=1">
-                	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-				<b>http://download.eclipse.org/technology/mylar/update-site/e3.2</b> (Eclipse 3.2)
-        	</li>
-		</ul>
-	-->
 	</div>
+	
+	
+	<div align="left">
+		<table border="0" cellpadding="5">
+			<tr height=9>	 
+			<tr>
+				<td width=15></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
+						</tr>
+						<tr>
+			          		<td>Report bugs and enhancement requests</td>
+			          	</tr>
+					</table>
+				</td>
+				<td width=20></td> 
+				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0"> 
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Developer builds and previous versions</td>
+			          	</tr>
+					</table>
+				</td> 
+			</tr> 
+			<tr height=11>
+			</tr>
+		</table>
+	</div>
+	
+	
 </div>
 
 EOHTML;

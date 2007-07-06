@@ -43,7 +43,7 @@
 			</ul>
 		</div>
 		
-				<!--
+	<!--
 		<h3>2.0M3 Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<ul>
 			<li>
@@ -66,25 +66,23 @@
 	-->
 		
         <div class="homeitem3col">
-			<h3>2.0M2 Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>2.0Mx Update Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-site-2.0M2-e3.3.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-site-2.0M2-e3.3.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-src-2.0M2-e3.3.zip&r=1">
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-src-2.0M2-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>http://download.eclipse.org/tools/mylyn/update-archive/3.3</b> (Eclipse 3.3M6)
+					<b>http://download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.3</b> (Eclipse 3.3M6)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-site-2.0M2-e3.2.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
+                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-src-2.0M2-e3.2.zip&r=1">
+                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
+					<b>http://download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
-			<ul>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-site-2.0M2-e3.2.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-src-2.0M2-e3.2.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>http://download.eclipse.org/tools/mylyn/update-archive/3.2</b> (Eclipse 3.2)
-	        	</li>
-			</ul> 
 		</div>
         
         <div class="homeitem3col">

@@ -96,8 +96,6 @@ $html = <<<EOHTML
 	</div>
 	
 	<div align="homeitem3col"> 
-		xxx 
-		<!--
 		<table border="0" cellpadding="5">
 			<tr height=9>	 
 			<tr>
@@ -127,9 +125,10 @@ $html = <<<EOHTML
 				</td> 
 			</tr> 
 			<tr height=11>
+				<td></td>
 			</tr>
 		</table>
-		-->
+
 	</div>
 	
 	

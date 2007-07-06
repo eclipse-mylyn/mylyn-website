@@ -30,14 +30,17 @@
 
 <div id="maincontent">
 	<div id="midcolumn">  
-        <div align="left">
-	        <table border="0">
-	        	<tr>
-	        		<td valign="top"><p>
-			       		<i>Update in progress...</i>
-			        </td>
-			    </tr>
-			</table>
+	
+		<div class="homeitem3col">
+			<h3>Dev Build Sites <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					3.3: http://download.eclipse.org/technology/mylar/update-site/dev/e3.3
+				</li>
+				<!--
+					<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>
+				-->
+			</ul>
 		</div>
 		
         <div class="homeitem3col">

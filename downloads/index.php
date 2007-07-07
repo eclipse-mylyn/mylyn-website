@@ -98,7 +98,7 @@ $html = <<<EOHTML
 	<div align="homeitem3col">&nbsp;</div>  
 
 	<div align="homeitem3col"> 
-		<table border="0" cellpadding="5"> 
+		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>
 				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>

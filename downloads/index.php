@@ -94,7 +94,11 @@ $html = <<<EOHTML
 			</li>
 		</ul>
 	</div>
-	
+
+	<div align="homeitem3col"> 
+		&nbsp;
+	</div>
+
 	<div align="homeitem3col"> 
 		<table border="0" cellpadding="5"> 
 			<tr>

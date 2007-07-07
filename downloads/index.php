@@ -95,14 +95,6 @@ $html = <<<EOHTML
 		</ul>
 	</div>
 
-	<table border="0" cellpadding="5"> 
-		<tr>
-			<td>
-				yyy
-			</td>
-		</tr> 
-	</table> 
-
 	<div align="homeitem3col"> 
 		11111
 	</div>
@@ -110,27 +102,6 @@ $html = <<<EOHTML
 	<div align="homeitem3col"> 
 		<table border="0" cellpadding="5"> 
 			<tr>
-				<td>
-					22222
-				</td>
-			</tr> 
-		</table>
-	</div>
-
-
-	<!--
-	<div align="homeitem3col"> 
-		<table border="0" cellpadding="5"> 
-			<tr>
-				<td>
-					xxxxx
-				</td>
-			</tr> 
-		</table>
-	</div>
-	-->
-	
-					<!--
 				<td width=15></td>
 				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
 				<td>
@@ -155,6 +126,13 @@ $html = <<<EOHTML
 			          	</tr>
 					</table>
 				</td> 
+			</tr> 
+		</table>
+	</div>
+
+	
+					<!--
+
 				-->
 				
 							<!--

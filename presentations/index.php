@@ -31,10 +31,8 @@
 		            <a href="/mylyn/presentations/2007-04-mylyn-tutorial.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	Mylyn: Tutorial Materials</a> (last updated April 2006, tutorial materials)
 	            </li>
-	            <li>
-	            	For comments and questions use <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=195900">bug 195900</a>
-				</li>
 			</ul> 
+			&nbsp;&nbsp;For comments and questions use <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=195900">bug 195900</a>
 		</div>
 			
 		<div class="homeitem3col">

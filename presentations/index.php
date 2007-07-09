@@ -59,11 +59,9 @@
 	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	[Mylyn]: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
 	            </li>
-			</ul> 
+			</ul>
+			&nbsp;&nbsp;Also see <a href="http://live.eclipse.org">Eclipse Live</a> for more presentations about Eclipse and Mylyn. 
 		</div>
-	
-		<p>Also see <a href="http://live.eclipse.org">Eclipse Live</a> for more presentations about Eclipse and Mylyn.
-	
 		<p>&nbsp;</p>
 	</div>
 	</div>

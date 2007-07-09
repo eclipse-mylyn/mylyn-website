@@ -39,29 +39,6 @@
 		</div>
 			
 		<div class="homeitem3col">
-			<h3>Selected Presentations</h3>
-			<ul>
-				<li>
-					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
-                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
-					Webinar: Task-Focused Programming with [Mylyn]</a> by Mik Kersten (56 min, Oct 2006)
-                </li>
-	            <li>
-		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="/mylyn/images/icon-podcast.gif">
-	            	Eclipsing Information Overload</a> Mik Kersten interviewed by Jonathan Erickson (Dr.Dobbs Podcast, Dec 2006)
-	            </li>
-	            <li>
-		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	[Mylyn]: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
-	            </li>			
-	            <li>
-	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	[Mylyn]: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
-	            </li>
-			</ul> 
-		</div>
-		
-		<div class="homeitem3col">
 			<h3>Research Papers</h3>
 			<ul>
 				<!--

@@ -22,6 +22,9 @@
 			
 		<div class="homeitem3col">
 			<h3>Current Slides</h3>
+			
+			For comments use <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=195900">bug 195900</a>
+			
 			<ul>
 				<li>
 		            <a href="/mylyn/presentations/2007-06-mylyn-talk.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">

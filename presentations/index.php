@@ -51,7 +51,7 @@
                 </li>
 	            <li>
 		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="/mylyn/images/icon-podcast.gif">
-	            	Eclipsing Information Overload</a> Mik Kersten interviewed by Jonathan Erickson (Dr.Dobbs Podcast, Dec 2006)
+	            	Eclipsing Information Overload</a> by Mik Kersten, interviewed by Jonathan Erickson (Dr.Dobbs Podcast, Dec 2006)
 	            </li>
 	            <li>
 		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">

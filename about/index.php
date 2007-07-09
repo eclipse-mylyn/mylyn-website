@@ -22,8 +22,24 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<br>&nbsp;
+		
 		<div class="homeitem3col">
-			<h3>About Mylyn</h3>
+			<h3>What is Mylyn?</h3>
+			<ul>
+				<li>
+					The <a href="http://en.wikipedia.org/wiki/Myelin">Myelin substance</a> accelerates our 
+					thoughts by making neurons much more efficient at conducting electricity. The Mylyn name 
+					is a tribute to this substance, as many users claim that our tools increase efficiency 
+					to the point where we can <b>code at the speed of thought</b>. 
+				</li>
+				<li>The preferred pronunciation is 'mIl&n, similar to the pronunciation of "myelin".  The
+					project was <a href="http://www.eclipse.org/mylyn/rename.php">previously called Mylar</a>.
+				</li>
+			</ul>
+		</div>
+
+		<div class="homeitem3col">
+			<h3>History</h3>
 			<ul>
 				<li>
 					A history and credits of Mylyn (prefiously named Mylar) are listed in the <a href="http://eclipse.org/mylyn/doc/release-1.0.php">About Mylar 1.0</a>

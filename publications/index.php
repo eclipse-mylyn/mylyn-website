@@ -67,7 +67,7 @@
 		</div>
 		<p>
 		
-		For all publications see the <a href="http://www.eclipse.org/mylyn/archive.php">Archive page</a>.
+		For more publications see the <a href="http://www.eclipse.org/mylyn/archive.php">Archive page</a>.
 		
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylyn_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.

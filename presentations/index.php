@@ -43,7 +43,7 @@
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
 				<li>
-					<a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-presentation.gif"></a>&nbsp;
+					<a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
 					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963">Webinar: Task-Focused Programming with [Mylyn]</a> by Mik Kersten (Oct 2006, 56 min)
                 </li>

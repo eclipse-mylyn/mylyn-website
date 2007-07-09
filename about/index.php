@@ -21,8 +21,6 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<br>&nbsp;
-		
 		<div class="homeitem3col">
 			<h3>What is Mylyn?</h3>
 			<ul>

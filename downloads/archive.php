@@ -36,7 +36,7 @@
 			<ul>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/dev/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-					<br>Dev builds are production quality, but subject to UI changes.
+					<br><i>Dev builds are production quality, but subject to UI changes.</i>
 				</li>
 				<!--
 					<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>

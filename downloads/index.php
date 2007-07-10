@@ -120,7 +120,7 @@ $html = <<<EOHTML
 			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Developer builds and previous versions</td>
+			          		<td>Dev builds and previous versions</td>
 			          	</tr>
 					</table>
 				</td> 

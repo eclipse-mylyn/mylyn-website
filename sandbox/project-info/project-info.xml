@@ -19,7 +19,7 @@
      - page of the first product. Multiple <product>s are allowed.
     -->
   <bugzilla>
-    <product name="Mylar"/>
+    <product name="Mylyn"/>
   </bugzilla>
 
   <!--

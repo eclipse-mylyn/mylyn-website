@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!-- writen for Ant 1.5.1 -->
-<project name="mylar" default="copy-web">
+<project name="mylyn" default="copy-web">
 
 	<target name="copy-web" description="Doc Web Update">
 		<copy todir="doc">

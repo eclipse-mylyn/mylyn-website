@@ -35,7 +35,7 @@
 			<h3>Dev Build Site<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/dev</b>&nbsp;&nbsp;(Eclipse 3.3.)
+					<b>download.eclipse.org/tools/mylyn/update/dev/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3.)
 				</li>
 				<!--
 					<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>

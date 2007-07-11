@@ -117,10 +117,10 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr>
-			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Archives</a></font></td>
+			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Dev Builds & Archives</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Dev builds and previous versions</td>
+			          		<td>Weekly builds and previous versions</td>
 			          	</tr>
 					</table>
 				</td> 

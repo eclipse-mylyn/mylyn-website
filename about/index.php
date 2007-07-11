@@ -48,7 +48,7 @@
 			<h3>History</h3>
 			<ul>
 				<li>
-					A history and credits of Mylyn (prefiously named Mylar) are listed in the <a href="http://eclipse.org/mylyn/doc/release-1.0.php">About Mylar 1.0</a>
+					A history and credits of Mylyn (previously named Mylar) are listed in the <a href="http://eclipse.org/mylyn/doc/release-1.0.php">About Mylar 1.0</a>
 				</li>
 				<li>
 					Mylyn was created by <a href="http://kerstens.org/mik">Mik Kersten</a> 

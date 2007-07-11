@@ -38,10 +38,9 @@
 		<div class="homeitem3col">
 			<h3>Selected Presentations</h3>
 			<ul>
-			2007-07-eclipse-mylyn-webinar.ppt
 				<li>
 					<a href="http://live.eclipse.org/node/314"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+					<a href="/mylyn/presentations/2007-07-eclipse-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
                     <a href="http://live.eclipse.org/node/314">Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> by Mik Kersten (July 11, 55 min)
                 </li>
 				<li>

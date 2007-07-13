@@ -116,8 +116,8 @@ $html = <<<EOHTML
 				<td><a href="/mylyn/downloads/builds.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Other Builds</a></font></td>
+						<tr> 
+			      			<td><font size=+0><a href="/mylyn/downloads/builds.php">Other Builds</a></font></td>
 						</tr>
 						<tr>
 			          		<td>Weekly dev builds and older versions</td>

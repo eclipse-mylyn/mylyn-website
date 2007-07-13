@@ -68,10 +68,13 @@
 			                       available to illustrate both approaches. 
                 </li>
 				<li>
-			<B>Download Zest 0.4:</B> <BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.core_0.4.0.jar">Zest Core</A></I><BR>
-			&nbsp;&nbsp;&nbsp;<I><A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.mylar.zest.layouts_0.4.0.jar">Zest Layouts</A></I><BR>
-			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://download.eclipse.org/tools/mylyn/update-site/dev/zest/org.eclipse.draw2d_3.2.100.200704101632.jar">Here</A>).
+				Zest is in the process of being moved to GEF (See <A HREF="https://bugs.eclipse.org/bugs/show_bug.cgi?id=164387">Bug #164387</a>. In
+				the meantime I have provided a link to the latest verions (0.5).  You can also check this out of the Mylyn CVS repository.<BR>
+				
+			<B>Download Zest 0.5:</B> <BR>
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.mylyn.zest.core_0.5.0.0.jar">Zest Core</A></I><BR>
+			&nbsp;&nbsp;&nbsp;<I><A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.mylyn.zest.layouts_0.5.0.0.jar">Zest Layouts</A></I><BR>
+			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.draw2d_3.2.100.200707131144.jarr">Here</A>).
                 </li>
 		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts

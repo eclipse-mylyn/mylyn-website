@@ -68,7 +68,7 @@
 			                       available to illustrate both approaches. 
                 </li>
 				<li>
-				Zest is in the process of being moved to GEF (See <A HREF="https://bugs.eclipse.org/bugs/show_bug.cgi?id=164387">Bug #164387</a>. In
+				Zest is in the process of being moved to GEF (See <A HREF="https://bugs.eclipse.org/bugs/show_bug.cgi?id=164387">Bug #164387</a>). In
 				the meantime I have provided a link to the latest verions (0.5).  You can also check this out of the Mylyn CVS repository.<BR>
 				
 			<B>Download Zest 0.5:</B> <BR>

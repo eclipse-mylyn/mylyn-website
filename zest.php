@@ -74,7 +74,7 @@
 			<B>Download Zest 0.5:</B> <BR>
 			&nbsp;&nbsp;&nbsp;<I><A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.mylyn.zest.core_0.5.0.0.jar">Zest Core</A></I><BR>
 			&nbsp;&nbsp;&nbsp;<I><A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.mylyn.zest.layouts_0.5.0.0.jar">Zest Layouts</A></I><BR>
-			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.draw2d_3.2.100.200707131144.jarr">Here</A>).
+			 You also need to have GEF installed, or at least the Draw2D jar (available <A HREF="http://www.cs.uvic.ca/~irbull/zest/org.eclipse.draw2d_3.2.100.200707131144.jar">Here</A>).
                 </li>
 		<li>
 			<B>Layout Algorithms:</B> The layout package is framework and a set of example layouts

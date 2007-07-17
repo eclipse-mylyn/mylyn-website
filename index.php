@@ -24,6 +24,27 @@ $html = <<<EOHTML
 				This puts the information you need to get work done at your fingertips and improves productivity by reducing 
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
 				planning, reusing past efforts, and sharing expertise.
+				
+				<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Vote for Mylyn on EPIC</a>
+					<select name="rating">
+					<option selected>10</option>
+					<option>9</option>
+					<option>8</option>
+					<option>7</option>
+					<option>6</option>
+					<option>5</option>
+					<option>4</option>
+					<option>3</option>
+					<option>2</option>
+					<option>1</option>
+					</select>
+					<input type="hidden" name="ratinglid" value="560">
+					<input type="hidden" name="ratinguser" value="outside">
+					<input type="hidden" name="req" value="addrating">
+					<input type="submit" value="Rate">
+					</form>
+				</font>
 
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
@@ -61,9 +82,6 @@ $html = <<<EOHTML
 				<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
-						<li>
-							Upcoming Webinar: <a href="http://live.eclipse.org/node/314">Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> Mik Kersten and Edward Correia
-						</li>
 						<li>
 							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a>. 
 						</li>

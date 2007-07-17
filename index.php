@@ -11,7 +11,7 @@ $html = <<<EOHTML
 	<table border="0" cellpadding="5">
      	<tr> 
       		<td valign="top">
-	          	<a href="images/mylyn-2.0.png"><img border=0 src="images/tasklist-splash.jpg"></a>
+	          	<a href="images/mylyn-2.0.png"><img alt="Mylyn 2.0 Screenshot" border=0 src="images/tasklist-splash.jpg"></a>
       		</td>
       		<td>
         	<td valign="top">
@@ -24,27 +24,6 @@ $html = <<<EOHTML
 				This puts the information you need to get work done at your fingertips and improves productivity by reducing 
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
 				planning, reusing past efforts, and sharing expertise.
-				
-				<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Vote for Mylyn on EPIC</a>
-					<select name="rating">
-					<option selected>10</option>
-					<option>9</option>
-					<option>8</option>
-					<option>7</option>
-					<option>6</option>
-					<option>5</option>
-					<option>4</option>
-					<option>3</option>
-					<option>2</option>
-					<option>1</option>
-					</select>
-					<input type="hidden" name="ratinglid" value="560">
-					<input type="hidden" name="ratinguser" value="outside">
-					<input type="hidden" name="req" value="addrating">
-					<input type="submit" value="Rate">
-					</form>
-				</font>
 
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
@@ -79,6 +58,7 @@ $html = <<<EOHTML
 	          		<tr height=11>
 	          		</tr>
 	         	</table>
+	         	
 				<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
@@ -93,8 +73,28 @@ $html = <<<EOHTML
 						</li>
 					 </ul>	
 				</div> 
+				
+				<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Comment on Mylyn at EPIC</a>
+					<select name="rating">
+					<option selected>10</option>
+					<option>9</option>
+					<option>8</option>
+					<option>7</option>
+					<option>6</option>
+					<option>5</option>
+					<option>4</option>
+					<option>3</option>
+					<option>2</option>
+					<option>1</option>
+					</select>
+					<input type="hidden" name="ratinglid" value="560">
+					<input type="hidden" name="ratinguser" value="outside">
+					<input type="hidden" name="req" value="addrating">
+					<input type="submit" value="Vote">
+					</form>
+				</font>
 	  		</td>
-      		</td>
       	</tr>
     </table>
 </div>			

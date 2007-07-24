@@ -60,6 +60,14 @@
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
+		</div>
+		<div class="homeitem3col">
+			<h3>Contribute</h3>
+			<ul>
+				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?bug_file_loc=&bug_file_loc_type=allwordssubstr&bug_id=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=REOPENED&bugidtype=include&chfieldfrom=&chfieldto=Now&chfieldvalue=&classification=Tools&email1=&email2=&emailtype1=substring&emailtype2=substring&field-1-0-0=classification&field-1-1-0=product&field-1-2-0=bug_status&field-1-3-0=keywords&field0-0-0=noop&keywords=helpwanted&keywords_type=allwords&long_desc=&long_desc_type=allwordssubstr&product=Mylyn&query_format=advanced&remaction=&short_desc=&short_desc_type=allwordssubstr&status_whiteboard=&status_whiteboard_type=allwordssubstr&type-1-0-0=anyexact&type-1-1-0=anyexact&type-1-2-0=anyexact&type-1-3-0=allwords&type0-0-0=noop&value-1-0-0=Tools&value-1-1-0=Mylyn&value-1-2-0=UNCONFIRMED%2CNEW%2CREOPENED&value-1-3-0=helpwanted&value0-0-0=&votes=&order=bugs.priority%2Cbugs.bug_id&query_based_on=">
+				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All bug reports marked 'helpwanted'</a> 
+				</li>
+			</ul>
 		</div>   
 	<p>&nbsp;</p>
 	<p>&nbsp;</p>

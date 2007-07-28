@@ -55,6 +55,8 @@ Developers
 2007-07-26, tasks,		195721, Frank Becker,		<10,		relves,		fix selection of combo fields on mac
 2007-07-27, tasks,		198140, Shawn Minto,		<10,		relves,		mylyn monitor stop failed resolved
 2007-07-27, tasks,		174473, Balazs Brinkus,		<200,		relves,		create new query when adding new task repository 
+2007-07-28, tasks,		189514, Jevgeni Holodkov,	<200,		relves,		clone query in task list 
+
 
 ------------------------- 2.0 (Europa) -------------------------
 

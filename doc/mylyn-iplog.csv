@@ -57,7 +57,7 @@ Developers
 2007-07-27, tasks,		174473, Balazs Brinkus,		<200,		relves,		create new query when adding new task repository 
 2007-07-28, tasks,		189514, Jevgeni Holodkov,	<200,		relves,		clone query in task list 
 2007-07-31, trac,		196585, Xiaoyang Guan,		<250,		spingel,	make identifiers consistent with project conventions and and clean up wiki API
-
+2007-07-31, bugzilla,	198213, Raphael Ackermann,	<10,		relves,		accessibility improvements in query wizard
 
 ------------------------- 2.0 (Europa) -------------------------
 

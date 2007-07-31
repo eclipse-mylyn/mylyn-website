@@ -36,7 +36,7 @@ Developers
 ------------------------- 2.1 -------------------------
 
 2007-07-04, tasks,		186682,	Willian Mitsuda,	<100,		mkersten,	prefernece opening fix
-2007-07-06, context,	195052, Toomas Römer,		<100,		mkersten,	action fix
+2007-07-06, context,	195052, Toomas Rï¿½mer,		<100,		mkersten,	action fix
 2007-07-06, tasks,		160572,	Balazs Brinkus,		<250,		mkersten,	screenshot tool
 2007-07-06, tasks,		195448,	Willian Mitsuda,	<10,		mkersten,	id fix
 2007-07-06, web site,	195508,	Jacek Pospychala, 	<10,		mkersten,	redirect
@@ -56,6 +56,7 @@ Developers
 2007-07-27, tasks,		198140, Shawn Minto,		<10,		relves,		mylyn monitor stop failed resolved
 2007-07-27, tasks,		174473, Balazs Brinkus,		<200,		relves,		create new query when adding new task repository 
 2007-07-28, tasks,		189514, Jevgeni Holodkov,	<200,		relves,		clone query in task list 
+2007-07-31, trac,		196585, Xiaoyang Guan,		<250,		spingel,	make identifiers consistent with project conventions and and clean up wiki API
 
 
 ------------------------- 2.0 (Europa) -------------------------
@@ -386,7 +387,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-12-04,	tasks,		166609,	Eugene Kuleshov,	<1000,		relves,		asynchronous task list save
 
 1.0.1
-2006-12-12,	bugzilla,	167227,	Torkild Ulvøy Resheim,	<10,	relves,		bugzilla connector query support for new Bugzilla 2.23
+2006-12-12,	bugzilla,	167227,	Torkild Ulvï¿½y Resheim,	<10,	relves,		bugzilla connector query support for new Bugzilla 2.23
 2006-12-18, monitor,	165800, Taivo Evard,		<100,		mkersten,	encodings fix
 2006-12-18,	tasks,		168248,	Willian Mitsuda,	<100,		mkersten,	task dialog open policy
 2006-12-22, tasks,		167282, Erkki Lindpere,		<10,		mkersten,	redirect fix

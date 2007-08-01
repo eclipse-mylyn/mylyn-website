@@ -59,6 +59,7 @@ Developers
 2007-07-31, trac,		196585, Xiaoyang Guan,		<250,		spingel,	make identifiers consistent with project conventions and and clean up wiki API
 2007-07-31, bugzilla,	198213, Raphael Ackermann,	<10,		relves,		accessibility improvements in query wizard
 2007-07-31, tasks,		198145, Shawn Minto,		<100,		relves,		fix content assist ordering and 'Z' problem
+2007-08-01, tasks,		165359, Shawn Minto,		<10,		relves,		fix new comment fill vertical 
 
 ------------------------- 2.0 (Europa) -------------------------
 

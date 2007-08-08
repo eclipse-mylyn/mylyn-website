@@ -63,8 +63,8 @@ Developers
 2007-08-02, tasks,		198017, Xiaoyang Guan,		<500,		spingel,	added dialog for opening wiki pages
 2007-08-02, tasks,		189518, Jevgeni Holodkov,	<500,		relves,		repositories included with query export
 2007-08-02, tasks,		196683, Jevgeni Holodkov,	<100,		relves,		drag queries into task list
-
-
+2007-08-08, bugzilla,	198213, Raphael Ackermann,	<20,		relves,		accessibility improvements in query wizard and task search
+ 
 ------------------------- 2.0 (Europa) -------------------------
 
 2.0M1

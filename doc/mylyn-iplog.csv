@@ -436,6 +436,7 @@ Zest Sandbox
 2006-11-15,	zest,		163098, Del Myers,			<500,		irbull,		Rectangle focus tool doesn't work properly in overviewer
 2006-11-15,	zest,		160367, Del Myers,			<2000,		irbull,		Zest: dynamically changeable colors and styles
 2006-12-19,	zest,		162309, Del Myers,			1,			irbull,		Enforce bounds style required on Zest layout package
+2007-08-09,	zest,		198477,	Gerd Castan,		1			irbull,		Zest Core: Compiler error with JDK 1.4
 
 ------------------------- 0.4.0 to 0.4.10 -------------------------
 

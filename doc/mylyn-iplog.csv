@@ -1,4 +1,4 @@
-Committers
+]Committers
 
 mkersten,
 relves,
@@ -64,6 +64,7 @@ Developers
 2007-08-02, tasks,		189518, Jevgeni Holodkov,	<500,		relves,		repositories included with query export
 2007-08-02, tasks,		196683, Jevgeni Holodkov,	<100,		relves,		drag queries into task list
 2007-08-08, bugzilla,	198213, Raphael Ackermann,	<20,		relves,		accessibility improvements in query wizard and task search
+2007-08-08, tasks,		198590, Leo Dos Santos,		<10,		relves,		planning perspective id correction
  
 ------------------------- 2.0 (Europa) -------------------------
 

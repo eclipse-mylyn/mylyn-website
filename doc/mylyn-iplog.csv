@@ -70,6 +70,7 @@ Developers
 2007-08-13, tasks,		194936, Frank Becker,		<50,		relves,		added attachment table tooltip support
 2007-08-14, tasks,		195514, Raphael Ackermann,	<100,		relves,		upgrade summary field to text viewer
 2007-08-14, tasks,		198526, Raphael Ackermann,	<10,		relves,		focus on summary field upon open new bug editor
+2007-08-14, tasks,		200072,	Shawn Minto			<10,		relves,		AbstractTaskContainer.contains should return true if subtask is contained
 
 ------------------------- 2.0 (Europa) -------------------------
 

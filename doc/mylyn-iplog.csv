@@ -72,6 +72,8 @@ Developers
 2007-08-14, tasks,		198526, Raphael Ackermann,	<10,		relves,		focus on summary field upon open new bug editor
 2007-08-15, tasks,		200072,	Shawn Minto,		<10,		relves,		AbstractTaskContainer.contains should return true if subtask is contained
 2007-08-17, bugzilla,	198492, Frank Becker,		<50,		relves,		don't selected component for new bug reports
+2007-08-20, tasks,		200622, Shawn Minto,		<10,		relves,		OpenCorrespondingTaskAction not opening browser in ui thread
+
 
 ------------------------- 2.0 (Europa) -------------------------
 

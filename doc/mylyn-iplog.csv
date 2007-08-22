@@ -71,6 +71,7 @@ Developers
 2007-08-14, tasks,		195514, Raphael Ackermann,	<100,		relves,		upgrade summary field to text viewer
 2007-08-14, tasks,		198526, Raphael Ackermann,	<10,		relves,		focus on summary field upon open new bug editor
 2007-08-15, tasks,		200072,	Shawn Minto,		<10,		relves,		AbstractTaskContainer.contains should return true if subtask is contained
+2007-08-15,	trac,		198733, Xiaoyang Guan,		<1000,		spingel,	added editor for wiki pages
 2007-08-17, bugzilla,	198492, Frank Becker,		<50,		relves,		don't selected component for new bug reports
 2007-08-20, tasks,		200622, Shawn Minto,		<10,		relves,		OpenCorrespondingTaskAction not opening browser in ui thread
 2007-08-22, tasks,		200702, Shawn Minto,		<50,		mkersten,	subtasks label provider fix

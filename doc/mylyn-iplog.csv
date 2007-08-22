@@ -74,7 +74,11 @@ Developers
 2007-08-17, bugzilla,	198492, Frank Becker,		<50,		relves,		don't selected component for new bug reports
 2007-08-20, tasks,		200622, Shawn Minto,		<10,		relves,		OpenCorrespondingTaskAction not opening browser in ui thread
 2007-08-22, tasks,		200702, Shawn Minto,		<50,		mkersten,	subtasks label provider fix
+2007-08-22, tasks,		200851, Shawn Minto,		<50,		mkersten,	offline repository fix
 2007-08-22, bugzilla,	198027, Frank Becker,		<100,		relves,		Support reassignment on Bugzilla 3.1
+
+
+
 ------------------------- 2.0 (Europa) -------------------------
 
 2.0M1

@@ -73,6 +73,7 @@ Developers
 2007-08-15, tasks,		200072,	Shawn Minto,		<10,		relves,		AbstractTaskContainer.contains should return true if subtask is contained
 2007-08-17, bugzilla,	198492, Frank Becker,		<50,		relves,		don't selected component for new bug reports
 2007-08-20, tasks,		200622, Shawn Minto,		<10,		relves,		OpenCorrespondingTaskAction not opening browser in ui thread
+2007-08-22, tasks,		200702, Shawn Minto,		<50,		mkersten,	subtasks label provider fix
 
 
 ------------------------- 2.0 (Europa) -------------------------

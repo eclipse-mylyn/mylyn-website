@@ -61,7 +61,7 @@ Developers
 2007-07-31, bugzilla,	198213, Raphael Ackermann,	<10,		relves,		accessibility improvements in query wizard
 2007-07-31, tasks,		198145, Shawn Minto,		<100,		relves,		fix content assist ordering and 'Z' problem
 2007-08-01, tasks,		165359, Shawn Minto,		<10,		relves,		fix new comment fill vertical 
-2007-08-02, trac,		198017, Xiaoyang Guan,		<500,		spingel,	added dialog for opening wiki pages
+2007-08-02, tasks,		198017, Xiaoyang Guan,		<500,		spingel,	added dialog for opening wiki pages
 2007-08-02, tasks,		189518, Jevgeni Holodkov,	<500,		relves,		repositories included with query export
 2007-08-02, tasks,		196683, Jevgeni Holodkov,	<100,		relves,		drag queries into task list
 2007-08-08, bugzilla,	198213, Raphael Ackermann,	<20,		relves,		accessibility improvements in query wizard and task search
@@ -71,7 +71,6 @@ Developers
 2007-08-14, tasks,		195514, Raphael Ackermann,	<100,		relves,		upgrade summary field to text viewer
 2007-08-14, tasks,		198526, Raphael Ackermann,	<10,		relves,		focus on summary field upon open new bug editor
 2007-08-15, tasks,		200072,	Shawn Minto,		<10,		relves,		AbstractTaskContainer.contains should return true if subtask is contained
-2007-08-15,	trac,		198733, Xiaoyang Guan,		<1000,		spingel,	added editor for wiki pages
 2007-08-17, bugzilla,	198492, Frank Becker,		<50,		relves,		don't selected component for new bug reports
 2007-08-20, tasks,		200622, Shawn Minto,		<10,		relves,		OpenCorrespondingTaskAction not opening browser in ui thread
 2007-08-22, tasks,		200702, Shawn Minto,		<50,		mkersten,	subtasks label provider fix
@@ -82,7 +81,7 @@ Developers
 2007-08-22, xplanner,	198976,	Helen Bershadskaya,	<10,		mkersten, 	disabled reply links
 2007-08-22, trac,		200114, Xiaoyang Guan,		<500,		spingel,	provide version history of a wiki page
 2007-08-22, trac,		200117, Xiaoyang Guan,		<250,		spingel,	support spell checking and hyperlink detection in the wiki editor
-
+2007-08-22, tasks,		198801, Maarten Meijer,		<10,		mkersten,	null check for working sets
 
 
 

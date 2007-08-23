@@ -41,7 +41,7 @@ $html = <<<EOHTML
 			        Task List with bug/task/issue trackers and project management tools.  
 			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 			        The preferred way of installing is via the 
-					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download_Mylyn">Update Manager</a>.
+					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download">Update Manager (instructions available)</a>.
 					On Eclipse 3.2 use only the <i>Search for new features..</i> option.
 			        </p>			        
 		        </td>

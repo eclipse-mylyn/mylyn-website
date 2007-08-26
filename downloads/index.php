@@ -27,8 +27,7 @@
 		
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:100%">
-    <div align="left">
+<div id="midcolumn" style="width:93%">
         <table border="0"> 
         	<tr>
         		<td valign="center">
@@ -50,7 +49,6 @@ $html = <<<EOHTML
 			    </td>
 		    </tr>
 		</table>
-	</div>	
 	
     <div class="homeitem3col">
 		<h3>Mylyn 2.0 Update Sites</h3> 
@@ -95,7 +93,9 @@ $html = <<<EOHTML
 		</ul>
 	</div>
 
+	<!--
 	<div align="homeitem3col">&nbsp;</div>  
+	-->
 
 	<div align="homeitem3col"> 
 		<table border="0" cellpadding="3"> 

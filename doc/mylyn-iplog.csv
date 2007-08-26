@@ -83,9 +83,13 @@ Developers
 2007-08-22, trac,		200117, Xiaoyang Guan,		<250,		spingel,	support spell checking and hyperlink detection in the wiki editor
 2007-08-22, tasks,		198801, Maarten Meijer,		<10,		mkersten,	null check for working sets
 2007-08-23, tasks,		199673, Raphael Ackermann,	<10,		mkersten,	rename fix
+2007-08-24, xplanner,	196700,	Helen Bershadskaya,	<250,		mkersten, 	new task editor
 2007-08-24, tasks,		199930, Shawn Minto,		<20,		relves,		open task in browser fix
 2007-08-24, tasks,		200608,	Shawn Minto,		<50,		relves,		date picker strange time fix
 2007-08-24, bugzilla,	161457, Frank Becker,		<50,		relves,		support bugzilla 3.0 custom resolutions
+
+
+
 
 ------------------------- 2.0 (Europa) -------------------------
 

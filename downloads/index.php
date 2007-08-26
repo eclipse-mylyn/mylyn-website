@@ -27,7 +27,7 @@
 		
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:93%">
+<div id="midcolumn">
     <div align="left">
         <table border="0"> 
         	<tr>

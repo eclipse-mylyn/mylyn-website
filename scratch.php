@@ -1,6 +1,70 @@
 
 
 
+
+
+
+	<div class="homeitem3col">
+		<h3>Mylyn Extensions</h3>
+		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites.  Requires Mylyn 2.0. 
+		<ul>
+			<li> 
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif"></a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(3.3 and 3.2) 
+				<br>
+				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
+        	</li>
+        	<li>
+        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
+        		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 
+			</li>
+		</ul>
+	</div>
+
+	<div align="homeitem3col">&nbsp;</div>  
+
+	<div align="homeitem3col"> 
+		<table border="0" cellpadding="3"> 
+			<tr>
+				<td width=15></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
+						</tr>
+						<tr>
+			          		<td>Report bugs and enhancement requests</td>
+			          	</tr>
+					</table>
+				</td>
+				<td width=20></td> 
+				<td><a href="/mylyn/downloads/builds.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0"> 
+						<tr> 
+			      			<td><font size=+0><a href="/mylyn/downloads/builds.php">Other Builds</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Weekly dev builds and older versions</td>
+			          	</tr>
+					</table>
+				</td> 
+			</tr> 
+		</table>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
       			<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">Rate and Comment via EPIC</a>
 				<select name="rating">

@@ -29,7 +29,7 @@ $html = <<<EOHTML
 
 <div id="midcolumn" style="width:93%">
 	
-    <div align="left">
+    <div align="left" style="width:93%">
         <table border="0"> 
         	<tr>
         		<td valign="center">
@@ -53,7 +53,7 @@ $html = <<<EOHTML
 		</table>
 	</div>	
 	
-	<div class="homeitem3col">
+	<div class="homeitem3col" style="width:93%">
 		<h3>Mylyn 2.0 Update Sites</h3> 
 		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 		<ul>

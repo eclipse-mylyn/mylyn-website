@@ -51,6 +51,25 @@ $html = <<<EOHTML
 		    </tr>
 		</table>
 	</div>	
+
+    <div class="homeitem3col" style="width:95%">
+		<h3>Mylyn 2.1 Milestone Update Sites</h3> 
+		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
+		<ul>
+			<li>
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1M1-e3.4.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif"></a>
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
+        	</li>
+			<li> 
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1M1-extras.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif"></a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4/extras</b>&nbsp;&nbsp;(3.4M1 and 3.3) 
+				<br>
+				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
+        	</li>
+		</ul>	
+	</div>
 	
     <div class="homeitem3col" style="width:95%">
 		<h3>Mylyn 2.0 Update Sites</h3> 

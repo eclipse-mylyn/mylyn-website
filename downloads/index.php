@@ -85,7 +85,7 @@ $html = <<<EOHTML
 
 	<div class="homeitem3col" style="margin-left:50px; width:93%">
 		<h3>Mylyn 2.0 Extensions</h3>
-		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites. 
+		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
 		<ul>
 			<li> 
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">

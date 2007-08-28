@@ -27,7 +27,7 @@
 		
 $html = <<<EOHTML
 
-	<div style="margin-left:10px; margin-top:10pt;">
+	<div style="margin-left:10px; margin-top:20pt;">
         	<div style="float:right; margin-right: 30pt; margin-left: 10pt;"><img src="/mylyn/images/install-overview.gif"/></div>
         		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
 				<div>
@@ -58,7 +58,7 @@ $html = <<<EOHTML
 		</ul>	
 	</div>
 	
-    <div class="homeitem3col" style="width:95%">
+    <div class="homeitem3col" style="margin-left:10px;" style="width:95%">
 		<h3>Mylyn 2.0 Update Sites</h3> 
 		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 		<ul>

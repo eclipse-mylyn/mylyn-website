@@ -64,7 +64,7 @@ $html = <<<EOHTML
 			<li> 
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1M1-extras.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4/extras</b>&nbsp;&nbsp;(3.4M1 and 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4/extras</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
         	</li>
 		</ul>	
 	</div>
@@ -101,7 +101,7 @@ $html = <<<EOHTML
 			<li> 
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(3.3 and 3.2) 
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
 				<br>
 				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
         	</li>

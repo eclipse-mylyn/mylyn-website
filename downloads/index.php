@@ -27,15 +27,10 @@
 		
 $html = <<<EOHTML
 
-<div id="midcolumn" style="width:93%">
-    <div align="left" style="width:95%">
-        <table border="0"> 
-        	<tr>
-        		<td valign="center">
-        			<br>&nbsp; 
-        			<img src="/mylyn/images/downloads.gif">
-        		</td>
-		        <td valign="center">
+	<div style="margin-left:10px; margin-top:10pt;">
+        	<div style="float:right; margin-right: 30pt; margin-left: 10pt;"><img src="/mylyn/images/install-overview.gif"/></div>
+        		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
+				<div>
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  
@@ -44,12 +39,7 @@ $html = <<<EOHTML
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download">Update Manager (instructions available)</a>.
 					On Eclipse 3.2 use only the <i>Search for new features..</i> option.
 			        </p>			        
-		        </td>
-		        <td valign="top">
-			        <img src="/mylyn/images/install-overview.gif">
-			    </td>
-		    </tr>
-		</table>
+    			</div>
 	</div>	
 
     <div class="homeitem3col" style="width:95%">
@@ -113,7 +103,7 @@ $html = <<<EOHTML
 
 	<div align="homeitem3col" style="width:95%">&nbsp;</div>  
 
-	<div align="homeitem3col" style="width:95%"> 
+	<div class="homeitem3col" style="width:95%; border:none; margin-left:0px">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>

@@ -143,7 +143,9 @@ $html = <<<EOHTML
 			</tr> 
 		</table>
 	</div>
-	
+	<p>
+	&nbsp;
+	</p>
 </div>
 
 EOHTML;

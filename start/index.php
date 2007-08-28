@@ -30,8 +30,13 @@
 			<h3>Getting Started</h3> 
 			<ul>
 				<li>
-					<i>Articles and webinar for Mylyn 2.0 coming soon</i>
-				</li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            <li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
+	            </li>
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
 					Webinar: Task-Focused Programming with Mylyn</a> by Mik Kersten (56 min, Oct 2006)
@@ -39,14 +44,6 @@
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: task context demo
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks
                 </li>
-				<li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with [Mylyn], Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-	            <li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with [Mylyn], Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
 			</ul>
 		</div>      
 

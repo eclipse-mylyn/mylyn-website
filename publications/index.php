@@ -23,17 +23,10 @@
 		<div class="homeitem3col">
 			<h3>Selected Articles</h3>
 			<ul>
+
 				<li>
 		            <a href="http://eclipse.sys-con.com/read/336896.htm"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
-	            </li>
-				<li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with [Mylyn], Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-	            <li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Task Focused Programming with [Mylyn], Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
 	            </li>
 			</ul> 
 		</div>

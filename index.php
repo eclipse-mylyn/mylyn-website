@@ -63,6 +63,14 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		August 27: <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           			Mylyn 2.1M1 released</a> for Eclipse 3.4M1 and 3.3
+	            		</li>
+						<li>
+		            		August 14: <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           			Mylyn 2.0 tutorial articles</a> by Mik Kersten
+	            		</li>
+						<li>
 							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a>. 
 						</li>
 						<li>

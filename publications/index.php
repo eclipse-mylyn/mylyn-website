@@ -23,7 +23,14 @@
 		<div class="homeitem3col">
 			<h3>Selected Articles</h3>
 			<ul>
-
+				<li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            <li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
+	            </li>
 				<li>
 		            <a href="http://eclipse.sys-con.com/read/336896.htm"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)

@@ -63,7 +63,7 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		August 27: <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            		August 27: <a href="/mylyn/downloads">
 		           			Mylyn 2.1M1 released</a> for Eclipse 3.4M1 and 3.3
 	            		</li>
 						<li>

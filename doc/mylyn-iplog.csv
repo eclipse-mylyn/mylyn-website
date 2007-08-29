@@ -88,7 +88,7 @@ Developers
 2007-08-24, tasks,		200608,	Shawn Minto,		<50,		relves,		date picker strange time fix
 2007-08-24, bugzilla,	161457, Frank Becker,		<50,		relves,		support bugzilla 3.0 custom resolutions
 2007-08-26, context,	195580,	David Green,		<50,		mkersten,	manipulation extensibility
-
+2007-08-29, bugzilla,	159397, Maarten Meijer,		<150,		relves,		platform autodetection improvements
 
 
 ------------------------- 2.0 (Europa) -------------------------

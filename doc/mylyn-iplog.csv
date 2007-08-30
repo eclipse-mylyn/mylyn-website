@@ -90,6 +90,7 @@ Developers
 2007-08-26, context,	195580,	David Green,		<50,		mkersten,	manipulation extensibility
 2007-08-29, bugzilla,	159397, Maarten Meijer,		<150,		relves,		platform autodetection improvements
 2007-08-29, xplanner,	196909,	Helen Bershadskaya,	<10,		relves, 	xplanner http auth support
+2007-08-30, xplanner,	201464, Helen Bershadskaya,	<150,		relves, 	xplanner new task editor story corruption
 
 ------------------------- 2.0 (Europa) -------------------------
 

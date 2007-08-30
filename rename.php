@@ -5,8 +5,8 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylar New & Noteworthy";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Mylyn New & Noteworthy";
+	$pageKeywords	= "Mylar, Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
 	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/rename.html";

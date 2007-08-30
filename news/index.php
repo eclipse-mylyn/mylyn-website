@@ -6,8 +6,8 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Mylar Archive";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Mylyn Archive";
+	$pageKeywords	= "Mylar, Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
 	# Add page-specific Nav bars here
@@ -286,15 +286,15 @@
 			<h3>UI Archive</h3>
 			<ul>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04.html"><img border=0 src="images/icon-flash.gif">&nbsp;
+                    <a href="/mylyn/doc/demo/mylar-demo-04.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
 					Mylar 0.4 overview flash video</a> (3.5 min, 8.7 MB)
                 </li>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-04-reports.html"><img border=0 src="images/icon-flash.gif">&nbsp;
+                    <a href="/mylyn/doc/demo/mylar-demo-04-reports.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
                     Mylar 0.4 Bugzilla integration flash video</a> (v0.4, 3.5 min, 6 MB)
                 </li>
 				<li>
-                    <a href="http://eclipse.org/mylar/doc/demo/mylar-demo-03-search.html"><img border=0 src="images/icon-flash.gif">&nbsp;
+                    <a href="/mylyn/doc/demo/mylar-demo-03-search.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
                     Mylar 0.3 Active views video</a> (v0.3, 2 min, 3 MB)
                 </li>
 			</ul>

@@ -25,10 +25,10 @@
 			<ul>
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (Aug 2007)
+		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
 	            </li>
 	            <li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
 	            </li>
 				<li>
@@ -67,7 +67,7 @@
 		</div>
 		<p>
 		
-		For more publications see the <a href="http://www.eclipse.org/mylyn/archive.php">Archive page</a>.
+		For more publications see the <a href="http://www.eclipse.org/mylyn/news">Archive page</a>.
 		
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylyn_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.

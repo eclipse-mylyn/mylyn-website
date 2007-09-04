@@ -92,6 +92,7 @@ Developers
 2007-08-29, xplanner,	196909,	Helen Bershadskaya,	<10,		relves, 	xplanner http auth support
 2007-08-30, xplanner,	201464, Helen Bershadskaya,	<150,		relves, 	xplanner new task editor story corruption
 2007-08-31, bugzilla,	201151, Frank Becker,		<50,		relves,		disallow accidental use of validation string as repository version
+2007-09-04, bugzilla,	201642, Frank Becker,		<100,		relves,		unit test coverage bugzilla owner reassignment
 
 ------------------------- 2.0 (Europa) -------------------------
 

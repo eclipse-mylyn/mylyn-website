@@ -99,6 +99,7 @@ Developers
 2007-09-04, bugzilla,	201642, Frank Becker,		<100,		relves,		unit test coverage bugzilla owner reassignment
 2007-09-10, tasks,		196444, Nathan Hapke,		<100,		relves,		change in proxy settings not taking effect (cached proxy settings)
 2007-09-11, tasks,		196029, Jevgeni Holodkov,	<200,		relves,		Task exporting/importing core + d&d with tests
+2007-09-11, tasks,		202842,	Shawn Minto,		<10,		relves,		repository search page showing wrong fields for given repository
 
 ------------------------- 2.0 (Europa) -------------------------
 

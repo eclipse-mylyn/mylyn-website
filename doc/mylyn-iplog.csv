@@ -102,6 +102,8 @@ Developers
 2007-09-11, tasks,		202842,	Shawn Minto,		<10,		relves,		repository search page showing wrong fields for given repository
 2007-09-11, tasks,		202502, Shawn Minto,		<50,		relves,		repository settings page advance section should be optional
 2007-09-12, xplanner,	196523, Helen Bershadskaya,	<10,		relves,		unit test updates
+2007-09-13,	xplanner,	203174,	Helen Bershadskaya,	<100,		relves,		fixed tasks being dropped from xplanner queries
+
 ------------------------- 2.0 (Europa) -------------------------
 
 2.0M1

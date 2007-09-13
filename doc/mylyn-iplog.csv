@@ -103,6 +103,7 @@ Developers
 2007-09-11, tasks,		202502, Shawn Minto,		<50,		relves,		repository settings page advance section should be optional
 2007-09-12, xplanner,	196523, Helen Bershadskaya,	<10,		relves,		unit test updates
 2007-09-13,	xplanner,	203174,	Helen Bershadskaya,	<100,		relves,		fixed tasks being dropped from xplanner queries
+2007-09-13,	tasks,		195311, Shawn Minto,		<10,		relves,		fixed query fails to show incoming if only sub task has incoming 
 
 ------------------------- 2.0 (Europa) -------------------------
 

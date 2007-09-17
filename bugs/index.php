@@ -5,13 +5,14 @@
 	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
 	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
 	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project_bugs.class.php");
+
+    #$App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
+    #ob_start();
+    #include($App->getProjectCommon());   
+	
+
 	include("_sideCommon.php");
-
-    $App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
-    ob_start();
-
-    include($App->getProjectCommon());   
-	$votesBugs = new ProjectBugs("tools.mylyn");
+    $votesBugs = new ProjectBugs("tools.mylyn");
 	$votesEnhancements = new ProjectBugs("tools.mylyn", 2);
 	
 	$pageTitle 		= "Mylyn Bugs";

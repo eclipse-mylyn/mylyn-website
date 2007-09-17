@@ -12,13 +12,13 @@
 	
 
 	include("_sideCommon.php");
+	
     $votesBugs = new ProjectBugs("tools.mylyn");
 	$votesEnhancements = new ProjectBugs("tools.mylyn", 2);
-	
 	$pageTitle 		= "Mylyn Bugs";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
-<!-- ?> -->
+	
 	$html = <<<EOHTML
 
 <div id="maincontent">
@@ -104,10 +104,3 @@ EOHTML;
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
 
-<!--
-<?php
-    $html = ob_get_contents();
-    ob_end_clean();
-    $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
-?>
--->

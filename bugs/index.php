@@ -1,4 +1,15 @@
-<?php
+<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
+
+	#*****************************************************************************
+	#
+	#****************************************************************************
+	
+	#
+	# Begin: page-specific settings.  Change these. 
+	$pageTitle 		= "Selected Presentations";
+	$pageKeywords	= "Mylyn, Eclipse";
+	$pageAuthor		= "Mik Kersten";
+		
     #require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
     #require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
 	#require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
@@ -8,17 +19,12 @@
 
     #$App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
     #ob_start();
-    #include($App->getProjectCommon());   
-	 
-	include("_sideCommon.php");
-	
-    $votesBugs = new ProjectBugs("tools.mylyn");
-	$votesEnhancements = new ProjectBugs("tools.mylyn", 2);
-	$pageTitle 		= "Mylyn Bugs";
-	$pageKeywords	= "Mylyn, Eclipse";
-	$pageAuthor		= "Mik Kersten";	
-	
+    #include($App->getProjectCommon());
+
+	include("_sideCommon.php");	
 	$html = <<<EOHTML
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 <div id="maincontent">
 	<div id="midcolumn">
@@ -98,8 +104,6 @@
 
 EOHTML;
 
-
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
-

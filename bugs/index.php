@@ -24,8 +24,6 @@
 	include("_sideCommon.php");	
 	$html = <<<EOHTML
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 <div id="maincontent">
 	<div id="midcolumn">
 		<div class="homeitem3col">

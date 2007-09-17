@@ -9,8 +9,7 @@
     #$App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
     #ob_start();
     #include($App->getProjectCommon());   
-	
-
+	 
 	include("_sideCommon.php");
 	
     $votesBugs = new ProjectBugs("tools.mylyn");

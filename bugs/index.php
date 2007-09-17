@@ -22,10 +22,6 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-		<!--
-		<div align="center"><h1><?= $pageTitle ?></h1></div>
-		-->
-		
 		<div class="homeitem3col">
 			<h3>New Bugs</h3>
 			<ul>

@@ -10,12 +10,16 @@
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 		
-    #require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
-    #require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
-	#require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
-	#require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
-	#require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
-	#require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project_bugs.class.php");
+    require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/app.class.php");   
+    require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/nav.class.php");   
+	require_once($_SERVER['DOCUMENT_ROOT']."/eclipse.org-common/system/menu.class.php");  
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/bug.class.php");
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project-info.class.php");    
+	require_once($_SERVER['DOCUMENT_ROOT']."/projects/common/project_bugs.class.php");
+
+	$votesBugs = new ProjectBugs("tools.mylyn");
+	$votesEnhancements = new ProjectBugs("tools.mylyn", 2);
+	
 
     #$App    = new App();    $Nav    = new Nav();    $Menu   = new Menu();   
     #ob_start();

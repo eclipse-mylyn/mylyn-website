@@ -17,8 +17,8 @@
 	$pageTitle 		= "Mylyn Bugs";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";	
-?>
-
+<!-- ?> -->
+	$html = <<<EOHTML
 
 <div id="maincontent">
 	<div id="midcolumn">
@@ -96,8 +96,17 @@
 	</font>
 </div>
 
+EOHTML;
+
+
+	# Generate the web page
+	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
+?>
+
+<!--
 <?php
     $html = ob_get_contents();
     ob_end_clean();
     $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>
+-->

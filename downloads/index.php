@@ -43,33 +43,54 @@ $html = <<<EOHTML
 	</div>	
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>Releases</h3> 
-		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
-		<br>&nbsp;&nbsp;&nbsp;<i>Planned 2.1 release date: September 28, 2007</i>
+		<h3>Mylyn 2.1 Update Sites</h3> 
+		<br>&nbsp;&nbsp;&nbsp;<i>Planned release date: September 28, 2007</i>
 		<ul>
 			<li>
 				<!--<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1-e3.4.zip&r=1">-->
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				<!--</a>-->
-				Mylyn 2.1 for Eclipse 3.4M2: <font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b></font>
-        	<br>
+				<font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M2)</font>
+        	</li>
+			<li>
 				<!--<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1-e3.3.zip&r=1">-->
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				<!--</a>-->
-				Mylyn 2.1 for Eclipse 3.3: <font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b></font>
-        	<br>
+				<font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)</font>
+        	</li>
+			<li> 
 				<!--<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1-extras.zip&r=1">-->
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				<!--</a>-->
-				Mylyn 2.1 Extras: <font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b></font>
+				<font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)</font>
         		<br>
 				<font size=-1>Connectors: JIRA, XPlanner, Generic Issue Tracker; UI Usage Reporting</font>
         	</li>
 		</ul>	
 	</div>
+
+    <div class="homeitem3col" style="margin-left:40px; width:90%">
+		<h3>Weekly Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
+		<ul>
+			<li> 
+				<b>download.eclipse.org/tools/mylyn/update/dev/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/dev/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/dev/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+			<!--
+				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>
+			-->
+		</ul>
+	</div>
 	
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>Mylyn 2.0 Update Sites</h3> 
+		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 		<ul>
 			<li>
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-e3.3.zip&r=1">

@@ -65,7 +65,7 @@ $html = <<<EOHTML
 				<!--</a>-->
 				<font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)</font>
         		<br>
-				<font size=-1>Connectors: JIRA, XPlanner, Generic Issue Tracker; UI Usage Reporting</font>
+				<font size=-1>UI Usage Reporting and Connectors for JIRA, XPlanner, Generic Issue Trackers</font>
         	</li>
 		</ul>	
 	</div>

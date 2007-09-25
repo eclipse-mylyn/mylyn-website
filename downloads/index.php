@@ -40,11 +40,12 @@ $html = <<<EOHTML
 					On Eclipse 3.2 use only the <i>Search for new features..</i> option.
 			        </p>			        
     			</div>
-	</div>	
+	</div>		
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
+		<i>Mylyn 2.1 release date: September 28, 2007</i>
+		
 		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<i>Planned release date: September 28, 2007</i>
 		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 		<ul>
 			<li>
@@ -65,7 +66,7 @@ $html = <<<EOHTML
 				<!--</a>-->
 				<font color=gray>&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)</font>
         		<br>
-				<font size=-1>UI Usage Reporting and Connectors for JIRA, XPlanner, Generic Issue Trackers</font>
+				<font size=-1>Incubation components and connectors for JIRA and XPlanner</font>
         	</li>
 		</ul>	
 	</div>

@@ -123,7 +123,7 @@ $html = <<<EOHTML
 			      			<td><font size=+0><a href="/mylyn/builds">Download Archives</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Weekly dev builds and older versions</td>
+			          		<td>Mylyn 2.0 and older versions</td>
 			          	</tr>
 					</table>
 				</td> 

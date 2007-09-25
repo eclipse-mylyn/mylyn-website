@@ -164,7 +164,7 @@
 		</div>
  
         <div class="homeitem3col">
-			<h3>Other <a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>Other</h3>
 			<ul>
 				<li>
 					Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>

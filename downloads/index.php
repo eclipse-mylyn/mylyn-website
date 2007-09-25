@@ -107,7 +107,7 @@ $html = <<<EOHTML
 		<ul>
         	<li>
         		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
-        		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 
+        		&nbsp;&nbsp;Third Party Update Sites</a>: additional Connectors and Bridges 
 			</li>
 		</ul>
 	</div>
@@ -134,7 +134,7 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><font size=+0><a href="/mylyn/downloads/builds.php">Weekly Builds</a></font></td>
+			      			<td><font size=+0><a href="/mylyn/builds">Weekly Builds</a></font></td>
 						</tr>
 						<tr>
 			          		<td>Weekly dev builds and older versions</td>

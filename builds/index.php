@@ -32,17 +32,17 @@
 	<div id="midcolumn">  
 		Back to <a href="/mylyn/downloads/">Mylyn Downloads</a>.
 		<div class="homeitem3col">
-			<h3>2.1 Weekly Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>2.1 Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
 			<ul>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+					<b>download.eclipse.org/tools/mylyn/update/dev/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/dev/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/dev/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 				</li>
 				<!--
 					<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>

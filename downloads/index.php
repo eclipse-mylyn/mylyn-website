@@ -38,13 +38,14 @@ $html = <<<EOHTML
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download">Update Manager (instructions available)</a>.
 					On Eclipse 3.2 use only the <i>Search for new features..</i> option.
-			        </p>			        
+			        </p>	
+			        <p>
+			        	<b><i>Mylyn 2.1 release date: September 28, 2007</i></b>
+			        </p>		        
     			</div>
 	</div>		
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
-		&nbsp;&nbsp;&nbsp;<i>Mylyn 2.1 release date: September 28, 2007</i>
-		
 		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		<br>&nbsp;&nbsp;&nbsp;Requires: <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>.  Supports: <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later				
 		<ul>

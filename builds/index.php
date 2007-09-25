@@ -38,12 +38,12 @@
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1M1/mylyn-2.1M1-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1M1/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
+					&nbsp;&nbsp;2.1M1: <b>download.eclipse.org/tools/mylyn/update-archive/2.1M1/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
 	        	</li>
 				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1M1/mylyn-2.1M1-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1M1/extras</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
+						&nbsp;&nbsp;2.1M1: <b>download.eclipse.org/tools/mylyn/update-archive/2.1M1/extras</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
 	        		<br>
 					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
 	        	</li>
@@ -60,7 +60,7 @@
 	                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-src-2.0.0-e3.3.zip&r=1">
 	                	<img border=0 src="/mylyn/images/icon-source.gif"></a>
 	                -->
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+					&nbsp;&nbsp;2.0.0: <b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 	        	</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-e3.2.zip&r=1">
@@ -69,12 +69,12 @@
 	                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-src-2.0.0-e3.2.zip&r=1">
 	                	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
 	                -->
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
+					&nbsp;&nbsp;2.0.0: <b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
 	        	</li>
 	        	<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-extras.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
+						&nbsp;&nbsp;2.0.0: <b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
 					<br>
 					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
 	        	</li>
@@ -89,13 +89,13 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-src-2.0M3-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M3: download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.3</b> (Eclipse 3.3M6)
+					2.0M3: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.3</b> (Eclipse 3.3M6)
 	        	<br> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-site-2.0M3-e3.2.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-src-2.0M3-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M3: download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.2</b> (Eclipse 3.2)
+					2.0M3: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M3/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
 			<ul>
@@ -104,13 +104,13 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M2/mylar-src-2.0M2-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M2: download.eclipse.org/tools/mylyn/update-archive/2.0M2/e3.3</b> (Eclipse 3.3M6)
+					2.0M2: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M2/e3.3</b> (Eclipse 3.3M6)
 	        	<br> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M2/mylar-site-2.0M2-e3.2.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M2/mylar-src-2.0M2-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M2: download.eclipse.org/tools/mylyn/update-archive/2.0M2/e3.2</b> (Eclipse 3.2)
+					2.0M2: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M2/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
 			<ul>
@@ -119,13 +119,13 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M1/mylar-src-2.0M1-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M1: download.eclipse.org/tools/mylyn/update-archive/2.0M1/e3.3</b> (Eclipse 3.3M6)
+					2.0M1: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M1/e3.3</b> (Eclipse 3.3M6)
 	        	<br> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M1/mylar-site-2.0M1-e3.2.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M1/mylar-src-2.0M1-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>2.0M1: download.eclipse.org/tools/mylyn/update-archive/2.0M1/e3.2</b> (Eclipse 3.2)
+					2.0M1: <b>download.eclipse.org/tools/mylyn/update-archive/2.0M1/e3.2</b> (Eclipse 3.2)
 	        	</li> 
 			</ul>
 		</div>
@@ -138,13 +138,13 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/1.0.1/mylar-src-1.0.1-e3.3.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>1.0.1: download.eclipse.org/tools/mylyn/update-archive/1.0.1/e3.3</b> (Eclipse 3.3M4)
+					1.0.1: <b>download.eclipse.org/tools/mylyn/update-archive/1.0.1/e3.3</b> (Eclipse 3.3M4)
 	        	<br> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/1.0.1/mylar-site-1.0.1-e3.2.tgz&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/1.0.1/mylar-src-1.0.1-e3.2.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>
-					<b>1.0.1: download.eclipse.org/tools/mylyn/update-archive/1.0.1/e3.2</b> (Eclipse 3.2)
+					1.0.1: <b>download.eclipse.org/tools/mylyn/update-archive/1.0.1/e3.2</b> (Eclipse 3.2)
 	        	</li>
 			</ul>
 			<ul>
@@ -153,12 +153,12 @@
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
                     <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive0.6/mylar-src-0.6.0-e3.1.zip&r=1">
                     	<img border=0 src="/mylyn/images/icon-source.gif"></a>	
-					<b>0.6.0: download.eclipse.org/tools/mylyn/update-archive0.6/e3.1</b> (Eclipse 3.1) 
+					0.6.0: <b>download.eclipse.org/tools/mylyn/update-archive0.6/e3.1</b> (Eclipse 3.1) 
 	        	</li>
 	        </ul>
 	        <ul>
 				<li>
-					<b>Older: download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</b>
+					Older: <b>download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</b>
 				</li>
 			</ul>
 		</div>

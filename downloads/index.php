@@ -43,7 +43,7 @@ $html = <<<EOHTML
 	</div>	
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>2.1 Release</h3> 
+		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		<br>&nbsp;&nbsp;&nbsp;<i>Planned release date: September 28, 2007</i>
 		<ul>
 			<li>
@@ -70,7 +70,7 @@ $html = <<<EOHTML
 	</div>
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>2.1 Weekly Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<h3>2.1 Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
 		<ul>
 			<li> 
@@ -82,15 +82,14 @@ $html = <<<EOHTML
 			<li>
 				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 			</li>
-			<!--
-				<li>Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/mylar/update-site/mylar-lib-2.0M3.zip&r=1">mylar-lib-2.0M3.zip</a>
-			-->
 		</ul>
 	</div>
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>Extensions</h3>
+		<!--
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
+		-->
 		<ul>
         	<li>
         		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">

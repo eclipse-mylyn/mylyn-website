@@ -31,6 +31,8 @@
 <div id="maincontent">
 	<div id="midcolumn">  
 		Back to <a href="/mylyn/downloads/">Mylyn Downloads</a>.
+		
+		<!--
 		<div class="homeitem3col">
 			<h3>2.1 Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
@@ -49,24 +51,10 @@
 				-->
 			</ul>
 		</div>
-
-		<!--
-		<div class="homeitem3col">
-			<h3>Dev Build Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-			<ul>
-				<li>
-					<b>download.eclipse.org/tools/mylyn/update/dev/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-					<br><i>Dev builds are production quality, but subject to UI changes.</i>
-				</li>
-				<li>
-					<b>download.eclipse.org/tools/mylyn/update/dev/extras</b>&nbsp;&nbsp;(Eclipse 3.3)
-				</li>
-			</ul>
-		</div>
 		-->
 		
-	    <div class="homeitem3col"> 
-			<h3>2.1 Milestone Builds</h3> 
+		<div class="homeitem3col"> 
+			<h3>2.1 Milestones</h3> 
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1M1/mylyn-2.1M1-e3.4.zip&r=1">
@@ -83,8 +71,39 @@
 			</ul>	
 		</div>
 		
+		<div class="homeitem3col"> 
+			<h3>2.0 Release</h3> 
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
+					<!--
+	                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-src-2.0.0-e3.3.zip&r=1">
+	                	<img border=0 src="/mylyn/images/icon-source.gif"></a>
+	                -->
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-e3.2.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
+					<!--
+	                <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-src-2.0.0-e3.2.zip&r=1">
+	                	<img border=0 src="/mylyn/images/icon-source.gif"></a> 
+	                -->
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
+	        	</li>
+	        	<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif"></a>
+						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
+					<br>
+					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
+	        	</li>
+			</ul>	
+		</div>
+		
         <div class="homeitem3col">
-			<h3>2.0 Update Sites Archives<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>2.0 Milestones<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0M3/mylar-site-2.0M3-e3.3.zip&r=1">
@@ -133,7 +152,7 @@
 		</div>
         
         <div class="homeitem3col">
-			<h3>1.0 Update Site Archives</h3>
+			<h3>1.0 Release</h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/1.0.1/mylar-site-1.0.1-e3.3.tgz&r=1">

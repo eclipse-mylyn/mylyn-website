@@ -65,7 +65,7 @@
 		</div>
 		-->
 		
-	    <div class="homeitem3col" style="margin-left:40px;">
+	    <div class="homeitem3col"> 
 			<h3>2.1 Milestone Builds</h3> 
 			<ul>
 				<li>

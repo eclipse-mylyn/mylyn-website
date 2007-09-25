@@ -30,7 +30,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">  
-	
+		Back to <a href="/mylyn/downloads/">Mylyn Downloads</a>.
 		<div class="homeitem3col">
 			<h3>2.1 Weekly Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
@@ -65,7 +65,7 @@
 		</div>
 		-->
 		
-	    <div class="homeitem3col" style="margin-left:40px;>
+	    <div class="homeitem3col" style="margin-left:40px;">
 			<h3>2.1 Milestone Builds</h3> 
 			<ul>
 				<li>

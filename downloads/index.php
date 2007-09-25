@@ -82,6 +82,13 @@ $html = <<<EOHTML
                 -->
 				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.2</b>&nbsp;&nbsp;(Eclipse 3.2)
         	</li>
+        	<li> 
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif"></a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
+				<br>
+				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
+        	</li>
 		</ul>	
 	</div>
 
@@ -89,13 +96,6 @@ $html = <<<EOHTML
 		<h3>Mylyn 2.0 Extensions</h3>
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
 		<ul>
-			<li> 
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.0.0-extras.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
-				<br>
-				<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
-        	</li>
         	<li>
         		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
         		&nbsp;&nbsp;Third Party Update Sites</a>: additional connectors and bridges 

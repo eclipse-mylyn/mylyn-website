@@ -32,7 +32,7 @@
 	<div id="midcolumn">  
 	
 		<div class="homeitem3col">
-			<h3>2.2 Weekly Build Update Sites<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>2.1 Weekly Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br><i>Weekly builds are production quality, but subject to UI changes.</i>
 			<ul>
 				<li>
@@ -66,7 +66,7 @@
 		-->
 		
 	    <div class="homeitem3col" style="margin-left:40px; width:90%">
-			<h3>2.1 Milestone Update Sites</h3> 
+			<h3>2.1 Milestone Builds</h3> 
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/milestone/mylyn-2.1M1-e3.4.zip&r=1">

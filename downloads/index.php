@@ -121,7 +121,7 @@ $html = <<<EOHTML
 					</table>
 				</td>
 				<td width=20></td> 
-				<td><a href="/mylyn/downloads/builds.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 

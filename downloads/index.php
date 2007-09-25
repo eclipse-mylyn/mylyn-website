@@ -44,7 +44,7 @@ $html = <<<EOHTML
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>Mylyn 2.1 Update Sites</h3> 
-		<i>Release date: September 28, 2007
+		<i>Planned release date: September 28, 2007</i>
 		<ul>
 			<li>
 				<!--<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.1-e3.4.zip&r=1">-->

@@ -33,7 +33,7 @@
 	
 		<div class="homeitem3col">
 			<h3>2.1 Weekly Integration Builds<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-			<br><i>Weekly builds are production quality, but subject to UI changes.</i>
+			<br>&nbsp;&nbsp;&nbsp;Weekly builds are production quality, but subject to UI changes.
 			<ul>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
@@ -65,18 +65,18 @@
 		</div>
 		-->
 		
-	    <div class="homeitem3col" style="margin-left:40px; width:90%">
+	    <div class="homeitem3col" style="margin-left:40px;>
 			<h3>2.1 Milestone Builds</h3> 
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/milestone/mylyn-2.1M1-e3.4.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1M1/mylyn-2.1M1-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/milestone/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/update-archive/2.1M1/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
 	        	</li>
 				<li> 
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/milestone/mylyn-2.1M1-e3.4.zip&r=1">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1M1/mylyn-2.1M1-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif"></a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/milestone/extras</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
+						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1M1/extras</b>&nbsp;&nbsp;(Eclipse 3.4M1 and 3.3)
 	        		<br>
 					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
 	        	</li>

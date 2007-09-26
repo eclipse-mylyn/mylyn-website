@@ -122,10 +122,10 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><font size=+0><a href="/mylyn/builds">Archives and Other builds</a></font></td>
+			      			<td><font size=+0><a href="/mylyn/builds">Archives and other builds</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Mylyn 2.0 and older versions, UI experimentation</td> 
+			          		<td>Mylyn 2.0 and older versions, Sandbox</td> 
 			          	</tr>
 					</table>
 				</td> 

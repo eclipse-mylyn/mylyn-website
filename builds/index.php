@@ -30,7 +30,9 @@
 
 <div id="maincontent">
 	<div id="midcolumn">  
-		Back to <a href="/mylyn/downloads/">Mylyn Downloads</a>
+		Back to the <a href="/mylyn/downloads/">Mylyn Downloads Page</a>
+		<br>
+		For the Sandbox update site and description see the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a>.
 		
 		<div class="homeitem3col"> 
 			<h3>2.1 Milestones</h3> 

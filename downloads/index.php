@@ -28,7 +28,7 @@
 $html = <<<EOHTML
 
 	<div style="margin-left:10px; margin-top:20pt;">
-        	<div style="float:right; margin-right: 30pt; margin-left: 10pt;"><img src="/mylyn/images/install-overview.gif"/></div>
+        	<div style="float:right; margin-right: 30pt; margin-left: 40pt;"><img src="/mylyn/images/install-overview.gif"/></div>
         		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
 				<div style="margin-top:30pt;">
 		        	<p>

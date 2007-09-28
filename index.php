@@ -76,9 +76,11 @@ $html = <<<EOHTML
 						<li>
 							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.
 						</li> 
+						<!--
 						<li>
 							June 11: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>  Read the <a href="rename.php">Rename FAQ</a>.
 						</li>
+						-->
 					 </ul>	
 				</div> 
 				&nbsp;&nbsp;<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">

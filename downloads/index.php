@@ -32,13 +32,15 @@ $html = <<<EOHTML
         		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
 				<div style="margin-top:30pt;">
 		        	<p>
+		        	<b>New users</b>: you can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
+			        then look updates using the sites below.
+			        </p>
+		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  
 			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download">Update Manager (instructions available)</a>.
-			        <br>&nbsp;<br><b>New users</b>: you can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
-			        then look updates using the sites below.
 			        </p>
     			</div>
 	</div>		

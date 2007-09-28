@@ -30,7 +30,7 @@ $html = <<<EOHTML
 	<div style="margin-left:10px; margin-top:20pt;">
         	<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>
         		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
-				<div style="margin-top:30pt;margin-left: 40pt;">
+				<div style="margin-top:30pt;margin-left: 80pt;">
 		        	<p>
 		        	<b>New users</b>: you can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 			        then look updates using the sites below.

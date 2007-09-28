@@ -37,9 +37,6 @@ $html = <<<EOHTML
 			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Download">Update Manager (instructions available)</a>.
-					On Eclipse 3.2 use only the <i>Search for new features..</i> option.
-			        </p>
-			        <p>
 			        <b>New users</b>: you can download Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>
 			        </p>
     			</div>

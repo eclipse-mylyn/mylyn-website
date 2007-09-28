@@ -93,81 +93,6 @@ at the 2.0 quality level or because they are experimental features.</p>
 <hr>
 
 <p>&nbsp;</p>
-<h2><a name="task-list5">Task-Focused UI</a></h2>
-
-<table cellpadding="10" cellspacing="0" id="table370">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Filtering and Linking Management</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">When a view is Focused on the active task, 
-			it's manual linking and filtering facilities are disabled.&nbsp; 
-			This is now made explicit in the UI of views including the Package 
-			Explorer, Project Explorer and Navigator.&nbsp; This also ensures 
-			that the view cannot be put into an inconsistent state by having 
-			some of it's filters enabled when in Focused mode.&nbsp; When Focus 
-			is toggled off or the task is deactivated the manual linking and 
-			filtering will be re-enabled and restored to their previous state.<p class="MsoPlainText">
-			<img border="0" src="images/2.1/focus-linking-disable.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table369">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Alt+click and Popup Menu Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">Since the 
-			<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Alt.2BClick_navigation">
-			Alt+click navigation</a> mechanism is a new concept and has not been 
-			discoverable enough, this action can now be invoked via the popup 
-			menu as well.&nbsp; Note that this action is only visible when a 
-			task is active.&nbsp; It is currently limited to Java elements.&nbsp; 
-			In addition, the <i>Remove from Context</i> and <i>Mark as Landmark</i> 
-			actions have moved to a more appropriate position in the popup menu, 
-			and will only show when a task is active, and only on the elements 
-			that they apply to.&nbsp; For example, a project cannot be made a 
-			landmark, and as visible below no longer shows this action. <p class="MsoPlainText">
-			<img border="0" src="images/2.1/show-filtered.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table368">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Editor Management Configuration</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p class="MsoPlainText">A frequent complaint upon first use of the 
-			Task-Focused UI was the fact that files are automatically removed 
-			from the task context when they are closed. This facility can now be 
-			disabled independently of the editor management which restores 
-			editors and ensures that elements whose interest had decayed have 
-			their editors closed, preventing open editor bloat.&nbsp; Removing 
-			files from context on close is still recommended because it ensures 
-			that the open editors match the task context. <p class="MsoPlainText">
-			<img border="0" src="images/2.1/context-preferences.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<h2>&nbsp;</h2>
 <h2><a name="task-list">Task List</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table365">
@@ -207,7 +132,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 			allows you to easily modify an existing query.&nbsp; Cloning of 
 			tasks will bring up a new <i>Task Editor </i>that contains 
 			information about the task being cloned.&nbsp; Note that this can be 
-			done across <i>Task Repositories</i> (e.g., from Bugzilla to JIRA, 
+			done across repositories (e.g., from Bugzilla to JIRA, 
 			as visible below).<p class="MsoPlainText">
 			<img border="0" src="images/2.1/tasks-clone.png"></td>
 		</tr>
@@ -228,7 +153,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 			Scheduled</i> instead of <i>Clear</i> action so that it can indicate 
 			when a task has not been scheduled. The <i>New</i> menu now provides 
 			a shortcut for creating local tasks without a wizard.&nbsp; The 
-			keyboard shortcut for this is the Insert key on Platforms that 
+			keyboard shortcut creating new local tasks is the Insert key on Platforms that 
 			support it, or Alt+Shift+N, T on all platforms (note that this might 
 			require resetting the <i>Perspective</i> in order to see the new 
 			Mylyn actions). </td>
@@ -270,6 +195,83 @@ at the 2.0 quality level or because they are experimental features.</p>
 			old dialog for Mylyn 2.1 (see
 			<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=193423">bug 
 			193423</a>).</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2>&nbsp;</h2>
+<h2><a name="task-list5">Task-Focused UI</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table369">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Alt+click and Popup Menu Improvements</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p class="MsoPlainText">Since the 
+			<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Alt.2BClick_navigation">
+			Alt+click navigation</a> mechanism is a new concept and has not been 
+			discoverable enough, showing the filtered children of an element can now be invoked via the popup 
+			menu as well.&nbsp; Note that this action is only visible when a 
+			task is active.&nbsp; It is currently limited to Java elements.&nbsp;<p class="MsoPlainText">In addition, the <i>Remove from Context</i> and <i>Mark as Landmark</i> 
+			actions have moved to a more appropriate position in the popup menu, 
+			and will only show when a task is active, and only on the elements 
+			that they can be applied to.&nbsp; For example, a project cannot be made a 
+			landmark, and as visible below no longer shows this action. <p class="MsoPlainText">
+			<img border="0" src="images/2.1/show-filtered.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table370">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Filtering and Linking Management</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p class="MsoPlainText">When a view is focused on the active task, 
+			it's manual linking and filtering facilities get disabled.&nbsp; 
+			This is now made explicit in the UI of views including the <i>Package 
+			Explorer</i>, <i>Project Explorer</i> and <i>Navigator </i>by the 
+			corresponding actions getting grayed out.&nbsp; Doing so also ensures 
+			that the view cannot be put into an inconsistent state by having 
+			some of it's filters enabled when in Focused mode.&nbsp; When Focus 
+			is toggled off or the task is deactivated the manual linking and 
+			filtering will be re-enabled and restored to their previous state.<p class="MsoPlainText">
+			<img border="0" src="images/2.1/focus-linking-disable.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table368">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Editor Management Configuration</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p class="MsoPlainText">A frequent new user confusion of the 
+			Task-Focused UI was the fact that files are automatically removed 
+			from the task context when they are closed. This facility will now 
+			show a popup the first time it is invoked, and prompt that it can disabled 
+			via the preferences.&nbsp; Previously it could only be disabled by 
+			disabling all editor management (which restores 
+			editors and ensures that elements whose interest had decayed have 
+			their editors closed, preventing open editor bloat).&nbsp; However, 
+			removing files from context on close is still recommended because it 
+			ensures that the open editors match the task context.<p class="MsoPlainText">
+			<img border="0" src="images/2.1/context-preferences.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -429,8 +431,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 			</td>
 			<td valign="top" width="70%">
 			<p class="MsoPlainText">Support for JIRA subtasks has been improved, 
-			and these can be created both from the<i> Task Editor</i> toolbar:<i>
-			</i><p class="MsoPlainText">
+			and these can be created both from the<i> Task Editor</i> toolbar.<p class="MsoPlainText">
 			<img border="0" src="images/2.1/jira-subtask-create-editor.png"><p class="MsoPlainText">
 			and from the popup menu in the <i>Task List</i>:<p class="MsoPlainText">
 			<img border="0" src="images/2.1/jira-subtask-create.png"></td>

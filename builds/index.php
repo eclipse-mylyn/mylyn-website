@@ -34,7 +34,7 @@
 		<br>&nbsp;
 		<div class="homeitem3col"> 
 			<h3>Sandbox</h3> 
-			<br>&nbsp;&nbsp;&nbsp;See the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a> for a description of Sandbox components.
+			<br>&nbsp;&nbsp;&nbsp;See the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a> for a description of available components.
 			<ul>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/weekly/experimental</b>&nbsp;&nbsp;(Eclipse 3.4Mx and 3.3)

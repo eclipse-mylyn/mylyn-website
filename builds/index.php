@@ -33,7 +33,17 @@
 		Back to the <a href="/mylyn/downloads/">Mylyn Downloads Page</a>
 		<br>&nbsp;
 		<br>
-		For the Sandbox update site and description see the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a>.
+		For the Sandbox update site and description.
+
+		<div class="homeitem3col"> 
+			<h3>Sandbox</h3> 
+			<br>&nbsp;&nbsp;&nbsp;See the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a> for a description of Sandbox components.
+			<ul>
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/experimental</b>&nbsp;&nbsp;(Eclipse 3.4Mx and 3.3)
+	        	</li>
+			</ul>	
+		</div>
 		
 		<div class="homeitem3col"> 
 			<h3>2.1 Milestones</h3> 

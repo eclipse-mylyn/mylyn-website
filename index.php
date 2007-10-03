@@ -63,9 +63,6 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<b>IMPORTANT</b>: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=205249">bugs.eclipse.org outage for Mylyn users</a>
-	            		</li>
-						<li>
 		            		September 27, 2007: <a href="/mylyn/downloads">
 		           			Mylyn 2.1 released</a> for Eclipse 3.4M2 and 3.3
 	            		</li>

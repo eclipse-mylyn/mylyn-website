@@ -38,7 +38,8 @@ Developers
 2007-10-01, tasks		204511, Ketan Padegaonkar,	<10,		mkersten,	schema fix   
 2007-10-04, bugzilla,	196056, Maarten Meijer,		<50,		relves,		add gzip stream support for repository config retrieval
 2007-10-04, tasks,		205213, Maarten Meijer,		<50,		relves,		set user agent on web client
-
+2007-10-04, tasks,		205206, Ketan Padegaonkar,	<10,		relves,		fixed npe in TaskFactory  	
+	
 ------------------------- 2.1 -------------------------
 
 2007-09-07, xplanner,	201970,	Helen Bershadskaya, <10,		mkersten,	search page fix

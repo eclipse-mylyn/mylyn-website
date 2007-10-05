@@ -39,6 +39,7 @@ Developers
 2007-10-04, bugzilla,	196056, Maarten Meijer,		<50,		relves,		add gzip stream support for repository config retrieval
 2007-10-04, tasks,		205213, Maarten Meijer,		<50,		relves,		set user agent on web client
 2007-10-04, tasks,		205206, Ketan Padegaonkar,	<10,		relves,		fixed npe in TaskFactory  	
+2007-10-04, tasks,		198614,	Frank Becker,		<10,		relves,		eliminate redundant duplicate detection code
 	
 ------------------------- 2.1 -------------------------
 

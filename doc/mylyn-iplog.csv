@@ -41,6 +41,7 @@ Developers
 2007-10-04, tasks,		205206, Ketan Padegaonkar,	<10,		relves,		fixed npe in TaskFactory  	
 2007-10-04, tasks,		198614,	Frank Becker,		<10,		relves,		eliminate redundant duplicate detection code
 2007-10-05, bugzilla,	196056, Maarten Meijer,		<10,		relves,		support for gzipped repository configuration
+2007-10-09, monitor,	205838, Shawn Minto,		<250,		mkersten,	monitor improvements	
 	
 ------------------------- 2.1 -------------------------
 

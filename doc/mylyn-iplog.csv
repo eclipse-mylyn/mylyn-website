@@ -44,6 +44,7 @@ Developers
 2007-10-09, monitor,	205838, Shawn Minto,		<250,		mkersten,	monitor improvements	
 2007-10-11, tasks,		203140,	Leo Dos Santos,		<10,		relves,		enable attributes section override	
 2007-10-11, bugzilla,	173352, Frank Becker,		<500,		relves,		bugzilla multiple language support 
+2007-10-11, tasks,		205213, Maarten Meijer,		<50,		relves,		improve Mylyn/httpclient user agent id
 
 ------------------------- 2.1 -------------------------
 

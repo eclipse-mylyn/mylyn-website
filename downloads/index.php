@@ -68,7 +68,7 @@ $html = <<<EOHTML
 				</a>
 				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)
         		<br>
-				<font size=-1>Incubation components and connectors for JIRA and XPlanner</font>
+				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
         	</li>
 		</ul>	
 	</div>

@@ -42,7 +42,8 @@ Developers
 2007-10-04, tasks,		198614,	Frank Becker,		<10,		relves,		eliminate redundant duplicate detection code
 2007-10-05, bugzilla,	196056, Maarten Meijer,		<10,		relves,		support for gzipped repository configuration
 2007-10-09, monitor,	205838, Shawn Minto,		<250,		mkersten,	monitor improvements	
-	
+2007-10-11, tasks,		203140,	Leo Dos Santos,		<10,		relves,		enable attributes section override	
+
 ------------------------- 2.1 -------------------------
 
 2007-09-07, xplanner,	201970,	Helen Bershadskaya, <10,		mkersten,	search page fix

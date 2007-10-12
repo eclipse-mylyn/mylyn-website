@@ -30,8 +30,10 @@
         			<a href="/mylyn/bugs"><img src="/mylyn/images/bug-report.png"></a>
         		</td>
 		        <td>
-			        The preferred way of reporting and discussing defects and enhancement requests is via <a href="/mylyn/bugs">Bug Reports</a>.
-			    </td>
+			        <p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="/mylyn/bugs">Bug Reports</a>.</p>
+			        
+			        <p>For information on how to read newsgroups and a link to the web interface see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>.</p>	    
+			    </td> 
 			</tr>
 		</table>
          

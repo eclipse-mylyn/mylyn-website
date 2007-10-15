@@ -46,7 +46,7 @@
 				</li>
 				<li>
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Mylar Archive</a>
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
 				</li>
 			</ul>
 		</div>

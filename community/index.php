@@ -37,8 +37,8 @@
 					</tr>
 				</table>
 				<li>
-	                <a href="news://news.eclipse.org/eclipse.tools.mylyn">, 
-					News Reader Access</a> for instructions see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>
+	                <a href="news://news.eclipse.org/eclipse.tools.mylyn">
+					News Reader Access</a>, for instructions see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>
 				</li>
 				<li>
 					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Web Access</a>,

@@ -6,7 +6,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Getting Started";
+	$pageTitle 		= "Mylyn Community";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
@@ -27,25 +27,26 @@
 			<h3>Newsgroup</h3>
 			<ul>
 				<table border="0"> 
-	        	<tr>
+	        		<tr>
 	        		<td valign="top">
 	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
 	        		</td>
 			        <td>
-				        <p>For information on how to read newsgroups and a link to the web interface see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>.
+				        The Mylyn Newsgroup is the main forum for user questions and support.
 				    </td> 
-				</tr>
+					</tr>
 				</table>
 				<li>
 	                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
-					news://news.eclipse.org/eclipse.tools.mylyn:</a> users discussions and support
-					<br>
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">[archive]</a>
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">[old archive]</a>
+					News Reader Access</a> for instructions see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>
 				</li>
 				<li>
-					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">
-					Web UI
+					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Web Access</a>
+					registration is <a href="http://www.eclipse.org/newsgroups/register.php">required</a>. 
+				</li>
+				<li>
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Mylar Newsgroup Archive</a>
 				</li>
 			</ul>
 		</div>

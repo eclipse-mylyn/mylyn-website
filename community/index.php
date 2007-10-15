@@ -53,7 +53,18 @@
 
 		<div class="homeitem3col">
 			<h3>Mailing Lists</h3>
-			<img border="0" src="/mylyn/images/image-email.gif"> 
+			<table border="0"> 
+        		<tr>
+        		<td valign="top">
+        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
+        		</td>
+		        <td>
+			       	We recommend that all users subscribe to the low traffic announce mailing list.  Contributors
+			       	should subscribe to the dev mailing list and those building on Mylyn to the integrators
+			       	mailing list.
+			    </td> 
+				</tr>
+			</table>
 			<ul> 
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">
@@ -69,8 +80,6 @@
 					mylyn-dev@eclipse.org:</a> developer discussions and planning
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=%5Bdiscussion%5D&product=Mylar&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					Bugzilla discussions</a> of ideas, enhancements, and UI issues.</li>
 			</ul>
 		</div>
 		

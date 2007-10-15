@@ -56,7 +56,7 @@
 			<table border="0"> 
         		<tr>
         		<td valign="top">
-        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
+        			&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
         		</td>
 		        <td>
 			       	We recommend that all users subscribe to the low traffic announce mailing list.  Contributors

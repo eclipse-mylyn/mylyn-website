@@ -26,8 +26,16 @@
 		<div class="homeitem3col">
 			<h3>Newsgroup</h3>
 			<ul>
-				<img border=0 src="/mylyn/images/community.jpg">
-				For information on how to read newsgroups and a link to the web interface see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>.
+				<table border="0"> 
+	        	<tr>
+	        		<td valign="top">
+	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
+	        		</td>
+			        <td>
+				        <p>For information on how to read newsgroups and a link to the web interface see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>.
+				    </td> 
+				</tr>
+				</table>
 				<li>
 	                <a href="news://news.eclipse.org/eclipse.tools.mylyn"> 
 					news://news.eclipse.org/eclipse.tools.mylyn:</a> users discussions and support

@@ -49,6 +49,7 @@ Developers
 2007-10-11, bugzilla,	205947, Shawn Minto,		<10,		relves,		fixed exception when no configuration data exists
 2007-10-16, bugzilla,	173352, Frank Becker,		<10,		relves,		bugzilla multiple language support (code cleanup)
 2007-10-16, xplanner,	205218, Helen Bershadskaya,	<200,		relves,		allow specifying time in a XPlanner Editor field
+2007-10-16, tasks,		206396, Frank Becker,		<10,		relves,		comment reply not visible when opened from outline
 
 
 ------------------------- 2.1 -------------------------

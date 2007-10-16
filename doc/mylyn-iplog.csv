@@ -47,6 +47,7 @@ Developers
 2007-10-11, tasks,		205213, Maarten Meijer,		<50,		relves,		improve Mylyn/httpclient user agent id
 2007-10-11, tasks,		205708, Maarten Meijer,		<500,		relves,		improve Mylyn support for gzipped response streams
 2007-10-11, bugzilla,	205947, Shawn Minto,		<10,		relves,		fixed exception when no configuration data exists
+2007-10-16, bugzilla,	173352, Frank Becker,		<10,		relves,		bugzilla multiple language support (code cleanup)
 
 ------------------------- 2.1 -------------------------
 

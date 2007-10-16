@@ -48,6 +48,8 @@ Developers
 2007-10-11, tasks,		205708, Maarten Meijer,		<500,		relves,		improve Mylyn support for gzipped response streams
 2007-10-11, bugzilla,	205947, Shawn Minto,		<10,		relves,		fixed exception when no configuration data exists
 2007-10-16, bugzilla,	173352, Frank Becker,		<10,		relves,		bugzilla multiple language support (code cleanup)
+2007-10-16, xplanner,	205218, Helen Bershadskaya,	<200,		relves,		allow specifying time in a XPlanner Editor field
+
 
 ------------------------- 2.1 -------------------------
 

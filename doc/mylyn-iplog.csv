@@ -50,6 +50,7 @@ Developers
 2007-10-16, bugzilla,	173352, Frank Becker,		<10,		relves,		bugzilla multiple language support (code cleanup)
 2007-10-16, xplanner,	205218, Helen Bershadskaya,	<200,		relves,		allow specifying time in a XPlanner Editor field
 2007-10-16, tasks,		206396, Frank Becker,		<10,		relves,		comment reply not visible when opened from outline
+2007-10-16, tasks,		206390,	Willian Mitsuda,	<10,		mkersten,	prefs fixes
 
 
 ------------------------- 2.1 -------------------------

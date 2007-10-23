@@ -52,7 +52,10 @@ Developers
 2007-10-16, tasks,		206396, Frank Becker,		<10,		relves,		comment reply not visible when opened from outline
 2007-10-16, tasks,		206390,	Willian Mitsuda,	<10,		mkersten,	prefs fixes
 2007-10-18, tasks,		203796, Willian Mitsuda,	<100,		mkersten,	URL copying
+2007-10-23, tasks,		203796, Willian Mitsuda,	<250,		mkersten,	comment coloring
 2007-10-23, core,		207069, Shawn Minto,		<10,		relves,		fix swt exception on viewer shutdown
+
+
 
 ------------------------- 2.1 -------------------------
 

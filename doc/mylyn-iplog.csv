@@ -54,7 +54,7 @@ Developers
 2007-10-18, tasks,		203796, Willian Mitsuda,	<100,		mkersten,	URL copying
 2007-10-23, tasks,		203796, Willian Mitsuda,	<250,		mkersten,	comment coloring
 2007-10-23, core,		207069, Shawn Minto,		<10,		relves,		fix swt exception on viewer shutdown
-
+2007-10-24, context,	204495, Shawn Minto,		<100, 		mkersten,	context API candidate
 
 
 ------------------------- 2.1 -------------------------

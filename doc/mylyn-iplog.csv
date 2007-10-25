@@ -56,6 +56,7 @@ Developers
 2007-10-23, core,		207069, Shawn Minto,		<10,		relves,		fix swt exception on viewer shutdown
 2007-10-24, context,	204495, Shawn Minto,		<100, 		mkersten,	context API candidate
 2007-10-25,	tasks,		207334,	Shawn Minto,		<10,		relves,		fix drag and drop hit within query moving to uncategorized
+2007-10-25, tasks,		206970,	Willian Mitsuda,	<10,		relves,		comment coloring code improvement
 
 ------------------------- 2.1 -------------------------
 

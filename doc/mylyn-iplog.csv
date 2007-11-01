@@ -58,7 +58,7 @@ Developers
 2007-10-25,	tasks,		207334,	Shawn Minto,		<10,		relves,		fix drag and drop hit within query moving to uncategorized
 2007-10-25, tasks,		206970,	Willian Mitsuda,	<10,		relves,		comment coloring code improvement
 2007-10-31,	context,	208247,	Shawn Minto,		<250,		mkersten,	context API improvements
-
+2007-11-01, xplanner,	207884,	Helen Bershadskaya, <20,		relves,		fix new task addition default to current user
 
 ------------------------- 2.1 -------------------------
 

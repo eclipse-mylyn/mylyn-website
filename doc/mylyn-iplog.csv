@@ -60,6 +60,7 @@ Developers
 2007-10-31,	context,	208247,	Shawn Minto,		<250,		mkersten,	context API improvements
 2007-11-01, context,	201144, Jakub Jurkiewicz,	<100,		mkersten,	focus for bookmarks
 2007-11-01, xplanner,	207884,	Helen Bershadskaya, <20,		relves,		fix new task addition default to current user
+2007-11-06, tasks,		207598,	Nathan Hapke,		<10,		spingel,	make task list tooltip code reusable
 
 ------------------------- 2.1 -------------------------
 

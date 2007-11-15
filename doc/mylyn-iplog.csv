@@ -65,7 +65,7 @@ Developers
 2007-11-07, tasks,		208275, Maarten Meijer,		<250,		mkersten, 	properties page addition
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes
 2007-11-14, bugzilla,	209257,	Frank Becker,		<10,		relves,		remove unused constant
-
+2007-11-14,	bugzilla,	152869, Frank Becker,		<200,		relves,		new bug from failed JUnit test
 
 ------------------------- 2.1 -------------------------
 

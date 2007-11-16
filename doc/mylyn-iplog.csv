@@ -68,6 +68,8 @@ Developers
 2007-11-14,	bugzilla,	152869, Frank Becker,		<200,		relves,		new bug from failed JUnit test
 2007-11-14,	tasks,		209402, Frank Becker,		<200,		spingel,	add support for cloning task data attribues 
 2007-11-15, tasks,		207498, Maarten Meijer,		<50,		relves,		auto update configuration max every 24hrs 
+2007-11-08, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
+
 
 ------------------------- 2.1 -------------------------
 

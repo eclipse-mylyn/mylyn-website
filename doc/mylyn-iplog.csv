@@ -69,7 +69,7 @@ Developers
 2007-11-14,	tasks,		209402, Frank Becker,		<200,		spingel,	add support for cloning task data attribues 
 2007-11-15, tasks,		207498, Maarten Meijer,		<50,		relves,		auto update configuration max every 24hrs 
 2007-11-08, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
-
+2007-11-08, bugzilla,	209073, Frank Becker,		<100,		relves,		Additional attributes added to new bug editor
 
 ------------------------- 2.1 -------------------------
 

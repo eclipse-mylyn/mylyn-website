@@ -47,6 +47,20 @@
 			</ul>
 		</div>      
 
+        <div class="homeitem3col">
+			<h3>Connectors</h3> 
+			<ul>
+				<li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Bugzilla</a>: the Mylyn 2.0, Part 1 article provides a getting started guide
+	            </li>
+	            <li> 
+		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           JIRA</a> the Atlassian page provides a getting started guide
+	            </li>
+			</ul>
+		</div>     
+
 		<!--		
 		<p>In addition to providing personal task management and support for task contexts, Mylyn has the following 
 		task/issue/bug/report repository integration.  The deeper the integration, the better and more streamlined

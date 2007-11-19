@@ -71,6 +71,7 @@ Developers
 2007-11-08, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
 2007-11-18, bugzilla,	209073, Frank Becker,		<100,		relves,		Additional attributes added to new bug editor
 2007-11-18, bugzilla,	209250, Frank Becker,		<10,		relves,		Content assist for Bugzilla 3.1 assignedTo field
+2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	Task list tooltip alignment fix for Mac OS X
 
 ------------------------- 2.1 -------------------------
 

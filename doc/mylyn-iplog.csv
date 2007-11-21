@@ -69,12 +69,14 @@ Developers
 2007-11-14,	tasks,		209402, Frank Becker,		<200,		spingel,	add support for cloning task data attribues 
 2007-11-15, tasks,		207498, Maarten Meijer,		<50,		relves,		auto update configuration max every 24hrs 
 2007-11-08, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
-2007-11-18, bugzilla,	209073, Frank Becker,		<100,		relves,		Additional attributes added to new bug editor
-2007-11-18, bugzilla,	209250, Frank Becker,		<10,		relves,		Content assist for Bugzilla 3.1 assignedTo field
-2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	Task list tooltip alignment fix for Mac OS X
-2007-11-19, tasks,		169426, Frank Becker,		<250,		spingel,	Create new tasks from comments
-2007-11-20, jira,		207567,	George Lindholm,	<100,		spingel,	Fix for infinite loop in html to text converter
+2007-11-18, bugzilla,	209073, Frank Becker,		<100,		relves,		additional attributes added to new bug editor
+2007-11-18, bugzilla,	209250, Frank Becker,		<10,		relves,		content assist for Bugzilla 3.1 assignedTo field
+2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	task list tooltip alignment fix for Mac OS X
+2007-11-19, tasks,		169426, Frank Becker,		<250,		spingel,	create new tasks from comments
+2007-11-20, jira,		207567,	George Lindholm,	<100,		spingel,	fix for infinite loop in html to text converter
 2007-11-21, bugzilla,	207524, Frank Becker,		<250,		relves,		new subtask creation support
+2007-11-22, tasks,		169426, Frank Becker,		<200,		spingel,	test case for creating new tasks from comments
+
 
 ------------------------- 2.1 -------------------------
 

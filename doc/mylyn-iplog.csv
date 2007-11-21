@@ -74,6 +74,7 @@ Developers
 2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	Task list tooltip alignment fix for Mac OS X
 2007-11-19, tasks,		169426, Frank Becker,		<250,		spingel,	Create new tasks from comments
 2007-11-20, jira,		207567,	George Lindholm,	<100,		spingel,	Fix for infinite loop in html to text converter
+2007-11-21, bugzilla,	207524, Frank Becker,		<250,		relves,		new subtask creation support
 
 ------------------------- 2.1 -------------------------
 

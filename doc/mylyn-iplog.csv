@@ -77,6 +77,7 @@ Developers
 2007-11-21, bugzilla,	207524, Frank Becker,		<250,		relves,		new subtask creation support
 2007-11-22, tasks,		169426, Frank Becker,		<200,		spingel,	test case for creating new tasks from comments
 2007-11-26, tasks,		208363,	George Lindholm,	<300,		relves,		second level priority sort by id/summary 
+2007-11-26, tasks,		209409, Willian Mitsuda,	<100,		relves,		hyperlink duplication fix
 
 ------------------------- 2.1 -------------------------
 

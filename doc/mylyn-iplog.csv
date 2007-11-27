@@ -80,6 +80,7 @@ Developers
 2007-11-26, tasks,		209409, Willian Mitsuda,	<100,		relves,		hyperlink duplication fix
 2007-11-26, tasks,		209572, Chris Aniszczyk,	<250,		spingel,	restore selection when opening attachment wizard 
 2007-11-26, tasks,		210287,	Willian Mitsuda,	<10,		mkersten,	task creation fix
+2007-11-26, bugzilla,	205909, Frank Becker,		<10,		relves,		local users support for bugzilla 3.0		
 
 ------------------------- 2.1 -------------------------
 

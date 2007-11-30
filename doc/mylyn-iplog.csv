@@ -59,6 +59,7 @@ Developers
 2007-11-29, sandbox,	210639, Maarten Meijer,		<250,		spingel,	show additional information on property pages 
 2007-11-29, tasks,		199678, Frank Becker,		<20,		relves,		summary field converted to text viewer
 2007-11-30, bugzilla,	206510, Frank Becker,		<200,		relves,		language template support for bugzilla
+2007-11-30,	tasks,		211080,	Leo Dos Santos,		<100,		spingel,	drag and drop fixes for Mac OS X
 
 ------------------------- 2.2M -------------------------
 
@@ -90,8 +91,6 @@ Developers
 2007-11-06, tasks,		207598,	Nathan Hapke,		<10,		spingel,	make task list tooltip code reusable
 2007-11-07, tasks,		208819, Chris Aniszczyk,	<100,		mkersten,	report as bug fix
 2007-11-07, sandbox,	208275, Maarten Meijer,		<250,		mkersten, 	properties page addition
-
-
 
 ------------------------- 2.1 -------------------------
 

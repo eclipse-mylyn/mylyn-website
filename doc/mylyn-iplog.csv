@@ -33,6 +33,33 @@ rome-0.8,						org.eclipse.mylar, 				APL,						web repository connections
 
 Developers
 
+
+------------------------- 2.2 -------------------------
+
+2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes
+2007-11-14, bugzilla,	209257,	Frank Becker,		<10,		relves,		remove unused constant
+2007-11-14,	bugzilla,	152869, Frank Becker,		<200,		relves,		new bug from failed JUnit test
+2007-11-14,	tasks,		209402, Frank Becker,		<200,		spingel,	add support for cloning task data attribues 
+2007-11-15, tasks,		207498, Maarten Meijer,		<50,		relves,		auto update configuration max every 24hrs 
+2007-11-16, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
+2007-11-18, bugzilla,	209073, Frank Becker,		<100,		relves,		additional attributes added to new bug editor
+2007-11-18, bugzilla,	209250, Frank Becker,		<10,		relves,		content assist for Bugzilla 3.1 assignedTo field
+2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	task list tooltip alignment fix for Mac OS X
+2007-11-19, tasks,		169426, Frank Becker,		<250,		spingel,	create new tasks from comments
+2007-11-20, jira,		207567,	George Lindholm,	<100,		spingel,	fix for infinite loop in html to text converter
+2007-11-21, bugzilla,	207524, Frank Becker,		<250,		relves,		new subtask creation support
+2007-11-22, tasks,		169426, Frank Becker,		<200,		spingel,	test case for creating new tasks from comments
+2007-11-26, tasks,		208363,	George Lindholm,	<300,		relves,		second level priority sort by id/summary 
+2007-11-26, tasks,		209409, Willian Mitsuda,	<100,		relves,		hyperlink duplication fix
+2007-11-26, tasks,		209572, Chris Aniszczyk,	<250,		spingel,	restore selection when opening attachment wizard 
+2007-11-26, tasks,		210287,	Willian Mitsuda,	<10,		mkersten,	task creation fix
+2007-11-26, bugzilla,	205909, Frank Becker,		<10,		relves,		local users support for bugzilla 3.0		
+2007-11-27,	tasks,		189476,	Leo Dos Santos,		<250,		mkersten,	UI legend layout fixes
+2007-11-27, tasks,		193849, Willian Mitsuda,	<250,		mkersten,	open task dialog improvements
+2007-11-29, sandbox,	210639, Maarten Meijer,		<250,		spingel,	show additional information on property pages 
+2007-11-29, tasks,		199678, Frank Becker,		<20,		relves,		summary field converted to text viewer
+
+
 ------------------------- 2.2M -------------------------
 
 2007-10-01, tasks		204511, Ketan Padegaonkar,	<10,		mkersten,	schema fix   
@@ -63,28 +90,6 @@ Developers
 2007-11-06, tasks,		207598,	Nathan Hapke,		<10,		spingel,	make task list tooltip code reusable
 2007-11-07, tasks,		208819, Chris Aniszczyk,	<100,		mkersten,	report as bug fix
 2007-11-07, sandbox,	208275, Maarten Meijer,		<250,		mkersten, 	properties page addition
-2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes
-2007-11-14, bugzilla,	209257,	Frank Becker,		<10,		relves,		remove unused constant
-2007-11-14,	bugzilla,	152869, Frank Becker,		<200,		relves,		new bug from failed JUnit test
-2007-11-14,	tasks,		209402, Frank Becker,		<200,		spingel,	add support for cloning task data attribues 
-2007-11-15, tasks,		207498, Maarten Meijer,		<50,		relves,		auto update configuration max every 24hrs 
-2007-11-16, tasks,		203602,	Willian Mitsuda,	<100,		mkersten,	screenshot capture improvements
-2007-11-18, bugzilla,	209073, Frank Becker,		<100,		relves,		additional attributes added to new bug editor
-2007-11-18, bugzilla,	209250, Frank Becker,		<10,		relves,		content assist for Bugzilla 3.1 assignedTo field
-2007-11-19, tasks,		189313, Leo Dos Santos,		<10,		spingel,	task list tooltip alignment fix for Mac OS X
-2007-11-19, tasks,		169426, Frank Becker,		<250,		spingel,	create new tasks from comments
-2007-11-20, jira,		207567,	George Lindholm,	<100,		spingel,	fix for infinite loop in html to text converter
-2007-11-21, bugzilla,	207524, Frank Becker,		<250,		relves,		new subtask creation support
-2007-11-22, tasks,		169426, Frank Becker,		<200,		spingel,	test case for creating new tasks from comments
-2007-11-26, tasks,		208363,	George Lindholm,	<300,		relves,		second level priority sort by id/summary 
-2007-11-26, tasks,		209409, Willian Mitsuda,	<100,		relves,		hyperlink duplication fix
-2007-11-26, tasks,		209572, Chris Aniszczyk,	<250,		spingel,	restore selection when opening attachment wizard 
-2007-11-26, tasks,		210287,	Willian Mitsuda,	<10,		mkersten,	task creation fix
-2007-11-26, bugzilla,	205909, Frank Becker,		<10,		relves,		local users support for bugzilla 3.0		
-2007-11-27,	tasks,		189476,	Leo Dos Santos,		<250,		mkersten,	UI legend layout fixes
-2007-11-27, tasks,		193849, Willian Mitsuda,	<250,		mkersten,	open task dialog improvements
-2007-11-29, sandbox,	210639, Maarten Meijer,		<250,		spingel,	show additional information on property pages 
-
 
 
 

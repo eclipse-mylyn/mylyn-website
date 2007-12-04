@@ -61,6 +61,7 @@ Developers
 2007-11-30, bugzilla,	206510, Frank Becker,		<200,		relves,		language template support for bugzilla
 2007-11-30,	tasks,		211080,	Leo Dos Santos,		<100,		spingel,	drag and drop fixes for Mac OS X
 2007-11-30, monitor,	211526, George Lindholm		<10,		relves,		usage wizard rollover fix
+2007-12-04, xplanner,	211827, Helen Bershadskaya,	<200,		spingel,	prompt user for credentials when opening query dialog
 
 ------------------------- 2.2M -------------------------
 

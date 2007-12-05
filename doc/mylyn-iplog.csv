@@ -64,6 +64,7 @@ Developers
 2007-12-04, xplanner,	211827, Helen Bershadskaya,	<200,		spingel,	prompt user for credentials when opening query dialog
 2007-12-04, tasks,		205123,	Michael Valenta,	<10,		relves,		task repository matching fix
 2007-12-04, tasks,		211802,	Michael Valenta,	<20,		relves,		allow addition of call to addRepository from non-UI thread
+2007-12-04, bugzilla,	206510, Frank Becker,		<100,		relves,		refactor en template to en (default)
 
 ------------------------- 2.2M -------------------------
 

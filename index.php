@@ -63,6 +63,11 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		December 19, 2007: <a href="http://live.eclipse.org/node/412">
+		           			<img border=0 src="/mylyn/images/icon-presentation.gif"> Mylyn 2.2 Webinar</a> with Mik Kersten
+	            		</li>
+						
+						<li>
 		            		September 27, 2007: <a href="/mylyn/downloads">
 		           			Mylyn 2.1 released</a> for Eclipse 3.4M2 and 3.3
 	            		</li>

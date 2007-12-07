@@ -67,6 +67,7 @@ Developers
 2007-12-04, bugzilla,	206510, Frank Becker,		<100,		relves,		refactor en template to en (default)
 2007-12-04, tasks,		210684, Shawn Minto,		<100,		spingel,	disable actions for offline repositories	
 2007-12-05,	bugzilla,	206510, Frank Becker,		<10,		relves,		code clean up
+2007-12-06,	bugzilla,	206510, Frank Becker,		<20,		relves,		language support for bugzilla history
 
 ------------------------- 2.2M -------------------------
 

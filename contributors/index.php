@@ -21,7 +21,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
- 
+  
 <div id="maincontent">
 	<div id="midcolumn">
 		Listing ordered by number of bugs resolved.  For contributions below 4 bugs see the <a href="/mylyn/new">New & Noteworthy</a> credits.  <i>Last updated: 2007-11-15</i>

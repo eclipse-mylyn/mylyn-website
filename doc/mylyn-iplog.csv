@@ -71,6 +71,8 @@ Developers
 2007-12-07, tasks,		202817, Shawn Minto,		<100,		mkersten,	fix for delete
 2007-12-10, tasks,		212215, Shawn Minto,		<250,		spingel,	add ability to remove the default mylyn status handler
 2007-12-12, tasks,		209407,	Shawn Minto,		<250,		mkersten,	search view groupings
+2007-12-12, tasks,		208265, Mik Kersten,		<200,		mkersten,	editor close fix
+
 
 ------------------------- 2.2M -------------------------
 

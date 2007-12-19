@@ -39,7 +39,7 @@
 	            </li>
 				<li>
                     <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
-					Webinar: Task-Focused Programming with Mylyn</a> by Mik Kersten (56 min, Oct 2006)
+					Webinar: Task-Focused Programming with [Mylyn 1.0]</a> by Mik Kersten (56 min, Oct 2006)
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;5-15 min: task management demo
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: task context demo
 					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks

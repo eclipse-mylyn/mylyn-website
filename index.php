@@ -65,28 +65,28 @@ $html = <<<EOHTML
 					
 						<li>
 							<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-		                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (December 19, 2007, 50 min)
+		                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec. 19, 2007, 50 min)
 		                </li>
 		                <li>
 							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
+							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (Dec. 13, 2007, 20 min)
 		                </li>
-					
 						<li>
-		            		December 19: <a href="http://live.eclipse.org/node/412">
-		           			<img border=0 src="/mylyn/images/icon-presentation.gif"> Mylyn 2.2 Webinar</a> with Mik Kersten
+		            		<a href="/mylyn/downloads">
+		           			Mylyn 2.1 released</a> for Eclipse 3.4M2 and 3.3 (Sept. 27, 2007)
 	            		</li>
-						
+	            		
+	            		<li>
+		            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug. 17, 2007)
+	            		</li>
+	            		
 						<li>
-		            		September 27: <a href="/mylyn/downloads">
-		           			Mylyn 2.1 released</a> for Eclipse 3.4M2 and 3.3
+		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           			Mylyn 2.0 tutorial articles</a> by Mik Kersten (Aug. 14, 2007)
 	            		</li>
 						<li>
-		            		August 14: <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           			Mylyn 2.0 tutorial articles</a> by Mik Kersten
-	            		</li>
-						<li>
-							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a>. 
+							Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a> (June 29)
 						</li>
 						<!--
 						<li>

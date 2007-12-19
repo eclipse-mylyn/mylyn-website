@@ -37,12 +37,9 @@
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
 	            </li>
-				<li>
-                    <a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-flash.gif">
-					Webinar: Task-Focused Programming with [Mylyn 1.0]</a> by Mik Kersten (56 min, Oct 2006)
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;5-15 min: task management demo
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;15-30 min: task context demo
-					<br>&nbsp;&nbsp;&nbsp;&nbsp;34-40 min: technology & frameworks
+	            <li>
+                    <a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-flash.gif">
+					Getting Started with Mylyn 2.2</a> by Mik Kersten (56 min, December 2007)
                 </li>
 			</ul>
 		</div>      

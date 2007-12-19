@@ -62,6 +62,16 @@ $html = <<<EOHTML
 				<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
+					
+						<li>
+							<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
+		                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (December 19, 2007, 50 min)
+		                </li>
+		                <li>
+							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
+							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
+		                </li>
+					
 						<li>
 		            		December 19: <a href="http://live.eclipse.org/node/412">
 		           			<img border=0 src="/mylyn/images/icon-presentation.gif"> Mylyn 2.2 Webinar</a> with Mik Kersten
@@ -78,10 +88,10 @@ $html = <<<EOHTML
 						<li>
 							June 29: Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a>. 
 						</li>
+						<!--
 						<li>
 							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.
 						</li> 
-						<!--
 						<li>
 							June 11: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>  Read the <a href="rename.php">Rename FAQ</a>.
 						</li>

@@ -43,6 +43,10 @@
 					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
                     <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
                 </li>
+                <li>
+					<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
+					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
+                </li> 
 				<li>
 					<a href="/mylyn/presentations/2007-07-eclipse-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
                     Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> by Mik Kersten (July 2007, 55 min)

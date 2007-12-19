@@ -39,8 +39,8 @@
 			<h3>Selected Presentations</h3>
 			<ul>
 				<li>
+					<a href="/mylyn/publications/2007-12-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
 					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
                     <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
                 </li>
 				<li>
@@ -52,9 +52,9 @@
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
 				<li>
-					<a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
 					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
-                    <a href="http://adobedev.adobe.acrobat.com/p46246963">Webinar: Task-Focused Programming with [Mylyn]</a> by Mik Kersten (Oct 2006, 56 min)
+					<a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
+					<a href="http://adobedev.adobe.acrobat.com/p46246963">Webinar: Task-Focused Programming with [Mylyn]</a> by Mik Kersten (Oct 2006, 56 min)
                 </li>
 	            <li>
 		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="/mylyn/images/icon-podcast.gif">

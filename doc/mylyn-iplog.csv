@@ -74,6 +74,7 @@ Developers
 2007-12-12, tasks,		208265, Mik Kersten,		<200,		mkersten,	editor close fix
 2007-12-19, bugzilla,	212352, Frank Becker,		<10,		relves,		some fields not sent correctly affecting bugzilla 3.1 reassignment
 2007-12-19, bugzilla,	213110, Frank Becker,		<50,		relves,		make testReassign31 more robust
+2007-12-19, bugzilla,	213522, Frank Becker,		<50,		relves,		make testReassign22 and testReassign30 more robust
 
 ------------------------- 2.2M -------------------------
 

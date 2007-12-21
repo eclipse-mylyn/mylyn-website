@@ -62,6 +62,10 @@ $html = <<<EOHTML
 				<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
+						<li>
+		            		<a href="/mylyn/downloads">
+		           			Mylyn 2.2 released</a> for Eclipse 3.4M4 and 3.3 (Dec. 21, 2007)
+	            		</li>
 					
 						<li>
 							<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
@@ -71,10 +75,6 @@ $html = <<<EOHTML
 							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
 							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (Dec. 13, 2007, 20 min)
 		                </li>
-						<li>
-		            		<a href="/mylyn/downloads">
-		           			Mylyn 2.1 released</a> for Eclipse 3.4M2 and 3.3 (Sept. 27, 2007)
-	            		</li>
 	            		
 	            		<li>
 		            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">

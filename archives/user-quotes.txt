@@ -1,4 +1,11 @@
 
+"Mylyn.  You need this.  Now.  In a couple years, non-Mylyn users will be snickered at the way we now snicker at people who say "I don't need unit tests" or "I can edit just as fast in Notepad as in Eclipse, I don't need an IDE"."
+http://www.jroller.com/kenwdelong/entry/spring_experience_2007_rocks
+
+"Mylyn,an eclipse plugin is lying the foundation for the next generation IDE. i would say Task focussed IDE, is a fundamental shift in the way ppl are going to use eclipse.
+I would recommended any one doing serious development in eclipse to look at mylyn. This can revolutionize the way you work !."
+http://saurabhblog.blogspot.com/2007/12/eclipse-bangalore-camp-mylyn.html
+
 https://bugs.eclipse.org/bugs/show_bug.cgi?id=194976
 2007-06-30: Nathaniel Harward
 On a side note, kudos to the Mylar/Mylyn team for a great set of plugins.  I've never had much love for bug tracking systems I've had to use, being able to turn them into a more usable asset (by having contexts associated with them) I think is pretty slick.

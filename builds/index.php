@@ -43,7 +43,7 @@
 		</div>
 		
 		
-	 <div class="homeitem3col" style="margin-left:40px; width:90%">
+	 <div class="homeitem3col">
 		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2007-09-27). Requires <a href="http://java.sun.com/jnull: New Task2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				

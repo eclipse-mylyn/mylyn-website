@@ -6,8 +6,8 @@
 	
 	# 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Mylar Download Archives";
-	$pageKeywords	= "Mylar, Eclipse";
+	$pageTitle 		= "Eclipse Mylyn Download Archives";
+	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
 	# Add page-specific Nav bars here
@@ -44,7 +44,7 @@
 		
 		
 	 <div class="homeitem3col">
-		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<ul>
 			<li>
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-e3.4.zip&r=1">

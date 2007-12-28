@@ -33,7 +33,7 @@
 		<div class="homeitem3col">
 			<h3>New Bugs</h3>
 			<ul>
-				<li>The <a href="dl.php">The Mylyn Bugzilla Connector</a> is the preferred way to submit bugs, since it has automatic duplicate detection.  
+				<li>The <a href="/mylyn/downloads">The Mylyn Bugzilla Connector</a> is the preferred way to submit bugs, since it has automatic duplicate detection.  
 				</li>
 				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">
 				<img border=0 src="/mylyn/images/task-repository-new.gif">&nbsp;The Bugzilla Web Interface</a> can also be used.  Please manually search

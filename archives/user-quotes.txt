@@ -1,4 +1,8 @@
 
+2007-12-26: Alex Handy
+"From RCP tools to the powerful Mylyn project visualizer, Eclipse makes Java cheaper and easier to write."
+http://www.sdtimes.com/article/story-20071215-14.html
+
 "Mylyn.  You need this.  Now.  In a couple years, non-Mylyn users will be snickered at the way we now snicker at people who say "I don't need unit tests" or "I can edit just as fast in Notepad as in Eclipse, I don't need an IDE"."
 http://www.jroller.com/kenwdelong/entry/spring_experience_2007_rocks
 

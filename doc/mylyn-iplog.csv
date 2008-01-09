@@ -34,6 +34,9 @@ rome-0.8,						org.eclipse.mylar, 				APL,						web repository connections
 Developers
 
 
+------------------------- 2.3 -------------------------
+2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
+
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes

@@ -37,6 +37,7 @@ Developers
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
 2008-01-11, tasks,		215057, Shawn Minto,		<50,		relves,		add support for pre and post task activation
+2008-01-15, bugzilla,	212484, Frank Becker,		<200, 		relves,		move qacontact field to Person section
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes

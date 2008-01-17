@@ -38,6 +38,8 @@ Developers
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
 2008-01-11, tasks,		215057, Shawn Minto,		<50,		relves,		add support for pre and post task activation
 2008-01-15, bugzilla,	212484, Frank Becker,		<200, 		relves,		move qacontact field to Person section
+2008-01-17, jira,		203555, Wesley Coelho,		<10, 		spingel,	submit custom fields when creating jira issues
+
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes
@@ -569,10 +571,10 @@ Zest Sandbox
 ------------------------- 0.4.0 to 0.4.10 -------------------------
 
 Developers 
-see http://www.eclipse.org/mylar/doc/new-0.4.html
+see http://www.eclipse.org/mylyn/doc/new-0.4.html
 
 -------------------------       0.3       -------------------------
 
 Developers
-see http://www.eclipse.org/mylar/doc/dev/changes.html
+see http://www.eclipse.org/mylyn/doc/dev/changes.html
 

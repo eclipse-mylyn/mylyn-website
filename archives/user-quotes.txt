@@ -1,4 +1,7 @@
 
+2008-01-10: http://openmakesoftware.com/insights/?p=18
+"And the way Mylyn is implemented is so cleverly simple. It doesn’t try to do anything like analyzing code or grouping or any “advanced” techniques. It just records what files get opened as you move around Eclipse, building up its list of files that you think are important for the task."
+
 2007-12-26: Alex Handy
 "From RCP tools to the powerful Mylyn project visualizer, Eclipse makes Java cheaper and easier to write."
 http://www.sdtimes.com/article/story-20071215-14.html

@@ -42,6 +42,7 @@ Developers
 2008-01-23, tasks,		152211, Maarten Meijer,		<10,		mkersten,	clone of local
 2008-01-23, tasks,		167941, Frank Becker,		<50,		spingel,	use strike-through font for hyperlinks to resolved bugs
 2008-01-23, bugzilla,	181190, Frank Becker,		<10,		relves,		fix escaping of characters
+2008-01-23, bugzilla,	215910, Frank Becker,		<10,		relves,		update to use of Apache's StringEscapeUtils for html escaping 
 
 ------------------------- 2.2 -------------------------
 

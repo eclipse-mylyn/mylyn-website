@@ -40,6 +40,7 @@ Developers
 2008-01-17, jira,		203555, Wesley Coelho,		<10, 		spingel,	submit custom fields when creating jira issues
 2008-01-22, bugzilla,	215071, Mik Kersten,		<100,		mkersten,	report subentries
 2008-01-23, tasks,		152211, Maarten Meijer,		<10,		mkersten,	clone of local
+2008-01-23, tasks,		167941, Frank Becker,		<50,		spingel,	use strike-through font for hyperlinks to resolved bugs
 
 ------------------------- 2.2 -------------------------
 

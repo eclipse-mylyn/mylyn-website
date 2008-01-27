@@ -43,7 +43,9 @@ Developers
 2008-01-23, tasks,		167941, Frank Becker,		<50,		spingel,	use strike-through font for hyperlinks to resolved bugs
 2008-01-23, bugzilla,	181190, Frank Becker,		<10,		relves,		fix escaping of characters
 2008-01-23, bugzilla,	215910, Frank Becker,		<10,		relves,		update to use of Apache's StringEscapeUtils for html escaping 
-2008-01-26, ui,			165968, Frank Becker,		<200,		relves,		comment ordering in task editor	
+2008-01-26, ui,			165968, Frank Becker,		<200,		relves,		comment ordering in task editor
+2008-01-26, xplanner,	211101, Helen Bershadskaya,	<250,		relves,		add support for time submission from xplanner editor	
+	
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes

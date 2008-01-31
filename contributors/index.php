@@ -27,7 +27,7 @@
 		Listing ordered by number of bugs resolved.  <i>Last updated: 2008-01-30</i>
 		<div class="homeitem3col">
 		    <h3>Committers</h3> 
-		    &nbsp;&nbsp;For commit statistics see the <a href="http://dash.eclipse.org/dash/commits/web-app/summary.cgi?login=y&year=x&top=tools&project=tools.mylyn&company=individual">Commits Explorer</a>
+		    <br>&nbsp;&nbsp;For commit statistics see the <a href="http://dash.eclipse.org/dash/commits/web-app/summary.cgi?login=y&year=x&top=tools&project=tools.mylyn&company=individual">Commits Explorer</a>
 			<ul>
 				<li>
                     <a href="http://tasktop.com/blog"><img border=0 src="/mylyn/images/sites/tasktop.png"></a> Mik Kersten, <a href="http://tasktop.com/blog">Tasktop</a>: Project Lead <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=regexp&email1=mik.kersten%7Cmylyn-inbox&emailassigned_to2=1&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
@@ -50,7 +50,7 @@
 
 		<div class="homeitem3col">
 			<h3>Active Contributors</h3>
-			&nbsp;&nbsp;For contributions below 4 bugs see the <a href="/mylyn/new">New & Noteworthy</a> credits and the <a href="http://www.eclipse.org/mylyn/doc/mylyn-iplog.csv">Mylyn IP Log</a>.
+			<br>&nbsp;&nbsp;For contributions below 4 bugs see the <a href="/mylyn/new">New & Noteworthy</a> credits and the <a href="http://www.eclipse.org/mylyn/doc/mylyn-iplog.csv">Mylyn IP Log</a>
 			<ul>
 				<li> 
 					<a href="http://tasktop.com"><img border=0 src="/mylyn/images/sites/tasktop.png"></a> Shawn Minto, <a href="http://tasktop.com">Tasktop</a>: original Bugzilla Connector contributor

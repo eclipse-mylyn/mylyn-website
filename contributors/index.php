@@ -53,41 +53,47 @@
 				<li> 
 					<a href="http://tasktop.com"><img border=0 src="/mylyn/images/sites/tasktop.png"></a> Shawn Minto, <a href="http://tasktop.com">Tasktop</a>: original Bugzilla Connector contributor
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=shawn.minto%40tasktop.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[140 bugs]</a>
+					[146 bugs]</a>
 				</li>
 				<li>
 					<a href="http://www.willianmitsuda.com/"><img border=0 src="/mylyn/images/sites/independent.gif"></a> Willian Mitsuda, <a href="http://www.willianmitsuda.com/">independent</a>: numerous Tasks UI improvements
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=wmitsuda%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[29 bugs]</a>
+					[35 bugs]</a>
 				</li>
 				<li>
 					<a href="http://www.cs.ubc.ca/labs/spl/"><img border=0 src="/mylyn/images/sites/ubc.png"></a> Meghan Allen, <a href="http://www.cs.ubc.ca/labs/spl/">University of British Columbia SPL</a>: contributing monitor improvements
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=meghan_allen&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[24 bugs]</a>
+					[26 bugs]</a>
 				</li>	
 				<li> 
 					<a href="http://www.Frank-Becker.de"><img border=0 src="/mylyn/images/sites/independent.gif"></a> Frank Becker, <a href="http://www.Frank-Becker.de">independent</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=Frank%40Frank-Becker.de&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[18 bugs]</a>
+					[33 bugs]</a>
 				</li> 
 				<li> 
 					<a href="http://www.codegear.com/"><img border=0 src="/mylyn/images/sites/codegear.png"></a> Helen Bershadskaya, <a href="http://www.codegear.com/">CodeGear</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=mugwai2%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[9 bugs]</a>
+					[10 bugs]</a>
 				</li>	
 				<li>
 					<a href="http://eclipse.org/mylyn/contributors"><img border=0 src="/mylyn/images/sites/independent.gif"></a> Raphael Ackermann, independent <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=raphael.ackermann%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					[9 bugs]</a>
-				</li>			
+				</li>	
+				
+				<li>
+					<a href="http://www.cs.ubc.ca/labs/spl/"><img border=0 src="/mylyn/images/sites/ubc.png"></a> George Lindholm, <a href="http://www.cs.ubc.ca/labs/spl/">University of British Columbia SPL</a>: contributing monitor improvements
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=George.Lindholm%40ubc.ca&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+					[26 bugs]</a>
+				</li>		
 				<li> 
 					<a href="http://tasktop.com"><img border=0 src="/mylyn/images/sites/tasktop.png"></a> Leo Dos Santos, <a href="http://tasktop.com">Tasktop</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=leo.dos.santos%40tasktop.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[8 bugs]</a>
+					[10 bugs]</a>
 				</li>
 				<li> 
 					<a href="http://www.fold1.com"><img border=0 src="/mylyn/images/sites/fold1.png"></a> Maarten Meijer, <a href="http://www.fold1.com">Fold1</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=mm105%40xs4all.nl&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[6 bugs]</a> 
+					[9 bugs]</a> 
 				</li>
 			</ul> 
 		</div>

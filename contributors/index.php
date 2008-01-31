@@ -24,7 +24,7 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved.  For contributions below 4 bugs see the <a href="/mylyn/new">New & Noteworthy</a> credits.  <i>Last updated: 2007-11-15</i>
+		Listing ordered by number of bugs resolved.  <i>Last updated: 2008-01-30</i>
 		<div class="homeitem3col">
 		    <h3>Committers</h3> 
 		    For commit statistics see the <a href="http://dash.eclipse.org/dash/commits/web-app/summary.cgi?login=y&year=x&top=tools&project=tools.mylyn&company=individual">Commits Explorer</a>
@@ -50,7 +50,7 @@
 
 		<div class="homeitem3col">
 			<h3>Active Contributors</h3>
-			For the full listing of contributions see the <a href="http://www.eclipse.org/mylyn/doc/mylyn-iplog.csv">Mylyn IP Log</a>.
+			For contributions below 4 bugs see the <a href="/mylyn/new">New & Noteworthy</a> credits and the <a href="http://www.eclipse.org/mylyn/doc/mylyn-iplog.csv">Mylyn IP Log</a>.
 			<ul>
 				<li> 
 					<a href="http://tasktop.com"><img border=0 src="/mylyn/images/sites/tasktop.png"></a> Shawn Minto, <a href="http://tasktop.com">Tasktop</a>: original Bugzilla Connector contributor

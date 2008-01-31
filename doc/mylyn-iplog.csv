@@ -84,7 +84,7 @@ Developers
 2007-12-07, tasks,		202817, Shawn Minto,		<100,		mkersten,	fix for delete
 2007-12-10, tasks,		212215, Shawn Minto,		<250,		spingel,	add ability to remove the default mylyn status handler
 2007-12-12, tasks,		209407,	Shawn Minto,		<250,		mkersten,	search view groupings
-2007-12-12, tasks,		208265, Kevin Bracey ,		<200,		mkersten,	editor close fix
+2007-12-12, tasks,		208265, Kevin Bracey,		<200,		mkersten,	editor close fix
 2007-12-19, bugzilla,	212352, Frank Becker,		<10,		relves,		some fields not sent correctly affecting bugzilla 3.1 reassignment
 2007-12-19, bugzilla,	213110, Frank Becker,		<50,		relves,		make testReassign31 more robust
 2007-12-19, bugzilla,	213522, Frank Becker,		<50,		relves,		make testReassign22 and testReassign30 more robust

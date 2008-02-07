@@ -47,6 +47,8 @@ Developers
 2008-01-26, xplanner,	211101, Helen Bershadskaya,	<250,		relves,		add support for time submission from xplanner editor
 2008-01-28, tasks,		165986, Frank Becker,		<50,		relves,		grayed out sort direction icons and refactoring	
 2008-02-01, context,	204951, Shawn Minto,		<10,		mkersten,	enablement fix
+2008-02-06, tasks,		168377, Willian Mitsuda,	<200,		relves,		add attachment size to task editor
+
 
 	
 ------------------------- 2.2 -------------------------

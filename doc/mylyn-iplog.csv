@@ -48,7 +48,7 @@ Developers
 2008-01-28, tasks,		165986, Frank Becker,		<50,		relves,		grayed out sort direction icons and refactoring	
 2008-02-01, context,	204951, Shawn Minto,		<10,		mkersten,	enablement fix
 2008-02-06, tasks,		168377, Willian Mitsuda,	<200,		relves,		add attachment size to task editor
-
+2008-02-06, jira,		217008, Willian Mitsuda,	<10,		relves,		add attachment size field to jira task data
 
 	
 ------------------------- 2.2 -------------------------

@@ -50,7 +50,8 @@ Developers
 2008-02-06, tasks,		168377, Willian Mitsuda,	<200,		relves,		add attachment size to task editor
 2008-02-06, jira,		217008, Willian Mitsuda,	<10,		relves,		add attachment size field to jira task data
 2008-02-06, tasks,		209327, Remy Chi Jian Suen, <20,		relves,		stream based api for task list writer
-	
+2008-02-07, tasks,		217630, Jacek Pospychala,	<50,		relves,		run stack trace type detection in job 
+
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes

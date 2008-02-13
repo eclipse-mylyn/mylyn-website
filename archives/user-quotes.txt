@@ -1,4 +1,7 @@
 
+2008-02-02:  http://blog.vazexqi.com/articles/2008/02/02/session-restore-sort-of-in-eclipse-with-mylyn
+"Mylyn is great for helping you focus on your programming tasks. It stays out of your way for the most part but is easily accessible when you need it. Once you start using it, you really wished that every IDE out there (including the venerable IntelliJ) supported it."
+
 2008-01-10: http://openmakesoftware.com/insights/?p=18
 "And the way Mylyn is implemented is so cleverly simple. It doesn’t try to do anything like analyzing code or grouping or any “advanced” techniques. It just records what files get opened as you move around Eclipse, building up its list of files that you think are important for the task."
 

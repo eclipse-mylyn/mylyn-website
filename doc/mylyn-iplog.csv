@@ -54,6 +54,7 @@ Developers
 2007-02-12, tasks,		217587, Leo Dos Santos,		<10,		spingel,	key-binding fix for Mac OS X for opening tasks
 2007-02-15, bugzilla,	213077, Frank Becker,		<100,		relves,		implement BugzillaTaskDataHandler.initializeTaskData()
 2008-02-18, tasks,		215136, Shawn Minto,		<10,		spingel,	unminimize workbench when opening task from notification window  
+2008-02-19, tasks,		205238, Maarten Meijer,		<10,		spingel,	show warning when dropping multiple files
 
 ------------------------- 2.2 -------------------------
 

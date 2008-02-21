@@ -56,6 +56,11 @@ Developers
 2008-02-18, tasks,		215136, Shawn Minto,		<10,		spingel,	unminimize workbench when opening task from notification window  
 2008-02-19, tasks,		205238, Maarten Meijer,		<10,		spingel,	show warning when dropping multiple files
 
+2008-02-06, tasks,		195691, Willian Mitsuda,	<250,		mkersten,	color selector
+2008-02-06, tasks,		209897, Willian Mitsuda,	<250,		mkersten,	screenshot preview
+2008-02-06, tasks,		195691, Willian Mitsuda,	<250,		mkersten,	markup support
+
+
 ------------------------- 2.2 -------------------------
 
 2007-11-08, tasks,		206688,	Willian Mitsuda,	<100,		mkersten,	screenshot capture fixes

@@ -11,15 +11,19 @@ Third Party Software
 name including version, directory location or jar file, license name and version, 	usage,,,
 
 --- http-client ---
-commons-httpclient-3.0.1,		org.eclipse.mylar,				APL,						web repository connections
-commons-codec-1.3,				org.eclipse.mylar,				APL,						web repository connections
-commons-logging-1.0.4,			org.eclipse.mylar,				APL,						web repository connections
-commons-logging-api-1.0.4,		org.eclipse.mylar,				APL,						web repository connections
+commons-httpclient-3.1,			org.eclipse.mylar.web.core,		APL,						web repository connections
+commons-codec-1.3,				org.eclipse.mylar.web.core,		APL,						web repository connections
+commons-logging-1.0.4,			org.eclipse.mylar.web.core,		APL,						web repository connections
+commons-logging-api-1.0.4,		org.eclipse.mylar.web.core,		APL,						web repository connections
+
+--- http-client ---
+commons-lang-2.1,				org.eclipse.mylar.web.core,		APL,						web repository connections
 
 --- xmlrpc ---
-xmlrpc-common-3.0,				org.eclipse.mylar,				APL,						web repository connections
-xmlrpc-client-3.0,				org.eclipse.mylar,				APL,						web repository connections
-ws-commons-util-1.0.1,			org.eclipse.mylar,				APL,						web repository connections
+xmlrpc-common-3.0,				org.eclipse.mylar.web.core,		APL,						web repository connections
+xmlrpc-client-3.0,				org.eclipse.mylar.web.core,		APL,						web repository connections
+ws-commons-util-1.0.1,			org.eclipse.mylar.web.core,		APL,						web repository connections
+jdom-1.0.jar,					org.eclipse.mylar.web.core,		APL,						web repository connections
 
 --- Axis ---
 axis-1.3.jar,					org.eclipse.mylar.jira.core,	APL,						web repository connections
@@ -55,7 +59,6 @@ Developers
 2007-02-15, bugzilla,	213077, Frank Becker,		<100,		relves,		implement BugzillaTaskDataHandler.initializeTaskData()
 2008-02-18, tasks,		215136, Shawn Minto,		<10,		spingel,	unminimize workbench when opening task from notification window  
 2008-02-19, tasks,		205238, Maarten Meijer,		<10,		spingel,	show warning when dropping multiple files
-
 2008-02-06, tasks,		195691, Willian Mitsuda,	<250,		mkersten,	color selector
 2008-02-06, tasks,		209897, Willian Mitsuda,	<250,		mkersten,	screenshot preview
 2008-02-06, tasks,		195691, Willian Mitsuda,	<250,		mkersten,	markup support

@@ -1,4 +1,4 @@
-]Committers
+Committers
 
 mkersten,
 relves,
@@ -68,6 +68,7 @@ Developers
 2008-02-21, tasks,		168377, Willian Mitsuda,	<50,		spingel,	use KB instead of kB to display attachment sizes 
 2008-02-21, tasks,		212285, Shawn Minto,		<250,		mkersten,	remove from context fix
 2008-02-21, context,	205124,	Tracy Mew,			<250,		mkersten,	context search popup (contains copied Platform code)
+2007-02-27, tasks,		220096, Leo Dos Santos,		<10,		spingel,	do not show password prompt when system dialog is open
 
 ------------------------- 2.2 -------------------------
 

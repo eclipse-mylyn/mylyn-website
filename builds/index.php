@@ -41,6 +41,32 @@
 	        	</li>
 			</ul>	
 		</div>
+
+	 <div class="homeitem3col">
+		<h3>2.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<ul>
+			<li>
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.4.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif">
+				</a>
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M5)
+        	</li>
+			<li>
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.3.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif">
+				</a>
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+        	</li>
+			<li> 
+				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-extras.zip&r=1">
+					<img border=0 src="/mylyn/images/icon-save.gif">
+				</a>
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
+        		<br>
+				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+        	</li>
+		</ul>	
+	</div>
 		
 		
 	 <div class="homeitem3col">
@@ -201,17 +227,19 @@
 			</ul>
 		</div>
  
+ 	<!--
         <div class="homeitem3col">
 			<h3>Other</h3>
 			<ul>
 				<li>
-					Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archivemylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>
+					Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/mylar-lib-2.0M2.zip&r=1">mylar-lib-2.0M2.zip</a>
 				</li>
 			</ul>
 		</div>
 		<p>&nbsp;</p>
 		</div>
 	</div>
+	-->
 </div>
 
 EOHTML;

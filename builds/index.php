@@ -226,8 +226,8 @@
 				</li>
 			</ul>
 		</div>
- 
- 	<!--
+ 	
+ 		<!--
         <div class="homeitem3col">
 			<h3>Other</h3>
 			<ul>
@@ -236,10 +236,10 @@
 				</li>
 			</ul>
 		</div>
+			-->
 		<p>&nbsp;</p>
 		</div>
 	</div>
-	-->
 </div>
 
 EOHTML;

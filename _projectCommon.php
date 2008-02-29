@@ -4,8 +4,6 @@
 	# https://dev.eclipse.org/committers/ 
 	$theme = "Lazarus";
 
-	$App->Promotion = TRUE;
-
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	
 	$Nav->setLinkList(array());

@@ -122,6 +122,9 @@ $html = <<<EOHTML
 
 EOHTML;
 
+	# EclipseCon banner
+	$App->Promotion = TRUE;
+
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
 ?>

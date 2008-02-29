@@ -7,6 +7,7 @@ $pageAuthor		= "Mik Kersten";
 	
 $html = <<<EOHTML
 
+<div id="maincontent">
 <div id="midcolumn" style="width:93%">
 	<table border="0" cellpadding="5">
      	<tr> 
@@ -125,6 +126,7 @@ $html = <<<EOHTML
  src="http://www.eclipsecon.org/2008/image/120x600.jpg"
  height="600" width="120" alt="EclipseCon 2008"/></a>
 	</div>
+</div>			
 
 EOHTML;
 

@@ -25,17 +25,17 @@
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		<div class="homeitem3col">
 			<h3>Newsgroup</h3>
+			<table border="0"> 
+        		<tr>
+        		<td valign="top">
+        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
+        		</td>
+		        <td>
+			        The Mylyn Newsgroup is the main forum for user questions and support.
+			    </td> 
+				</tr>
+			</table>
 			<ul>
-				<table border="0"> 
-	        		<tr>
-	        		<td valign="top">
-	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
-	        		</td>
-			        <td>
-				        The Mylyn Newsgroup is the main forum for user questions and support.
-				    </td> 
-					</tr>
-				</table>
 				<li>
 	                <a href="news://news.eclipse.org/eclipse.tools.mylyn">
 					News Reader Access</a>, for instructions see the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a>

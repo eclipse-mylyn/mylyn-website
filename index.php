@@ -119,6 +119,12 @@ $html = <<<EOHTML
       	</tr>
     </table>
 </div>			
+	<div id="rightcolumn">
+		$commonside
+		<a href="http://www.eclipsecon.org/2008/"><img border="0"
+ src="http://www.eclipsecon.org/2008/image/120x600.jpg"
+ height="600" width="120" alt="EclipseCon 2008"/></a>
+	</div>
 
 EOHTML;
 

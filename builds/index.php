@@ -141,6 +141,7 @@
 						&nbsp;&nbsp;2.0.0: <b>download.eclipse.org/tools/mylyn/update-archive/2.0.0/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.2) 
 					<br>
 					<font size=-1>JIRA Connector, Generic Issue Tracker Connector, UI Usage Reporting</font>
+					<br><i>JIRA users: the recommended JIRA Connector versions is 2.1, after installing <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn#Mylyn-e3.2">update to that version</a>.</i>
 	        	</li>
 			</ul>	
 		</div>

@@ -12,12 +12,25 @@
 		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
 	</tr>
 	<tr>
-		<td bgcolor="#E0D0E6"><font size="1">2.2<br>
-		<i>Dec 19, 2007</i></font></td>
+		<td bgcolor="#E0D0E6"><font size="1">2.3<br>
+		<i>Feb 27, 2007</i></font></td>
 		<td bgcolor="#E0D0E6" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-12-21&chfieldto=2008-03-01&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1"><i>276<br>bugs</i></font></a></td>
+		<td bgcolor="#E0D0E6"><font size="1">Willian Mitsuda contributed 
+		screenshot markup and numerous other improvements.&nbsp; Frank Becker 
+		provided nine patches to the Bugzilla Connector and Tasks UI.&nbsp; 
+		Additional contributions were provided by Maarten Meijer, Helen 
+		Bershadskaya, Shawn Minto, Tracy Mew, Leo Dos Santos, Jacek Pospychala, 
+		Remy Chi Jian Suen and David Green.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">2.2<br>
+		<i>Dec 19, 2007</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-09-29&chfieldto=2007-12-20&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 		<font size="1"><i>384</i></font></a><i><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-09-29&chfieldto=2007-12-20&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0="><br><font size="1">bugs</font></a></i></td>
-		<td bgcolor="#E0D0E6"><font size="1">Frank Becker resolved a total of 19 
+		<td bgcolor="#FAF7FB"><font size="1">Frank Becker resolved a total of 19 
 		bugs with Bugzilla and the task editor. Willian Mitsuda contributed to 
 		screenshot capture and provided several other improvements. Maarten 
 		Meijer provided performance improvements and tests. Shawn Minto provided 
@@ -66,8 +79,8 @@
 Mylyn 0.5</a>,&nbsp;
 <a href="http://eclipse.org/mylyn/new/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/new/new-0.3.html">
 Mylyn 0.3</a></b></p>
-<p><b>Updating</b>:&nbsp; If using a version prior to 2.0, must upgrade to 2.0 
-before installing Mylyn 2.2.</p>
+<p><b>Updating</b>:&nbsp; If using a version prior to 2.0, upgrade to 2.0 
+before installing Mylyn 2.3.</p>
 
 <!--
 
@@ -108,20 +121,92 @@ at the 2.0 quality level or because they are experimental features.</p>
 -->
 <hr>
 
-<p>See <span style="background-color: #E0D0E6">what's new</span> for: </p>
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 2.3</span> </p>
 <ul>
-	<li><a href="#task-list">Task List</a></li>
-	<li><a href="#task-editor">Task Editor</a></li>
-	<li><a href="#focused-ui">Task-Focused UI</a></li>
-	<li><a href="#bugzilla">Bugzilla Connector</a></li>
-	<li><a href="#trac">Trac Connector</a></li>
-	<li><a href="#jira">JIRA Connector</a></li>
+	<li><a href="#task-list">Task List (2)</a></li>
+	<li><a href="#task-editor">Task Editor (2)</a></li>
+	<li><a href="#focused-ui">Task-Focused UI (3)</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector (1)</a></li>
+	<li><a href="#trac">Trac Connector (1)</a></li>
+	<li><a href="#jira">JIRA Connector (2)</a></li>
+	<li><a href="#xplanner">XPlanner Connector (1)</a></li>
 </ul>
 <h2><a name="task-list">Task List</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table380">
+<table cellpadding="10" cellspacing="0" id="table393">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Task Scheduling Streamlining</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The task scheduling facility has a subtle but 
+			fundamental improvement in order to prevent the &quot;red Monday&quot; 
+			phenomenon where large portions of the Task List would turn red, and 
+			during busy times would stay that way.&nbsp; In order to address 
+			this, we have clarified and simplified the split between the two kinds of dates 
+			supported:</p>
+			<ul>
+				<li>
+				<p align="left"><i>Scheduled Dates</i>: these are soft dates at a day 
+				level of granularity with no notion of&nbsp; becoming overdue.&nbsp; A task 
+				scheduled for <i>Today</i> will show up blue will continue 
+				to be blue tomorrow if not done today.&nbsp;</p></li>
+				<li>
+				<p align="left"><i>Due Dates</i>: these are hard dates with a time and 
+				date level of granularity.&nbsp; A task that has a due date set&nbsp;has 
+				a clock appear in it's upper-left corner and will turn red when 
+				past that date.</p></li>
+			</ul>
+			<p align="left">
+			To facilitate managing the tasks that you want to see when focused 
+			but that you do not correspond to a specific day, you can 
+			now schedule a task for &quot;someday this week&quot; by selecting <i>This 
+			Week</i> in the <i>Schedule for</i> menu.&nbsp; This task will stay 
+			visible for the current week and will continue to be visible in 
+			future weeks.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/tasklist-scheduling.png"><p class="MsoPlainText">
+			The most noticeable difference in this release is that tasks that are past their 
+			<i>Scheduled Date</i> will no longer turn red. This change can be reverted to the old scheme via <i>Window -&gt; 
+			Preferences -&gt; General -&gt; Appearance -&gt; Colors and Fonts</i> or via 
+			the Mylyn UI Overview visible from the <i>Task List</i> menu. 
+			However, we recommend using new scheme because it reduces the amount 
+			of visual noise and makes overdue tasks stand out. Note that for 
+			repository tasks, <i>Due 
+			Dates</i> need to be supported by the server (e.g. for Bugzilla the Time Tracking feature must be enabled on the server).<p class="MsoPlainText">
+			<img border="0" src="images/2.3/ui-legend-scheduling.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table382">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Open Task Dialog Improved</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The filtering, layout and performance of the <i>Open 
+			Task</i> (Ctrl+F12) dialog have been improved and filtering by 
+			working set is now supported.&nbsp; This means that if you have have 
+			a working set selected in the Task List, you will only see the tasks 
+			that are part of the working set unless you change this option.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/open-task-working-sets.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table380">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Task Archive is Gone</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -155,7 +240,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table376">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>New Notification Popups</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -176,7 +261,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table378">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Create Task from JUnit Failure</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -195,7 +280,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table379">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Easier Working Set Creation</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -216,27 +301,9 @@ at the 2.0 quality level or because they are experimental features.</p>
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" id="table382">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Open Task Dialog Improved</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">The filtering, layout and performance of the <i>Open 
-			Task</i> (Ctrl+F12) dialog have been improved.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/2.2/open-task.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
 <table cellpadding="10" cellspacing="0" id="table383">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Search Results Grouping by Owner</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -254,7 +321,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table377">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Task Navigation Key Bindings</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -380,17 +447,68 @@ at the 2.0 quality level or because they are experimental features.</p>
 <h2>&nbsp;</h2>
 <h2><a name="task-editor">Task Editor</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table390">
+<table cellpadding="10" cellspacing="0" id="table402">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Screenshot Annotations</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The screenshot wizard now provides support for 
+			marking up the screenshots.&nbsp; Cropping has been 
+			improved, and a preview is provided before screenshot submission.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/screenshot-annotations.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table396">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Task Editor Improvements</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">There have been several minor task editor 
+			improvements:</p>
+			<ul>
+				<li>
+				<p align="left">References to completed tasks show with a 
+				strikethrough font.</p></li>
+				<li>
+				<p align="left">The editor label can be dragged.</p></li>
+				<li>
+				<p align="left">Local tasks can be promoted to repository tasks 
+				via the context menu, <i>Operations -&gt; Clone Task.</i></p></li>
+				<li>
+				<p align="left">Attachments can be compared with each other, 
+				including images.</p></li>
+				<li>
+				<p align="left">Attachments show sizes.</p></li>
+			</ul>
+			<p align="left">
+			<img border="0" src="images/2.3/task-editor-compare.png"></p></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table390">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Create Task from Text Selection</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p align="left">A new task can be created from any selection in the 
 			task editor.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/2.2/task-from-comment.png"><p class="MsoPlainText">
-			&nbsp;</td>
+			<img border="0" src="images/2.2/task-from-comment.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -401,7 +519,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table385">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Comment Coloring</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -419,7 +537,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table384">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Screenshot Capture Improved</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -483,9 +601,79 @@ at the 2.0 quality level or because they are experimental features.</p>
 <p class="MsoPlainText">&nbsp; </p>
 <h2><a name="focused-ui">Task-Focused UI</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table373">
+<table cellpadding="10" cellspacing="0" id="table394">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Performance Improvements</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Performance has been improved across the most 
+			components.&nbsp; 
+			The startup of the Focused UI is now completely lazy, meaning that 
+			no facilities will be loaded until the first task is activated.&nbsp;
+			<i>Task List</i> view performance has been improved to better 
+			support task lists with thousands of elements.&nbsp; Task Editor 
+			opening is now an order of magnitude faster for tasks with a large 
+			number of comments.&nbsp; Query synchronization performance has also 
+			been streamlined.</p></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table401">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Focus the All Markers View<br>
+			(Eclipse 3.4 only)</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The new <i>All Markers</i> view introduced in 
+			Eclipse 3.4M5 now has a <i>Focus on Active Task</i> button.&nbsp; 
+			You can now use this to see all the markers relevant to the active task within a 
+			single view, including all &quot;Java Task&quot; tags and warnings that 
+			correspond to interesting resources.&nbsp; Note that <i>Alt+click</i> 
+			works for the category containers in this view.&nbsp; </p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/focus-markers.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table395">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Commit Messages Warnings</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Committing a change set that contains files 
+			associated with multiple task repositories poses a potential privacy 
+			concern since commit messages may include 
+			task summaries and URLs.&nbsp; Before such a commit message is 
+			created Mylyn will ask you to confirm the cross-repository commit.&nbsp; 
+			Note that your project to task repository settings must be 
+			configured via the <i>Task Repository</i> tab of the project's properties page in order for 
+			this check to take place.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/commit-message-warning.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table373">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Task Context</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -508,7 +696,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table375">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Focus for Bookmarks</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -527,7 +715,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table389">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Commit Comment Templates</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -545,7 +733,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table374">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Alt+click Navigation</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -642,9 +830,29 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <h2><a name="bugzilla">Bugzilla Connector</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table381">
+<table cellpadding="10" cellspacing="0" id="table397">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Query Multiple Emails</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Bugzilla queries and searches can optionally include 
+			two email fields.&nbsp; For example, the query below 
+			will match all tasks assigned to &quot;steffen.pingel&quot; that &quot;mik.kersten&quot; 
+			is CC'd on.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/2.3/queries-email-multiple.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table381">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Subtask Creation</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -662,7 +870,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <table cellpadding="10" cellspacing="0" id="table386">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
 			<p align="right"><b>Support for Real Names</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -717,7 +925,7 @@ at the 2.0 quality level or because they are experimental features.</p>
 			<p align="right"><b>Configuration Caching</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">If
+			<p class="MsoPlainText">If
 			<a href="http://wiki.eclipse.org/Mylyn_User_Guide#Tips_for_server_administrators">
 			supported by the server</a>, the Bugzilla configuration is retrieved 
 			from a cached copy.&nbsp; This can significantly reduce network 
@@ -732,6 +940,27 @@ at the 2.0 quality level or because they are experimental features.</p>
 
 <p class="MsoPlainText">&nbsp; </p>
 <h2><a name="trac">Trac Connector</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table398">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Subtasks Supported</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Subtasks are now supported in the <i>Task List</i> 
+			if the Master Tickets plug-in is installed on the server.<p align="left">
+			<img border="0" src="images/2.3/trac-subtasks.png"><p align="left">
+			Substasks can be specified via the <i>Task Editor</i>.&nbsp; In addition, 
+			custom priority levels are now supported. <br>
+			<br>
+			<img border="0" src="images/2.3/trac-subtasks-editor.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table362">
 		<tr>
@@ -754,15 +983,16 @@ at the 2.0 quality level or because they are experimental features.</p>
 <p class="MsoPlainText">&nbsp;</p>
 <h2><a name="jira">JIRA Connector</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table388">
+<table cellpadding="10" cellspacing="0" id="table400">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Change Assignee on Creation</b></p>
+			<p align="right"><b>Markup Supported</b></p>
 			</td>
 			<td valign="top" width="70%">
-			Issue assignees can be set on creation.&nbsp; Use the Ctrl+Space 
-			content assist to choose from assignees.<p class="MsoPlainText">
-			<img border="0" src="images/2.2/jira-assign.png"></td>
+			<p align="left">Wiki markup is now recognized. This allows 
+			submission of JIRA issues with editable descriptions to repositories 
+			that have rich-text rendering enabled.</p>
+			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -774,13 +1004,33 @@ at the 2.0 quality level or because they are experimental features.</p>
 <table cellpadding="10" cellspacing="0" id="table391">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Password Prompting</b></p>
+			<p align="right"><b>Password Prompting Improvements</b></p>
 			</td>
 			<td valign="top" width="70%">
 			If a Trac or JIRA repository is missing a password, but a 
 			synchronization is requested, a dialog will pop up.&nbsp; In 
-			addition, storing the password is now optional.<p class="MsoPlainText">
-			<img border="0" src="images/2.2/password-prompting.png"></td>
+			addition, storing the password is now optional.&nbsp; For task 
+			repositories no longer in use, you can now disable synchronization 
+			by clicking the <i>Open Repository Properties</i> link in the 
+			dialog.<p class="MsoPlainText">
+			<img border="0" src="images/2.3/password-prompt.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table388">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<p align="right"><b>Change Assignee on Creation</b></p>
+			</td>
+			<td valign="top" width="70%">
+			Issue assignees can be set on creation.&nbsp; Use the Ctrl+Space 
+			content assist to choose from assignees.<p class="MsoPlainText">
+			<img border="0" src="images/2.2/jira-assign.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -809,7 +1059,26 @@ at the 2.0 quality level or because they are experimental features.</p>
 </table>
 
 <p class="MsoPlainText">&nbsp;</p>
-<h2><a name="xplanner">XPlanner Connector</a></h2>
+<h2><a name="xplanner">XPlanner Connector (Incubation)</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table399">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Time Tracking Integration</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The active time maintained by Mylyn can now be 
+			optionally synchronized with XPlanner's time tracking facilities.&nbsp; 
+			This can be done by either appending to the time intervals 
+			maintained by XPlanner, or by replacing the time tracking value.<p align="left">
+			<img border="0" src="images/2.3/xplanner-time-tracking.jpg"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table356">
 		<tr>

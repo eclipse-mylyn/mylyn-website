@@ -78,7 +78,7 @@
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
 					mylyn-dev@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]
+					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]</a>
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
 			</ul>
 		</div>

@@ -128,7 +128,7 @@
 					[12 bugs]</a>
 				</li>
 				<li> 
-					<a href="http://code.google.com/soc/2007/"><img border=0 src="/mylyn/images/sites/google.png"></a> Xiaoyang Guan, <a href="http://code.google.com/soc/2007/">Google Summer of Code<a>
+					<a href="http://code.google.com/soc/2007/"><img border=0 src="/mylyn/images/sites/google.png"></a> Xiaoyang Guan, <a href="http://code.google.com/soc/2007/">Google Summer of Code</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=xbugzilla%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					[11 bugs]</a>
 				</li>
@@ -143,7 +143,7 @@
 					[6 bugs]</a>
 				</li>
 				<li> 
-					<a href="http://code.google.com/soc/2007/"><img border=0 src="/mylyn/images/sites/google.png"></a> Jevgeni Holodkov, <a href="http://code.google.com/soc/2007/">Google Summer of Code<a>
+					<a href="http://code.google.com/soc/2007/"><img border=0 src="/mylyn/images/sites/google.png"></a> Jevgeni Holodkov, <a href="http://code.google.com/soc/2007/">Google Summer of Code</a>
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=jevgeni.holodkov%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					[5 bugs]</a>
 				</li>

@@ -64,7 +64,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="/mylyn/downloads">
-		           			Mylyn 2.3 released</a> for Eclipse 3.4MM and 3.3 (Feb. 27, 2007)
+		           			Mylyn 2.3 released</a> for Eclipse 3.4M5 and 3.3 (Feb. 27, 2007)
 	            		</li>
 					
 						<li>

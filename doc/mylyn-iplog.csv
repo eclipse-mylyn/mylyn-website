@@ -37,6 +37,9 @@ rome-0.8,						org.eclipse.mylar, 				APL,						web repository connections
 
 Developers
 
+------------------------- 3.0 -------------------------
+2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations
+
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
 2008-01-11, tasks,		215057, Shawn Minto,		<50,		relves,		add support for pre and post task activation

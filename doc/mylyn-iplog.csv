@@ -39,6 +39,7 @@ Developers
 
 ------------------------- 3.0 -------------------------
 2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations
+2008-03-02, tasks,		221069, Remy Chi Jian Suen, <20,		spingel,	change notification popup close icon on mouse hover
 
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets

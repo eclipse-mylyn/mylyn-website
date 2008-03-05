@@ -40,6 +40,8 @@ Developers
 ------------------------- 3.0 -------------------------
 2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations
 2008-03-02, tasks,		221069, Remy Chi Jian Suen, <20,		spingel,	change notification popup close icon on mouse hover
+2008-03-04, xplanner,	221038, Helen Bershadskaya,	<20,		spingel,	fix null pointer exception on restart
+2008-03-04, xplanner,	219868, Helen Bershadskaya,	<250,		spingel,	fix for single clicking in task repositories view triggering dialog 
 
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets

@@ -42,6 +42,7 @@ Developers
 2008-03-02, tasks,		221069, Remy Chi Jian Suen, <20,		spingel,	change notification popup close icon on mouse hover
 2008-03-04, xplanner,	221038, Helen Bershadskaya,	<20,		spingel,	fix null pointer exception on restart
 2008-03-04, xplanner,	219868, Helen Bershadskaya,	<250,		spingel,	fix for single clicking in task repositories view triggering dialog 
+2008-03-06, tasks,		152232, Frank Becker,		<250,		spingel,	support content assists for task ids in task editor
 
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
@@ -76,7 +77,6 @@ Developers
 2008-02-21, context,	205124,	Tracy Mew,			<250,		mkersten,	context search popup (contains copied Platform code)
 2008-02-27, tasks,		220096, Leo Dos Santos,		<10,		spingel,	do not show password prompt when system dialog is open
 2008-01-26, xplanner,	211101, Helen Bershadskaya,	<100,		mkersten,	layout fix
-
 
 ------------------------- 2.2 -------------------------
 

@@ -63,12 +63,22 @@
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>Legal</h3>
+			<h3>Legal & Releases</h3>
 			<ul>
 				<li><a href="http://www.eclipse.org/legal/epl-v10.html">License:</a> Eclipse Public License (EPL), <a href="http://www.eclipse.org/legal/eplfaq.php">FAQ</a></li>
-			</ul>
-			<ul>
 				<li><a href="/mylyn/doc/mylyn-iplog.csv">Project IP log</a>: described in the eclipse.org project development process <a href="http://www.eclipse.org/projects/dev_process/project-log.php">document</a></li>
+			</ul>
+		</div>
+		
+		<div class="homeitem3col">
+			<h3>Legal & Releases</h3>
+			<ul>
+				<li><a href="/mylyn/publications/2008-02-mylyn-2.3-release-review.ppt">Mylyn 2.3 release review</a>, </li>
+				<li><a href="/mylyn/publications/2007-12-mylyn-2.2-release-review.ppt">Mylyn 2.2 release review</a></li>
+				<li><a href="/mylyn/publications/2007-10-mylyn-2.1-release-review.ppt">Mylyn 2.1 release review</a></li>
+				<li><a href="/mylyn/publications/2007-06-mylyn-2.0-release-review.ppt">Mylyn 2.0 release review</a></li>
+				<li><a href="/mylyn/publications/2006-11-mylar-1.0-release-review.ppt">Mylar 1.0 release review</a></li>
+				<li><a href="/mylyn/publications/2005-05-mylar-creation-review.ppt">Mylar project creation review</a></li>
 			</ul>
 		</div>
 	</div> 

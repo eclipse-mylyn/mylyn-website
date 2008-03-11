@@ -12,7 +12,7 @@ Third Party Software
 name including version, IPzilla #, directory location or jar file, license name and version, usage
 
 Apache Axis 1.4,					1310,	org.apache.axis Orbit Bundle,				APL,	web repository connections
-SAAJ 1.2,							1473,	javax.xml.soap  Orbit Bundle,				APL,	web repository connections
+SAAJ 1.2,							1473,	javax.xml.soap Orbit Bundle,				APL,	web repository connections
 Apache Commons Discovery 0.2,		1474,	org.apache.discovery Orbit Bundle,			APL,	web repository connections 
 JAXRPC 1.1,							1475,	javax.xml.rpc Orbit Bundle,					APL,	web repository connections
 WSDL4J 1.5.1,						1476,	javax.wsdl Orbit Bundle,					APL,	web repository connections

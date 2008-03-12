@@ -47,6 +47,7 @@ Developers
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support
+2008-03-12, tasks,		204279, Shawn Minto,		<10,		spingel,	follow-up fix for local sub task support
 
 ------------------------- 2.3 -------------------------
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets

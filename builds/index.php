@@ -32,6 +32,9 @@
 	<div id="midcolumn">  
 		Back to the <a href="/mylyn/downloads/">Mylyn Downloads Page</a>
 		<br>&nbsp;
+		<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+		Software User Agreement</a> unless otherwise specified.</p>
+		<br>&nbsp;
 		<div class="homeitem3col"> 
 			<h3>Sandbox</h3> 
 			<br>&nbsp;&nbsp;&nbsp;See the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a> for a description of available components.
@@ -42,59 +45,109 @@
 			</ul>	
 		</div>
 
-	 <div class="homeitem3col">
-		<h3>2.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-		<ul>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.4.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M5)
-        	</li>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.3.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-        	</li>
-			<li> 
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-extras.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
-        		<br>
-				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
-        	</li>
-		</ul>	
-	</div>
+		<div class="homeitem3col">
+			<h3>2.3.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.1/v20080312-1300/e3.4/mylyn-2.3.1.v20080312-1300-e3.4.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.1/v20080312-1300/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M5)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.1/v20080312-1300/e3.3/mylyn-2.3.1.v20080312-1300-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.1/v20080312-1300/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.1/v20080312-1300/extras/mylyn-2.3.1.v20080312-1300-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.1/v20080312-1300/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
+	        		<br>
+					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+	        	</li>
+			</ul>	
+		</div>
+
+		<div class="homeitem3col">
+			<h3>2.3.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.0/mylyn-2.3.0-e3.4.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M5)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.0/mylyn-2.3.0-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.0/mylyn-2.3.0-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
+	        		<br>
+					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+	        	</li>
+			</ul>	
+		</div>
+
+		<div class="homeitem3col">
+			<h3>2.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.4.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M5)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.2.0/mylyn-2.2-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.2.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
+	        		<br>
+					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+	        	</li>
+			</ul>	
+		</div>
 		
-		
-	 <div class="homeitem3col">
-		<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-		<ul>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-e3.4.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M2)
-        	</li>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-e3.3.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-        	</li>
-			<li> 
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-extras.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)
-        		<br>
-				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
-        	</li>
-		</ul>	
-	</div>
-		
+		<div class="homeitem3col">
+			<h3>2.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-e3.4.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M2)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.1.0/mylyn-2.1-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.1.0/extras</b>&nbsp;&nbsp;(Eclipse 3.4M2 and 3.3)
+	        		<br>
+					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+	        	</li>
+			</ul>	
+		</div>	
 		
 		<div class="homeitem3col"> 
 			<h3>2.1 Milestones</h3> 
@@ -237,9 +290,8 @@
 				</li>
 			</ul>
 		</div>
-			-->
+		-->
 		<p>&nbsp;</p>
-		</div>
 	</div>
 </div>
 

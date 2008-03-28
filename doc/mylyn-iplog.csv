@@ -45,6 +45,7 @@ Developers
 2008-03-08, tasks,		221721, Frank Becker,		<200,		spingel,	make attachment size formatter locale aware
 2008-03-08, tasks,		152232, Frank Becker,		<50,		spingel,	enhanced content assist for tasks
 2008-03-27, sandbox,	223066, Maarten Meijer,		<20,		spingel,	show query url in property page
+2008-03-27, tasks,		187127, Frank Becker,		<250,		spingel,	support content assist to work after a comma in the cc list
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

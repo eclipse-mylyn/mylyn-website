@@ -70,7 +70,7 @@ $html = <<<EOHTML
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-2.3.2-extras.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M5 and 3.3)
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
         		<br>
 				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
         	</li>

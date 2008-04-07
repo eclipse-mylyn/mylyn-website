@@ -54,6 +54,7 @@ Developers
 2008-04-01, tasks,		116487, Jingwen Ou,			<250,		spingel,	performance test cases for the task list 
 2008-04-02, jira,		223151, Mark Kralj-Taylor,	<20,		spingel,	show issue dependencies in task list 
 2008-04-03, tasks,		225413, Terry Hon,			<250,		spingel,	support hyperlink detection for multiple repositories 
+2008-04-06, bugzilla,	192452, Frank Becker,		<50,		spingel,	support content assist in bugzilla search dialog
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

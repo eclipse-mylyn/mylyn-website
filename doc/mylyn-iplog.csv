@@ -59,7 +59,7 @@ Developers
 2008-04-08, tasks,		220080,	Willian Mitsuda,	<100,		mkersten,	category selection
 2008-04-08, tasks,		204279, Shawn Minto,		<250,		spingel,	ported local sub task support to cvs head
 2008-04-08, bugzilla,	175922, Frank Becker,		<250,		relves,		add custom attribute support for bugzilla
-
+2008-04-08, tasks,		168878, Shawn Minto,		<100,		spingel,	guard against cyclic dependencies in task list model
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

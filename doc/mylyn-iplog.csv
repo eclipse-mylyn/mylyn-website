@@ -56,6 +56,7 @@ Developers
 2008-04-03, tasks,		225413, Terry Hon,			<250,		spingel,	support hyperlink detection for multiple repositories 
 2008-04-06, bugzilla,	192452, Frank Becker,		<50,		spingel,	support content assist in bugzilla search dialog
 2008-04-07, bugzilla,	192452, Frank Becker,		<20,		spingel,	test case for content assist
+2008-04-08, tasks,		220080,	Willian Mitsuda,	<100,		mkersten,	category selection
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

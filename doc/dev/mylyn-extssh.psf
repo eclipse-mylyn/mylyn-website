@@ -2,8 +2,9 @@
 <psf version="2.0">
 <provider id="org.eclipse.team.cvs.core.cvsnature">
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/com.sun.syndication,com.sun.syndication,v0_9"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.activation,javax.activation,v1_1_0"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.mail,javax.mail,v1_4_0"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.activation,javax.activation,v1_1_0_geronimo"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.mail,javax.mail,v1_4_0_geronimo"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.servlet,javax.servlet,v2_4"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.wsdl,javax.wsdl,v1_5_1"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.bind,javax.xml.bind,v2_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.rpc,javax.xml.rpc,v1_1_0"/>
@@ -16,8 +17,6 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.lang,org.apache.commons.lang,v2_3"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.logging,org.apache.commons.logging,v1_0_4"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.ws.commons.util,org.apache.ws.commons.util,v1_0"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xerces,org.apache.xerces,v2_8_0"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xml.resolver,org.apache.xml.resolver,v1_2_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xmlrpc,org.apache.xmlrpc,v3_0_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn,org.eclipse.mylyn"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature"/>

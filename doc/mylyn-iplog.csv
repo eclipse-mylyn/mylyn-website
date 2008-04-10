@@ -19,6 +19,8 @@ WSDL4J 1.5.1,						1476,	javax.wsdl Orbit Bundle,					APL,	web repository connec
 Java Mail 1.4,						1311,	javax.mail Orbit Bundle,					APL,	web repository connections
 Java Activation Framework 1.1,		1312,	javax.activation Orbit Bundle,				APL,	web repository connections
 Java Servlet API 2.4,				2242,	javax.servlet Orbit Bundle,					APL,	web repository connections
+Geronimo Mail 1.4,					2252,	javax.mail Orbit Bundle,					APL,	web repository connections
+Geronimo Activation Framework 1.1,	2253,	javax.activation Orbit Bundle,				APL,	web repository connections
 
 Apache Commons Lang 2.3,			1949,	org.apache.commons.lang Orbit Bundle,		APL,	web repository connections
 

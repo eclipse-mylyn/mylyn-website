@@ -2,8 +2,8 @@
 <psf version="2.0">
 <provider id="org.eclipse.team.cvs.core.cvsnature">
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/com.sun.syndication,com.sun.syndication,v0_9"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.activation,javax.activation,v1_1_0"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.mail,javax.mail,v1_4_0"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.activation,javax.activation,v1_1_0_geronimo"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.mail,javax.mail,v1_4_0_geronimo"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.wsdl,javax.wsdl,v1_5_1"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.bind,javax.xml.bind,v2_0"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.rpc,javax.xml.rpc,v1_1_0"/>
@@ -15,12 +15,11 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.lang,org.apache.commons.lang,v2_3"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.logging,org.apache.commons.logging,v1_0_4"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.ws.commons.util,org.apache.ws.commons.util,v1_0"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xerces,org.apache.xerces,v2_8_0"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xml.resolver,org.apache.xml.resolver,v1_2_0"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xmlrpc,org.apache.xmlrpc,v3_0_0"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn,org.eclipse.mylyn"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-site,org.eclipse.mylyn-site"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.aspectj,org.eclipse.mylyn.aspectj"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla-feature,org.eclipse.mylyn.bugzilla-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.core,org.eclipse.mylyn.bugzilla.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide"/>
@@ -45,6 +44,7 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.jira.ui,org.eclipse.mylyn.jira.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor-feature,org.eclipse.mylyn.monitor-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.core,org.eclipse.mylyn.monitor.core"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.monitor.reports,org.eclipse.mylyn.monitor.reports"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.tests,org.eclipse.mylyn.monitor.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.ui,org.eclipse.mylyn.monitor.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.usage,org.eclipse.mylyn.monitor.usage"/>
@@ -53,6 +53,11 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.releng,org.eclipse.mylyn.releng"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.resources.tests,org.eclipse.mylyn.resources.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.resources.ui,org.eclipse.mylyn.resources.ui"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.dev,org.eclipse.mylyn.sandbox.dev"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.dev-feature,org.eclipse.mylyn.sandbox.dev-feature"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.tests,org.eclipse.mylyn.sandbox.tests"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.ui,org.eclipse.mylyn.sandbox.ui"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.ui-feature,org.eclipse.mylyn.sandbox.ui-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.core,org.eclipse.mylyn.tasks.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.tests,org.eclipse.mylyn.tasks.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.ui,org.eclipse.mylyn.tasks.ui"/>
@@ -61,14 +66,21 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team.ui,org.eclipse.mylyn.team.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.test-feature,org.eclipse.mylyn.test-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tests,org.eclipse.mylyn.tests"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.tests.report,org.eclipse.mylyn.tests.report"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac-feature,org.eclipse.mylyn.trac-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.core,org.eclipse.mylyn.trac.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.tests,org.eclipse.mylyn.trac.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.ui,org.eclipse.mylyn.trac.ui"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki,org.eclipse.mylyn.trac.wiki"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki-feature,org.eclipse.mylyn.trac.wiki-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.core,org.eclipse.mylyn.web.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks,org.eclipse.mylyn.web.tasks"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks-feature,org.eclipse.mylyn.web.tasks-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.ui,org.eclipse.mylyn.web.ui"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner-feature,org.eclipse.mylyn.xplanner-feature"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.core,org.eclipse.mylyn.xplanner.core"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.tests,org.eclipse.mylyn.xplanner.tests"/>
+<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.ui,org.eclipse.mylyn.xplanner.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/eclipse,org.eclipse.test.performance,org.eclipse.test.performance"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.jdom,org.jdom,v1_0"/>
 </provider>

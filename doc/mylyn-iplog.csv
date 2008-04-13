@@ -65,6 +65,7 @@ Developers
 2008-04-08, tasks,		168878, Shawn Minto,		<100,		spingel,	guard against cyclic dependencies in task list model
 2008-04-08, tasks,		225172, Shawn Minto,		<100,		mkersten,	find for search view
 2008-04-08, tasks,		225765, Shawn Minto,		<50,		spingel,	add key-binding for creating sub tasks
+2008-04-12, tasks,		195456, Shawn Minto,		<200,		spingel,	add query capability to connenctor ui
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

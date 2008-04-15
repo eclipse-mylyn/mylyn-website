@@ -1,4 +1,4 @@
-\Committers
+Committers
 
 mkersten,
 relves,
@@ -68,6 +68,7 @@ Developers
 2008-04-12, tasks,		195456, Shawn Minto,		<200,		spingel,	add query capability to connenctor ui
 2008-04-13, bugzilla,	175922, Frank Becker,		<50,		relves,		rearrangement of custom attributes
 2008-04-14, tasks,		213901, Shawn Minto,		<50,		spingel,	sort history in task selection dialog
+2008-04-14, xplanner,	226412, Helen Bershadskaya,	<50,		spingel,	do not log authentication errors 
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

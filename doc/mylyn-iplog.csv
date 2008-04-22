@@ -72,6 +72,7 @@ Developers
 2008-04-17, tasks,		216688,	Frank Becker,		<50,		mkersten,	notification dialog restore
 2008-04-19, bugzilla,	226795,	Frank Becker,		<10,		relves,		notification dialog restore
 2008-04-21, xplanner,	221045, Helen Bershadskaya,	<20,		spingel,	decouple xplanner ui from apache axis 
+2008-04-21, xplanner,	221046, Helen Bershadskaya,	<20,		spingel,	make xplanner tests run with non english locales 
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

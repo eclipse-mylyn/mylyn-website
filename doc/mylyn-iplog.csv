@@ -76,6 +76,7 @@ Developers
 2008-04-22, bugzilla,	227841, Frank Becker,		<10,		relves,		code cleanup
 2008-04-24, xplanner,	227053, Helen Bershadskaya,	<250,		spingel,	cleanup compiler warnings 
 2008-04-28, bugzilla,	225538, Frank Becker,		<250,		spingel,	grouping by task completion state in search view
+2008-04-30, tasks,		229657, Shawn Minto,		<50,		spingel,	accept null url when opening tasks
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

@@ -25,7 +25,8 @@
 <div id="maincontent">
 
 	<p>
-	<b>Moved to: <a href="http://www.eclipse.org/gef/zest/">http://eclipse.org/gef/zest/</a></b>
+	<br>&nbsp;
+	<b>&nbsp;&nbsp;&nbsp;Moved to: <a href="http://www.eclipse.org/gef/zest/">http://eclipse.org/gef/zest/</a></b>
 	</p>
 </div>
 

@@ -16,11 +16,6 @@ $html = <<<EOHTML
       		</td>
       		<td>
         	<td valign="top">
-        		<br>
-<a href="http://www.eclipsecon.org/2008/"><img border="0"
- src="http://www.eclipsecon.org/2008/image125x125.gif"
- height="125" width="125" alt="EclipseCon 2008" align="right" hspace="20"/></a>
-
 				Mylyn is a Task-Focused Interface for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 				repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work 

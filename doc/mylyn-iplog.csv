@@ -79,6 +79,7 @@ Developers
 2008-04-30, tasks,		229657, Shawn Minto,		<50,		spingel,	accept null url when opening tasks
 2008-05-01, tasks,		225538, Frank Becker,		<50,		spingel,	filter completed tasks in search view
 2008-05-04, commons,	230055,	Scott Lewis,		<50,		mkersten,	javadoc tags	
+2008-05-08, tasks,		219540, Frank Becker,		<250,		relves,		second level sorting in task list with dialog
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

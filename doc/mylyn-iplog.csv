@@ -83,7 +83,11 @@ Developers
 2008-05-12, bugzilla,	169625, Frank Becker,		<100,		relves,		selection preserved after attribute update
 2008-05-12, bugzilla,	186265, Frank Becker,		<100,		relves,		core support for bugzilla flags 
 2008-05-14, tasks,		221017, Leo Dos Santos,		<10,		mkersten,	mac scroll bar fix
-2008-05-18, tasks,		219171, Willian Mitsuda,	<10,		mkersten,	screen shot fix
+2008-05-18, commons,	219171, Willian Mitsuda,	<10,		mkersten,	screen shot multi-monitor fix
+2008-05-18, commons,	230011, Willian Mitsuda,	<10,		mkersten,	screen shot npe fix
+
+
+
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

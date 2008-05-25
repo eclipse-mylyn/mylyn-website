@@ -88,7 +88,7 @@ Developers
 2008-05-20, tasks,		231033, Willian Mitsuda,	<10,		spingel,	fix key-bindings on Mac OS X
 2008-05-20,	commons,	209846,	Shawn Minto,		<250,		mkersten,	delayed refresh for focused viewers
 2008-05-20, tasks,		232441,	Frank Becker,		<10,		mkersten,	sorting fix
-
+2008-05-25, bugzilla,	233515, Frank Becker,		<10,		relves,		incompatible repository configuration logging 
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

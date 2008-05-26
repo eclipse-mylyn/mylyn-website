@@ -89,7 +89,8 @@ Developers
 2008-05-20,	commons,	209846,	Shawn Minto,		<250,		mkersten,	delayed refresh for focused viewers
 2008-05-20, tasks,		232441,	Frank Becker,		<10,		mkersten,	sorting fix
 2008-05-25, bugzilla,	233515, Frank Becker,		<10,		relves,		incompatible repository configuration logging 
-
+2008-05-25, tasks,		194124, Frank Becker,		<10,		relves,		copy multiple details to clipboard
+ 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support
 2008-03-12, tasks,		204279, Shawn Minto,		<10,		spingel,	follow-up fix for local sub task support

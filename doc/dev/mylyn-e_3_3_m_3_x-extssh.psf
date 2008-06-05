@@ -19,10 +19,10 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.ws.commons.util,org.apache.ws.commons.util,v1_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xmlrpc,org.apache.xmlrpc,v3_0_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn,org.eclipse.mylyn"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-site,org.eclipse.mylyn-site"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.aspectj,org.eclipse.mylyn.aspectj"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla-feature,org.eclipse.mylyn.bugzilla-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla-feature,org.eclipse.mylyn.bugzilla-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.core,org.eclipse.mylyn.bugzilla.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.tests,org.eclipse.mylyn.bugzilla.tests"/>
@@ -31,16 +31,18 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.net,org.eclipse.mylyn.commons.net"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.ui,org.eclipse.mylyn.commons.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.compatibility,org.eclipse.mylyn.compatibility"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context-feature,org.eclipse.mylyn.context-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context-feature,org.eclipse.mylyn.context-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context.core,org.eclipse.mylyn.context.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context.tests,org.eclipse.mylyn.context.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.context.ui,org.eclipse.mylyn.context.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.experimental-sdk-feature,org.eclipse.mylyn.experimental-sdk-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.extras-sdk-feature,org.eclipse.mylyn.extras-sdk-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.help.ui,org.eclipse.mylyn.help.ui"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide-feature,org.eclipse.mylyn.ide-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide-feature,org.eclipse.mylyn.ide-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.ant,org.eclipse.mylyn.ide.ant"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.tests,org.eclipse.mylyn.ide.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.ui,org.eclipse.mylyn.ide.ui,e_3_3_m_3_x"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java-feature,org.eclipse.mylyn.java-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java-feature,org.eclipse.mylyn.java-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java.tasks,org.eclipse.mylyn.java.tasks"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java.tests,org.eclipse.mylyn.java.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java.ui,org.eclipse.mylyn.java.ui"/>
@@ -50,25 +52,31 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.jira.ui,org.eclipse.mylyn.jira.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor-feature,org.eclipse.mylyn.monitor-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.core,org.eclipse.mylyn.monitor.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.monitor.reports,org.eclipse.mylyn.monitor.reports"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.tests,org.eclipse.mylyn.monitor.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.ui,org.eclipse.mylyn.monitor.ui"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.pde-feature,org.eclipse.mylyn.pde-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.monitor.usage,org.eclipse.mylyn.monitor.usage"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.pde-feature,org.eclipse.mylyn.pde-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.pde.ui,org.eclipse.mylyn.pde.ui,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.releng,org.eclipse.mylyn.releng"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.resources.tests,org.eclipse.mylyn.resources.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.resources.ui,org.eclipse.mylyn.resources.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.dev,org.eclipse.mylyn.sandbox.dev"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.dev-feature,org.eclipse.mylyn.sandbox.dev-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.tests,org.eclipse.mylyn.sandbox.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.ui,org.eclipse.mylyn.sandbox.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.sandbox.ui-feature,org.eclipse.mylyn.sandbox.ui-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.sdk-feature,org.eclipse.mylyn.sdk-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.bugs,org.eclipse.mylyn.tasks.bugs,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.core,org.eclipse.mylyn.tasks.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.tests,org.eclipse.mylyn.tasks.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tasks.ui,org.eclipse.mylyn.tasks.ui"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team-feature,org.eclipse.mylyn.team-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team-feature,org.eclipse.mylyn.team-feature,e_3_3_m_3_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team.cvs,org.eclipse.mylyn.team.cvs"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team.tests,org.eclipse.mylyn.team.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.team.ui,org.eclipse.mylyn.team.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.test-feature,org.eclipse.mylyn.test-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.tests,org.eclipse.mylyn.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.tests.report,org.eclipse.mylyn.tests.report"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac-feature,org.eclipse.mylyn.trac-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.core,org.eclipse.mylyn.trac.core"/>
@@ -76,6 +84,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.ui,org.eclipse.mylyn.trac.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki,org.eclipse.mylyn.trac.wiki"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki-feature,org.eclipse.mylyn.trac.wiki-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.core,org.eclipse.mylyn.web.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks,org.eclipse.mylyn.web.tasks"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks-feature,org.eclipse.mylyn.web.tasks-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.ui,org.eclipse.mylyn.web.ui"/>
@@ -86,4 +95,122 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/eclipse,org.eclipse.test.performance,org.eclipse.test.performance"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.jdom,org.jdom,v1_0"/>
 </provider>
+<workingSets editPageId="org.eclipse.mylyn.tasks.ui.workingSet" label="Mylyn" name="Mylyn">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.ide.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tasks.bugs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.commons.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.jira.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.pde-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.xplanner.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.team.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor.reports" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.web.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.java.tasks" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.ide.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.test-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.experimental-sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.java-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mylyn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.xplanner.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tests.report" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tasks.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.wiki-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.dev-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor.usage" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.aspectj" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.compatibility" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.web.tasks" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.team-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.jira-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.java.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.xplanner-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.context-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.ui-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn-site" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.help.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.extras-sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.context.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.wiki" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.resources.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.team.cvs" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.ide.ant" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.resources.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.commons.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.jira.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.team.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.java.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.dev" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.ide-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.pde.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tasks.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.jira.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.releng" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.commons.net" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.tasks.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.context.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.context.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.xplanner.tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.web.tasks-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.web.core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.ui" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla.ide" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor.tests" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" label="Mylyn Features" name="Mylyn Features">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.ide-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.team-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.test-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.jira-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.experimental-sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.java-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.xplanner-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.context-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.ui-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.pde-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac.wiki-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.bugzilla-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.extras-sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sandbox.dev-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.monitor-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.sdk-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.trac-feature" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/org.eclipse.mylyn.web.tasks-feature" type="4"/>
+</workingSets>
+<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" label="Mylyn Dependencies" name="Mylyn Dependencies">
+<item elementID="=com.sun.syndication" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.activation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.mail" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.servlet" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.wsdl" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.xml.bind" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.xml.rpc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=javax.xml.soap" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.axis" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.commons.codec" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.commons.discovery" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.commons.httpclient" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.commons.lang" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.commons.logging" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.ws.commons.util" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.apache.xmlrpc" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.eclipse.test.performance" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=org.jdom" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSets>
 </psf>

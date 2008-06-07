@@ -96,7 +96,7 @@ $html = <<<EOHTML
 	-->
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>3.0 RC Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<h3>3.0 Release Candidates&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/3.0_Plan#Schedule">Release Schedule and plan</a>
 		<ul> 
 			<li>

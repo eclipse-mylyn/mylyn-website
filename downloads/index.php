@@ -77,6 +77,7 @@ $html = <<<EOHTML
 		</ul>	
 	</div>
 
+	<!--
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>2.3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
@@ -92,8 +93,8 @@ $html = <<<EOHTML
 			</li>
 		</ul>
 	</div>
+	-->
 
-<!--
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>3.0 RC Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/3.0_Plan#Schedule">Release Schedule and plan</a>
@@ -109,7 +110,6 @@ $html = <<<EOHTML
 			</li>
 		</ul>
 	</div>
--->
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>Extensions</h3>

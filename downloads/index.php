@@ -107,6 +107,13 @@ $html = <<<EOHTML
 			</li>
 			<li>
 				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				<br>
+				<font size=-1>Trac Connector, JIRA Connector</font>
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				<br>
+				<font size=-1>Generic Web Connector, XPlanner Connector, UI Usage Reporting, UI Experiments</font>
 			</li>
 		</ul>
 	</div>

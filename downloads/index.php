@@ -100,7 +100,7 @@ $html = <<<EOHTML
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/3.0_Plan#Schedule">Release Schedule and plan</a>
 		<ul> 
 			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4RC1)
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4RC3)
 			</li>
 			<li> 
 				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)

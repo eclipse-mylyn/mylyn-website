@@ -97,6 +97,7 @@ Developers
 2008-06-09, tasks,		229014, Frank Becker,		<20,		spingel,	fix for url hyperlink detection 
 2008-06-09, bugzilla,	176212, Frank Becker,		<10,		spingel,	fix for url Bugzilla task hyperlink detection 
 2008-06-09, tasks,		136298, Frank Becker,		<10,		spingel,	show error when no marker is selected 
+2008-06-11, xplanner,	236691, Helen Bershadskaya,	<10,		spingel,	port XPlanner core 
  
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

@@ -103,7 +103,7 @@ Developers
 2008-06-11, xplanner,	236690, Helen Bershadskaya,	<250,		spingel,	port of XPlanner connector core and ui
 2008-06-11, xplanner,	236782, Helen Bershadskaya,	<250,		spingel,	port of XPlanner task editor
 2008-06-11, xplanner,	236727, Helen Bershadskaya,	<250,		spingel,	port of the XPlanner query wizard and task creation wizard 
-
+2008-06-11, xplanner,	236692, Helen Bershadskaya,	<250,		spingel,	port of XPlanner tests
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

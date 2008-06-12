@@ -106,6 +106,7 @@ Developers
 2008-06-11, xplanner,	236692, Helen Bershadskaya,	<250,		spingel,	port of XPlanner tests
 2008-06-12, help,		235243, Leo Dos Santos,		<250,		mkersten,	legend dialog extracted to superclass
 2008-06-12, bugzilla,	233515, Frank Becker,		<10,		spingel,	fix for error message
+2008-06-12, tasks,		236694, Helen Bershadskaya,	<20,		spingel,	documentation for API methods
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

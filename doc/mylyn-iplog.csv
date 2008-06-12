@@ -107,6 +107,8 @@ Developers
 2008-06-12, help,		235243, Leo Dos Santos,		<250,		mkersten,	legend dialog extracted to superclass
 2008-06-12, bugzilla,	233515, Frank Becker,		<10,		spingel,	fix for error message
 2008-06-12, tasks,		236694, Helen Bershadskaya,	<20,		spingel,	documentation for API methods
+2008-06-12, sandbox,	235222, Jingwen Ou,			<250,		spingel,	extension for bugzilla task editor 
+2008-06-12, sandbox,	235222,	David Green,		<10,		spingel,	fixes for task editor extension point
 
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support
@@ -116,7 +118,7 @@ Developers
 2008-01-09, tasks,		191726, Frank Becker,		<50,		spingel,	use strike-through font for resolved dependent tickets
 2008-01-11, tasks,		215057, Shawn Minto,		<50,		relves,		add support for pre and post task activation
 2008-01-15, bugzilla,	212484, Frank Becker,		<200, 		relves,		move qacontact field to Person section
-2008-01-17, jira,		203555, Wesley Coelho,		<10, 		spingel,	submit custom fields when creating jira issues
+2008-01-17, jira,		203555,Wesley Coelho,		<10, 		spingel,	submit custom fields when creating jira issues
 2008-01-22, bugzilla,	215071, Willian Mitsuda,	<100,		mkersten,	report subentries
 2008-01-23, tasks,		152211, Maarten Meijer,		<10,		mkersten,	clone of local
 2008-01-23, tasks,		167941, Frank Becker,		<50,		spingel,	use strike-through font for hyperlinks to resolved bugs

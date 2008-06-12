@@ -100,6 +100,7 @@ Developers
 2008-06-11, xplanner,	236691, Helen Bershadskaya,	<10,		spingel,	port XPlanner core 
 2008-06-11, xplanner,	236732, Helen Bershadskaya,	<250,		spingel,	migration of XPlanner task list data
 2008-06-11, xplanner,	236733, Helen Bershadskaya,	<250,		spingel,	migration of XPlanner offline data
+2008-06-11, xplanner,	236690, Helen Bershadskaya,	<250,		spingel,	port of XPlanner connector core and ui
  
 ------------------------ 2.3.1 ------------------------
 2008-03-10, tasks,		204279, Shawn Minto,		<250,		spingel,	fixes for local sub task support

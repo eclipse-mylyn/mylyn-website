@@ -23,7 +23,8 @@ EOBRANDING;
 	$Menu->setProjectBranding($branding);
 	
 	$Nav->addNavSeparator("Mylyn", 	"/mylyn/index.php");
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;About", "/mylyn/about", "_self", 1);
+	$Nav->addCustomNav( "About This Project", "/projects/project_summary.php?projectid=mylyn", "", 1  );
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Info", "/mylyn/about", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Community", "/mylyn/community", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Contributors", "/mylyn/contributors", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Presentations", "/mylyn/presentations", 	"_self", 1); 

@@ -64,7 +64,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="/mylyn/downloads">
-		           			Mylyn 3.0 and Eclipse Ganymede are coming on June 25th!</a>
+		           			Mylyn 3.0 released with Ganymede</a> (June 25h)
 	            		</li>
 						<li>
 		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">
@@ -78,10 +78,10 @@ $html = <<<EOHTML
 		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           			Mylyn 2.0 tutorial articles</a> by Mik Kersten (Aug. 14, 2007)
 	            		</li>
-						<li>
+						<!--
+												<li>
 							Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a> (June 29)
 						</li>
-						<!--
 							            		<li>
 		            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug. 17, 2007)

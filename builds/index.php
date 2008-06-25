@@ -51,19 +51,19 @@
 		<div class="homeitem3col">
 			<h3>3.0.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
-			<li>
+				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
 	        	</li>
-			<li>
+				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-e3.3.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 	        	</li>
-			<li> 
+				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-extras.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
@@ -71,13 +71,19 @@
 	        		<br>
 					<font size=-1>Trac and JIRA Connector</font>
 	        	</li>
-			<li> 
+				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-incubator.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/incubator</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.3)
 	        		<br>
 					<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting and UI Experiments</font>
+	        	</li>
+				<li> 
+					<a title="API Profile" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/mylyn-3.0.0-api.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>API profile</b>
 	        	</li>
 			</ul>	
 		</div>

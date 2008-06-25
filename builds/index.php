@@ -83,7 +83,7 @@
 					<a title="API Profile" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/mylyn-3.0.0-api.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>API profile</b>
+					&nbsp;&nbsp;<b>API baseline</b>
 	        	</li>
 			</ul>	
 		</div>

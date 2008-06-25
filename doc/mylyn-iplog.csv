@@ -39,6 +39,9 @@ JDOM 1.0,							2051,	org.jdom Orbit Bundle,						APL,	web repository connection
 
 Developers
 
+------------------------- 3.0.1 -------------------------
+2008-06-12, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port
+
 ------------------------- 3.0 -------------------------
 2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations
 2008-03-02, tasks,		221069, Remy Chi Jian Suen, <20,		spingel,	change notification popup close icon on mouse hover
@@ -90,7 +93,6 @@ Developers
 2008-05-20, tasks,		232441,	Frank Becker,		<10,		mkersten,	sorting fix
 2008-05-25, bugzilla,	233515, Frank Becker,		<10,		relves,		incompatible repository configuration logging 
 2008-05-25, tasks,		194124, Frank Becker,		<10,		relves,		copy multiple details to clipboard
-----------
 2008-06-04, tasks,		234957, Shawn Minto,		<10,		spingel,	add deletion events to task list
 2008-06-05, tasks,		136298, Frank Becker,		<250,		mkersten,	task creation from marker 
 2008-06-06, sandbox,	234212,	David Green,		<250,		spingel,	provide task editor extension point

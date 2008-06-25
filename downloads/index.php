@@ -57,19 +57,19 @@ $html = <<<EOHTML
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-e3.4.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				</a>
-				<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, <a href="http://www.eclipse.org/epp/ganymede.php">EPP Bundle</a>)
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, <a href="http://www.eclipse.org/epp/ganymede.php">EPP Bundle</a>)
 			</li>
 			<li> 
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-e3.3.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				</a>
-				<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 			</li>
 			<li>
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-extras.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				</a>
-				<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 				<br>
 				<font size=-1>Trac (0.9, 0.10), JIRA (3.3.3 and later)</font>
 			</li>
@@ -77,7 +77,7 @@ $html = <<<EOHTML
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-incubator.zip&r=1">
 					<img border=0 src="/mylyn/images/icon-save.gif">
 				</a>
-				<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 				<br>
 				<font size=-1>Web Templates, XPlanner (0.7 and later), UI Usage Reporting, UI Experiments</font>
 			</li>

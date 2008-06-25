@@ -49,7 +49,50 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
+	<!--
     <div class="homeitem3col" style="margin-left:40px; width:90%">
+		<h3>2.3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
+		<ul>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M6)
+			</li>
+			<li> 
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+		</ul>
+	</div>
+	-->
+
+    <div class="homeitem3col" style="margin-left:40px; width:90%">
+		<h3>3.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+		
+		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
+		
+		<ul> 
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4RC3)
+			</li>
+			<li> 
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				<br>
+				<font size=-1>Trac Connector, JIRA Connector</font>
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				<br>
+				<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting, UI Experiments</font>
+			</li>
+		</ul>
+	</div>
+	
+	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
@@ -75,47 +118,6 @@ $html = <<<EOHTML
 				<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
         	</li>
 		</ul>	
-	</div>
-
-	<!--
-    <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>2.3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
-		<ul>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M6)
-			</li>
-			<li> 
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-			</li>
-		</ul>
-	</div>
-	-->
-
-    <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>3.0 Release Candidates&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/User_Guide#Project_Structure"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/3.0_Plan#Schedule">Release Schedule and plan</a>
-		<ul> 
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4RC3)
-			</li>
-			<li> 
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br>
-				<font size=-1>Trac Connector, JIRA Connector</font>
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br>
-				<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting, UI Experiments</font>
-			</li>
-		</ul>
 	</div>
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">

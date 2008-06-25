@@ -175,7 +175,7 @@ $html = <<<EOHTML
 			      			<td><font size=+0><a href="/mylyn/builds">Archives and other builds</a></font></td>
 						</tr>
 						<tr>
-			          		<td>Mylyn 2.0 and older versions, Sandbox</td> 
+			          		<td>Mylyn 2.0 and older versions</td> 
 			          	</tr>
 					</table>
 				</td> 

@@ -12,20 +12,12 @@
 		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
 	</tr>
 	<tr>
-		<td bgcolor="#E0D0E6"><font size="1">3.0<br>
-		<i>June 25, 2008</i></font></td>
-		<td bgcolor="#E0D0E6" align="center">
-		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2008-03-02&chfieldto=2008-06-26&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-		<font size="1"><i>315<br>bugs</i></font></a></td>
-		<td bgcolor="#E0D0E6"><font size="1">...</font></td>
-	</tr>
-	<tr>
-		<td bgcolor="#FAF7FB"><font size="1">2.3<br>
+		<td bgcolor="#E0D0E6"><font size="1">2.3<br>
 		<i>Feb 27, 2008</i></font></td>
-		<td bgcolor="#FAF7FB" align="center">
+		<td bgcolor="#E0D0E6" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-12-21&chfieldto=2008-03-01&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 		<font size="1"><i>276<br>bugs</i></font></a></td>
-		<td bgcolor="#FAF7FB"><font size="1">Willian Mitsuda contributed 
+		<td bgcolor="#E0D0E6"><font size="1">Willian Mitsuda contributed 
 		screenshot markup and numerous other improvements.&nbsp; Frank Becker 
 		provided nine patches to the Bugzilla Connector and Tasks UI.&nbsp; 
 		Additional contributions were provided by Maarten Meijer, Helen 
@@ -88,184 +80,62 @@ Mylyn 0.5</a>,&nbsp;
 <a href="http://eclipse.org/mylyn/new/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/new/new-0.3.html">
 Mylyn 0.3</a></b></p>
 <p><b>Updating</b>:&nbsp; If using a version prior to 2.0, upgrade to 2.0 
-before installing Mylyn 3.0.</p>
+before installing Mylyn 2.3.</p>
 
+<!--
+
+<p><b>Update Notes</b> <br>
+&nbsp;&nbsp;&nbsp; - We recommend using the Eclipse 3.3M7 release due to the 
+numerous UI improvements (see Eclipse 3.3 only items below).<br>
+&nbsp;&nbsp;&nbsp; - 2.0M2 and later releases will reset your task activity 
+timings (Mylyn now uses a new and much more robust timing mechanism).<br>
+&nbsp;&nbsp;&nbsp; - The offline task data cache will be reset, so submit outgoing changes before 
+	updating.<br>
+&nbsp;&nbsp;&nbsp; - If upgrading from a 0.x version, first update to Mylyn 1.0 
+and see the corresponding <a href="http://eclipse.org/mylyn/doc/new-1.0.html">
+update notes</a>.<br>
+&nbsp;&nbsp;&nbsp; - Trac xml-rpc users: you will
+<a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#Trac_Connector">need the 
+latest</a> XmlRpcPlugin.<br>&nbsp;</p>
+
+<p><b>Mylar -&gt; Mylyn Migration</b></p>
+<ul>
+	<li>No uninstall necessary during the update, the old plug-ins will 
+	automatically be disabled.</li>
+	<li>Can delete all old plug-ins/features either manually or via the Update 
+	Manager.</li>
+	<li>All Mylyn preferences will need to be reset.&nbsp; If you set a custom 
+	data directory this will need to be reset on start.</li>
+	<li>Project to Task Repository associations will need to be reset.</li>
+</ul>
+<p><b>UI Cleanup</b></p>
+<p>The following things have moved into the Sandbox either because they are not 
+at the 2.0 quality level or because they are experimental features.</p>
+<ul>
+	<li>Pause Context Capture</li>
+	<li>Active Task on open</li>
+	<li>Synchronize view style overlays</li>
+	<li>Task Activity report</li>
+	<li>Legend moved to view menu</li>
+</ul>
+-->
 <hr>
 
-<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.0</span> </p>
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 2.3</span> </p>
 <ul>
-	<li><a href="#task-list">Task List (x)</a></li>
-	<li><a href="#task-editor">Task Editor (x)</a></li>
-	<li><a href="#focused-ui">Focused UI (x)</a></li>
-	<li><a href="#bugzilla">Bugzilla Connector (x)</a></li>
-	<li><a href="#trac">Trac Connector (x)</a></li>
-	<li><a href="#jira">JIRA Connector (x)</a></li>
-	<li><a href="#incubator">Incubator</a></li>
+	<li><a href="#task-list">Task List (2)</a></li>
+	<li><a href="#task-editor">Task Editor (2)</a></li>
+	<li><a href="#focused-ui">Task-Focused UI (3)</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector (1)</a></li>
+	<li><a href="#trac">Trac Connector (1)</a></li>
+	<li><a href="#jira">JIRA Connector (2)</a></li>
+	<li><a href="#xplanner">XPlanner Connector (1)</a></li>
 </ul>
-
 <h2><a name="task-list">Task List</a></h2>
-
-<table cellpadding="10" cellspacing="0" id="table403">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Task List Restore</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[snapshot every hour, updated UI]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table404">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Task Content Assist</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[in task editor, comma delimited for people entries, 
-			task dependencies, all references are navigable]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table407">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Filter Task Search Results</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[find box, filter completed]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table410">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Scheduled Presentation Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[unscheduled container, Future container, one-click 
-			presentation switching]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table411">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Attachment Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[attach images from the clipboard, PNG attachments 
-			supported for screenshots and otherwise]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table415">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Save Unsubmitted Tasks</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">...</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table417">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Create Tasks from any Marker</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[problems, bookmarks, tasks]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table405">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>XXX misc streamlining</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[create new tasks from Open Task dialog, no more 
-			preference for setting the end of the worday, clear outgoing changes 
-			using button on editor]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table412">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>XXX</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">...</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
 <table cellpadding="10" cellspacing="0" id="table393">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Task Scheduling Streamlining</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -315,7 +185,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table382">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Open Task Dialog Improved</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -579,7 +449,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table402">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Screenshot Annotations</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -598,7 +468,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table396">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Task Editor Improvements</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -729,99 +599,11 @@ before installing Mylyn 3.0.</p>
 </table>
 
 <p class="MsoPlainText">&nbsp; </p>
-<h2><a name="focused-ui">Focused UI</a></h2>
-
-<table cellpadding="10" cellspacing="0" id="table409">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Focus the Breakpoints View</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">&nbsp;[no guaranteed visibility, file level 
-			granularity for line breakpoints)]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table418">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Indirectly Modified Resources Become Interesting</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[...]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table414">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>UI Cleanup</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[editor gutter markers are gone (now in Sandbox)]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table419">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Empty Context Indication</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[overlay on navigator views]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table413">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Performance Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[merge with below, context refresh is much faster 
-			(e.g. opening whole project) adding and removing from context is 
-			faster]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
+<h2><a name="focused-ui">Task-Focused UI</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table394">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Performance Improvements</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -844,7 +626,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table401">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Focus the All Markers View<br>
 			(Eclipse 3.4 only)</b></p>
 			</td>
@@ -867,7 +649,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table395">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Commit Messages Warnings</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -1048,43 +830,9 @@ before installing Mylyn 3.0.</p>
 
 <h2><a name="bugzilla">Bugzilla Connector</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table416">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Layout Improvements</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[attributes section, votes]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table406">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Content Assist in Search</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">...</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
 <table cellpadding="10" cellspacing="0" id="table397">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Query Multiple Emails</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -1195,7 +943,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table398">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Subtasks Supported</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -1235,26 +983,9 @@ before installing Mylyn 3.0.</p>
 <p class="MsoPlainText">&nbsp;</p>
 <h2><a name="jira">JIRA Connector</a></h2>
 
-<table cellpadding="10" cellspacing="0" id="table408">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>XXX</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[time spent value is shown]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
 <table cellpadding="10" cellspacing="0" id="table400">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Markup Supported</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -1272,7 +1003,7 @@ before installing Mylyn 3.0.</p>
 
 <table cellpadding="10" cellspacing="0" id="table391">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Password Prompting Improvements</b></p>
 			</td>
 			<td valign="top" width="70%">
@@ -1328,29 +1059,12 @@ before installing Mylyn 3.0.</p>
 </table>
 
 <p class="MsoPlainText">&nbsp;</p>
-<h2><a name="incubator">Incubator</a></h2>
-
-<table cellpadding="10" cellspacing="0" id="table420">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>XXX</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">[update site rearrangement]</p>
-			<p class="MsoPlainText">
-			&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
+<h2><a name="xplanner">XPlanner Connector (Incubation)</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table399">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
-			<p align="right"><b>XPlanner Time Tracking Integration</b></p>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Time Tracking Integration</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p align="left">The active time maintained by Mylyn can now be 
@@ -1369,7 +1083,7 @@ before installing Mylyn 3.0.</p>
 <table cellpadding="10" cellspacing="0" id="table356">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#FAF7FB>
-			<p align="right"><b>XPlanner New Task Editor</b></p>
+			<p align="right"><b>New Task Editor</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p class="MsoPlainText">The XPlanner connector now provides a rich 

@@ -34,9 +34,9 @@
 		<br>&nbsp;
 		<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 		Software User Agreement</a> unless otherwise specified.</p>
-		<br>&nbsp;
 
 		<!--
+		<br>&nbsp;
 		<div class="homeitem3col"> 
 			<h3>Sandbox</h3> 
 			<br>&nbsp;&nbsp;&nbsp;See the <a href="http://wiki.eclipse.org/Mylyn_Contributor_Reference#Sandbox">Sandbox Page</a> for a description of available components.
@@ -67,7 +67,7 @@
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-extras.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/extras</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/extras</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.3)
 	        		<br>
 					<font size=-1>Trac and JIRA Connector</font>
 	        	</li>
@@ -75,7 +75,7 @@
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/v20080619-1900/mylyn-3.0.0.v20080619-1900-incubator.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/incubator</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.0/v20080619-1900/incubator</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.3)
 	        		<br>
 					<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting and UI Experiments</font>
 	        	</li>

@@ -51,7 +51,7 @@ $html = <<<EOHTML
 
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>3.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-06-25). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> (2.18 and later).				
+		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-06-25). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
 		<ul> 
 			<li>
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-e3.4.zip&r=1">
@@ -71,7 +71,7 @@ $html = <<<EOHTML
 				</a>
 				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 				<br>
-				<font size=-1>Trac (0.9, 0.10), JIRA (3.3.3 and later)</font>
+				<font size=-1>Trac 0.9 and 0.10, JIRA 3.3.3 and later</font>
 			</li>
 			<li>
 				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.0-incubator.zip&r=1">
@@ -79,7 +79,7 @@ $html = <<<EOHTML
 				</a>
 				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 				<br>
-				<font size=-1>Web Templates, XPlanner (0.7 and later), UI Usage Reporting, UI Experiments</font>
+				<font size=-1>Web Templates, XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
 			</li>
 		</ul>
 	</div>

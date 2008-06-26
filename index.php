@@ -63,7 +63,7 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a href="/mylyn/downloads">
+		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> (June 25h)
 	            		</li>
 						<li>

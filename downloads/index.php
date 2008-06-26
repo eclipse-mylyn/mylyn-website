@@ -44,8 +44,6 @@ $html = <<<EOHTML
 			        </p>
 			        <b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
 			        </p>
-				<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
-				Software User Agreement</a> unless otherwise specified.</p>
     			</div>
 	</div>		
 
@@ -183,6 +181,9 @@ $html = <<<EOHTML
 		</table>
 		<br>&nbsp;
 	</div>
+	
+	<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+	Software User Agreement</a> unless otherwise specified.</p>
 </div>
 
 EOHTML;

@@ -64,7 +64,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="/mylyn/downloads">
-		           			Mylyn 3.0 released with Ganymede</a> (June 25h)
+		           			Mylyn 3.0 released with Ganymede!</a> (June 25h)
 	            		</li>
 						<li>
 		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">

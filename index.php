@@ -76,7 +76,7 @@ $html = <<<EOHTML
 		                </li>
 						<li>
 		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           			Mylyn 2.0 tutorial articles</a> by Mik Kersten (Aug. 14, 2007)
+		           			Mylyn 2.0 tutorial articles</a> (Aug. 14, 2007)
 	            		</li>
 						<!--
 												<li>

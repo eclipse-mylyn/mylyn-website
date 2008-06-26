@@ -46,7 +46,7 @@ $html = <<<EOHTML
 			        </p>
 			        &nbsp;&nbsp;<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Comment on Mylyn at EPIC</a>
+					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Support Mylyn on EPIC</a>
 					<select name="rating">
 					<option selected>10</option>
 					<option>9</option>

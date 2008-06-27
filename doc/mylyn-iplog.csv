@@ -41,6 +41,7 @@ Developers
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port
+2008-06-26, sandbox,	213131, Jingwen Ou,			<150,		spingel,	add preview icon to header of new comment section 
 
 ------------------------- 3.0 -------------------------
 2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations

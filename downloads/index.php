@@ -97,30 +97,6 @@ $html = <<<EOHTML
 		</ul>
 	</div>
 
-    <!--
-    <div class="homeitem3col" style="margin-left:40px; width:90%">
-		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
-		<ul> 
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
-			</li>
-			<li> 
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br>
-				<font size=-1>Trac Connector, JIRA Connector</font>
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br>
-				<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting, UI Experiments</font>
-			</li>
-		</ul>
-	</div>
-	-->
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
@@ -147,6 +123,25 @@ $html = <<<EOHTML
 					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
 	        	</li>
 		</ul>	
+	</div>
+
+    <div class="homeitem3col" style="margin-left:40px; width:90%">
+		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
+		<ul> 
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+			</li>
+			<li> 
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+		</ul>
 	</div>
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">

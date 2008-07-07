@@ -36,6 +36,8 @@ JAXB API 2.0,						2160,	javax.xml.bind Orbit Bundle,				APL,	web repository con
 Rome 0.9,							2050,	com.sun.syndication Orbit Bundle,			APL,	web repository connections
 JDOM 1.0,							2051,	org.jdom Orbit Bundle,						APL,	web repository connections
 
+Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file 
+
 
 Developers
 

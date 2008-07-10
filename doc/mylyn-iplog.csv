@@ -48,6 +48,7 @@ Developers
 2008-06-30, tasks,		226220, Shawn Minto,		<50,		spingel,	test cases for web browser flag
 2008-07-04, sandbox,	237500, Jingwen Ou,			<50,		spingel,	enable configuration contribution for bugzilla only  
 2008-07-07, tasks,		238016, Terry Hon,			<50,		spingel,	fix for attaching of images from the clipboard
+2008-07-10, xplanner,	237208, Helen Bershadskaya,	<10,		spingel,	additional follow up fixes for XPlanner port
 
 ------------------------- 3.0 -------------------------
 2008-03-02, tasks,		221056, Frank Becker,		<50,		spingel,	do not use deprecated api for control decorations

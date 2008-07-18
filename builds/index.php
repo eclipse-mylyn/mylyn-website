@@ -43,9 +43,13 @@
 					<a title="Mylyn 3.0.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/mylyn-3.0.0-api.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.0.0 API Baseline</b>
+				</li>
+				<li>
 					<a title="Mylyn 2.3.2" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/mylyn-2.3.2-api.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
+					&nbsp;&nbsp;<b>Mylyn 2.3.2 API Baseline</b>
 	        	</li>
 	        </ul>
 		</div>

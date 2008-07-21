@@ -42,6 +42,9 @@ Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file
 
 Developers
 
+------------------------- 3.0.2 -------------------------
+2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  
+
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port
 2008-06-26, sandbox,	213131, Jingwen Ou,			<150,		spingel,	add preview icon to header of new comment section 

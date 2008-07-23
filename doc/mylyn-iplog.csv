@@ -45,6 +45,7 @@ Developers
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  
 2008-07-21, tasks,		203670, Jingwen Ou,			<200,		spingel,	improve sizing of new comment and description area  
+2008-07-23, sandbox,	240441, Jingwen Ou,			<250,		spingel,	hyperlink detection for references to Java resources
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

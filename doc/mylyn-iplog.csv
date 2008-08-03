@@ -48,6 +48,7 @@ Developers
 2008-07-23, sandbox,	240441, Jingwen Ou,			<250,		spingel,	hyperlink detection for references to Java resources
 2008-07-31, sandbox,	134165, Jingwen Ou,			<250,		spingel,	provide find functionality for task editor
 2008-08-02, sandbox,	241167, Jingwen Ou,			<200,		spingel,	use stacked layout for wikitext editing
+2008-08-02, sandbox,	242812, David Green,		<100,		spingel,	add builder for creating wikitext documentation
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

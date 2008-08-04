@@ -66,7 +66,7 @@ $html = <<<EOHTML
 							<table cellspacing="0" cellpadding="0>
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
-										<img border=0 src="/mylyn/images/ECLP_webinar.gif.gif">
+										<img border=0 src="/mylyn/images/ECLP_webinar.gif">
 										</a>
 									</td>
 									<td>

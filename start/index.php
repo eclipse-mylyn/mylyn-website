@@ -30,6 +30,24 @@
 			<h3>Getting Started</h3> 
 			<ul>
 				<li>
+					<table cellspacing="0" cellpadding="0">
+						<tr>
+							<td><a href="http://live.eclipse.org/node/573">
+								<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
+							</td>
+							<td width="10>"</td>
+							<td>
+						 		<font size="+1"><a href="http://live.eclipse.org/node/573">
+						 			<a href="http://live.eclipse.org/node/573">
+						 				Mylyn 3.0: Code at the Speed of Thought</a></font>
+						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
+						 			<br>Provides a 45 minute overview of the tool and technology, along with demos of the key features.
+						 		</font>
+						 	</td>
+						 </tr>
+					</table>
+				</li>
+				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (Aug 2007)
 	            </li>
@@ -37,10 +55,12 @@
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
 	            </li>
+	            <!--
 	            <li>
                     <a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-flash.gif">
 					Getting Started with Mylyn 2.2</a> by Mik Kersten (56 min, December 2007)
                 </li>
+                -->
 			</ul>
 		</div>      
 

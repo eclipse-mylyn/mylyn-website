@@ -63,11 +63,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-						<table cellspacing="0" cellpadding="0">
+							<table cellspacing="0" cellpadding="0">
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
 										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
 									</td>
+									<td width="10>"</td>
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
 								 			<a href="http://live.eclipse.org/node/573">

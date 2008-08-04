@@ -16,7 +16,7 @@ $html = <<<EOHTML
       		</td>
       		<td>
         	<td valign="top">
-				Mylyn is a Task-Focused Interface for Eclipse that reduces information overload and makes multi-tasking easy.  
+				Mylyn is a task-focused interface for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 				repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work 
 				activity to identify information relevant to the task-at-hand, and uses this task context to focus the 

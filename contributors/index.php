@@ -24,7 +24,7 @@
   
 <div id="maincontent">
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved.  <i>Last updated: 2008-08-04</i>
+		Listing ordered by number of bugs resolved.  <i>Last updated: 2008-08-04</i>  
 		<div class="homeitem3col">
 		    <h3>Committers</h3> 
 		    <br>&nbsp;&nbsp;For commit statistics see the <a href="http://dash.eclipse.org/dash/commits/web-app/summary.cgi?login=y&year=x&top=tools&project=tools.mylyn&company=individual">Commits Explorer</a>

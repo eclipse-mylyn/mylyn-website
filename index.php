@@ -67,9 +67,11 @@ $html = <<<EOHTML
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
 										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
-									</td>
-									<td>
-								 		123
+								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
+								 			<a href="http://live.eclipse.org/node/573">
+								 				Mylyn 3.0: Code at the Speed of Thought</a></font>
+								 			&nbsp;&nbsp;by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
+								 		</font>
 								 	</td>
 								 </tr>
 							</table>

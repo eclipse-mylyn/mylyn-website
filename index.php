@@ -66,13 +66,12 @@ $html = <<<EOHTML
 							<table cellspacing="0" cellpadding="0>
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
-										<img border=0 src="/mylyn/images/ECLP_webinar.gif">
-										</a>
+										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
 									</td>
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
-								 			Webcast: Mylyn 3.0: Code at the Speed of Thought</a></font>
-								 			<br>by Mik Kersten (Tasktop Technologies) <i>July 30, 2008</i>
+								 			Mylyn 3.0: Code at the Speed of Thought</a></font>
+								 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
 								 		</font>
 								 	</td>
 								 </tr>

@@ -61,8 +61,9 @@ $html = <<<EOHTML
 	         	
 				<div class="homeitem3col">
 					<h3>News</h3>
-					
-							<table cellspacing="0" cellpadding="0>
+					<ul>
+						<li>
+						<table cellspacing="0" cellpadding="0">
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
 										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
@@ -76,7 +77,7 @@ $html = <<<EOHTML
 								 	</td>
 								 </tr>
 							</table>
-					<ul>
+						</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>

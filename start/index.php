@@ -23,9 +23,6 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
-		
-		For questions about using Mylyn see the <a href="/mylyn/community">Community Page</a>.
-         
         <div class="homeitem3col">
 			<h3>Getting Started</h3> 
 			<ul>
@@ -77,6 +74,11 @@
 	            </li>
 			</ul>
 		</div>     
+
+		<p>		
+		For questions about using Mylyn see the <a href="/mylyn/community">Community Page</a>.
+        </p>
+		
 
 		<!--		
 		<p>In addition to providing personal task management and support for task contexts, Mylyn has the following 

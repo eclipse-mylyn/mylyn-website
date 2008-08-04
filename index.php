@@ -63,25 +63,37 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-							<a href="http://live.eclipse.org/node/573"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-		                    <font size="+1"><a href="http://live.eclipse.org/node/573">Webcast: Mylyn 3.0: Code at the Speed of Thought</a></font> by Mik Kersten (July 30, 2008)
+							<table cellspacing="0" cellpadding="0>
+								<tr>
+									<td><a href="http://live.eclipse.org/node/573">
+										<img border=0 src="/mylyn/images/ECLP_webinar.gif.gif">
+										</a>
+									</td>
+									<td>
+								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
+								 			Webcast: Mylyn 3.0: Code at the Speed of Thought</a></font>
+								 			<br>by Mik Kersten (Tasktop Technologies) <i>July 30, 2008</i>
+								 		</font>
+								 	</td>
+								 </tr>
+							</table>
 		                </li>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">
-		           			Mylyn 3.0 released with Ganymede!</a> (June 25h)
+		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>
 	            		</li>
 						<li>
 		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           			Mylyn 2.0 tutorial articles</a> (Aug. 14, 2007)
+		           			Mylyn 2.0 tutorial articles</a>, developerWorks <i>Aug. 14, 2007</i>
 	            		</li>
+	            		
 						<!--
 						<li>
 		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">
 		           			See the Mylyn Extensions listing</a> for available connectors
 	            		</li>
 						<li>
-							<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-		                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec. 19, 2007, 50 min)
+							<a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec. 19, 2007, 50 min)
 		                </li>
 						<li>
 							Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a> (June 29)

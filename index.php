@@ -83,7 +83,7 @@ $html = <<<EOHTML
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>
 	            		</li>
 						<li>
-		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
 		           			Mylyn 2.0 tutorial articles</a>, developerWorks <i>Aug. 14, 2007</i>
 	            		</li>
 	            		

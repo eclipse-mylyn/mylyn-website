@@ -61,21 +61,22 @@ $html = <<<EOHTML
 	         	
 				<div class="homeitem3col">
 					<h3>News</h3>
-					<ul>
-						<li>
+					
 							<table cellspacing="0" cellpadding="0>
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">
 										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
+									</td>
+									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
 								 			<a href="http://live.eclipse.org/node/573">
 								 				Mylyn 3.0: Code at the Speed of Thought</a></font>
-								 			&nbsp;&nbsp;by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
+								 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
 								 		</font>
 								 	</td>
 								 </tr>
 							</table>
-		                </li>
+					<ul>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>

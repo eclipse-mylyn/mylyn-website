@@ -52,6 +52,8 @@ Developers
 2008-08-02, sandbox,	242811, David Green,		<50,		spingel,	build integration for wikitext
 2008-08-02, sandbox,	242944, David Green,		<10,		spingel,	fix for wikitext context assist
 2008-08-03, team,		242310, Shawn Minto,		<20,		spingel,	fix for task key commit template
+2008-08-05, bugzilla,	242480, Frank Becker,		<100,		relves,		port bugzilla test cases to 3.0
+
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

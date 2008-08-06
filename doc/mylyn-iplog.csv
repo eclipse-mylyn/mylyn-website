@@ -56,6 +56,7 @@ Developers
 2008-08-05, wikitext,	242812, David Green,		<10,		spingel,	improve builder for creating wikitext documentation
 2008-08-05, wikitext,	242977, David Green,		<10,		spingel,	enable spell checking for wikitext editor
 2008-08-05, xplanner,	240445, Helen Bershadskaya,	<150,		spingel,	do not share date formatters between threads
+2008-08-05, sandbox,	239087, Jingwen Ou,			<250,		spingel,	java and resource hyperlink extensions
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

@@ -55,6 +55,7 @@ Developers
 2008-08-05, bugzilla,	242480, Frank Becker,		<100,		relves,		port bugzilla test cases to 3.0
 2008-08-05, wikitext,	242812, David Green,		<10,		spingel,	improve builder for creating wikitext documentation
 2008-08-05, wikitext,	242977, David Green,		<10,		spingel,	enable spell checking for wikitext editor
+2008-08-05, xplanner,	240445, Helen Bershadskaya,	<150,		spingel,	do not share date formatters between threads
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

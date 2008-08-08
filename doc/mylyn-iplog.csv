@@ -58,6 +58,7 @@ Developers
 2008-08-05, xplanner,	240445, Helen Bershadskaya,	<150,		spingel,	do not share date formatters between threads
 2008-08-05, sandbox,	239087, Jingwen Ou,			<250,		spingel,	java and resource hyperlink extensions
 2008-08-07, bugzilla,	242480, Frank Becker,		<100,		relves,		port bugzilla test cases to 3.0
+2008-08-08, tasks,		241123, Shawn Minto,		<50,		relves,		fix sub task visibility when completed tasks filter enabled
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

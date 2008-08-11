@@ -60,6 +60,7 @@ Developers
 2008-08-07, bugzilla,	242480, Frank Becker,		<100,		relves,		port bugzilla test cases to 3.0
 2008-08-08, tasks,		241123, Shawn Minto,		<50,		relves,		fix sub task visibility when completed tasks filter enabled
 2008-08-11, tasks,		233999, Shawn Minto,		<50,		relves,		fix missing subtasks in incoming presentation
+2008-08-11, tasks,		220617, Shawn Minto,		<50,		spingel,	delete task data when task is deleted
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

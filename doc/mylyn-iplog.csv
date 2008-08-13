@@ -77,6 +77,7 @@ Developers
 2008-08-12, sandbox,	219939, Jingwen Ou,			<20,		spingel,	use fixed font for rendering of source view 
 2008-08-12, wikitext,	243954, David Green,		<20,		spingel,	update version dependencies 
 2008-08-12, wikitext,	242981, David Green,		<50,		spingel,	move wikitext help under Mylyn node 
+2008-08-12, wikitext,	243968, David Green,		<200,		spingel,	generate wikitext documentation as part of PDE build 
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

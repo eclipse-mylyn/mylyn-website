@@ -75,6 +75,7 @@ Developers
 2008-08-12, wikitext,	242939, David Green,		<20,		spingel,	fix for detecing bugzilla generated comments 
 2008-08-12, tasks,		242979, David Green,		<250,		spingel,	generate Eclipse help from media wiki 
 2008-08-12, sandbox,	219939, Jingwen Ou,			<20,		spingel,	use fixed font for rendering of source view 
+2008-08-12, wikitext,	243954, David Green,		<20,		spingel,	update version dependencies 
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

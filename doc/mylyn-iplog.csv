@@ -79,6 +79,7 @@ Developers
 2008-08-12, wikitext,	242981, David Green,		<50,		spingel,	move wikitext help under Mylyn node 
 2008-08-12, wikitext,	243968, David Green,		<200,		spingel,	generate wikitext documentation as part of PDE build 
 2008-08-13, tasks,		242979, David Green,		<250,		spingel,	generate user guide as part of PDE build
+2008-08-13, tasks,		243954, David Green,		<20,		spingel,	remove reexports in manifest files
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

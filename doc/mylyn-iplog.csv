@@ -82,6 +82,8 @@ Developers
 2008-08-13, tasks,		243954, David Green,		<20,		spingel,	remove reexports in manifest files
 2008-08-13, bugzilla,	242480, Frank Becker,		<100,		relves,		port bugzilla test cases to 3.0
 2008-08-13, tasks,		244110, David Green,		<10,		spingel,	fix regular expression for image downloading
+2008-08-14, sandbox,	237678, Jingwen Ou,			<50,		spingel,	contribute menu to configure url for wiki linking
+2008-08-14, sandbox,	237678, David Green,		<50,		spingel,	contribute menu to configure url for wiki linking
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

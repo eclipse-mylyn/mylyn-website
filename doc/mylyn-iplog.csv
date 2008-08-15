@@ -90,6 +90,7 @@ Developers
 2008-08-14, wikitext,	244267, David Green,		<100,		spingel,	respect web browser setting when opening urls
 2008-08-14, wikitext,	244242, David Green,		<50,		spingel,	honor editor setting when converting to docbook
 2008-08-14, wikitext,	244271, David Green,		<50,		spingel,	fix whitespace in confluence hyperlink detection
+2008-08-14, wikitext,	244240, David Green,		<50,		spingel,	fix handling of pipes within tables in confluence markup
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

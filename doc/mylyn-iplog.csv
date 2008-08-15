@@ -87,6 +87,7 @@ Developers
 2008-08-14, wikitext,	244215, David Green,		<10,		spingel,	fix link in wikitext documentation
 2008-08-14, wikitext,	244245, David Green,		<50,		spingel,	register markup file extensions with team
 2008-08-14, wikitext,	244266, David Green,		<10,		spingel,	fix rendering of mediawiki cheatsheet
+2008-08-14, wikitext,	244267, David Green,		<100,		spingel,	respect web browser setting when opening urls
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

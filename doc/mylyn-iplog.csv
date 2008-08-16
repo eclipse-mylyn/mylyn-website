@@ -93,6 +93,7 @@ Developers
 2008-08-14, wikitext,	244240, David Green,		<50,		spingel,	fix handling of pipes within tables in confluence markup
 2008-08-15, trac,		244017, David Green,		<50,		spingel,	fix for hyperlink matching
 2008-08-15, trac,		244017, David Green,		<50,		spingel,	follow-up fix with test cases for hyperlink matching
+2008-08-15, wikitext,	244272, David Green,		<50,		spingel,	clean up compiler warnings
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

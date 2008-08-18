@@ -372,8 +372,6 @@
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/0.6/mylar-site-0.6.0-e3.1.tgz&r=1">
 						<img border=0 src="/mylyn/images/icon-zip.gif"></a>
-                    <a title="Source Code" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/0.6/mylar-src-0.6.0-e3.1.zip&r=1">
-                    	<img border=0 src="/mylyn/images/icon-source.gif"></a>	
 					0.6.0: <b>download.eclipse.org/tools/mylyn/update-archive/0.6/e3.1</b> (Eclipse 3.1) 
 	        	</li>
 	        </ul>

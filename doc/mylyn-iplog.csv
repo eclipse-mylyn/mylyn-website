@@ -99,6 +99,7 @@ Developers
 2008-08-17, sandbox,	238038, Jingwen Ou,			<250,		spingel,	organize comments in subsections
 2008-08-18, sandbox,	244457, Jingwen Ou,			<10,		spingel,	fix grouping of comments for anonymous access 
 2008-08-18, tasks,		237248, Frank Becker,		<10,		spingel,	set mnemonic for creating tasks
+2008-08-20, sandbox,	244687, Maarten Meijer,		<100,		spingel,	contribute menu item to task list for opening properties view
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

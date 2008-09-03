@@ -105,6 +105,8 @@ Developers
 2008-08-20, sandbox,	244380, Jingwen Ou,			<10,		spingel,	trigger search after clicking hyperlink 
 2008-09-03, tasks,		245269, Shawn Minto,		<50,		relves,		local task editor missing new subtask buttton
 2008-09-03, tasks,		243975, Shawn Minto,		<50,		relves,		deletion of tasks causing npe
+2008-09-03, tasks,		223086, Shawn Minto,		<50,		relves,		simple deletion of unsubmitted and unmatched categories
+
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

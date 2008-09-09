@@ -108,6 +108,7 @@ Developers
 2008-09-03, tasks,		223086, Shawn Minto,		<50,		relves,		simple deletion of unsubmitted and unmatched categories
 2008-09-04,	context,	232626, Andre Eisenberg,	<100,		mkersten,	content type shadowing
 2008-09-04, tasks,		245445, Shawn Minto,		<50,		mkersten,	nested log entries
+2008-09-09, bugzilla,	197539, Frank Becker,		<50,		relves,		wrapping comments in bugzilla 2.18
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

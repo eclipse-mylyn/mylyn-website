@@ -112,6 +112,7 @@ Developers
 2008-09-09, sandbox,	245823, Maarten Meijer,		<50,		spingel,	show extended attributes in properties view
 2008-09-10, xplanner,	245343, Helen Bershadskaya,	<250,		spingel,	fix exception in time tracking when using non english locale
 2008-09-11, wikitext,	247061, David Green,		<10,		spingel,	add wikitext to docbook example to user guide
+2008-09-12, tasks,		247077, Peter Stibrany,		<10,		spingel,	fix name of command parameter
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

@@ -114,6 +114,7 @@ Developers
 2008-09-11, wikitext,	247061, David Green,		<10,		spingel,	add wikitext to docbook example to user guide
 2008-09-12, tasks,		247077, Peter Stibrany,		<10,		spingel,	fix name of command parameter
 2008-09-12, wikitext,	245186, David Green,		<100,		spingel,	fix running unit tests from Eclipse
+2008-09-12, wikitext,	239875, David Green,		<50,		spingel,	rename attribute to connectorKind
 
 ------------------------- 3.0.1 -------------------------
 2008-06-25, xplanner,	237208, Helen Bershadskaya,	<250,		spingel,	follow up fixes for XPlanner port

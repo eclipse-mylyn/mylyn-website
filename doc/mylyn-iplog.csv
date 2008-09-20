@@ -43,6 +43,9 @@ Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file
 Developers
 
 ------------------------- 3.0.2 -------------------------
+2008-09-18, tasks,		246467, Terry Hon,			<10,		spingel,	show repository in task hyperlink 
+
+------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  
 2008-07-21, tasks,		203670, Jingwen Ou,			<200,		spingel,	improve sizing of new comment and description area  
 2008-07-23, sandbox,	240441, Jingwen Ou,			<250,		spingel,	hyperlink detection for references to Java resources

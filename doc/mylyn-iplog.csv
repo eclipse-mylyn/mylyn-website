@@ -49,6 +49,7 @@ Developers
 2008-09-19, sandbox,	238028, Jingwen Ou,			<20,		spingel,	follow-up patch to include context attachments in current section
 2008-09-21, commons,	240463,	Mark Kralj-Taylor	<20,		relves,		don't set logging properties if already set 
 2008-09-21, tasks,		190503, Shawn Minto,		<100,		relves,		update scheduled presentation to show days of next week
+2009-09-21, bugzilla,	246923, Frank Becker,		<20,		relves,		bugzilla was not setting version on retrieved task data
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

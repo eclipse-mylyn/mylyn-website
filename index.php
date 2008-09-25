@@ -56,6 +56,21 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr>
+
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/community">Get Started</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Resources for new users, links to tutorials and articles</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr>
 	          		 
 	          		<tr height=11>
 	          		</tr>

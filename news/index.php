@@ -87,6 +87,10 @@
 					R.J. Lorimer, EclipseZone: <a href="http://www.eclipsezone.com/eclipse/forums/t75928.html">Mylar: the Forgotten Feature?</a>
 					<span class="dates">(Jul 9, 2006)</span>
 				</li>
+				<li>
+		            <a href="http://www.eclipsezone.com/articles/mylar/"><img border=0 src="images/icon-webdoc.gif">
+		           	Revolutionize your productivity with Eclipse Mylar</a> by Riyad Kalla (Apr 2006)
+	            </li>
 			</ul>
 		</div>
 		<div class="homeitem3col">
@@ -232,30 +236,7 @@
 							
 			</ul>
 		</div> 				
-
-		<div class="homeitem3col">
-			<h3>Publications Archive</h3>
-			<ul>
-				<li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar1/"><img border=0 src="images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 1: Integrated task management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-	            <li>
-		            <a href="http://www-128.ibm.com/developerworks/java/library/j-mylar2/index.html"><img border=0 src="images/icon-webdoc.gif">
-		           	Task Focused Programming with Mylar, Part 2: Automated context management for Eclipse</a> by Mik Kersten (Oct 2006)
-	            </li>
-	            <li>
-		            <a href=" http://www.eclipsezone.com/articles/mylar/"><img border=0 src="images/icon-webdoc.gif">
-		           	Revolutionize your productivity with Eclipse Mylar</a> by Riyad Kalla (Apr 2006)
-	            </li>
-	            <li>
-		            <a href="publications/2005-05-mylar-creation-review.ppt"><img border=0 src="images/icon-ppt.gif"></a>
-		            <a href="publications/2005-04-mylar-proposal.html"><img border=0 src="images/icon-webdoc.gif">
-		            Mylar project creation proposal and review</a> (May 2005)
-	            </li>
-			</ul>
-		</div> 
-
+		
 		<div class="homeitem3col">
 			<h3>Event Archive</h3>
 			<ul>
@@ -281,24 +262,6 @@
 				<li>First user study preview release, <span class="dates">(July 11, 2005)</span></li>
 			</ul>
 		</div> 
-
-		<div class="homeitem3col">
-			<h3>UI Archive</h3>
-			<ul>
-				<li>
-                    <a href="/mylyn/doc/demo/mylar-demo-04.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
-					Mylar 0.4 overview flash video</a> (3.5 min, 8.7 MB)
-                </li>
-				<li>
-                    <a href="/mylyn/doc/demo/mylar-demo-04-reports.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
-                    Mylar 0.4 Bugzilla integration flash video</a> (v0.4, 3.5 min, 6 MB)
-                </li>
-				<li>
-                    <a href="/mylyn/doc/demo/mylar-demo-03-search.html"><img border=0 src="/mylyn/images/icon-flash.gif">&nbsp;
-                    Mylar 0.3 Active views video</a> (v0.3, 2 min, 3 MB)
-                </li>
-			</ul>
-		</div>
 	</div>
 </div>
 

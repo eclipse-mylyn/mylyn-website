@@ -49,7 +49,10 @@
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
 				</li>
 			</ul>
-			
+		</div>
+
+		<div class="homeitem3col">
+			<h3>Announcements</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">
@@ -79,8 +82,10 @@
 	        		</td>
 			        <td>
 				        <p>The preferred way of reporting and discussing defects and enhancement requests is via 
-				        <a href="/mylyn/bugs">Bug Reports</a>. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
-				        Connector</a> is the preferred way to submit bugs.
+				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
+				        Connector</a> is the recommened way to submit bugs.
+				        
+				        <p><a href="https://bugs.eclipse.org/bugs">Submit or find a bug via web interface.</a> 
 				    </td> 
 				</tr>
 			</table>
@@ -99,10 +104,13 @@
 				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Trac&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">Trac</a>, 
 				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">XPlanner</a>
 				</li>
+			</ul>
 				
-				<li>
+				<p>
 				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
-				</li>
+				</p>
+
+			<ul>
 				<li>
 				  Vote for
 				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bconnector%5D&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">

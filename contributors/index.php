@@ -42,14 +42,14 @@
 					[738 bugs]</a>
 				</li>
 				<li> 
-					<a href="http://greensopinion.blogspot.com/"><img border=0 src="/mylyn/images/sites/independent.png"></a> David Green, <a href="http://www.codegear.com/">independent</a>: WikiText component owner
+					<a href="http://greensopinion.blogspot.com/"><img border=0 src="/mylyn/images/sites/independent.gif"></a> David Green, <a href="http://greensopinion.blogspot.com/">independent</a>: WikiText component owner
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=dgreen99%40gmail.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[38 bugs]</a>
+					[57 bugs]</a>
 				</li>
 				<li> 
 					<a href="http://www.codegear.com/"><img border=0 src="/mylyn/images/sites/codegear.png"></a> Helen Bershadskaya, <a href="http://www.codegear.com/">CodeGear</a>: XPlanner component owner
 					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailassigned_to1=1&emailtype1=substring&email1=hbershadskaya%40codegear.com&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-					[38 bugs]</a>
+					[40 bugs]</a>
 				</li>				
 			</ul> 
 		</div>

@@ -28,9 +28,11 @@
 			<h3>Resources</h3>
 			<table border="0"> 
         		<tr>
+        		<!--
         		<td valign="top">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
         		</td>
+        		-->
 		        <td>
 			       	Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
 			       	development of the Mylyn project should subscribe to the dev mailing list.

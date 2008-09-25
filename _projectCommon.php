@@ -34,17 +34,16 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Get Started", "/mylyn/start", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Downloads", "/mylyn/downloads", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Community", "/mylyn/community", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Bugs", "/mylyn/bugs", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;New & Noteworthy", "/mylyn/new", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Tips & Tricks", "/mylyn/tips", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;FAQ (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/FAQ", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;User Guide (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/User_Guide", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Extensions (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Extensions", "_self", 1);
 
-	$Nav->addNavSeparator("Developers (wiki)", "http://wiki.eclipse.org/index.php/Mylyn", "_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing", "http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Plan", "http://wiki.eclipse.org/index.php/Mylyn/Plan/3.1", 	"_self", 1);	
+	$Nav->addNavSeparator("Integrators", "http://wiki.eclipse.org/index.php/Mylyn", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Guide", "/mylyn/developers", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Plan (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Plan/3.1", 	"_self", 1);	
 ?>
 
 

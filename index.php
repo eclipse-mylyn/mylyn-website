@@ -29,20 +29,6 @@ $html = <<<EOHTML
 					<tr height=9>	 
 	          		<tr>
 						<td width=20></td>
-						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
-						<td>
-							<table border="0" cellpadding="0">
-								<tr>
-				          			<td><font size=+1><a href="/mylyn/community">Community</a></font></td>
-								</tr>
-								<tr>
-					          		<td>Get help and interact with users and developers</td>
-					          	</tr>
-							</table>
-						</td>
-	          		</tr>
-	          		<tr>
-						<td width=20></td>
 						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
 						<td>
 							<table border="0" cellpadding="0">
@@ -54,7 +40,23 @@ $html = <<<EOHTML
 					          	</tr>
 							</table>
 						</td>
-	          		</tr> 
+	          		</tr>
+	          		
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/community">Community</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Find support and interact with users and developers</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr>
+	          		 
 	          		<tr height=11>
 	          		</tr>
 	         	</table>

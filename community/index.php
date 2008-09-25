@@ -28,7 +28,7 @@
 			<table border="0"> 
         		<tr>
         		<td valign="top">
-        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
         		</td>
 		        <td>
 			        The Mylyn Newsgroup is the main forum for <b>user questions and support</b>.
@@ -108,7 +108,7 @@
 			</ul>
 				
 				<p>
-				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
+				  &nbsp;&nbsp;&nbsp;&nbsp;You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
 				</p>
 
 			<ul>

@@ -63,7 +63,7 @@
 			<ul> 
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
-					mylyn-integrators@eclipse.org:</a> developer discussions and planning
+					mylyn-integrators@eclipse.org:</a> discussion related to building on Mylyn
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
 				<li>
 	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">

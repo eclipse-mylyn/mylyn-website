@@ -85,8 +85,9 @@
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
 				        Connector</a> is the recommened way to submit bugs.
 				        
-				        <p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit or find a bug via web interface.</a> Please manually search
-						for duplicates first. For defects provide steps on how to reproduce. For enhancements please outline a use case. 
+				        <p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
+				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
+				        on how to reproduce. For enhancements please outline a use case. 
 				    </td> 
 				</tr>
 			</table>

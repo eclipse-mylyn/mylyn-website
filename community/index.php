@@ -98,7 +98,6 @@
 		</div>
 	<p>&nbsp;</p>
 
-<div id="midcolumn">
 		<div class="homeitem3col">
 			<h3>New Bugs</h3>
 			<ul>

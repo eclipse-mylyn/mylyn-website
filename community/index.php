@@ -24,14 +24,14 @@
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		<div class="homeitem3col">
-			<h3>Newsgroup</h3>
+			<h3>Support</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">
         			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
         		</td>
 		        <td>
-			        The Mylyn Newsgroup is the main forum for user questions and support.
+			        The Mylyn Newsgroup is the main forum for <b>user questions and support</b>.
 			    </td> 
 				</tr>
 			</table>
@@ -49,19 +49,14 @@
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
 				</li>
 			</ul>
-		</div>
-
-		<div class="homeitem3col">
-			<h3>Mailing Lists</h3>
+			
 			<table border="0"> 
         		<tr>
         		<td valign="top">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
         		</td>
 		        <td>
-			       	We recommend that all users subscribe to the low traffic announce mailing list.  Contributors
-			       	should subscribe to the dev mailing list and those building on Mylyn to the integrators
-			       	mailing list.
+			       	We recommend that all users subscribe to the low traffic announce mailing list. 
 			    </td> 
 				</tr>
 			</table>
@@ -71,47 +66,24 @@
 					mylyn-announce@eclipse.org:</a> major releases and events
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-announce/maillist.html">[archive]</a>
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-announce/maillist.html">[old archive]</a></li>
-				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
-					mylyn-integrators@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
-				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
-					mylyn-dev@eclipse.org:</a> developer discussions and planning
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]</a>
-					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
 			</ul>
+			
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>Bugzilla</h3>
+			<h3>Bugs and Enhancement Requests</h3>
 			<table border="0"> 
 	        	<tr>
 	        		<td valign="top">
 	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
 	        		</td>
 			        <td>
-				        <p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="/mylyn/bugs">Bug Reports</a>.
+				        <p>The preferred way of reporting and discussing defects and enhancement requests is via 
+				        <a href="/mylyn/bugs">Bug Reports</a>. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
+				        Connector</a> is the preferred way to submit bugs.
 				    </td> 
 				</tr>
 			</table>
-		</div>
-	<p>&nbsp;</p>
-
-		<div class="homeitem3col">
-			<h3>New Bugs</h3>
-			<ul>
-				<li>The <a href="/mylyn/downloads">The Mylyn Bugzilla Connector</a> is the preferred way to submit bugs, since it has automatic duplicate detection.  
-				</li>
-				<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">
-				<img border=0 src="/mylyn/images/task-repository-new.gif">&nbsp;The Bugzilla Web Interface</a> can also be used.  Please manually search
-				for duplicates first.  For defects provide details on how to reproduce.  For enhancements please outline a use case.
-				</li>
-			</ul>
-		</div>
-		 
-		<div class="homeitem3col">
-			<h3>Queries</h3>
 			<ul>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&bug_severity=normal&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs with severity of normal or higher</a> 
@@ -120,31 +92,14 @@
 					<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs marked enhancement, minor, or trivial</a> 
 				</li>
 				
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Bugzilla&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;Connector: Bugzilla</a> 
+				<li>
+				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;Connectors: 
+				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Bugzilla&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">Bugzilla</a>,
+				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Jira&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">JIRA</a>  
+				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Trac&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">Trac</a>, 
+				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">XPlanner</a>
 				</li>
 				
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Jira&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;Connector: JIRA</a> 
-				</li>
-				
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=Trac&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;Connector: Trac</a> 
-				</li>
-				
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=linux+gtk+motif&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;OS: Linux</a> 
-				</li>
-				
-				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=mac&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;OS: Mac</a> 
-				</li>				
-			</ul>
-		</div>
-		
-		<div class="homeitem3col">
-			<h3>Voting</h3>
-			<ul>
 				<li>
 				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
 				</li>
@@ -159,8 +114,9 @@
 				  structure bridges</a>
 				</li>
 			</ul>
+			
 		</div>
-		
+
 		<p>&nbsp;</p>
 	</div>	
 

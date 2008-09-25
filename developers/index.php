@@ -41,10 +41,10 @@
 			</table>
 			<ul> 
 				<li>
-	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference<a>: 
+	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference</a>: 
 					Getting started guide for Mylyn development
 				<li>
-	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference">Integrator Reference<a>: 
+	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference">Integrator Reference</a>: 
 					Information for developers building on Mylyn
 			</ul>
 		</div>

@@ -82,14 +82,15 @@
 			</ul>
 		</div>
 	</div> 
+
+	<p>&nbsp;</p>
+	<p>&nbsp;</p>
 	
 	<div id="rightcolumn">
 		$mylarIsSide
 		$sidePhase
 	</div>
-	
-	<p>&nbsp;</p>
-	<p>&nbsp;</p>
+
 </div>
 
 EOHTML;

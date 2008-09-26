@@ -63,7 +63,7 @@ $html = <<<EOHTML
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><font size=+1><a href="/mylyn/community">Get Started</a></font></td>
+				          			<td><font size=+1><a href="/mylyn/start">Get Started</a></font></td>
 								</tr>
 								<tr>
 					          		<td>Resources for new users, links to tutorials and articles</td>
@@ -122,7 +122,7 @@ $html = <<<EOHTML
 	            		</li>
 								                <li>
 							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (Dec. 13, 2007, 20 min)
+							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Cotï¿½ (Dec. 13, 2007, 20 min)
 		                </li>
 						<li>
 							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.

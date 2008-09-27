@@ -37,7 +37,7 @@
 						 		<font size="+1"><a href="http://live.eclipse.org/node/573">
 						 			<a href="http://live.eclipse.org/node/573">
 						 				Mylyn 3.0: Code at the Speed of Thought</a></font>
-						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>[August 2008]</i>
+						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live [August 2008]
 						 			<br>Provides a 45 minute overview of the tool and technology, along with demos of the key features.
 						 		</font>
 						 	</td>
@@ -46,15 +46,15 @@
 				</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Quick Reference Guide [September 2008]</i>
+		           	Quick Reference Guide [September 2008]<
 	            </li>
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten <i>[August 2007]</i>
+		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <li> 
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten <i>[August 2007</i>
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <!--
 	            <li>

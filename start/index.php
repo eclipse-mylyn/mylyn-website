@@ -46,7 +46,7 @@
 				</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Quick Reference Guide [September 2008]
+		           	Quick Reference Guide</a> [September 2008]
 	            </li>
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">

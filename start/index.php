@@ -46,7 +46,7 @@
 				</li>
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten <i>[August 2007<i/>
+		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten <i>[August 2007]</i>
 	            </li>
 	            <li> 
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
+	xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
+	<release projectid="mylyn" version="3.1" />
+	<introduction>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+     <p>The first goal of <a href="http://www.eclipse.org/mylyn"><b>Mylyn</b></a> is to make task and context management seamlessly integrated with the Eclipse Platform by providing rich and extensible frameworks for task repository connectors, structure bridges and team support. The second goal is to provide a reference implementation of the Task-Focused UI for the Eclipse SDK. This includes structure bridges for the artifacts supported by the SDK which include Java, PDE, Ant and generic files. It also includes the Bugzilla Connector as the reference task repository implementation, and CVS integration as the reference team support. Additional features can be considered based on the availability community contributions and resources.
+	</p>
+   </html:div>
+	</introduction>
+	<release_deliverables>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+		<ul>
+		<li><b>Tasks Framework</b></li>
+		<ul>
+		<li>Focused UI</li>
+		<li>Task List</li>
+		<li>Eclipse IDE Bridge</li>
+		<li>Java Development Bridge</li>
+		<li>Plug-in Development Bridge</li>
+		<li>Team Support Bridge</li>
+		</ul>
+		<li><b>Bugzilla Connector</b></li>
+		<li><b>JIRA Connector</b></li>
+		<li><b>Trac Connector</b></li>
+		<li><b>XPlanner Connector</b></li>
+		<li><b>WikiText</b></li>
+		<li><b>SDK Features</b></li>
+		<ul>
+		<li>Mylyn SDK</li>
+		<li>Mylyn Extras SDK</li>
+		</ul>
+		</ul>
+    </html:div>
+	</release_deliverables>
+	<release_milestones>
+		<preamble />
+		<milestone date="03/01/2009" milestone="3.1">
+			<html:div>release</html:div>
+		</milestone>
+		<milestone date="03/02/2009" milestone="3.2">
+			<html:div>Galileo release</html:div>
+		</milestone>
+		<postamble />
+	</release_milestones>
+	<target_environments>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+   Mylyn is designed to run on version 1.5.0 of the Java
+Runtime Environment, Standard Edition. Mylyn will supports Eclipse 3.5 (latest milestone), 3.4 and 3.3.
+
+<table summary="Mylyn Reference Platforms" style="width: 821px;"
+			border="1">
+<tbody>
+<tr style="background:#cccccc">
+<th colspan="5" align="center">
+<big><strong>Target Management Reference
+Platforms</strong></big>
+</th>
+</tr>
+<tr>
+<td><b>Operating system</b></td>
+<td><b>OS version</b></td>
+<td><b>Processor architecture</b></td>
+<td><b>Window system</b></td>
+<td><b>Java 2 Platform</b></td>
+<td><b>Eclipse Release</b></td>
+</tr>
+<tr>
+<td>Microsoft Windows</td>
+<td>Vista</td>
+<td>x86-32</td>
+<td>Win32</td>
+<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+<td>Eclipse 3.5 (latest milestone)</td>
+</tr>
+<tr>
+<td>Microsoft Windows</td>
+<td>Vista</td>
+<td>x86-32</td>
+<td>Win32</td>
+<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+<td>Eclipse 3.4</td>
+</tr>
+<tr>
+<td>Microsoft Windows</td>
+<td>XP</td>
+<td>x86-32</td>
+<td>Win32</td>
+<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+<td>Eclipse 3.3</td>
+</tr>
+<tr>
+<td>Ubuntu Linux</td>
+<td>8.10</td>
+<td>x86-32</td>
+<td>GTK</td>
+<td> Sun Java 2 Standard Edition 5.0 Update 14</td>
+</tr>
+<tr>
+<td>Apple Mac OS X</td>
+<td>10.5</td>
+<td>Power</td>
+<td>Carbon</td>
+<td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
+</td>
+</tr>
+</tbody>
+</table>
+    </html:div>
+		<internationalization />
+	</target_environments>
+	<compatibility_with_previous_releases>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+<p><strong>API Contract Compatibility: Mylyn 3.1 will be backward compatible with Mylyn 3.0</strong>.
+</p>
+<p><strong>Binary (plug-in) Compatibility: Mylyn 3.1 will be binary compatible with Mylyn 3.0</strong>. 
+</p>
+<p><strong>Source Compatibility: Mylyn 3.1 will not by be source compatible with previous versions.</strong>  
+</p>
+<p><strong>Workspace Compatibility: We intend to keep Mylyn
+  3.1 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
+  This means that workspaces created with Mylyn 2.0 can be successfully 
+  opened by Mylyn 3.1 and upgraded to a 3.1 workspace.</strong> 
+</p>
+    </html:div>
+	</compatibility_with_previous_releases>
+	<themes_and_priorities>
+		<preamble>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+			In addition to using the planned themes listed below, we need to
+			continue prioritizing the ongoing input of our growing user
+			community. Committers should prioritize bugs in the following order.
+			This order need not be used if a bug contains a community
+			contribution of a patch, in which case the quality of the patch
+			determines the priority. 
+			<ul>
+			<li>Frameworks& APIs: Tasks, Context, Team, Monitor, headless use</li>		
+ <li>UI: Tasks List, Task Editor, Task-focused UI</li> 
+ <li>Connectors: Bugzilla (reference implementation), Trac (committer supported), JIRA (community supported)</li>
+ </ul>
+ </html:div>
+ </preamble>
+		<theme name="Commons">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+                  <ul>
+            <li>Expose save model to enable third parties to participate in safe saving and snapshots of .mylyn workspace data. Make the save model safe to all failures (e.g. power off) and provide history snapshots.</li>
+          </ul></html:div>
+			</description>
+		</theme>
+		<theme name="Real-Time Analysis">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">XDCtools 3.11 has an experimental tools that monitor embedded targets in real-time to provide 
+        visibility into the current state of the system.  These tools, like graphical configuration, need polishing.</html:div>
+			</description>
+		</theme>
+		<theme name="Other">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+Features and bugs that we plan to address in the next release that are not categorized into one of the themes above.
+          <ul>
+            <li>Ensure passing test suite and setup continuous build</li> 
+ 			<li>Remove deprecated internal classes</li> 
+ 			<li>Cleanup UI Experiments feature to make it installable</li> 
+ 			<li>Improvements to API documentation (likely 3.2)</li>
+          </ul>
+ 
+	  </html:div>
+			</description>
+		</theme>
+	</themes_and_priorities>
+</plan>

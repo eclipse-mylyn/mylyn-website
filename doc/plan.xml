@@ -49,21 +49,23 @@
 	</release_milestones>
 	<target_environments>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
-   Mylyn is designed to run on version 1.5.0 of the Java
-Runtime Environment, Standard Edition. Mylyn will support the following Eclipse releases:
+   <p>Mylyn is designed to run on version 1.5.0 of the Java
+Runtime Environment, Standard Edition.</p> 
+
+<p>Mylyn will support the following Eclipse releases:
 
 <ul>
  <li>Eclipse 3.5 (latest milestone)</li>
  <li>Eclipse 3.4</li>
  <li>Eclipse 3.3</li>
 </ul>
+</p>
 
 <table summary="Test Platforms" style="width: 821px;" border="1">
 <tbody>
 <tr style="background:#cccccc">
 <th colspan="6" align="center">
-<big><strong>Target Management Reference
-Platforms</strong></big>
+<big><strong>Test Platforms</strong></big>
 </th>
 </tr>
 <tr>
@@ -74,6 +76,9 @@ Platforms</strong></big>
 <td><b>Java 2 Platform</b></td>
 <td><b>Eclipse Release</b></td>
 </tr>
+<th colspan="6" align="center">
+<big><strong>Manual Tests</strong></big>
+</th>
 <tr>
 <td>Microsoft Windows</td>
 <td>Vista</td>
@@ -114,14 +119,17 @@ Platforms</strong></big>
 <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
 <td>Eclipse 3.4</td>
 </td>
+</tr>
+<th colspan="6" align="center">
+<big><strong>Automated Tests</strong></big>
+</th>
 <tr>
-<td>SuSE Linux<br />(Automated tests)</td>
+<td>SuSE Linux</td>
 <td>10</td>
 <td>x86-32</td>
 <td>GTK</td>
 <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
 <td>Eclipse 3.4</td>
-</tr>
 </tr>
 </tbody>
 </table>

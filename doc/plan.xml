@@ -12,15 +12,16 @@
 	<release_deliverables>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 		<ul>
-		<li><b>Tasks Framework</b></li>
+		<li><b>Tasks Framework</b>
+		<li><b>Task-focused Interface</b>
 		<ul>
 		<li>Focused UI</li>
-		<li>Task List</li>
 		<li>Eclipse IDE Bridge</li>
 		<li>Java Development Bridge</li>
 		<li>Plug-in Development Bridge</li>
 		<li>Team Support Bridge</li>
 		</ul>
+		</li>
 		<li><b>Bugzilla Connector</b></li>
 		<li><b>JIRA Connector</b></li>
 		<li><b>Trac Connector</b></li>
@@ -169,7 +170,7 @@ Runtime Environment, Standard Edition.</p>
 			determines the priority.
 			 <p>
 			<ul>
-			<li>Framework APIs: Tasks, Context, Team, Monitor, Standalone Use</li>		
+			<li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>		
  			<li>UI: Task List, Task Editor, Task-focused Interface</li>
  			<li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
  			<li>WikiText</li>

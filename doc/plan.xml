@@ -140,7 +140,7 @@ Platforms</strong></big>
  <li>Connectors: Bugzilla (reference implementation), Trac (committer supported), JIRA (community supported)</li>
  </ul>
  </html:div>
- </preamble>
+		</preamble>
 		<theme name="Commons">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">

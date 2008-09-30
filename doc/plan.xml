@@ -169,9 +169,10 @@ Runtime Environment, Standard Edition.</p>
 			determines the priority.
 			 <p>
 			<ul>
-			<li>Framework APIs: Tasks, Context, Team, Monitor, headless use</li>		
- 			<li>UI: Tasks List, Task Editor, Task-focused UI</li>
+			<li>Framework APIs: Tasks, Context, Team, Monitor, Standalone Use</li>		
+ 			<li>UI: Task List, Task Editor, Task-focused Interface</li>
  			<li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
+ 			<li>WikiText</li>
  </ul>
  </p>
  <p>

@@ -1,201 +1,215 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
-	xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-	<release projectid="mylyn" version="3.1" />
-	<introduction>
-		<html:div xmlns="http://www.w3.org/1999/xhtml">
-     <p>The first goal of <a href="http://www.eclipse.org/mylyn">Mylyn</a> is to make task and context management seamlessly integrated with the Eclipse Platform by providing rich and extensible frameworks for task repository connectors, structure bridges and team support. The second goal is to provide a reference implementation of the Task-Focused UI for the Eclipse SDK. This includes structure bridges for the artifacts supported by the SDK which include Java, PDE, Ant and generic files. It also includes the Bugzilla Connector as the reference task repository implementation, and CVS integration as the reference team support. Additional features can be considered based on the availability community contributions and resources.
+      xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
+  <release projectid="mylyn" version="3.1" />
+  <introduction>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>The first goal
+	of <a href="http://www.eclipse.org/mylyn">Mylyn</a> is to make
+	task and context management seamlessly integrated with the
+	Eclipse Platform by providing rich and extensible frameworks for
+	task repository connectors, structure bridges and team
+	support. The second goal is to provide a reference implementation
+	of the Task-Focused UI for the Eclipse SDK. This includes
+	structure bridges for the artifacts supported by the SDK which
+	include Java, PDE, Ant and generic files. It also includes the
+	Bugzilla Connector as the reference task repository
+	implementation, and CVS integration as the reference team
+	support. Additional features can be considered based on the
+	availability community contributions and resources.
+      </p>
+    </html:div>
+  </introduction>
+  <release_deliverables>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <ul>
+	<li><b>Tasks Framework</b></li>
+	<li><b>Task-focused Interface</b>
+	  <ul>
+	    <li>Focused UI</li>
+	    <li>Eclipse IDE Bridge</li>
+	    <li>Java Development Bridge</li>
+	    <li>Plug-in Development Bridge</li>
+	    <li>Team Support Bridge</li>
+	  </ul>
+	</li>
+	<li><b>Bugzilla Connector</b></li>
+	<li><b>JIRA Connector</b></li>
+	<li><b>Trac Connector</b></li>
+	<li><b>XPlanner Connector</b></li>
+	<li><b>WikiText</b></li>
+	<li><b>SDK Features</b>
+	  <ul>
+	    <li>Mylyn SDK</li>
+	    <li>Mylyn Extras SDK</li>
+	  </ul>
+	</li>
+      </ul>
+    </html:div>
+  </release_deliverables>
+  <release_milestones>
+    <preamble />
+    <milestone date="01/01/2009" milestone="3.1RC">
+      <html:div>API frozen</html:div>
+    </milestone>
+    <milestone date="03/01/2009" milestone="3.1">
+      <html:div>release</html:div>
+    </milestone>
+    <milestone date="03/02/2009" milestone="3.2">
+      <html:div>Galileo release (tentative)</html:div>
+    </milestone>
+    <postamble />
+  </release_milestones>
+  <target_environments>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>Mylyn is designed to run on version 1.5.0 of the Java
+	Runtime Environment, Standard Edition.</p> 
+
+      <p>Mylyn will support the following Eclipse releases:
+
+	<ul>
+	  <li>Eclipse 3.5 (latest milestone)</li>
+	  <li>Eclipse 3.4</li>
+	  <li>Eclipse 3.3</li>
+	</ul>
+      </p>
+
+      <p>
+	<table summary="Test Platforms" style="width: 821px;" border="1">
+	  <tbody>
+	    <tr style="background:#cccccc">
+	      <th colspan="6" align="center">
+		<big><strong>Test Platforms</strong></big>
+	      </th>
+	    </tr>
+	    <tr>
+	      <td><b>Operating system</b></td>
+	      <td><b>OS version</b></td>
+	      <td><b>Processor architecture</b></td>
+	      <td><b>Window system</b></td>
+	      <td><b>Java 2 Platform</b></td>
+	      <td><b>Eclipse Release</b></td>
+	    </tr>
+	    <th colspan="6" align="center">
+	      <big><strong>Manual Tests</strong></big>
+	    </th>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>Vista</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.5 (latest milestone)</td>
+	    </tr>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>Vista</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.4</td>
+	    </tr>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>XP</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.3</td>
+	    </tr>
+	    <tr>
+	      <td>Ubuntu Linux</td>
+	      <td>8.10</td>
+	      <td>x86-32</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.4</td>
+	    </tr>
+	    <tr>
+	      <td>Apple Mac OS X</td>
+	      <td>10.5</td>
+	      <td>Power</td>
+	      <td>Carbon</td>
+	      <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
+		<td>Eclipse 3.4</td>
+	      </td>
+	    </tr>
+	    <th colspan="6" align="center">
+	      <big><strong>Automated Tests</strong></big>
+	    </th>
+	    <tr>
+	      <td>SuSE Linux</td>
+	      <td>10</td>
+	      <td>x86-32</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.4</td>
+	    </tr>
+	  </tbody>
+	</table>
+      </p>
+    </html:div>
+    <internationalization>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+	I18n is not in scope for the current release. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
+	for details.
+      </html:div>
+    </internationalization>
+  </target_environments>
+  <compatibility_with_previous_releases>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p><strong>API Contract Compatibility:</strong> Mylyn 3.1 will be backward compatible with Mylyn 3.0.
+      </p>
+      <p><strong>Binary (plug-in) Compatibility:</strong> Mylyn 3.1 will be binary compatible with Mylyn 3.0. 
+      </p>
+      <p><strong>Source Compatibility:</strong> Mylyn 3.1 will not by be source compatible with previous versions.  
+      </p>
+      <p><strong>Workspace Compatibility:</strong> We intend to keep Mylyn
+	3.1 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
+	This means that workspaces created with Mylyn 2.0 can be successfully 
+	opened by Mylyn 3.1 and upgraded to a 3.1 workspace.
+      </p>
+    </html:div>
+  </compatibility_with_previous_releases>
+  <themes_and_priorities>
+    <preamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+	<p>
+	  In addition to using the planned themes listed below, we need to
+	  continue prioritizing the ongoing input of our growing user
+	  community. Committers should prioritize bugs in the following order.
+	  This order need not be used if a bug contains a community
+	  contribution of a patch, in which case the quality of the patch
+	  determines the priority.
 	</p>
-   </html:div>
-	</introduction>
-	<release_deliverables>
-		<html:div xmlns="http://www.w3.org/1999/xhtml">
-		<ul>
-		<li><b>Tasks Framework</b>
-		<li><b>Task-focused Interface</b>
-		<ul>
-		<li>Focused UI</li>
-		<li>Eclipse IDE Bridge</li>
-		<li>Java Development Bridge</li>
-		<li>Plug-in Development Bridge</li>
-		<li>Team Support Bridge</li>
-		</ul>
-		</li>
-		<li><b>Bugzilla Connector</b></li>
-		<li><b>JIRA Connector</b></li>
-		<li><b>Trac Connector</b></li>
-		<li><b>XPlanner Connector</b></li>
-		<li><b>WikiText</b></li>
-		<li><b>SDK Features</b></li>
-		<ul>
-		<li>Mylyn SDK</li>
-		<li>Mylyn Extras SDK</li>
-		</ul>
-		</ul>
-    </html:div>
-	</release_deliverables>
-	<release_milestones>
-		<preamble />
-		<milestone date="01/01/2009" milestone="3.1RC">
-			<html:div>API frozen</html:div>
-		</milestone>
-		<milestone date="03/01/2009" milestone="3.1">
-			<html:div>release</html:div>
-		</milestone>
-		<milestone date="03/02/2009" milestone="3.2">
-			<html:div>Galileo release (tentative)</html:div>
-		</milestone>
-		<postamble />
-	</release_milestones>
-	<target_environments>
-		<html:div xmlns="http://www.w3.org/1999/xhtml">
-   <p>Mylyn is designed to run on version 1.5.0 of the Java
-Runtime Environment, Standard Edition.</p> 
-
-<p>Mylyn will support the following Eclipse releases:
-
-<ul>
- <li>Eclipse 3.5 (latest milestone)</li>
- <li>Eclipse 3.4</li>
- <li>Eclipse 3.3</li>
-</ul>
-</p>
-
-<p>
-<table summary="Test Platforms" style="width: 821px;" border="1">
-<tbody>
-<tr style="background:#cccccc">
-<th colspan="6" align="center">
-<big><strong>Test Platforms</strong></big>
-</th>
-</tr>
-<tr>
-<td><b>Operating system</b></td>
-<td><b>OS version</b></td>
-<td><b>Processor architecture</b></td>
-<td><b>Window system</b></td>
-<td><b>Java 2 Platform</b></td>
-<td><b>Eclipse Release</b></td>
-</tr>
-<th colspan="6" align="center">
-<big><strong>Manual Tests</strong></big>
-</th>
-<tr>
-<td>Microsoft Windows</td>
-<td>Vista</td>
-<td>x86-32</td>
-<td>Win32</td>
-<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-<td>Eclipse 3.5 (latest milestone)</td>
-</tr>
-<tr>
-<td>Microsoft Windows</td>
-<td>Vista</td>
-<td>x86-32</td>
-<td>Win32</td>
-<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-<td>Eclipse 3.4</td>
-</tr>
-<tr>
-<td>Microsoft Windows</td>
-<td>XP</td>
-<td>x86-32</td>
-<td>Win32</td>
-<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-<td>Eclipse 3.3</td>
-</tr>
-<tr>
-<td>Ubuntu Linux</td>
-<td>8.10</td>
-<td>x86-32</td>
-<td>GTK</td>
-<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-<td>Eclipse 3.4</td>
-</tr>
-<tr>
-<td>Apple Mac OS X</td>
-<td>10.5</td>
-<td>Power</td>
-<td>Carbon</td>
-<td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
-<td>Eclipse 3.4</td>
-</td>
-</tr>
-<th colspan="6" align="center">
-<big><strong>Automated Tests</strong></big>
-</th>
-<tr>
-<td>SuSE Linux</td>
-<td>10</td>
-<td>x86-32</td>
-<td>GTK</td>
-<td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-<td>Eclipse 3.4</td>
-</tr>
-</tbody>
-</table>
-</p>
-    </html:div>
-		<internationalization>
-				<html:div xmlns="http://www.w3.org/1999/xhtml">
-				I18n is not in scope for the current release. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
-				for details.
-				</html:div>
-		</internationalization>
-	</target_environments>
-	<compatibility_with_previous_releases>
-		<html:div xmlns="http://www.w3.org/1999/xhtml">
-<p><strong>API Contract Compatibility:</strong> Mylyn 3.1 will be backward compatible with Mylyn 3.0.
-</p>
-<p><strong>Binary (plug-in) Compatibility:</strong> Mylyn 3.1 will be binary compatible with Mylyn 3.0. 
-</p>
-<p><strong>Source Compatibility:</strong> Mylyn 3.1 will not by be source compatible with previous versions.  
-</p>
-<p><strong>Workspace Compatibility:</strong> We intend to keep Mylyn
-  3.1 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
-  This means that workspaces created with Mylyn 2.0 can be successfully 
-  opened by Mylyn 3.1 and upgraded to a 3.1 workspace.
-</p>
-    </html:div>
-	</compatibility_with_previous_releases>
-	<themes_and_priorities>
-		<preamble>
-			<html:div xmlns="http://www.w3.org/1999/xhtml">
-			In addition to using the planned themes listed below, we need to
-			continue prioritizing the ongoing input of our growing user
-			community. Committers should prioritize bugs in the following order.
-			This order need not be used if a bug contains a community
-			contribution of a patch, in which case the quality of the patch
-			determines the priority.
-			 <p>
-			<ul>
-			<li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>		
- 			<li>UI: Task List, Task Editor, Task-focused Interface</li>
- 			<li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
- 			<li>WikiText</li>
- </ul>
- </p>
- <p>
- <a
-				href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bug scheduled for Mylyn 3.1</a>
- </p>
- 
- </html:div>
-		</preamble>
-		<theme name="API">
-			<description>
-				<html:div xmlns="http://www.w3.org/1999/xhtml" />
-			</description>
-			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
-		</theme>
-		<theme name="Framework and UI">
-			<description>
-				<html:div xmlns="http://www.w3.org/1999/xhtml" />
-			</description>
-			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
-		</theme>
-	</themes_and_priorities>
+	<p>
+	  <ul>
+	    <li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>		
+ 	    <li>UI: Task List, Task Editor, Task-focused Interface</li>
+ 	    <li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
+ 	    <li>WikiText</li>
+	  </ul>
+	</p>
+	<p>
+	  <a
+	     href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bug scheduled for Mylyn 3.1</a>
+	</p>
+      </html:div>
+    </preamble>
+    <theme name="API">
+      <description>
+	<html:div xmlns="http://www.w3.org/1999/xhtml" />
+      </description>
+      <proposed
+	 bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+    </theme>
+    <theme name="Framework and UI">
+      <description>
+	<html:div xmlns="http://www.w3.org/1999/xhtml" />
+      </description>
+      <proposed
+	 bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+    </theme>
+  </themes_and_priorities>
 </plan>

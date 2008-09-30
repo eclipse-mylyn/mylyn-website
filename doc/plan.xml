@@ -135,7 +135,7 @@ Platforms</strong></big>
 			contribution of a patch, in which case the quality of the patch
 			determines the priority. 
 			<ul>
-			<li>Frameworks& APIs: Tasks, Context, Team, Monitor, headless use</li>		
+			<li>Framework APIs: Tasks, Context, Team, Monitor, headless use</li>		
  <li>UI: Tasks List, Task Editor, Task-focused UI</li> 
  <li>Connectors: Bugzilla (reference implementation), Trac (committer supported), JIRA (community supported)</li>
  </ul>

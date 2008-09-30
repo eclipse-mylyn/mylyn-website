@@ -61,6 +61,7 @@ Runtime Environment, Standard Edition.</p>
 </ul>
 </p>
 
+<p>
 <table summary="Test Platforms" style="width: 821px;" border="1">
 <tbody>
 <tr style="background:#cccccc">
@@ -133,8 +134,14 @@ Runtime Environment, Standard Edition.</p>
 </tr>
 </tbody>
 </table>
+</p>
     </html:div>
-		<internationalization />
+		<internationalization>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+				I18n is not in scope for the current release. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
+				for details.
+				</html:div>
+		</internationalization>
 	</target_environments>
 	<compatibility_with_previous_releases>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
@@ -164,7 +171,7 @@ Runtime Environment, Standard Edition.</p>
 			<ul>
 			<li>Framework APIs: Tasks, Context, Team, Monitor, headless use</li>		
  			<li>UI: Tasks List, Task Editor, Task-focused UI</li>
- 			<li>Connectors: Bugzilla (reference implementation), Trac (committer supported), JIRA (community supported)</li>
+ 			<li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
  </ul>
  </p>
  <p>
@@ -179,14 +186,14 @@ Runtime Environment, Standard Edition.</p>
 				<html:div xmlns="http://www.w3.org/1999/xhtml" />
 			</description>
 			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=%5Bapi%5D&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 		</theme>
 		<theme name="Framework and UI">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml" />
 			</description>
 			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=%5C%5Bapi%5C%5D&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 		</theme>
 	</themes_and_priorities>
 </plan>

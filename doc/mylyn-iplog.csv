@@ -3,7 +3,8 @@ Committers
 mkersten,
 relves,
 spingel,
-hbershadska
+hbershadska,
+dgreen
 
 Third Party Software
 
@@ -54,7 +55,8 @@ Developers
 2009-09-28, tasks,		169916, Frank Becker,		<100,		spingel,	use strikethrough for completed tasks on non-Windows platforms
 2009-09-28, bugzilla,	242480,	Frank Becker,		<100,		relves,		progress on failing unit tests
 2009-09-29, bugzilla,	204051,	Frank Becker,		<20,		spingel,	indicate new attachments in task editor
-2009-09-30, context,	195229, Martin Koèí,		<100,		mkersten, 	context performance
+2009-09-30, context,	195229, Martin Koei,		<100,		mkersten, 	context performance
+2009-09-30, tasks,		197455,	Frank Becker,		<20,		spingel,	fix menu enablement for task list
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

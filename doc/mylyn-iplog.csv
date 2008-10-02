@@ -58,6 +58,7 @@ Developers
 2009-09-30, context,	195229, Martin Koei,		<100,		mkersten, 	context performance
 2009-09-30, tasks,		197455,	Frank Becker,		<20,		spingel,	fix menu enablement for task list
 2008-10-01, tasks,		236957, Shawn Minto,		<250,		spingel,	filter excluded resources from context
+2009-10-01, context,	245234,	Shawn Minto,		<250, 		mkersten, 	context accuracy
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

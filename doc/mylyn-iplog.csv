@@ -61,6 +61,7 @@ Developers
 2009-10-01, context,	245234,	Shawn Minto,		<250, 		mkersten, 	context accuracy
 2008-10-02, tasks,		249558, Terry Hon,			<10,		spingel,	make popup window more narrow
 2008-10-03,	bugzilla,	248193,	David Shepherd,		<10,		relves,		extensibility improvements to bugzilla client
+2008-10-03,	bugzilla,	249067,	Frank Becker,		<50,		relves,		incoming changes highlighted for attachments
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

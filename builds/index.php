@@ -55,6 +55,40 @@
 		</div>
 
 		<div class="homeitem3col">
+			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.3/v20081015-1500/mylyn-3.0.3.v20081015-1500-e3.4.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.3/v20081015-1500/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.3/v20081015-1500/mylyn-3.0.3.v20081015-1500-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.3/v20081015-1500/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.3/v20081015-1500/mylyn-3.0.3.v20081015-1500-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.3/v20081015-1500/extras</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.3)
+	        		<br>
+					<font size=-1>Trac and JIRA Connector</font>
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.3/v20081015-1500/mylyn-3.0.3.v20081015-1500-incubator.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.0.3/v20081015-1500/incubator</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.3)
+	        		<br>
+					<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting and UI Experiments</font>
+	        	</li>
+			</ul>	
+		</div>
+
+		<div class="homeitem3col">
 			<h3>3.0.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>

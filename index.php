@@ -80,6 +80,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="http://tasktop.com/blog/?p=45">
+		           			Mylyn 3.0.3 released, daylight savings bug fix</a> <i>Oct 16, 2008</i>
+	            		</li>
+						<li>
 							<table cellspacing="0" cellpadding="0">
 								<tr>
 									<td><a href="http://live.eclipse.org/node/573">

@@ -104,12 +104,13 @@ $html = <<<EOHTML
 		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>
 	            		</li>
+						
+						<!--
 						<li>
 		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
 		           			Mylyn 2.0 tutorial articles</a>, developerWorks <i>Aug. 14, 2007</i>
 	            		</li>
 	            		
-						<!--
 						<li>
 		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">
 		           			See the Mylyn Extensions listing</a> for available connectors

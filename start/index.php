@@ -49,11 +49,11 @@
 		           	Quick Reference Guide</a> [September 2008]
 	            </li>
 				<li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <li> 
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <!--

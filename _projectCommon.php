@@ -44,5 +44,5 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Plan (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Plan/3.1", 	"_self", 1);	
 
-	$App->SetGoogleAnalyticsTrackingCode("UA-6100759-1");
+	$App->SetGoogleAnalyticsTrackingCode("UA-6100912-1");
 ?>

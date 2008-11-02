@@ -65,7 +65,8 @@ Developers
 2008-10-28,	tasks,		252300,	Frank Becker,		<10,		spingel,	fix for setting category on task creation
 2008-10-28,	sandbox,	214195,	Eugene Kuleshov,	<250,		spingel,	repository linking based on manifest provider
 2008-10-30, bugzilla,	171343, Frank Becker,		<50,		relves,		persist bugzilla query page bounds
-2008-11-02, tasks,		253052, Hiroyuki,			<10,		spingel,	externalize strings in org.eclipse.mylyn
+2008-11-02, tasks,		253052, Hiroyuki Inaba,		<10,		spingel,	externalize strings in org.eclipse.mylyn
+2008-11-02, tasks,		253052, Hiroyuki Inaba,		<100,		spingel,	externalize strings in org.eclipse.mylyn.sdk-feature
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

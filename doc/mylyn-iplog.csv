@@ -90,6 +90,7 @@ Developers
 2008-11-02, tasks,		253122, Hiroyuki Inaba,		<100,		spingel,	externalize strings in org.eclipse.mylyn.monitor.ui
 2008-11-03, bugzila,	226851,	Frank Becker,		<250,		relves,		support custom attributes in bugzilla connector
 2008-11-04, tasks,		253830,	Shawn Minto,		<10, 		spingel, 	draw borders for text attribute editors
+2008-11-08, tasks,		252699, Maarten Meijer,		<20,		spingel,	url property test for task attachments
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

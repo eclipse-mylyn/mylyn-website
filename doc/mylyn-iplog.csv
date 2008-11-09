@@ -92,7 +92,7 @@ Developers
 2008-11-04, tasks,		253830,	Shawn Minto,		<10, 		spingel, 	draw borders for text attribute editors
 2008-11-08, tasks,		252699, Maarten Meijer,		<20,		spingel,	url property test for task attachments
 2008-11-08, tasks,		253116, Hiroyuki Inaba,		<150,		spingel,	externalize strings in org.eclipse.mylyn.commons.core
-
+2008-11-09, bugzilla,	252297, Frank Becker,		<150,		relves,		status change support for Bugzilla 3.2
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  
 2008-07-21, tasks,		203670, Jingwen Ou,			<200,		spingel,	improve sizing of new comment and description area  

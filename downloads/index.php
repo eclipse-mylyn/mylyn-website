@@ -150,6 +150,20 @@ $html = <<<EOHTML
 	</div>
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
+		<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+		
+		<br>&nbsp;&nbsp;&nbsp;The stand-alone distribution of WikiText for use outside of an Eclipse runtime. Provides Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
+		<ul>
+				<li>
+					<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Download Wikitext Standalone (latest)</b>
+	        	</li>
+		</ul>	
+	</div>
+	
+	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>Extensions</h3>
 		<!--
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.

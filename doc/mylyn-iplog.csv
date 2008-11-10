@@ -94,6 +94,7 @@ Developers
 2008-11-08, tasks,		253116, Hiroyuki Inaba,		<150,		spingel,	externalize strings in org.eclipse.mylyn.commons.core
 2008-11-09, bugzilla,	252297, Frank Becker,		<150,		relves,		status change support for Bugzilla 3.2
 2008-11-09, bugzilla,	239435, Frank Becker,		<100,		relves,		support for very large repository configurations
+2008-11-10, bugzilla,	254695, Frank Becker,		<250,		relves,		unit test coverage for bugzilla 3.2 status changing
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

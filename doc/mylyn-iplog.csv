@@ -38,6 +38,7 @@ JDOM 1.0,							2051,	org.jdom Orbit Bundle,						APL,	web repository connection
 
 Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file 
 
+ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,	internationalization
 
 Developers
 

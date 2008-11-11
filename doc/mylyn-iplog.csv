@@ -104,6 +104,7 @@ Developers
 2008-11-11, trac,		254862, Jorrit Schippers,	<10,		spingel,	fix url encoding when attachment filenames have spaces
 2008-11-11, sandbox,	254866, Hiroyuki Inaba,		<100,		spingel,	externalize strings in org.eclipse.mylyn.sandbox.ui-feature
 2008-11-11, sandbox,	254867, Hiroyuki Inaba,		<100,		spingel,	externalize strings in org.eclipse.mylyn.web.tasks-feature
+2008-11-11, sandbox,	254949, Hiroyuki Inaba,		<100,		spingel,	externalize strings in org.eclipse.mylyn.experimental-sdk-feature
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

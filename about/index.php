@@ -78,7 +78,7 @@
 				<li><a href="/mylyn/publications/2007-10-mylyn-2.1-release-review.ppt">Mylyn 2.1 release review</a></li>
 				<li><a href="/mylyn/publications/2007-06-mylyn-2.0-release-review.ppt">Mylyn 2.0 release review</a></li>
 				<li><a href="/mylyn/publications/2006-11-mylar-1.0-release-review.ppt">Mylar 1.0 release review</a></li>
-				<li><a href="/mylyn/publications/2005-05-mylar-creation-review.ppt">Mylar project creation review</a> and <a href="publications/2005-04-mylar-proposal.html">Project Proposal</a> (May 2005)</li>
+				<li><a href="/mylyn/publications/2005-05-mylar-creation-review.ppt">Mylar project creation review</a> and <a href="/mylyn/publications/2005-04-mylar-proposal.html">Project Proposal</a> (May 2005)</li>
 			</ul>
 		</div>
 	</div> 

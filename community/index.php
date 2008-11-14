@@ -15,13 +15,13 @@
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-	
+	header("Location: ../support/support/");
 	include("_sideCommon.php");
 		
 	$html = <<<EOHTML
 <div id="maincontent">
 	<div class="homeitem3col">
-	<a href="../support/index.php">Moved.  See Support Page</a>
+	<a href="../support/">Moved.  See Support Page</a>
 	</div>
 
 </div>

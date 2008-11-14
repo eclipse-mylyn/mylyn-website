@@ -126,7 +126,6 @@
 		            Mylar: a degree-of-interest model for IDEs</a> by Mik Kersten and Gail Murphy (Mar 2005, <a href="http://aosd.net/2005/index.php">AOSD</a> conference paper)
 	            </li>
 			</ul> 
-		</div>
 		<p>
 		
 		For more publications see the <a href="http://www.eclipse.org/mylyn/news">Archive page</a>.
@@ -134,6 +133,7 @@
 		Also see <a href="http://wiki.eclipse.org/index.php/Mylyn_Related_Research_Projects">related research projects</a>
 		for links to other papers related to Mylar.  To add a new publication <a href="http://www.eclipse.org/mylyn/bugs">file a bug</a>.
 		</p>
+		</div>
 		
 		
 		

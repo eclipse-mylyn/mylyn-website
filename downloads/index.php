@@ -29,7 +29,7 @@ $html = <<<EOHTML
 
 	<div style="margin-left:10px; margin-top:20pt;">
         	<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>
-        		<img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/>
+        		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
 				<div style="margin-top:30pt;margin-left: 70pt;">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
@@ -66,6 +66,60 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
+	<div class="homeitem3col" style="width:95%; border:none; margin-left:0px">
+		<table border="0" cellpadding="3"> 
+			<tr>
+				<td width=15></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td>
+					<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
+						</tr>
+						<tr>
+			          		<td>Report bugs and enhancement requests</td>
+			          	</tr>
+					</table>
+				</td>
+				<td width=20></td> 
+				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0"> 
+						<tr> 
+			      			<td><font size=+0><a href="/mylyn/builds">Archives and other builds</a></font></td>
+						</tr>
+						<tr>
+			          		<td>Mylyn 2.0 and older versions</td> 
+			          	</tr>
+					</table>
+				</td> 
+			</tr> 
+		</table>
+		<br>&nbsp;
+	</div>
+	
+	<div align="homeitem3col" style="width:95%">&nbsp;</div> 
+
+	<div class="homeitem3col" style="margin-left:40px; width:90%">
+    	<a name="weekly"></a>
+		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+		<br>&nbsp;&nbsp;&nbsp;<!--<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a>--> Released every Wednesday.  Weekly builds are production quality, but subject to UI changes.
+		<ul> 
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+			</li>
+			<li> 
+				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+			<li>
+				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+			</li>
+		</ul>
+	</div>
+
     <div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
@@ -100,7 +154,8 @@ $html = <<<EOHTML
 			</li>
 		</ul>
 	</div>
-
+	
+	<!--
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
@@ -127,27 +182,8 @@ $html = <<<EOHTML
 					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
 	        	</li>
 		</ul>	
-	</div>
+	</div>-->
 
-    <div class="homeitem3col" style="margin-left:40px; width:90%">
-    	<a name="weekly"></a>
-		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<!--<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a>--> Released every Wednesday.  Weekly builds are production quality, but subject to UI changes.
-		<ul> 
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
-			</li>
-			<li> 
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-			</li>
-		</ul>
-	</div>
 	
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
 		<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
@@ -174,41 +210,6 @@ $html = <<<EOHTML
         		&nbsp;&nbsp;Third Party Update Sites</a>: additional Connectors and Bridges 
 			</li>
 		</ul>
-	</div>
-
-
-	<div align="homeitem3col" style="width:95%">&nbsp;</div>  
-
-	<div class="homeitem3col" style="width:95%; border:none; margin-left:0px">
-		<table border="0" cellpadding="3"> 
-			<tr>
-				<td width=15></td>
-				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
-				<td>
-					<table border="0" cellpadding="0">
-						<tr>
-			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
-						</tr>
-						<tr>
-			          		<td>Report bugs and enhancement requests</td>
-			          	</tr>
-					</table>
-				</td>
-				<td width=20></td> 
-				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>
-				<td>
-					<table border="0" cellpadding="0"> 
-						<tr> 
-			      			<td><font size=+0><a href="/mylyn/builds">Archives and other builds</a></font></td>
-						</tr>
-						<tr>
-			          		<td>Mylyn 2.0 and older versions</td> 
-			          	</tr>
-					</table>
-				</td> 
-			</tr> 
-		</table>
-		<br>&nbsp;
 	</div>
 </div>
 

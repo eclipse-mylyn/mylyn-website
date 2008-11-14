@@ -27,7 +27,7 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Details", "/mylyn/about", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Contributors", "/mylyn/contributors", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Presentations", "/mylyn/presentations", 	"_self", 1); 
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Publications", "/mylyn/publications", 	"_self", 1);
+	//$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Publications", "/mylyn/publications", 	"_self", 1);
 
 	$Nav->addNavSeparator("Users", "/mylyn/start", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Get Started", "/mylyn/start", 	"_self", 1);

@@ -98,122 +98,124 @@ $html = <<<EOHTML
 		<br>&nbsp;
 	</div>
 	
-	<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
-	<div class="homeitem3col" style="margin-left:40px; width:65%">
-    	<a name="weekly"></a>
-		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<!--<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a>--> Released every Wednesday.  Weekly builds are production quality, but subject to UI changes.
-		<ul> 
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
-			</li>
-			<li> 
-				<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-			</li>
-			<li>
-				<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-			</li>
-		</ul>
-	</div>
-
-    <div class="homeitem3col" style="margin-left:40px; width:65%">
-		<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
-		<ul> 
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-e3.4.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, <a href="http://www.eclipse.org/epp/ganymede.php">EPP Packages</a>)
-			</li>
-			<li> 
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-e3.3.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-			</li>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-extras.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br>
-				<font size=-1>Trac 0.9 and 0.10, JIRA 3.3.3 and later</font>
-			</li>
-			<li>
-				<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-incubator.zip&r=1">
-					<img border=0 src="/mylyn/images/icon-save.gif">
-				</a>
-				&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
-				<br> 
-				<font size=-1>Web Templates (Generic Web Connector), XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
-			</li>
-		</ul>
-	</div>
+	<div style="margin-left: 70px;"> <!-- WRAPPING DIV -->
 	
-	<!--
-	<div class="homeitem3col" style="margin-left:40px; width:65%">
-		<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		
-		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
-		<ul>
+		<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
+		<div class="homeitem3col" style="margin-left:40px; width:65%">
+	    	<a name="weekly"></a>
+			<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<!--<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a>--> Released every Wednesday.  Weekly builds are production quality, but subject to UI changes.
+			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4/mylyn-2.3.2.v20080402-2100-e3.4.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M6)
-	        	</li>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3/mylyn-2.3.2.v20080402-2100-e3.3.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-	        	</li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4)
+				</li>
 				<li> 
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras/mylyn-2.3.2.v20080402-2100-extras.zip&r=1">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
-	        		<br>
-					<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
-	        	</li>
-		</ul>	
-	</div>-->
-
-	
-	<div class="homeitem3col" style="margin-left:40px; width:65%">
-		<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-		
-		<br>&nbsp;&nbsp;&nbsp;The stand-alone distribution of WikiText for use outside of an Eclipse runtime. Provides Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
-		<ul>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+				</li>
 				<li>
-					<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">
+					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				</li>
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+				</li>
+			</ul>
+		</div>
+	
+	    <div class="homeitem3col" style="margin-left:40px; width:65%">
+			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
+			<ul> 
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-e3.4.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>Download Wikitext Standalone (latest)</b>
-	        	</li>
-		</ul>	
-	</div>
-	
-	<div class="homeitem3col" style="margin-left:40px; width:65%">
-		<h3>Extensions</h3>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, <a href="http://www.eclipse.org/epp/ganymede.php">EPP Packages</a>)
+				</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-e3.3.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+				</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-extras.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+					<br>
+					<font size=-1>Trac 0.9 and 0.10, JIRA 3.3.3 and later</font>
+				</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.0.3-incubator.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+					<br> 
+					<font size=-1>Web Templates (Generic Web Connector), XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
+				</li>
+			</ul>
+		</div>
+		
 		<!--
-		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
-		-->
-		<ul>
-        	<li>
-        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
-        		&nbsp;&nbsp;Third Party Update Sites</a>: additional Connectors and Bridges 
-			</li>
-		</ul>
+		<div class="homeitem3col" style="margin-left:40px; width:65%">
+			<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
+			<ul>
+					<li>
+						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4/mylyn-2.3.2.v20080402-2100-e3.4.zip&r=1">
+							<img border=0 src="/mylyn/images/icon-save.gif">
+						</a>
+						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M6)
+		        	</li>
+					<li>
+						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3/mylyn-2.3.2.v20080402-2100-e3.3.zip&r=1">
+							<img border=0 src="/mylyn/images/icon-save.gif">
+						</a>
+						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+		        	</li>
+					<li> 
+						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras/mylyn-2.3.2.v20080402-2100-extras.zip&r=1">
+							<img border=0 src="/mylyn/images/icon-save.gif">
+						</a>
+						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
+		        		<br>
+						<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
+		        	</li>
+			</ul>	
+		</div>-->
+	
+		
+		<div class="homeitem3col" style="margin-left:40px; width:65%">
+			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			
+			<br>&nbsp;&nbsp;&nbsp;The stand-alone distribution of WikiText for use outside of an Eclipse runtime. Provides Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
+			<ul>
+					<li>
+						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">
+							<img border=0 src="/mylyn/images/icon-save.gif">
+						</a>
+						&nbsp;&nbsp;<b>Download Wikitext Standalone (latest)</b>
+		        	</li>
+			</ul>	
+		</div>
+		
+		<div class="homeitem3col" style="margin-left:40px; width:65%">
+			<h3>Extensions</h3>
+			<!--
+			<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
+			-->
+			<ul>
+	        	<li>
+	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
+	        		&nbsp;&nbsp;Third Party Update Sites</a>: additional Connectors and Bridges 
+				</li>
+			</ul>
+		</div>
 	</div>
-</div>
 
 	<div align="homeitem3col" style="width:65%">&nbsp;</div> 
-
+</div> <!-- WRAPPING DIV -->
 EOHTML;
 
 

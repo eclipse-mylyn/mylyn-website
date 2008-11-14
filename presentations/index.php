@@ -75,8 +75,7 @@
 			</ul>
 			&nbsp;&nbsp;Also see <a href="http://live.eclipse.org">Eclipse Live</a> for more presentations about Eclipse and Mylyn. 
 		</div>
-		<p>&nbsp;</p>
-		
+
 		<!-- PUBLICATIONS -->
 		
 		<div class="homeitem3col">

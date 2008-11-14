@@ -30,7 +30,7 @@ $html = <<<EOHTML
 	<div style="margin-left:10px; margin-top:20pt;">
         	<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>
         		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
-				<div style="margin-top:30pt;margin-left: 70pt; width: 70%">
+				<div style="margin-top:30pt;margin-left: 40pt; width: 70%">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  

@@ -99,8 +99,7 @@ $html = <<<EOHTML
 	</div>
 	
 	<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
-
-	<div class="homeitem3col" style="margin-left:40px; width:90%">
+	<div class="homeitem3col" style="margin-left:40px; width:65%">
     	<a name="weekly"></a>
 		<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		<br>&nbsp;&nbsp;&nbsp;<!--<a href="http://www.eclipse.org/mylyn/new/new-dev.html">New & Noteworthy</a>--> Released every Wednesday.  Weekly builds are production quality, but subject to UI changes.
@@ -120,7 +119,7 @@ $html = <<<EOHTML
 		</ul>
 	</div>
 
-    <div class="homeitem3col" style="margin-left:40px; width:90%">
+    <div class="homeitem3col" style="margin-left:40px; width:65%">
 		<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
 		<ul> 
@@ -156,7 +155,7 @@ $html = <<<EOHTML
 	</div>
 	
 	<!--
-	<div class="homeitem3col" style="margin-left:40px; width:90%">
+	<div class="homeitem3col" style="margin-left:40px; width:65%">
 		<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
 		<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
@@ -185,7 +184,7 @@ $html = <<<EOHTML
 	</div>-->
 
 	
-	<div class="homeitem3col" style="margin-left:40px; width:90%">
+	<div class="homeitem3col" style="margin-left:40px; width:65%">
 		<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 		
 		<br>&nbsp;&nbsp;&nbsp;The stand-alone distribution of WikiText for use outside of an Eclipse runtime. Provides Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
@@ -199,7 +198,7 @@ $html = <<<EOHTML
 		</ul>	
 	</div>
 	
-	<div class="homeitem3col" style="margin-left:40px; width:90%">
+	<div class="homeitem3col" style="margin-left:40px; width:65%">
 		<h3>Extensions</h3>
 		<!--
 		<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
@@ -213,7 +212,7 @@ $html = <<<EOHTML
 	</div>
 </div>
 
-	<div align="homeitem3col" style="width:95%">&nbsp;</div> 
+	<div align="homeitem3col" style="width:65%">&nbsp;</div> 
 
 EOHTML;
 

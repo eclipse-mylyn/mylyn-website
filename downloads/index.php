@@ -74,11 +74,8 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
-			      			<td><font size=+0><a href="/mylyn/bugs">Bugs</a></font></td> 
+			      			<td><font size=+0><a href="/mylyn/bugs">Bugs and Enhancements</a></font></td> 
 						</tr>
-						<tr>
-			          		<td>Report bugs and enhancement requests</td>
-			          	</tr>
 					</table>
 				</td>
 				<td width=20></td> 
@@ -86,11 +83,8 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><font size=+0><a href="/mylyn/builds">Archives and other builds</a></font></td>
+			      			<td><font size=+0><a href="/mylyn/builds">Older builds</a></font></td>
 						</tr>
-						<tr>
-			          		<td>Mylyn 2.0 and older versions</td> 
-			          	</tr>
 					</table>
 				</td> 
 			</tr> 

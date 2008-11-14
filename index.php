@@ -44,11 +44,11 @@ $html = <<<EOHTML
 	          		
 	          		<tr>
 						<td width=20></td>
-						<td><a href="/mylyn/community"><img border=0 src="images/community.jpg"></a></td>
+						<td><a href="/mylyn/support"><img border=0 src="images/community.jpg"></a></td>
 						<td>
 							<table border="0" cellpadding="0">
 								<tr>
-				          			<td><font size=+1><a href="/mylyn/community">Community</a></font></td>
+				          			<td><font size=+1><a href="/mylyn/support">Support</a></font></td>
 								</tr>
 								<tr>
 					          		<td>Find support and interact with users and developers</td>

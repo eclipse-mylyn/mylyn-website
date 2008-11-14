@@ -30,7 +30,7 @@ $html = <<<EOHTML
 	<div style="margin-left:10px; margin-top:20pt;">
         	<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>
         		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
-				<div style="margin-top:30pt;margin-left: 70pt;">
+				<div style="margin-top:30pt;margin-left: 70pt; width: 70%">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  
@@ -39,7 +39,7 @@ $html = <<<EOHTML
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
 			        <p>
-			        <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+			       <!-- <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
 					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Support Mylyn by voting on EPIC</a>
 					<select name="rating">
@@ -54,7 +54,7 @@ $html = <<<EOHTML
 					<option>2</option>
 					<option>1</option>
 					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
-					</form>
+					</form>-->
 					</font>
 		        	
 		        	<p><b>New users</b>: you can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
@@ -66,7 +66,7 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
-	<div style="width:95%; border:none; margin-left:40px">
+	<div style="border:none; margin-left:70px">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>
@@ -212,6 +212,8 @@ $html = <<<EOHTML
 		</ul>
 	</div>
 </div>
+
+	<div align="homeitem3col" style="width:95%">&nbsp;</div> 
 
 EOHTML;
 

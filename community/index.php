@@ -20,8 +20,9 @@
 		
 	$html = <<<EOHTML
 <div id="maincontent">
-
+	<div class="homeitem3col">
 	<a href="../support/index.php">Moved.  See Support Page</a>
+	</div>
 
 </div>
 EOHTML;

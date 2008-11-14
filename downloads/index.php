@@ -66,7 +66,7 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
-	<div class="homeitem3col" style="width:95%; border:none; margin-left:40px">
+	<div style="width:95%; border:none; margin-left:40px">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>

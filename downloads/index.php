@@ -66,7 +66,7 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
-	<div class="homeitem3col" style="width:95%; border:none; margin-left:0px">
+	<div class="homeitem3col" style="width:95%; border:none; margin-left:40px">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>
@@ -98,7 +98,7 @@ $html = <<<EOHTML
 		<br>&nbsp;
 	</div>
 	
-	<div align="homeitem3col" style="width:95%">&nbsp;</div> 
+	<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
 
 	<div class="homeitem3col" style="margin-left:40px; width:90%">
     	<a name="weekly"></a>

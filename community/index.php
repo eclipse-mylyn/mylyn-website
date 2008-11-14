@@ -15,7 +15,7 @@
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-	header("Location: ../support/support/");
+	header("Location: ../support/");
 	include("_sideCommon.php");
 		
 	$html = <<<EOHTML

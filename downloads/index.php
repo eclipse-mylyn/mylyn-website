@@ -66,7 +66,7 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
-	<div style="border:none; margin-left:70px">
+	<div style="border:none; margin-left:40px">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td width=15></td>
@@ -98,7 +98,6 @@ $html = <<<EOHTML
 		<br>&nbsp;
 	</div>
 	
-	<div style="margin-left: 70px;"> <!-- WRAPPING DIV -->
 	
 		<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
 		<div class="homeitem3col" style="margin-left:40px; width:65%">
@@ -215,7 +214,6 @@ $html = <<<EOHTML
 	</div>
 
 	<div align="homeitem3col" style="width:65%">&nbsp;</div> 
-</div> <!-- WRAPPING DIV -->
 EOHTML;
 
 

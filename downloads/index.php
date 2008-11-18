@@ -99,16 +99,16 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-weekly.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5M3 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
 				</li>
 				<li> 
 					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
 				</li>
 			</ul>
 		</div>

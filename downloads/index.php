@@ -108,29 +108,7 @@ $html = <<<EOHTML
 		</table>
 	</div>
 	
-	
-		<!--<div align="homeitem3col" style="width:95%">&nbsp;</div>--> 
-		<div class="homeitem3col" style="margin-left:40px; width:70%">
-	    	<a name="weekly"></a>
-			<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-weekly.html">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
-			<ul> 
-				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
-				</li>
-				<li> 
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-				</li>
-				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
-				</li>
-				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
-				</li>
-			</ul>
-		</div>
-	
-	    <div class="homeitem3col" style="margin-left:40px; width:70%">
+		 <div class="homeitem3col" style="margin-left:40px; width:70%">
 			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
 			<ul> 
@@ -164,7 +142,28 @@ $html = <<<EOHTML
 				</li>
 			</ul>
 		</div>
-		
+	
+	
+		<div class="homeitem3col" style="margin-left:40px; width:70%">
+	    	<a name="weekly"></a>
+			<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-weekly.html">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
+			<ul> 
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
+				</li>
+				<li> 
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+				</li>
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
+				</li>
+				<li>
+					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.4 and 3.3)
+				</li>
+			</ul>
+		</div>
+			
 		<!--
 		<div class="homeitem3col" style="margin-left:40px; width:70%">
 			<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 

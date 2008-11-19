@@ -74,7 +74,7 @@ $html = <<<EOHTML
     			</div>
 	</div>		
 
-	<div style="border:none; margin-left:40px">
+	<div style="border:none; margin-left:40px; width:70%;">
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>

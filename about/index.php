@@ -14,7 +14,7 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	include("../_sideMylarIs.php");
+	include("../_sideMylynIs.php");
 	include("_sideFeedback.php");
 	include("_sidePhase.php");
 	$html = <<<EOHTML

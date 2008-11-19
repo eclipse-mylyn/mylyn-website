@@ -1,5 +1,5 @@
 <?php
-    $devside = <<<EOHTML
+    $mylynIsSide = <<<EOHTML
 		<div class="sideitem">
 			<h6>What is Mylyn?</h6>
 			<ul>

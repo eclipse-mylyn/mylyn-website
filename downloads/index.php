@@ -81,7 +81,7 @@ $html = <<<EOHTML
 				<td>
 				<table border="0" cellpadding="0">
 						<tr>
-			      			<td><font size=+0><a href="/mylyn/support">Extensions</a></font></td> 
+			      			<td><font size=+0><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Extensions</a></font></td> 
 						</tr>
 						<tr><td>Additional Connectors and Bridges</td></tr>
 					</table>
@@ -206,19 +206,6 @@ $html = <<<EOHTML
 						&nbsp;&nbsp;<b>Download Wikitext Standalone (latest)</b>
 		        	</li>
 			</ul>	
-		</div>
-		
-		<div class="homeitem3col" style="margin-left:40px; width:70%">
-			<h3>Extensions</h3>
-			<!--
-			<br>&nbsp;&nbsp;&nbsp;For additional features use the following update sites, noting the feature descriptions before installing.
-			-->
-			<ul>
-	        	<li>
-	        		<a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/icon-plugin.gif">
-	        		&nbsp;&nbsp;Third Party Update Sites</a>: additional Connectors and Bridges 
-				</li>
-			</ul>
 		</div>
 	</div>
 

@@ -14,7 +14,7 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	include("_sideMylarIs.php");
+	include("../_sideMylarIs.php");
 	include("_sideFeedback.php");
 	include("_sidePhase.php");
 	$html = <<<EOHTML
@@ -66,28 +66,6 @@
 </div>
 
 
-<div class="sideitem">
-			<h6>What is Mylyn?</h6>
-			<ul>
-				<li>
-					The <a href="http://en.wikipedia.org/wiki/Myelin">Myelin substance</a> accelerates our 
-					thoughts by making neurons much more efficient at conducting electricity. The Mylyn name 
-					is a tribute to this substance, as many users claim that our tools increase efficiency 
-					to the point where we can <i>code at the speed of thought</i>. 
-					The preferred pronunciation is 'mIl&n, similar to the pronunciation of "myelin".  The
-					project was <a href="http://www.eclipse.org/mylyn/rename.php">previously called Mylar</a>.
-				</li>
-				<!--<li>
-					The goal of the Mylyn project is to evolve a Task-Focused user interface
-					for the Eclipse platform.  At the core of Mylyn is a mechanism
-					that that makes our interaction with a system explicit.
-					Existing tools make the structure of the system explicit,
-					and as a result overload us with irrelevant 
-					information when the size of a system dwarfs 
-					what we need to know to complete a task.
-				</li>-->
-			</ul>
-		</div>
 
 
 

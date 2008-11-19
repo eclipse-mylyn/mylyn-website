@@ -59,7 +59,7 @@
 	<p>&nbsp;</p>
 	
 	<div id="rightcolumn">
-		$mylarIsSide
+		<?php print $mylarIsSide ?>
 		$sidePhase
 	</div>
 

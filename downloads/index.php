@@ -69,7 +69,15 @@ $html = <<<EOHTML
 	<div style="border:none; margin-left:40px">
 		<table border="0" cellpadding="3"> 
 			<tr>
-				<td width=15></td>
+				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td>
+				<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="/mylyn/support">Extensions</a></font></td> 
+						</tr>
+						<tr><td>Additional Connectors and Bridges</td></tr>
+					</table>
+				</td>
 				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
 				<td>
 					<table border="0" cellpadding="0">

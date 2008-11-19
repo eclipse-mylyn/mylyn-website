@@ -31,7 +31,7 @@
 	            	Mylyn: Tutorial Materials</a> (last updated April 2006, tutorial materials)
 	            </li>
 	             <li>
-	            	<h4>More videos and background available at</h4 <a href="http://tasktop.com/mylyn">tasktop.com</a>
+	            	<h4>More videos and background available at <a href="http://tasktop.com/mylyn">http://tasktop.com</a></h4> 
 	            </li>
 			</ul> 
 		</div>

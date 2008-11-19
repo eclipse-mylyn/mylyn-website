@@ -63,7 +63,33 @@
                 </li>
                 -->
 			</ul>
-		</div>      
+		</div> 
+		
+		
+		<div class="homeitem3col">
+			<h3>Selected Articles</h3>
+			<ul>
+				<li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            <li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            <li>
+            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)
+        		</li>
+				<li>
+		            <a href="http://eclipse.sys-con.com/read/336896.htm"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
+	            </li>
+			</ul> 
+		</div>
+		
+		
+		     
 
         <div class="homeitem3col">
 			<h3>Connectors</h3> 

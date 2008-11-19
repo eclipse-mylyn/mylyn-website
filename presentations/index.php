@@ -45,7 +45,7 @@
                 </li>
                 <li>
 					<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
+					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Cotï¿½ (December 2007, 20 minutes)
                 </li> 
 				<li>
 					<a href="/mylyn/presentations/2007-07-eclipse-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
@@ -53,7 +53,7 @@
                 </li> 
 				<li>
 					<a href="http://live.eclipse.org/node/325"><img border=0 src="/mylyn/images/icon-presentation.gif">
-					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
+					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Cotï¿½ (July 2007, 18 minutes)
                 </li> 
 				<li>
 					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
@@ -78,27 +78,6 @@
 
 		<!-- PUBLICATIONS -->
 		
-		<div class="homeitem3col">
-			<h3>Selected Articles</h3>
-			<ul>
-				<li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
-	            </li>
-	            <li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
-	            </li>
-	            <li>
-            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)
-        		</li>
-				<li>
-		            <a href="http://eclipse.sys-con.com/read/336896.htm"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
-	            </li>
-			</ul> 
-		</div>
 			
 		<div class="homeitem3col">
 			<h3>Research Papers</h3>

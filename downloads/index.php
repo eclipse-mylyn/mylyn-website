@@ -200,7 +200,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
-			<br>&nbsp;&nbsp;&nbsp;WikiText for use outside of an Eclipse runtime. Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
+			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help outside the Eclipse runtime.				
 			<ul>
 					<li>
 						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">

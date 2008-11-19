@@ -40,21 +40,8 @@ $html = <<<EOHTML
 			<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 		Software User Agreement</a> unless otherwise specified.</p>
 		</div>
-	</div>
-
-	<div style="margin-left:10px; margin-top:20pt;">
-        	<!--<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>-->
-        		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
-				<div style="margin-top:30pt;margin-left: 40pt; width: 70%">
-		        	<p>
-			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
-			        Task List with bug/task/issue trackers and project management tools.  
-			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
-			        The preferred way of installing is via the 
-					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
-			        </p>
-			        <p>
-			       <!-- <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+		<div class="sideitem">
+		 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
 					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Support Mylyn by voting on EPIC</a>
 					<select name="rating">
@@ -69,7 +56,22 @@ $html = <<<EOHTML
 					<option>2</option>
 					<option>1</option>
 					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
-					</form>-->
+					</form>
+		</div>
+	</div>
+
+	<div style="margin-left:10px; margin-top:20pt;">
+        	<!--<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>-->
+        		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
+				<div style="margin-top:30pt;margin-left: 40pt; width: 70%">
+		        	<p>
+			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
+			        Task List with bug/task/issue trackers and project management tools.  
+			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
+			        The preferred way of installing is via the 
+					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
+			        </p>
+			        <p>
 					</font>
     			</div>
 	</div>		

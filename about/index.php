@@ -21,8 +21,21 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
+	
 		<div class="homeitem3col">
-			<h3>What is Mylyn?</h3>
+			<h3>History</h3>
+			<ul>
+				<li>
+					Mylyn was created by <a href="http://tasktop.com/blog">Mik Kersten</a> as a part of his PhD thesis, supervised by Gail Murphy at the Software Practices Lab at UBC.  Tasktop Technologies was founded by the creators of Mylyn in order to lead the open source project, provide commercial support and extensions, and enable the rapidly growing ecosystem of tools built on Mylyn.
+				</li>
+				<li>
+					Background information on Mylyn technology including <a href="http://www.tasktop.com/resources/technology/">research papers</a> and other resources is available. 
+				</li>
+			</ul>
+		</div>
+	
+		<div class="sideitem">
+			<h6>What is Mylyn?</h6>
 			<ul>
 				<li>
 					The <a href="http://en.wikipedia.org/wiki/Myelin">Myelin substance</a> accelerates our 
@@ -32,7 +45,7 @@
 					The preferred pronunciation is 'mIl&n, similar to the pronunciation of "myelin".  The
 					project was <a href="http://www.eclipse.org/mylyn/rename.php">previously called Mylar</a>.
 				</li>
-				<li>
+				<!--<li>
 					The goal of the Mylyn project is to evolve a Task-Focused user interface
 					for the Eclipse platform.  At the core of Mylyn is a mechanism
 					that that makes our interaction with a system explicit.
@@ -40,30 +53,13 @@
 					and as a result overload us with irrelevant 
 					information when the size of a system dwarfs 
 					what we need to know to complete a task.
-				</li>
+				</li>-->
 			</ul>
 		</div>
 
-		<div class="homeitem3col">
-			<h3>History</h3>
-			<ul>
-				<li>
-					A history and credits of Mylyn (previously named Mylar) are listed in the <a href="http://eclipse.org/mylyn/doc/release-1.0.php">About Mylar 1.0</a>
-				</li>
-				<li>
-					Mylyn was created by <a href="http://kerstens.org/mik">Mik Kersten</a> 
-					as a part of his PhD thesis, supervised by
-					<a href="http://www.cs.ubc.ca/~murphy/">Gail Murphy</a> and initially supported by the <a href="http://www.cs.ubc.ca/labs/spl/">
-					Software Practices Lab at UBC</a>, the
-					<a href="https://www-927.ibm.com/ibm/cas/">IBM 
-					Centre for Advanced Studies</a>, and
-					<a href="http://www.nserc-crsng.gc.ca/">NSERC</a>.
-				</li>
-			</ul>
-		</div>
 		
 		<div class="homeitem3col">
-			<h3>License & Legal</h3>
+			<h3>Legal</h3>
 			<ul>
 				<li><a href="http://www.eclipse.org/legal/epl-v10.html">License:</a> Eclipse Public License (EPL), <a href="http://www.eclipse.org/legal/eplfaq.php">FAQ</a></li>
 				<li><a href="/mylyn/doc/mylyn-iplog.csv">Project IP log</a>: described in the eclipse.org project development process <a href="http://www.eclipse.org/projects/dev_process/project-log.php">document</a></li>

@@ -24,7 +24,7 @@ EOBRANDING;
 	
 	$Nav->addNavSeparator("Mylyn", 	"/mylyn/index.php");
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;About This Project", "/projects/project_summary.php?projectid=tools.mylyn", "", 1  );
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Details", "/mylyn/about", "_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;History &amp; Legal", "/mylyn/about", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Contributors", "/mylyn/contributors", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Presentations", "/mylyn/presentations", 	"_self", 1); 
 	//$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Publications", "/mylyn/publications", 	"_self", 1);

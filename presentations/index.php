@@ -46,11 +46,11 @@
                 </li>
                 <li>
 					<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Cot� (December 2007, 20 minutes)
+					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
                 </li> 
 				<li>
 					<a href="http://live.eclipse.org/node/325"><img border=0 src="/mylyn/images/icon-presentation.gif">
-					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Cot� (July 2007, 18 minutes)
+					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
 	            <li>
 		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">

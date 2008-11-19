@@ -41,9 +41,10 @@ $html = <<<EOHTML
 		Software User Agreement</a> unless otherwise specified.</p>
 		</div>
 		<div class="sideitem">
+		<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 		 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Support Mylyn by voting on EPIC</a>
+					Voting on EPIC</a><br>
 					<select name="rating">
 					<option selected>10</option>
 					<option>9</option>

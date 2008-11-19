@@ -71,13 +71,6 @@ $html = <<<EOHTML
 					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 					</form>-->
 					</font>
-		        	
-		        	<p><b>New users</b>: you can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
-			        then look updates using the sites below.  <b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
-			        </p> 
-			        
-			        <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
-	Software User Agreement</a> unless otherwise specified.</p>
     			</div>
 	</div>		
 
@@ -120,7 +113,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col" style="margin-left:40px; width:85%">
 	    	<a name="weekly"></a>
 			<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-weekly.html">New & Noteworthy</a> (Released every Wednesday).  Weekly builds are production quality, but subject to UI changes.
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/new-weekly.html">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
@@ -205,7 +198,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col" style="margin-left:40px; width:85%">
 			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
-			<br>&nbsp;&nbsp;&nbsp;The stand-alone distribution of WikiText for use outside of an Eclipse runtime. Provides Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
+			<br>&nbsp;&nbsp;&nbsp;WikiText for use outside of an Eclipse runtime. Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
 			<ul>
 					<li>
 						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">

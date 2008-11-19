@@ -31,6 +31,9 @@
 		            <a href="/mylyn/presentations/2007-04-mylyn-tutorial.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	Mylyn: Tutorial Materials</a> (last updated April 2006, tutorial materials)
 	            </li>
+	             <li>
+	            	<h6>More videos and background available at <a href="http://tasktop.com/mylyn">tasktop.com</a></h6>
+	            </li>
 			</ul> 
 			&nbsp;&nbsp;For comments and questions use <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=195900">bug 195900</a>
 		</div>
@@ -59,11 +62,7 @@
 	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	[Mylyn]: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
 	            </li>
-	            <li>
-	            	<h6>More videos and background available at <a href="http://tasktop.com/mylyn</a></h6>
-	            </li>
 			</ul>
-			&nbsp;&nbsp;Also see <a href="http://live.eclipse.org">Eclipse Live</a> for more presentations about Eclipse and Mylyn. 
 		</div>
 
 		<!-- PUBLICATIONS -->
@@ -72,13 +71,6 @@
 		<div class="homeitem3col">
 			<h3>Research Papers</h3>
 			<ul>
-				<!--
-	            <li>
-		            <a href="/mylyn/publications/2006-07-mylar-ieee.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">
-	            	How are Java software developers using the Eclipse IDE?</a> by Murphy, Kersten and Findlater. 
-	            	(July 2006, IEEE Software article<a href="#ieee-copyright">*</a>)
-	            </li>
-	            -->
 	            <li>
 		            <a href="/mylyn/publications/2006-11-mylar-fse.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
 		            <a href="/mylyn/publications/2006-11-mylar-fse.pdf"><img border=0 src="/mylyn/images/icon-pdf.gif">

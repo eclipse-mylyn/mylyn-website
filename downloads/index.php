@@ -102,7 +102,6 @@ $html = <<<EOHTML
 						<tr><td>Community and commercial support resources</td></tr>
 					</table>
 				</td>
-				<td width=20></td> 
 				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 

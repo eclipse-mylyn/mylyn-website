@@ -30,9 +30,6 @@
 		            <a href="/mylyn/presentations/2007-04-mylyn-tutorial.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	Mylyn: Tutorial Materials</a> (last updated April 2006, tutorial materials)
 	            </li>
-	             <li>
-	            	<h4>More videos and background available at <a href="http://tasktop.com/mylyn">http://tasktop.com</a></h4> 
-	            </li>
 			</ul> 
 		</div>
 			
@@ -62,7 +59,10 @@
 	            </li>
 			</ul>
 		</div>
-
+		
+		<div class="homeitem3col">
+	           	<h4>More videos and background available at <a href="http://tasktop.com/mylyn">http://tasktop.com</a></h4> 
+		</div>
 		<!-- PUBLICATIONS -->
 		
 		<!--	

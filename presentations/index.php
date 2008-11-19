@@ -48,22 +48,9 @@
 					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Cot� (December 2007, 20 minutes)
                 </li> 
 				<li>
-					<a href="/mylyn/presentations/2007-07-eclipse-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-                    Eclipse 3.3 and Mylyn 2.0: Taking the Java IDE to the Next Level</a> by Mik Kersten (July 2007, 55 min)
-                </li> 
-				<li>
 					<a href="http://live.eclipse.org/node/325"><img border=0 src="/mylyn/images/icon-presentation.gif">
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Cot� (July 2007, 18 minutes)
                 </li> 
-				<li>
-					<a href="/mylyn/publications/2006-10-mylar-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
-					<a href="http://adobedev.adobe.acrobat.com/p46246963"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-					<a href="http://adobedev.adobe.acrobat.com/p46246963">Webinar: Task-Focused Programming with [Mylyn]</a> by Mik Kersten (Oct 2006, 56 min)
-                </li>
-	            <li>
-		            <a href="http://drdobbs.com/dept/opensource/196602830"><img border=0 src="/mylyn/images/icon-podcast.gif">
-	            	Eclipsing Information Overload</a> by Mik Kersten, interviewed by Jonathan Erickson (Dr.Dobbs Podcast, Dec 2006)
-	            </li>
 	            <li>
 		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	[Mylyn]: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
@@ -72,13 +59,16 @@
 	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	[Mylyn]: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
 	            </li>
+	            <li>
+	            	<h6>More videos and background available at <a href="http://tasktop.com/mylyn</a></h6>
+	            </li>
 			</ul>
 			&nbsp;&nbsp;Also see <a href="http://live.eclipse.org">Eclipse Live</a> for more presentations about Eclipse and Mylyn. 
 		</div>
 
 		<!-- PUBLICATIONS -->
 		
-			
+		<!--	
 		<div class="homeitem3col">
 			<h3>Research Papers</h3>
 			<ul>
@@ -113,7 +103,7 @@
 		for links to other papers related to Mylar.  To add a new publication <a href="http://www.eclipse.org/mylyn/bugs">file a bug</a>.
 		</p>
 		</div>
-		
+		-->
 		
 		
 	</div>

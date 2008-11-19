@@ -60,7 +60,7 @@
 	
 	<div id="rightcolumn">
 		<?php print $mylynIsSide ?>
-		$sidePhase
+		<!-- $sidePhase-->
 	</div>
 
 </div>

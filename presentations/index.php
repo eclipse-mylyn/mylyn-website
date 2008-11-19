@@ -34,7 +34,6 @@
 	            	<h4>More videos and background available at</h4 <a href="http://tasktop.com/mylyn">tasktop.com</a>
 	            </li>
 			</ul> 
-			&nbsp;&nbsp;For comments and questions use <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=195900">bug 195900</a>
 		</div>
 			
 		<div class="homeitem3col">

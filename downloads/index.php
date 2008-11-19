@@ -79,7 +79,7 @@ $html = <<<EOHTML
 	<div style="border:none; margin-left:40px; width:75%;">
 		<table border="0" cellpadding="3"> 
 			<tr>
-				<td><a href="/mylyn/support"><img border=0 src="/mylyn/images/plugin.png"></a></td>
+				<td><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/plugin.png"></a></td>
 				<td>
 				<table border="0" cellpadding="0">
 						<tr>
@@ -88,7 +88,7 @@ $html = <<<EOHTML
 						<tr><td>Additional Connectors and Bridges</td></tr>
 					</table>
 				</td>
-				<td><a href="/mylyn/bugs"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
+				<td><a href="/mylyn/support"><img border=0 src="/mylyn/images/bug-report.png"></a></td>
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>

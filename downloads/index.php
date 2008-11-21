@@ -114,20 +114,18 @@ $html = <<<EOHTML
 	<!-- Commercial -->
 	 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>Commercial Distributions</h3> 
-			<ul> 
-				<li>
+			<p>
 					<a href="http://tasktop.com">
 						<img align="top" border=0 src="http://tasktop.com/images/logo-small.png">
 					</a>
-					&nbsp;&nbsp;<b>Tasktop - Numerous connectors and productivity features, supported by the creators of Mylyn.</b>
-				</li>
-				<li> 
+					&nbsp;&nbsp;<b><a href="http://tasktop.com">Tasktop</a> - Numerous connectors and productivity features, supported by the creators of Mylyn.</b>
+					</p>
+					<p>
 					<a href="http://www.codegear.com/products/jbuilder">
 						<!--<img align="top" border=0 src="http://cc.codegear.com/images/em/embarcadero.gif">-->
 					</a>
 					&nbsp;&nbsp;<b><a href="http://www.codegear.com/products/jbuilder">JBuilder</a> - Includes the XPlanner connector, supported by Embarcadero.</b>
-				</li>
-			</ul>
+					</p>
 		</div>
 	
 	<!-- Release -->

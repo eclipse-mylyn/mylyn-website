@@ -117,7 +117,7 @@ $html = <<<EOHTML
 			<ul> 
 				<li>
 					<a href="http://tasktop.com">
-						<img border=0 src="http://tasktop.com/images/media/tasktop-epic.png">
+						<img border=0 src="http://tasktop.com/images/tasktop-epic.png">
 					</a>
 					&nbsp;&nbsp;<b>Tasktop - Numerous connectors and productivity features, supported by the creators of Mylyn.</b>
 				</li>

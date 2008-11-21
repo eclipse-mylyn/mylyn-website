@@ -127,7 +127,8 @@ $html = <<<EOHTML
 						<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn.</td></tr>
 					</table>
 				</td>
-				<td><a href="http://www.codegear.com/products/jbuilder"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<!--<td><a href="http://www.codegear.com/products/jbuilder"><img border=0 src="/mylyn/images/archives.gif"></a></td>-->
+				<td>&nbsp;</td>
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 

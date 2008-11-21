@@ -111,6 +111,26 @@ $html = <<<EOHTML
 		</table>
 	</div>
 	
+	<!-- Commercial -->
+	 <div class="homeitem3col" style="margin-left:40px; width:75%">
+			<h3>Commercial Distributions</h3> 
+			<ul> 
+				<li>
+					<a href="http://tasktop.com">
+						<img border=0 src="http://tasktop.com/images/media/tasktop-epic.png">
+					</a>
+					&nbsp;&nbsp;<b>Tasktop - Numerous connectors and productivity features, supported by the creators of Mylyn.</b>
+				</li>
+				<li> 
+					<a href="http://www.codegear.com/products/jbuilder">
+						<img border=0 src="http://cc.codegear.com/images/em/embarcadero.gif">
+					</a>
+					&nbsp;&nbsp;<b>JBuilder - Includes the XPlanner connector, supported by Embarcadero.</b>
+				</li>
+			</ul>
+		</div>
+	
+	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-10-15). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
@@ -200,7 +220,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
-			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help outside the Eclipse runtime.				
+			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
 			<ul>
 					<li>
 						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip&r=1">

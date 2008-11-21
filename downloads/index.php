@@ -139,8 +139,6 @@ $html = <<<EOHTML
 				</td> 
 			</tr> 
 		</table>
-			
-			
 	</div>
 	
 	<!-- Release -->

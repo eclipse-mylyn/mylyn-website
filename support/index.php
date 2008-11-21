@@ -41,6 +41,17 @@
         		</td>
 		        <td>
 			        Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
+			    </td>
+			    <td>
+			    
+			     <p>The preferred way of reporting and discussing defects and enhancement requests is via 
+				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
+				        Connector</a> is the recommened way to submit bugs.</p>
+				        
+				        <p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
+				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
+				        on how to reproduce. For enhancements please outline a use case.</p> 
+			    
 			    </td> 
 				</tr>
 			</table>
@@ -52,21 +63,12 @@
 					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Web Access</a>,
 					registration is <a href="http://www.eclipse.org/newsgroups/register.php">required</a>. 
 				</li>
+				
 				<!--<li>
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
 				</li>-->
-			</ul>
-			
-				        <p style="padding-left: 30px;">The preferred way of reporting and discussing defects and enhancement requests is via 
-				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
-				        Connector</a> is the recommened way to submit bugs.</p>
-				        
-				        <p style="padding-left: 30px;"><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
-				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
-				        on how to reproduce. For enhancements please outline a use case.</p> 
-				    
-			<ul>
+				
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&bug_severity=normal&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs with severity of normal or higher</a> 
 				</li>

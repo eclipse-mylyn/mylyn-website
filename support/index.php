@@ -40,23 +40,17 @@
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
         		</td>
 		        <td>
-			        Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
-			    </td>
-				</tr>
-				<tr>
-				<td></td>
-				 <td>
-			    
-			     <p>The preferred way of reporting and discussing defects and enhancement requests is via 
+			        <p>Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.<p>
+			        
+			         <p>The preferred way of reporting and discussing defects and enhancement requests is via 
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
 				        Connector</a> is the recommened way to submit bugs.</p>
 				        
 				        <p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
 				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
 				        on how to reproduce. For enhancements please outline a use case.</p> 
-			    
-			    </td> 
-			    </tr>
+			    </td>
+				</tr>
 			</table>
 			<ul>
 				<li>

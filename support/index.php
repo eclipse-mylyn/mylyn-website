@@ -109,6 +109,16 @@
 		
 		<div class="homeitem3col">
 			<h3>Commercial Support</h3>
+			<table border="0"> 
+        		<tr>
+        		<td valign="top">
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.png"></a>
+        		</td>
+		        <td>
+			        Commercial support is available for both Mylyn and Mylyn Connectors. 
+			    </td> 
+				</tr>
+			</table>
 			<ul>
 				<li>
 					<b>Mylyn</b>: Tasktop Technologies via <a href="http://tasktop.com/products/">Tasktop Pro</a>.

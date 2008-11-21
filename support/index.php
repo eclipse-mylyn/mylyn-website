@@ -58,11 +58,11 @@
 				</li>-->
 			</ul>
 			
-				        <p style="padding-left: 40px;">The preferred way of reporting and discussing defects and enhancement requests is via 
+				        <p style="padding-left: 30px;">The preferred way of reporting and discussing defects and enhancement requests is via 
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
 				        Connector</a> is the recommened way to submit bugs.</p>
 				        
-				        <p style="padding-left: 40px;"><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
+				        <p style="padding-left: 30px;"><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
 				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
 				        on how to reproduce. For enhancements please outline a use case.</p> 
 				    
@@ -84,8 +84,8 @@
 				
 			</ul>
 				
-				<p>
-				  &nbsp;&nbsp;&nbsp;&nbsp;You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
+				<p style="padding-left: 30px;">
+				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
 				</p>
 
 			<ul>
@@ -106,7 +106,34 @@
 		</div>
 
 		<p>&nbsp;</p>
+		
+		<div class="homeitem3col">
+			<h3>Commercial Support</h3>
+			<ul>
+				<li>
+					<b>Mylyn</b>: Tasktop Technologies via <a href="http://tasktop.com/products/">Tasktop Pro</a>.
+				</li>
+				<li>
+					<b>Bugzilla Connector</b>: <a href="http://tasktop.com">Tasktop Technologies</a>
+				</li>
+				<li>
+					<b>JIRA Connector</b>: <a href="http://tasktop.com">Tasktop Technologies</a>
+				</li>
+				<li>
+					<b>Trac Connector</b>: <a href="http://tasktop.com">Tasktop Technologies</a>
+				</li>
+				<li>
+					<b>XPlanner Connector</b>: <a href="http://www.embarcadero.com/">Embarcadero Technologies</a>
+				</li>
+				
+			</ul>
+		</div>
+		
 	</div>	
+	
+	
+	
+	
 
 </div>
 

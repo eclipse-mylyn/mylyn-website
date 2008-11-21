@@ -121,7 +121,7 @@
 			</table>
 			<ul>
 				<li>
-					<b>Mylyn</b>: Tasktop Technologies via <a href="http://tasktop.com/products/">Tasktop Pro</a>.
+					<b>Mylyn</b>: Tasktop Technologies via <a href="http://tasktop.com/products/">Tasktop Pro</a>
 				</li>
 				<li>
 					<b>Bugzilla Connector</b>: <a href="http://tasktop.com">Tasktop Technologies</a>

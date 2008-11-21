@@ -112,7 +112,7 @@ $html = <<<EOHTML
 	</div>
 	
 	<!-- Commercial -->
-	 <div class="homeitem3col" style="margin-left:40px; width:75%">
+	 <!-- <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>Commercial Distributions</h3> 
 			<ul> 
 				<li>
@@ -128,7 +128,7 @@ $html = <<<EOHTML
 					&nbsp;&nbsp;<b>JBuilder - Includes the XPlanner connector</b>
 				</li>
 			</ul>
-		</div>
+		</div>-->
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">

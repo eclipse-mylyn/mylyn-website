@@ -44,6 +44,7 @@
 			    </td>
 				</tr>
 				<tr>
+				<td></td>
 				 <td>
 			    
 			     <p>The preferred way of reporting and discussing defects and enhancement requests is via 

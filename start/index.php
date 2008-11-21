@@ -107,7 +107,7 @@
 
 		<p>	
 		<br>&nbsp;	
-		For questions about using Mylyn see the <a href="/mylyn/community">Community Page</a>.
+		For questions about using Mylyn see the <a href="/mylyn/support">Support Page</a>.
         </p>
 		
 

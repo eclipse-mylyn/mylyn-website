@@ -111,22 +111,36 @@ $html = <<<EOHTML
 		</table>
 	</div>
 	
+	
 	<!-- Commercial -->
 	 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>Commercial Distributions</h3> 
-			<p>
-					<a href="http://tasktop.com">
-						<img align="top" border=0 src="http://tasktop.com/images/logo-small.png">
-					</a>
-					&nbsp;&nbsp;<b><a href="http://tasktop.com">Tasktop</a> - Numerous connectors and productivity features, supported by the creators of Mylyn.</b>
-					</p>
-					<p>
-					<a href="http://www.codegear.com/products/jbuilder">
-						<!--<img align="top" border=0 src="http://cc.codegear.com/images/em/embarcadero.gif">-->
-					</a>
-					&nbsp;&nbsp;<b><a href="http://www.codegear.com/products/jbuilder">JBuilder</a> - Includes the XPlanner connector, supported by Embarcadero.</b>
-					</p>
-		</div>
+			
+			<table border="0" cellpadding="3"> 
+			<tr>
+				<td><a href="http://tasktop.com"><img border=0 src="http://tasktop.com/images/logo-small.png"></a></td>
+				<td>
+				<table border="0" cellpadding="0">
+						<tr>
+			      			<td><font size=+0><a href="http://tasktop.com">Tasktop</a></font></td> 
+						</tr>
+						<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn.</td></tr>
+					</table>
+				</td>
+				<td><a href="http://www.codegear.com/products/jbuilder"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td>
+					<table border="0" cellpadding="0"> 
+						<tr> 
+			      			<td><font size=+0><a href="http://www.codegear.com/products/jbuilder">JBuilder</a></font></td>
+						</tr>
+						<tr><td>Includes the XPlanner connector, supported by Embarcadero.</td></tr>
+					</table>
+				</td> 
+			</tr> 
+		</table>
+			
+			
+	</div>
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">

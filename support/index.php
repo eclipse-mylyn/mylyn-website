@@ -42,7 +42,9 @@
 		        <td>
 			        Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
 			    </td>
-			    <td>
+				</tr>
+				<tr>
+				 <td>
 			    
 			     <p>The preferred way of reporting and discussing defects and enhancement requests is via 
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
@@ -53,7 +55,7 @@
 				        on how to reproduce. For enhancements please outline a use case.</p> 
 			    
 			    </td> 
-				</tr>
+			    </tr>
 			</table>
 			<ul>
 				<li>

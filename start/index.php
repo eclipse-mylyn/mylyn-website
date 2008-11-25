@@ -103,7 +103,16 @@
 		           JIRA</a> the Atlassian page provides a getting started guide
 	            </li>
 			</ul>
-		</div>     
+		</div> 
+		
+		<div class="homeitem3col">
+			<h3>WikiText</h3> 
+			<ul>
+				<li>
+		         WikiText help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
+	            </li>
+			</ul>
+		</div>        
 
 		<p>	
 		<br>&nbsp;	

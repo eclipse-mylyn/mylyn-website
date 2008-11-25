@@ -92,7 +92,7 @@
 		     
 
         <div class="homeitem3col">
-			<h3>Connectors</h3> 
+			<h3>Extensions</h3> 
 			<ul>
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
@@ -102,18 +102,14 @@
 		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           JIRA</a> the Atlassian page provides a getting started guide
 	            </li>
+	            <ul>
+				<li>
+		         <b>WikiText</b> help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
+	            </li>
+			</ul>
 			</ul>
 		</div> 
 		
-		<div class="homeitem3col">
-			<h3>WikiText</h3> 
-			<ul>
-				<li>
-		         WikiText help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
-	            </li>
-			</ul>
-		</div>        
-
 		<p>	
 		<br>&nbsp;	
 		For questions about using Mylyn see the <a href="/mylyn/support">Support Page</a>.

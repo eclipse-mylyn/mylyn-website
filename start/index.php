@@ -104,7 +104,7 @@
 	            </li>
 	            <ul>
 				<li>
-		         <b>WikiText</b> help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
+		         WikiText help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
 	            </li>
 			</ul>
 			</ul>

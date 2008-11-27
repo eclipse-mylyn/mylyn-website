@@ -111,7 +111,7 @@
 			<table border="0"> 
         		<tr>
         		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.png"></a>
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
         		</td>
 		        <td>
 			        Commercial support is available for both Mylyn and Mylyn Connectors. 

@@ -28,9 +28,9 @@
 			<p style="padding-left: 5px;">	We recommend that all users subscribe to the low traffic <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">announce mailing list</a>.</p> 
 		</div>
 </div>
-
+<div class="homeitem3col">
 <p>Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.<p>
-
+</div>
 <div id="maincontent">
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
@@ -43,7 +43,7 @@
         		</td>
 		        <td>
 		        
-		        	<p>For Mylyn support with guaranteed response times see <a href="#commercial">below</a>. 
+		        	<p>For Mylyn support with guaranteed response times see <a href="#commercial">Commercial Support</a> below. 
 			        
 			         <p>The preferred way of reporting and discussing defects and enhancement requests is via 
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 

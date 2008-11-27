@@ -29,6 +29,8 @@
 		</div>
 </div>
 
+<p>Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.<p>
+
 <div id="maincontent">
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
@@ -40,7 +42,8 @@
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
         		</td>
 		        <td>
-			        <p>Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.<p>
+		        
+		        	<p>For Mylyn support with guaranteed response times see <a href="#commercial">below</a>. 
 			        
 			         <p>The preferred way of reporting and discussing defects and enhancement requests is via 
 				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
@@ -107,7 +110,7 @@
 		<p>&nbsp;</p>
 		
 		<div class="homeitem3col">
-			<h3>Commercial Support</h3>
+			<a name="commercial"></a><h3>Commercial Support</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">

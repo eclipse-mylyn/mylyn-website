@@ -28,7 +28,7 @@
 			<p style="padding-left: 5px;">	We recommend that all users subscribe to the low traffic <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">announce mailing list</a>.</p> 
 		</div>
 </div>
-<div style="padding-left: 40px;">
+<div style="padding-left: 40px; padding-top: 30px;">
 Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
 </div>
 <div id="maincontent">

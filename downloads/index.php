@@ -219,7 +219,7 @@ $html = <<<EOHTML
 				
 				<table border="0" cellpadding="3"> 
 				<tr>
-					<td><a href="http://tasktop.com"><img border=0 src="/images/tasktop50px.png"></a></td>
+					<td><a href="http://tasktop.com"><img border=0 src="/mylyn/images/tasktop50px.png"></a></td>
 					<td>
 					<table border="0" cellpadding="0">
 							<tr>

@@ -22,7 +22,7 @@
 
 
 
-<div id="rightcolumn">
+<div id="rightcolumn" style="padding-right: 20px">
 		<div class="sideitem">
 				<h6>Announce List</h6>
 			<p style="padding-left: 5px;">	We recommend that all users subscribe to the low traffic <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">announce mailing list</a>.</p> 

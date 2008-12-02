@@ -110,6 +110,7 @@ Developers
 2008-11-18, sandbox,	244371, Jingwen Ou,			<250,		spingel,	tests for comment grouping
 2008-11-28, jira,		256591, Shawn Minto,		<10,		spingel,	do not submit Greenhopper custom fields 
 2008-12-01, tasks,		256226, Hiroyuki Inaba,		<200,		spingel,	fix character escaping in features licenses 
+2008-12-01, bugzilla,	256045, Frank Becker,		<50,		relves,		reassign to default and editable assignee for bugzilla 3.2
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

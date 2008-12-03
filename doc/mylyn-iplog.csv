@@ -116,6 +116,7 @@ Developers
 2008-12-02, tasks,		253116, Hiroyuki Inaba,		<300,		spingel,	externalize strings in org.eclipse.mylyn.commons.net (CQ 2820)
 2008-12-02, tasks,		253116, Hiroyuki Inaba,		<300,		spingel,	externalize strings in org.eclipse.mylyn.commons.ui (CQ 2820)
 2008-12-02, tasks,		253118, Hiroyuki Inaba,		<1000,		spingel,	externalize strings in org.eclipse.mylyn.context.ui (CQ 2820)
+2008-12-02, tasks,		253121, Hiroyuki Inaba,		<400,		spingel,	externalize strings in org.eclipse.mylyn.java.ui (CQ 2820)
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

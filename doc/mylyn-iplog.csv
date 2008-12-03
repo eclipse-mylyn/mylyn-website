@@ -113,6 +113,8 @@ Developers
 2008-12-01, bugzilla,	256045, Frank Becker,		<50,		relves,		reassign to default and editable assignee for bugzilla 3.2
 2008-12-01, bugzilla,	242480, Frank Becker,		<50,		relves,		update bugzilla unit tests
 2008-12-02, tasks,		249280, Leo Dos Santos,		<20,		spingel,	additional key-bindings for creating tasks on Mac 
+2008-12-02, tasks,		253116, Hiroyuki Inaba,		<300,		spingel,	externalize strings in org.eclipse.mylyn.commons.net (CQ 2820)
+2008-12-02, tasks,		253116, Hiroyuki Inaba,		<300,		spingel,	externalize strings in org.eclipse.mylyn.commons.ui (CQ 2820)
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

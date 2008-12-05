@@ -79,7 +79,6 @@ $html = <<<EOHTML
 			</tr> 
 		</table>
 	</div>
-	<span>
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
@@ -214,7 +213,6 @@ $html = <<<EOHTML
 			</form></p>
 		</div>
 	</div>
-	</span>
 	<!--<div align="homeitem3col" style="width:85%">&nbsp;</div>--> 
 	
 EOHTML;

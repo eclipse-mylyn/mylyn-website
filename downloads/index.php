@@ -27,8 +27,8 @@
 		
 $html = <<<EOHTML
 
-<!--
-	<div id="rightcolumn" style="padding-right: 20px">
+
+	<div style="float: right; padding-right: 20px">
 		<div class="sideitem">
 				<h6>New Users</h6>
 			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
@@ -60,7 +60,7 @@ $html = <<<EOHTML
 					</form></p>
 		</div>
 	</div>
-	-->
+	
 	<div style="margin-left:10px; margin-top:20pt;">
         	<!--<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>-->
         		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->

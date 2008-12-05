@@ -28,7 +28,7 @@
 $html = <<<EOHTML
 
 
-	<div style="float: right; padding-right: 20px">
+	<div id="rightcolumn" style="padding-right: 20px">
 		<div class="sideitem">
 				<h6>New Users</h6>
 			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 

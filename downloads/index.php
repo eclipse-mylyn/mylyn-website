@@ -79,8 +79,7 @@ $html = <<<EOHTML
 			</tr> 
 		</table>
 	</div>
-	
-	
+	<span>
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>3.0.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
@@ -137,36 +136,6 @@ $html = <<<EOHTML
 				</li>
 			</ul>
 		</div>
-			
-		<!--
-		<div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>2.3.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylar_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2008-03-12). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later, <a href="http://trac.edgewall.org/">Trac</a> 0.9 and later.				
-			<ul>
-					<li>
-						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4/mylyn-2.3.2.v20080402-2100-e3.4.zip">
-							<img border=0 src="/mylyn/images/icon-save.gif">
-						</a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4M6)
-		        	</li>
-					<li>
-						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3/mylyn-2.3.2.v20080402-2100-e3.3.zip">
-							<img border=0 src="/mylyn/images/icon-save.gif">
-						</a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
-		        	</li>
-					<li> 
-						<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras/mylyn-2.3.2.v20080402-2100-extras.zip">
-							<img border=0 src="/mylyn/images/icon-save.gif">
-						</a>
-						&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/2.3.2/v20080402-2100/extras</b>&nbsp;&nbsp;(Eclipse 3.4M6 and 3.3)
-		        		<br>
-						<font size=-1>Incubation components and connectors for JIRA, XPlanner and Generic Issue Trackers</font>
-		        	</li>
-			</ul>	
-		</div>-->
-	
 		
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
@@ -212,12 +181,8 @@ $html = <<<EOHTML
 		</div>
 		
 		
-	</div>
 
-	<div align="homeitem3col" style="width:85%">&nbsp;</div> 
-	
-	
-	<span id="rightcolumn" style="padding-right: 20px">
+	<div id="rightcolumn" style="padding-right: 20px">
 		<div class="sideitem">
 				<h6>New Users</h6>
 			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
@@ -248,9 +213,9 @@ $html = <<<EOHTML
 			</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 			</form></p>
 		</div>
+	</div>
 	</span>
-	
-	
+	<!--<div align="homeitem3col" style="width:85%">&nbsp;</div>--> 
 	
 EOHTML;
 

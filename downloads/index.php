@@ -59,7 +59,7 @@ $html = <<<EOHTML
 			Software User Agreement</a> unless otherwise specified.</p>
 					</div>
 					
-					<div class="sideitem" style="float: right;">
+				<div class="sideitem" style="float: right;">
 				<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 				 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
@@ -78,7 +78,6 @@ $html = <<<EOHTML
 					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 					</form></p>
 				</div>
-			</div>
 		</div>		
 
 	<div style="border:none; margin-left:40px; width:75%;">

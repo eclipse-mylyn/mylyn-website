@@ -46,17 +46,17 @@ $html = <<<EOHTML
     			</div>
 	
 			<div>
-					<h6>New Users</h6>
+					<h4>New Users</h4>
 				<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
 					        </p> 
 			</div>
-			<div>
-					<h6>License</h6>
+			<div style="float: right;">
+					<h4>License</h4>
 				<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 			Software User Agreement</a> unless otherwise specified.</p>
 			</div>
-			<div>
+			<div style="float: right;">
 			<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 			 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">

@@ -44,7 +44,7 @@ $html = <<<EOHTML
 			        
     			</div>
 			        
-			    <div class="sideitem" style="clear: right; float: right; padding-right: 15px">
+			    <div class="sideitem" style="clear: right; float: right; margin-right: 15px">
 					<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 					 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
@@ -62,11 +62,11 @@ $html = <<<EOHTML
 						<option>1</option>
 						</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 						</form></p>
-					</div>    
+				</div>    
 			        
 			        
 			        <div style="margin-left: 40pt; width: 70%">
-			        <table>
+			        <table cellspacing="10">
 			        <tr><td>
 			        <h4>New Users</h4>
 					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 

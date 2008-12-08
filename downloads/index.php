@@ -60,13 +60,13 @@ $html = <<<EOHTML
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
+			        <p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+					Software User Agreement</a> unless otherwise specified.</p>
+			        
 			        <h4>New Users</h4>
 					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
-					        </p>
-					  	<h4>License</h4>
-							<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
-					Software User Agreement</a> unless otherwise specified.</p>
+					</p>
     			</div>
 			        
 		</div>		

@@ -128,6 +128,7 @@ Developers
 2008-12-05, tasks,		257740,	Shawn Minto,		<20, 		spingel, 	make updating of repository configuration optional
 2008-12-06, tasks,		252672,	Shawn Minto,		<10, 		spingel, 	make updating of repository configuration optional
 2008-12-06, tasks,		257386, Hiroyuki Inaba,		<50,		spingel,	apply dialog font to dialogs and wizard pages
+2008-12-03, tasks,		253125, Hiroyuki Inaba,		<150,		spingel,	externalize strings in org.eclipse.mylyn.tasks.ui
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

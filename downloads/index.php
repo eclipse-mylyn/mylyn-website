@@ -33,31 +33,7 @@ $html = <<<EOHTML
 	<div style="margin-left:10px; margin-top:20pt;">
         	<!--<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>-->
         		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
-				<div style="margin-top:30pt;margin-left: 40pt; width: 70%">
-		        	<p>
-			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
-			        Task List with bug/task/issue trackers and project management tools.  
-			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
-			        The preferred way of installing is via the 
-					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
-			        </p>
-			        <table cellspacing="10">
-			        <tr><td>
-			        <h4>New Users</h4>
-					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
-					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
-					        </p>
-					  </td>
-					  <td>
-					  	<h4>License</h4>
-							<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
-					Software User Agreement</a> unless otherwise specified.</p>
-					</td>
-					</tr>
-					</table>
-    			</div>
-			        
-			    <div class="sideitem" style="clear: right; float: right; margin-right: 15px">
+        		<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
 					<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 					 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
@@ -76,6 +52,23 @@ $html = <<<EOHTML
 						</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 						</form></p>
 				</div>    
+				<div style="margin-top:30pt;margin-left: 40pt; width: 70%">
+		        	<p>
+			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
+			        Task List with bug/task/issue trackers and project management tools.  
+			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
+			        The preferred way of installing is via the 
+					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
+			        </p>
+			        <h4>New Users</h4>
+					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
+					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
+					        </p>
+					  	<h4>License</h4>
+							<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+					Software User Agreement</a> unless otherwise specified.</p>
+    			</div>
+			        
 		</div>		
 
 	<div style="border:none; margin-left:40px; width:75%;">

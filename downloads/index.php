@@ -44,7 +44,7 @@ $html = <<<EOHTML
 			        
     			</div>
 			        
-			    <div class="sideitem" style="clear: right; float: right;">
+			    <div class="sideitem" style="clear: right; float: right; padding-right: 15px">
 					<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
 					 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
@@ -65,7 +65,7 @@ $html = <<<EOHTML
 					</div>    
 			        
 			        
-			        
+			        <div style="margin-left: 40pt; width: 70%">
 			        <table>
 			        <tr><td>
 			        <h4>New Users</h4>
@@ -80,7 +80,7 @@ $html = <<<EOHTML
 					</td>
 					</tr>
 					</table>
-			        
+			        </div>
 			        
     			
 		</div>		

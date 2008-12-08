@@ -41,43 +41,37 @@ $html = <<<EOHTML
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
-			        <p>
-					</font>
-    			</div>
-    			
-				
-					<div class="sideitem" style="clear: right; float: right;">
-					<h6>New Users</h6>
+			        
+				        <div class="sideitem" style="clear: right; float: right;">
+					<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
+					 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
+						Vote on EPIC</a><br>
+						<select name="rating">
+						<option selected>10</option>
+						<option>9</option>
+						<option>8</option>
+						<option>7</option>
+						<option>6</option>
+						<option>5</option>
+						<option>4</option>
+						<option>3</option>
+						<option>2</option>
+						<option>1</option>
+						</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
+						</form></p>
+					</div>
+			        
+			        <h4>New Users</h4>
 					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
 					        </p>
-					</div>
-					
-					<div class="sideitem" style="clear: right; float: right;"> 
-					<h6>License</h6>
+					        
+					        <h4>License</h4>
 					<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 			Software User Agreement</a> unless otherwise specified.</p>
-					</div>
-					
-				<div class="sideitem" style="clear: right; float: right;">
-				<h6><img border=0 src="/mylyn/images/icon-presentation.gif"> Support Mylyn</h6>
-				 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-					Vote on EPIC</a><br>
-					<select name="rating">
-					<option selected>10</option>
-					<option>9</option>
-					<option>8</option>
-					<option>7</option>
-					<option>6</option>
-					<option>5</option>
-					<option>4</option>
-					<option>3</option>
-					<option>2</option>
-					<option>1</option>
-					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
-					</form></p>
-				</div>
+    			</div>
+    			
 		</div>		
 
 	<div style="border:none; margin-left:40px; width:75%;">

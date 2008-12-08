@@ -42,14 +42,14 @@ $html = <<<EOHTML
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
 			        
-			        <div style="float: right;">
+			        <div style="clear: right;">
 			        <h4>New Users</h4>
 					<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 					        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
 					        </p>
 					        </div>
 					        
-						<div style="float: right;"><h4>License</h4>
+						<div style="clear: right;"><h4>License</h4>
 							<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 					Software User Agreement</a> unless otherwise specified.</p>
 					</div>

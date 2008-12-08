@@ -60,7 +60,7 @@ $html = <<<EOHTML
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
-			        <p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+			        <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 					Software User Agreement</a> unless otherwise specified.</p>
 			        
 			        <h4>New Users</h4>

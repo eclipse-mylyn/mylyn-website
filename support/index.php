@@ -24,11 +24,11 @@
 
 <div style="padding-left: 40px; padding-top: 30px;">
 Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
-		<div class="sideitem" style="float: right; margin-right: 15px">
+</div>
+		<div class="sideitem" style="width: 100px; float: right; margin-right: 15px">
 				<h6>Announce List</h6>
 			<p style="padding-left: 5px;">	We recommend that all users subscribe to the low traffic <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">announce mailing list</a>.</p> 
 		</div>
-</div>
 <div id="maincontent">
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->

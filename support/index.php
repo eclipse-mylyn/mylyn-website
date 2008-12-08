@@ -22,7 +22,7 @@
 
 
 
-<div style="padding-left: 40px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 30px; width: 70%">
 Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
 		<div class="sideitem" style="width: 100px; float: right; margin-right: 15px">
 				<h6>Announce List</h6>

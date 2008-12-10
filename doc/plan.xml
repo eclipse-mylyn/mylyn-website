@@ -49,7 +49,14 @@
     </html:div>
 	</release_deliverables>
 	<release_milestones>
-		<preamble />
+		<preamble>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+      			<p>The plan and roadmap dates are listed in the Mylyn Calendar 
+      			(view as <a href="http://www.google.com/calendar/ical/kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com/public/basic.ics">iCal</a> 
+      			or <a href="http://www.google.com/calendar/embed?src=kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com">html</a>) and on the 
+      			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
+			</html:div> 
+		</preamble>
 		<milestone date="01/21/2009" milestone="3.1M1">
 			<html:div>API frozen</html:div>
 		</milestone>

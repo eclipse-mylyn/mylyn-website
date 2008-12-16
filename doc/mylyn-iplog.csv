@@ -133,6 +133,10 @@ Developers
 2008-12-10, tasks,		253125, Hiroyuki Inaba,		<10,		spingel,	externalize strings in org.eclipse.mylyn.tasks.ui
 2008-12-12, bugzilla,	186265, Frank Becker,		<2000,		relves,		support for bugzilla flag manipulation (CQ 2866)
 2008-12-12, bugzilla,	152065, Frank Becker,		<500,		relves,		support for attachment deprecation (CQ 2867)
+2008-12-15, bugzilla,	253053, Hiroyuki Inaba,		<100,		relves,		externalize strings in org.eclipse.mylyn.bugzilla-feature (CQ 2820)
+2008-12-15, bugzilla,	253053, Hiroyuki Inaba,		<2000,		relves,		externalize strings in org.eclipse.mylyn.bugzilla.core (CQ 2820)
+2008-12-15, bugzilla,	253053, Hiroyuki Inaba,		<50,		relves,		externalize strings in org.eclipse.mylyn.bugzilla.ide (CQ 2820)
+2008-12-15, bugzilla,	253053, Hiroyuki Inaba,		<2000,		relves,		externalize strings in org.eclipse.mylyn.bugzilla.ui (CQ 2820)
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

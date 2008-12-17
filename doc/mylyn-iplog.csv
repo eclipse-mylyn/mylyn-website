@@ -14,10 +14,10 @@ Apache Axis 1.4,					1310,	org.apache.axis Orbit Bundle,				APL,	web repository 
 SAAJ 1.2,							1473,	javax.xml.soap Orbit Bundle,				APL,	web repository connections
 Apache Commons Discovery 0.2,		1474,	org.apache.discovery Orbit Bundle,			APL,	web repository connections 
 JAXRPC 1.1,							1475,	javax.xml.rpc Orbit Bundle,					APL,	web repository connections
-WSDL4J 1.5.1,						1476,	javax.wsdl Orbit Bundle,					APL,	web repository connections
+WSDL4J 1.6.2,						2906,	javax.wsdl Orbit Bundle,					APL,	web repository connections
 Java Mail 1.4,						1311,	javax.mail Orbit Bundle,					APL,	web repository connections
 Java Activation Framework 1.1,		1312,	javax.activation Orbit Bundle,				APL,	web repository connections
-Java Servlet API 2.4,				2242,	javax.servlet Orbit Bundle,					APL,	web repository connections
+Java Servlet API 2.5,				2905,	javax.servlet Orbit Bundle,					APL,	web repository connections
 Geronimo Mail 1.4,					2252,	javax.mail Orbit Bundle,					APL,	web repository connections
 Geronimo Activation Framework 1.1,	2253,	javax.activation Orbit Bundle,				APL,	web repository connections
 Apache Ant 1.7.0,					2503,	org.apache.ant Orbit Bundle,				APL,	web repository connections
@@ -39,6 +39,12 @@ JDOM 1.0,							2051,	org.jdom Orbit Bundle,						APL,	web repository connection
 Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file 
 
 ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,	internationalization
+
+Obsolete CQs
+
+WSDL4J 1.5.1,						1476,	javax.wsdl Orbit Bundle,					APL,	web repository connections
+Java Servlet API 2.4,				2242,	javax.servlet Orbit Bundle,					APL,	web repository connections
+
 
 Developers
 

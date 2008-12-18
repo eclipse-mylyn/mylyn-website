@@ -56,6 +56,10 @@
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
 	            </li>
+	            <li>
+		            <a href="http://www.wakaleo.com/java-power-tools"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		           Java Power Tools</a> by John Ferguson Smart [2008]
+	            </li>
 	            <!--
 	            <li>
                     <a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-flash.gif">

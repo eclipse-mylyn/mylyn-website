@@ -32,7 +32,7 @@ Mylyn users can support each other using the community channels listed below.  M
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		<div class="homeitem3col">
-			<h3>Community Support</h3>
+			<a name="community"></a><h3>Community Support</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">
@@ -132,7 +132,7 @@ Mylyn users can support each other using the community channels listed below.  M
 					<b>Trac Connector</b>: <a href="http://tasktop.com">Tasktop Technologies</a>
 				</li>
 				<li>
-					<b>XPlanner Connector</b>: <a href="http://www.embarcadero.com/">Embarcadero Technologies</a>
+					<b>XPlanner Connector</b>: <a href="#community">Community Supported</a>
 				</li>
 				
 			</ul>

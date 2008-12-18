@@ -179,7 +179,6 @@ $html = <<<EOHTML
 		<!-- Commercial -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
 				<h3>Commercial Distributions</h3> 
-				
 				<table border="0" cellpadding="3"> 
 				<tr>
 					<td><a href="http://tasktop.com"><img border=0 src="/mylyn/images/tasktop50px.png"></a></td>
@@ -188,19 +187,9 @@ $html = <<<EOHTML
 							<tr>
 				      			<td><font size=+0><a href="http://tasktop.com">Tasktop</a></font></td> 
 							</tr>
-							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn.</td></tr>
+							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free version available.</td></tr>
 						</table>
 					</td>
-					<td><a href="http://www.codegear.com/products/jbuilder"><img border=0 src="/mylyn/images/embarcadero.png"></a></td>
-					<td>&nbsp;</td>
-					<td>
-						<table border="0" cellpadding="0"> 
-							<tr> 
-				      			<td><font size=+0><a href="http://www.codegear.com/products/jbuilder">JBuilder</a></font></td>
-							</tr>
-							<tr><td>Includes the XPlanner connector, supported by Embarcadero.</td></tr>
-						</table>
-					</td> 
 				</tr> 
 			</table>
 		</div>
@@ -240,7 +229,7 @@ $html = <<<EOHTML
 	-->
 		
 
-	<!--<div align="homeitem3col" style="width:85%">&nbsp;</div>--> 
+	<div align="homeitem3col" style="width:85%">&nbsp;</div>
 	
 EOHTML;
 

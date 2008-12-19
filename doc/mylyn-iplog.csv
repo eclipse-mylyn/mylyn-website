@@ -147,6 +147,7 @@ Developers
 2008-12-17, bugzilla,	259047, Frank Becker,		<50,		relves,		fix for NPE in content handler
 2008-12-17, bugzilla,	259197, David Shepherd,		<50,		relves,		parse work_time fieled on comments
 2008-12-18, bugzilla,	233621, Frank Becker,		<100,		relves,		autoselect product in product selection dialog
+2008-12-18, bugzilla,	258717, Frank Becker,		<100,		relves,		attachment obsolete label toggle
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

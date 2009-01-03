@@ -145,9 +145,10 @@ Developers
 2008-12-15, bugzilla,	253053, Hiroyuki Inaba,		<2000,		relves,		externalize strings in org.eclipse.mylyn.bugzilla.ui (CQ 2820)
 2008-12-16, bugzilla,	253053, Hiroyuki Inaba,		<100,		relves,		externalize strings in org.eclipse.mylyn.bugzilla.ui
 2008-12-17, bugzilla,	259047, Frank Becker,		<50,		relves,		fix for NPE in content handler
-2008-12-17, bugzilla,	259197, David Shepherd,		<50,		relves,		parse work_time fieled on comments
+2008-12-17, bugzilla,	259197, David Shepherd,		<50,		relves,		parse work_time field on comments
 2008-12-18, bugzilla,	233621, Frank Becker,		<100,		relves,		autoselect product in product selection dialog
 2008-12-18, bugzilla,	258717, Frank Becker,		<100,		relves,		attachment obsolete label toggle
+2009-01-03, bugzilla,	258358, Hiroyuki Inaba,		<50,		spingel,	fix string externalizaion in Bugzilla search dialog
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

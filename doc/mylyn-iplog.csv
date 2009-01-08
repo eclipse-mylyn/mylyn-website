@@ -152,6 +152,7 @@ Developers
 2008-01-03, bugzilla,	259791, Frank Becker,		<10,		spingel,	fix compile warnings due to non-externalized strings
 2008-01-03, bugzilla,	259877, Frank Becker,		<50,		spingel,	support for cocoa platform
 2009-01-08, bugzilla,	259670, Frank Becker,		<10,		relves,		reassign to default appearing in attributes section
+2009-01-08, bugzilla,	257320, Frank Becker,		<100,		relves,		reopened tasks appearing as complete in task list
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

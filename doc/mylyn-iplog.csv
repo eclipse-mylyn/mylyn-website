@@ -157,6 +157,7 @@ Developers
 2009-01-08, bugzilla,	259670, Frank Becker,		<10,		relves,		reassign to default appearing in attributes section
 2009-01-08, bugzilla,	257320, Frank Becker,		<100,		relves,		reopened tasks appearing as complete in task list
 2009-01-08, bugzilla,	258712, Frank Becker,		<200,		relves,		flag manipulation ui nits
+2009-01-09, tasks,		231336, Frank Becker,		<700,		spingel,	generalize task list sorting
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

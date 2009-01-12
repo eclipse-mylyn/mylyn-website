@@ -161,6 +161,7 @@ Developers
 2009-01-11, bugzilla,	258712, Frank Becker,		<50,		relves,		fix flags layout nits
 2009-01-12, tasks,		258712, Mark Phippard,		<10,		spingel,	fix proxy logic
 2009-01-12, bugzilla,	208839, Frank Becker,		<50,		relves,		ensure client uses location for credentials
+2009-01-12, bugzilla,	242480, Frank Becker,		<200,		relves,		port Bugzilla tests to Mylyn 3.0 framework
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

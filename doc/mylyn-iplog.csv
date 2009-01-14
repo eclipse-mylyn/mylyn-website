@@ -164,7 +164,8 @@ Developers
 2009-01-12, bugzilla,	242480, Frank Becker,		<200,		relves,		port Bugzilla tests to Mylyn 3.0 framework
 2009-01-12, bugzilla,	250070, Frank Becker,		<50,		relves,		commit of after vote change fix
 2009-01-12, bugzilla,	260552, Frank Becker,		<10,		relves,		QA Contact missing colon
-2008-13-06, tasks,		234044,	Shawn Minto,		<250, 		spingel, 	notes section for task editor
+2009-01-14, tasks,		234044,	Shawn Minto,		<250, 		spingel, 	notes section for task editor
+2009-01-14, bugzilla,	260917,	Frank Becker,		<20, 		relves, 	add self to cc checkbox appearing in attributes
 
 
 ------------------------- 3.0.2 -------------------------

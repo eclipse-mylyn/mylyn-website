@@ -106,11 +106,9 @@
 		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           JIRA</a> the Atlassian page provides a getting started guide
 	            </li>
-	            <ul>
 				<li>
 		         WikiText help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
 	            </li>
-			</ul>
 			</ul>
 		</div> 
 		

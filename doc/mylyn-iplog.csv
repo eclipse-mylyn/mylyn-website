@@ -168,6 +168,7 @@ Developers
 2009-01-14, bugzilla,	260917,	Frank Becker,		<20, 		relves, 	add self to cc checkbox appearing in attributes
 2009-01-14, bugzilla,	259562, Hiroyuki Inaba,		<100,		relves,		include language binding for handling bug submission message
 2009-01-15, context,	232626, Andrew Eisenberg,	<250,		spingel,	test cases for bridge shadowing
+2009-01-15, tasks,		245270,	Shawn Minto,		<100, 		spingel, 	support monitoring of part out side of the workbench
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

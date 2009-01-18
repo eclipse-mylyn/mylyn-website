@@ -171,6 +171,7 @@ Developers
 2009-01-15, tasks,		245270,	Shawn Minto,		<100, 		spingel, 	support monitoring of part out side of the workbench
 2009-01-15, bugzilla,	258717, Frank Becker,		<200,		relves,		address remaining mark obsolete nits
 2009-01-15, tasks,		261240,	Shawn Minto,		<10, 		spingel, 	support setting of query title 
+2009-01-18, tasks,		260918, Frank Becker,		<20,		spingel,	fix sorting of task list
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

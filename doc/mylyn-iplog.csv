@@ -175,6 +175,7 @@ Developers
 2008-01-18, tasks,		259710, Hiroyuki Inaba,		<100,		spingel,	show context elements when task is activated
 2008-01-20, jira,		235265, Thomas Ehrnhoefer,	<250,		spingel,	support selection of multiple projects 
 2008-01-21, jira,		235265, Thomas Ehrnhoefer,	<10,		spingel,	follow-up fix for selection of multiple projects
+2008-01-21, tasks,		261648, Tomasz Zarna,		<10,		spingel,	select repository by default if only one is available
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

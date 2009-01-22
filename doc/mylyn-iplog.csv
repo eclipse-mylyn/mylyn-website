@@ -178,6 +178,10 @@ Developers
 2009-01-21, tasks,		261648, Tomasz Zarna,		<10,		spingel,	select repository by default if only one is available
 2009-01-21, tasks,		261936,	Shawn Minto,		<10, 		spingel, 	remove events from history when element is removed from context
 
+------------------------- 3.0.4 -------------------------
+2008-01-20, bugzilla,	252297, Frank Becker,		<150,		spingel,	status change support for Bugzilla 3.2
+2009-01-21, tasks,		261936,	Shawn Minto,		<10, 		spingel, 	remove events from history when element is removed from context
+
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  
 2008-07-21, tasks,		203670, Jingwen Ou,			<200,		spingel,	improve sizing of new comment and description area  

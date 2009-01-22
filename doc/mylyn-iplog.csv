@@ -172,10 +172,11 @@ Developers
 2009-01-15, bugzilla,	258717, Frank Becker,		<200,		relves,		address remaining mark obsolete nits
 2009-01-15, tasks,		261240,	Shawn Minto,		<10, 		spingel, 	support setting of query title 
 2009-01-18, tasks,		260918, Frank Becker,		<20,		spingel,	fix sorting of task list
-2008-01-18, tasks,		259710, Hiroyuki Inaba,		<100,		spingel,	show context elements when task is activated
-2008-01-20, jira,		235265, Thomas Ehrnhoefer,	<250,		spingel,	support selection of multiple projects 
-2008-01-21, jira,		235265, Thomas Ehrnhoefer,	<10,		spingel,	follow-up fix for selection of multiple projects
-2008-01-21, tasks,		261648, Tomasz Zarna,		<10,		spingel,	select repository by default if only one is available
+2009-01-18, tasks,		259710, Hiroyuki Inaba,		<100,		spingel,	show context elements when task is activated
+2009-01-20, jira,		235265, Thomas Ehrnhoefer,	<250,		spingel,	support selection of multiple projects 
+2009-01-21, jira,		235265, Thomas Ehrnhoefer,	<10,		spingel,	follow-up fix for selection of multiple projects
+2009-01-21, tasks,		261648, Tomasz Zarna,		<10,		spingel,	select repository by default if only one is available
+2009-01-21, tasks,		261936,	Shawn Minto,		<10, 		spingel, 	remove events from history when element is removed from context
 
 ------------------------- 3.0.2 -------------------------
 2008-07-21, sandbox,	240423, Jingwen Ou,			<250,		spingel,	resource hyperlink extension point  

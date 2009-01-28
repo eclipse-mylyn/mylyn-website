@@ -181,6 +181,7 @@ Developers
 2009-01-23, jira,		256198, Thomas Ehrnhoefer,	<200,		spingel,	fix for advancing workflow with changed description
 2009-01-26, jira,		212960, Thomas Ehrnhoefer,	<200,		spingel,	support setting the security level
 2009-01-27, bugzilla,	242480, Frank Becker,		<100,		relves,		finish off port of Bugzilla unit tests
+2009-01-27, bugzilla,	251292, Frank Becker,		<10,		relves,		url validation fix for Bugzilla settings page
 
 ------------------------- 3.0.4 -------------------------
 2008-01-20, bugzilla,	252297, Frank Becker,		<150,		spingel,	status change support for Bugzilla 3.2

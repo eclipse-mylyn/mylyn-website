@@ -1,10 +1,12 @@
 Committers
 
-mkersten,
-relves,
-spingel,
-hbershadska,
-dgreen
+Mik Kersten (mkersten),
+Robert Elves (relves),
+Steffen Pingel (spingel),
+Helen Bershadskaya (hbershadska),
+David Green (dgreen),
+Frank Becker (fbecker)
+
 
 Third Party Software
 
@@ -185,6 +187,7 @@ Developers
 2009-01-28, wikitext,	259089,	Matthias Kempka,	<20,		dgreen,		HtmlDocumentBuilder extensibility improvements
 2009-01-29, bugzilla,	260963, Frank Becker,		<150,		relves,		Bugzilla version string compar fix
 2009-02-02, bugzilla,	259434, Hiroyuki Inaba,		<50,		relves,		attachment parsing internationalization
+2009-02-02, tasks,		246149, David Shepherd,		<150,		spingel,	delete tasks and queries when repository is deleted
 
 ------------------------- 3.0.4 -------------------------
 2008-01-20, bugzilla,	252297, Frank Becker,		<150,		spingel,	status change support for Bugzilla 3.2

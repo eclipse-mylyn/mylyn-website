@@ -17,8 +17,6 @@ SAAJ 1.2,							1473,	javax.xml.soap Orbit Bundle,				APL,	web repository connec
 Apache Commons Discovery 0.2,		1474,	org.apache.discovery Orbit Bundle,			APL,	web repository connections 
 JAXRPC 1.1,							1475,	javax.xml.rpc Orbit Bundle,					APL,	web repository connections
 WSDL4J 1.6.2,						2906,	javax.wsdl Orbit Bundle,					APL,	web repository connections
-Java Mail 1.4,						1311,	javax.mail Orbit Bundle,					APL,	web repository connections
-Java Activation Framework 1.1,		1312,	javax.activation Orbit Bundle,				APL,	web repository connections
 Java Servlet API 2.4,				2242,	javax.servlet Orbit Bundle,					APL,	web repository connections
 Geronimo Mail 1.4,					2252,	javax.mail Orbit Bundle,					APL,	web repository connections
 Geronimo Activation Framework 1.1,	2253,	javax.activation Orbit Bundle,				APL,	web repository connections
@@ -29,7 +27,7 @@ Apache Commons Lang 2.3,			1949,	org.apache.commons.lang Orbit Bundle,		APL,	web
 Apache HttpClient 3.1,				1765,	org.apache.httpclient Orbit Bundle,			APL,	web repository connections
 Apache Commons Codec 1.3,			1049,	org.apache.commons.codec Orbit Bundle,	 
 Apache Commons Logging 1.0.4,		1050,	org.apache.commons.logging Orbit Bundle,	APL,	web repository connections 
-Apache Commons Logging API 1.0.4	1051,	org.apache.commons.logging Orbit Bundle,	APL,	web repository connections
+Apache Commons Logging API 1.0.4,	1051,	org.apache.commons.logging Orbit Bundle,	APL,	web repository connections
 
 Apache XML-RPC 3.0,					1567,	org.apache.xmlrpc Orbit Bundle,				APL,	web repository connections 
 Apache WS Commons Util 1.0.1,		1568,	org.apache.ws.commons.util Orbit Bundle,	APL,	web repository connections
@@ -42,13 +40,21 @@ Apache Xerces 2.9.1,				2460,	WikiText Component,							APL,	see about file
 
 ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,	internationalization
 
-Obsolete CQs
+-------------------------- Obsolete CQs -------------------------- 
 
+Rome 0.8,							102,	com.sun.syndication Orbit Bundle,			APL,	web repository connections
+Apache HttpClient 3.0,				1047,	org.apache.httpclient Orbit Bundle,			APL,	web repository connections
+Apache HttpClient 3.0.1,			1073,	org.apache.httpclient Orbit Bundle,			APL,	web repository connections
 WSDL4J 1.5.1,						1476,	javax.wsdl Orbit Bundle,					APL,	web repository connections
+Apache Axis 1.3,					1477,	org.apache.axis Orbit Bundle,				APL,	web repository connections
+Apache Commons Lang 2.1,			1890,	org.apache.commons.lang Orbit Bundle,		APL,	web repository connections
+Java Mail 1.4,						1311,	javax.mail Orbit Bundle,					APL,	web repository connections
+Java Activation Framework 1.1,		1312,	javax.activation Orbit Bundle,				APL,	web repository connections
 
-Unused CQs (see bug 260385)
+-------------------------- Unused CQs (see bug 260385) -------------------------- 
 
 Java Servlet API 2.5,				2905,	javax.servlet Orbit Bundle,					APL,	web repository connections
+Apache Lucene,						1313,	org.apache.lucene Orbit Bundle,				APL,	web repository connections
 
 
 Developers
@@ -876,44 +882,6 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-12-18,	tasks,		168248,	Willian Mitsuda,	<100,		mkersten,	task dialog open policy
 2006-12-22, tasks,		167282, Erkki Lindpere,		<10,		mkersten,	redirect fix
 2006-12-22, tasks,		168782, Redsolo,			<100,		mkersten,	empty repository list saving fix
-
-Zest Sandbox
-2006-04-21,	zest,		132473,	Raphael Ackermann,	<10,		irbull,		GraphLabel adjustBoundsToFit does not support text with newlines and tabs
-2006-06-11,	zest,		146300,	Chris Bennett,		<500,		irbull,		Extended Layout API to include bendpoints
-2006-07-27,	zest,		151889,	Del Myers,			<1500,		irbull,		Nested Graph Viewer is coupled with a tree viewer and a bread-crumb widget.
-2006-07-28,	zest,		152180,	Del Myers,			<1000,		irbull,		Added self loops to graphs
-2006-07-28,	zest,		114452,	Del Myers,			<1000,		irbull,		Allow multiple connections between nodes
-2006-08-1,	zest,		151327,	Del Myers,			<1000,		irbull,		"New Feature: providers for colours and fonts, etc on nodes and connections."
-2006-08-1,	zest,		152284,	Del Myers,			<1500,		irbull,		Remove NestedFreeFormLayer
-2006-08-1,	zest,		152393,	Del Myers,			<500,		irbull,		Make top level node selectable in nested graph
-2006-08-8,	zest,		150585,	Del Myers,			<1500,		irbull,		Arcs don't connect entities not visible in nested graph
-2006-08-8,	zest,		153170,	Del Myers,			<500,		irbull,		Arcs on visible nodes in the client/supplier panes should not be visible if they don't have an end in the main pane
-2006-08-9,	zest,		153221,	Del Myers,			<1000,		irbull,		Add Marquee selection to root level in Nested Viewewr
-2006-08-9,	zest,		153348,	Del Myers,			<100,		irbull,		Nested graphs aren't styled correctly
-2006-08-9,	zest,		152613,	Del Myers,			<1000,		irbull,		Add support for client / supplier panes in the Nested Viewer
-2006-08-9,	zest,		150449,	Chris Bennett,		<1000,		irbull,		Refactoring changes to include constraints
-2006-08-16,	zest,		153466,	Del Myers,			<3000,		irbull,		client/supplier panes in the nested viewer cause problems on large graphs
-2006-08-16,	zest,		154076,	Raphael Ackermann,	<50,		irbull,		running StaticGraphicalViewer using a Job results in SWTException: Invalid thread access
-2006-08-17,	zest,		152530,	Del Myers,			<1500,		irbull,		Add Bezier Connections
-2006-08-21,	zest,		154176,	Del Myers,			<100,		irbull,		Clipping region for bezier curves doesn't take label into consideration
-2006-08-21,	zest,		154256,	Del Myers,			<500,		irbull,		Client/supplier nodes are no longer selectable in the nested graph
-2006-08-21,	zest,		154421,	Del Myers,			<100,		irbull,		Static graph viewer not cleared properly when new input is set.
-2006-09-07, zest,		154259, Del Myers, 			<1000,		irbull,		Abstract graph model nodes and connections into interfaces
-2006-09-07, zest,		156266,	Del Myers,			<10,		irbull,		setupLayout does not handle cases where no objects should appear in the layout: ClassCastException in AbstractLayoutAlgorithm.setupLayout when using a filter
-2006-09-11, zest, 		156528, Del Myers,			<100,		irbull,		StaticStaticGraphViewer does not take JFace Viewer Filters into account
-2006-09-12, zest,		154063,	Raphael Ackermann,	<10,		irbull, 	ClassCastException when Empty Selection in Zest View
-2006-09-12,	zest,		156915,	Del Myers,			<10,		irbull,		Nested Graph viewer no longer shrinks with the view port
-2006-10-25, zest,		162306, Del Myers,			<2500,		irbull,		This is actually a patch for a number of smaller changes
-2006-10-25, zest,		159645,	Del Myers,			see 162306,	irbull,		wrong size calculation in StaticGraphViewerImpl.applyLayoutInternal
-2006-10-25, zest,		159647,	Del Myers,			see 162306,	irbull,		Zooming problem in views
-2006-10-25, zest,		159656, Del Myers,			see 162306,	irbull,		tag bug comments are starting to be disorganized
-2006-10-25,	zest,		159667,	Del Myers,			see 162306,	irbull,		ZoomContributionViewItem doesn't check for widget disposal.
-2006-10-25,	zest,		160368, Del Myers,			see 162306, irbull,		label placement on arcs
-2006-10-25,	zest,		160931,	Del Myers,			see 162306,	irbull,		Automatic colouring/width-adjustment based on edge weight causes unexpected results.
-2006-11-15,	zest,		163098, Del Myers,			<500,		irbull,		Rectangle focus tool doesn't work properly in overviewer
-2006-11-15,	zest,		160367, Del Myers,			<2000,		irbull,		Zest: dynamically changeable colors and styles
-2006-12-19,	zest,		162309, Del Myers,			1,			irbull,		Enforce bounds style required on Zest layout package
-2007-08-09,	zest,		198477,	Gerd Castan,		1			irbull,		Zest Core: Compiler error with JDK 1.4
 
 ------------------------- 0.4.0 to 0.4.10 -------------------------
 

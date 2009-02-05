@@ -16,7 +16,7 @@ name including version, IPzilla #, directory location or jar file, license name 
 
 Apache Axis 1.4,					1310,	org.apache.axis Orbit Bundle,				APL 2.0,	web repository connections
 SAAJ 1.2,							1473,	javax.xml.soap Orbit Bundle,				APL 2.0,	web repository connections
-Apache Commons Discovery 0.2,		1474,	org.apache.discovery Orbit Bundle,			APL 2.0,	web repository connections 
+Apache Commons Discovery 0.2,		1474,	org.apache.discovery Orbit Bundle,			APL 1.0,	web repository connections 
 JAXRPC 1.1,							1475,	javax.xml.rpc Orbit Bundle,					CDL,		web repository connections
 WSDL4J 1.6.2,						2906,	javax.wsdl Orbit Bundle,					CPL 1.0,	web repository connections
 Java Servlet API 2.4,				2242,	javax.servlet Orbit Bundle,					APL 2.0,	web repository connections

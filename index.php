@@ -80,8 +80,8 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a href="http://tasktop.com/blog/?p=45">
-		           			Mylyn 3.0.3 released, daylight savings bug fix</a> <i>Oct 16, 2008</i>
+		            		<a href="http://eclipse.org/mylyn/downloads/">
+		           			Mylyn 3.0.4 released</a> <i>Jan 28, 2009</i>
 	            		</li>
 						<li>
 							<table cellspacing="0" cellpadding="0">

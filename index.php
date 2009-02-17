@@ -88,7 +88,7 @@ $html = <<<EOHTML
 									<td width="10>"</td>
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
-								 				Less is More: Redefining the ÒIÓ of the IDE</a></font>
+								 				Less is More: Redefining the "I" of the IDE</a></font>
 								 			<br>by Mik Kersten (Tasktop Technologies) webcast available on Eclipse Live <i>February 17, 2009</i>
 								 		</font>
 								 	</td>

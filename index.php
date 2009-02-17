@@ -80,6 +80,22 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+							<table cellspacing="0" cellpadding="0">
+								<tr>
+									<td><a href="http://live.eclipse.org/node/676">
+										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
+									</td>
+									<td width="10>"</td>
+									<td>
+								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
+								 				Less is More: Redefining the ÒIÓ of the IDE</a></font>
+								 			<br>by Mik Kersten (Tasktop Technologies) webcast available on Eclipse Live <i>February 17, 2009</i>
+								 		</font>
+								 	</td>
+								 </tr>
+							</table>
+						</li>
+						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">
 		           			Mylyn 3.0.4 released</a> <i>Jan 28, 2009</i>
 	            		</li>

@@ -60,9 +60,6 @@
 		<milestone date="01/21/2009" milestone="3.1M1">
 			<html:div>API frozen</html:div>
 		</milestone>
-		<milestone date="01/28/2009" milestone="3.0.4">
-			<html:div>Ganymede service release</html:div>
-		</milestone>
 		<milestone date="02/04/2009" milestone="3.1RC1">
 			<html:div>Release candidate</html:div>
 		</milestone>

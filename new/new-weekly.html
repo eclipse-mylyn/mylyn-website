@@ -3,37 +3,404 @@
 
 <p><b>New & Noteworthy for Mylyn 3.1 weekly builds</b></p>
 
-<p>Also see: 
-<a href="http://eclipse.org/mylyn/new/new.html">Mylyn 3.0</a>, 
-<a href="http://eclipse.org/mylyn/new/new-2.0.html">Mylyn 2.0</a>, 
-<a href="http://eclipse.org/mylyn/new/new-1.0.html">Mylyn 1.0-0.6</a>, <a href="http://eclipse.org/mylyn/new/new-0.5.html">
-Mylyn 0.5</a>,&nbsp;
-<a href="http://eclipse.org/mylyn/new/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/new/new-0.3.html">
-Mylyn 0.3</a></p>
-
 <a href="https://bugs.eclipse.org/bugs/buglist.cgi?short_desc_type=allwordssubstr&short_desc=&product=Mylyn&target_milestone=3.1&long_desc_type=allwordssubstr&long_desc=&keywords_type=allwords&keywords=noteworthy&order=Importance">Query for noteworthy bugs</a>
 
+
+
+<hr>
+
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.1</span> </p>
 <ul>
-<li>local subtasks are enabled by default (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=238498">bug 238498</a>)
-<li>comment text flows to the full width of the task editor (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=237503">bug 237503</a>)
-<li>resolved bug hyperlinks appear in strike-through font (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=167941">bug 167941</a>)
-<li>strike-through works on all platforms and can be disabled in the preferences (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=169916">bug 169916</a>)
-<li>comment are grouped to improve information density(<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=251179">bug 251179</a>)
-<li>new attachments are highlighted in the task editor (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=204051">bug 204051</a>)
-<li>obsolete attachments are shown in a lighter color in the task editor (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215549">bug 215549</a>)
-<li>Bugzilla: custom attributes are supported (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=226851">bug 226851</a>)
-<li>WikiText: extension is configurable from task repository properties (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=244579">bug 244579</a>, <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=253115">bug 253115</a>)
-<p/>
-<li>JIRA: work log entries are shown in the task editor (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=214040">bug 214040</a>)
-<li>Externalization of all strings (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>)
-<p/>
-<li>Ignore resource changes when updating from version control (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=120499">bug 120499</a>)
-<li>Bugzilla: support for Bugzilla 3.2 and flags (requires Bugzilla 3.2) (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=252297">bug 252297</a>, <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=186265">bug 186265</a>)
-<p/>
-<li>support Show In menu for task search (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=260971">bug 260971</a>)
-<li>support Open with Browser for searches (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=261127">bug 261127</a>)
-<li>support deprecating patches (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=152065">bug 152065</a>)
+	<li><a href="#help">Mylyn Help (1)</a></li>
+	<li><a href="#task-list">Task List (3)</a></li>
+	<li><a href="#task-editor">Task Editor (6)</a></li>
+	<li><a href="#focused-ui">Focused UI (1)</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector (4)</a></li>
+	<li><a href="#jira">JIRA Connector (1)</a></li>
+	<li><a href="#wikitext">WikiText (5)</a></li>
 </ul>
+
+<h2><a name="help">Mylyn Help</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table414">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Mylyn Help Integrated</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The Mylyn wiki is a great source of information for both new users and those building upon or integrating with Mylyn. A snapshot of the online wiki is now included in Mylyn releases and is accessible from the main Eclipse Help index (Help > Help Contents > Mylyn).</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/mylyn-help.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2><a name="task-list">Task List</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table414">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Local Subtasks</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Local subtask support is now out of incubation.
+			Create new local subtasks by right+clicking on a local task in te
+			Task List and selecting New Subtask from the popup menu. You can
+			also click the New Subtask button in the Task Editor toolbar and a
+			new Local Subtask will be created.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/local-subtasks.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Show In Task List</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Upon executing a task search the Search results view becomes populated with many tasks that mach the query.  
+			You can locate any one of these tasks within your personal task list (assuming it is already there) by right clicking on the task in the Search results view and selecting Task List from the popup's Show In sub menu. </p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/search-show-in-tasklist.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Open Search with Browser</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The search results popup menu now includes a "Open Search with Browser" action that runs the current search in the default browser.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/search-open-with-browser.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2>&nbsp;</h2>
+<h2><a name="task-editor">Task Editor</a></h2>
+
+
+<table cellpadding="10" cellspacing="0" id="table413">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>WikiText</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The WikiText component is now part of the Mylyn release and is integrated into the Task Editor. Author and preview comments in your choice of 5 popular markup languages:
+</p>
+
+    <ul>
+    <li> Confluence</li>
+    <li> MediaWiki</li>
+    <li>Textile</li>
+    <li>TracWiki</li>
+    <li>TWiki</li>
+    <li>Note: New languages can be integrated via a common WikiText parsing framework</li>
+    </ul>
+    <p>WikiText is configured on a per Task Repository basis. Choose which language you wish to use from the Editor section of the Task Repository preference page:
+    </p>
+    <img border="0" src="images/3.1/wikitext-config.png">
+    <p>
+    	Once a laungage has been chosen, open a task from the repository and type in a comment using wiki language constructs.  Press the preview button, to see how your comment will appear to others using the WikiText support.
+    	Also note how previous comments are rendered correctly according to the wiki language you specified.  Right click on a comment and select "View Source" to see the comment in plain text.
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/wikitext-task-editor.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table413">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Comment text flow</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The task editor's description and comment fields now
+			relow to fill available space when the editor is resized.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.0/comment-flow.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Task Editor Extensibility</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The task editor has become more extensible with
+			introduction of the
+			org.eclipse.mylyn.tasks.ui.taskEditorExtensions and org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings extension points.
+			This extension point is in currenlty leveraged by the new Wikitext
+			integration (see below).</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/editor-extensibility.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Resolved Bugs in Strikethrough</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Hyperlinks to resolved bugs within comments in the Task Editor will now be displayed in strikethrough font. Strikethrough also now works on platforms where this wasn't previsouly available (Linux, Mac).</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/tasks-resolved-strikethrough.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Comment folding</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">When the number of comments on a task is larger i.e. > 20 comments, the comments section will fold comments by date, 
+			grouping them into Recent and Older sections.  This makes working with tasks with a large number of comments much smoother since the editor
+			 is not unnecessarily long due to comments.  Upon opening, new comments are revealed whil old comments are folded.  Pressing the expand all button will expand all comments since your last comment. Press again to unfold older tasks.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/comment-folding.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Attachments Table Decoration</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">New attachments are now highlighted in the attachments table similarly to how attributes are highlighted when new incoming changes arrive. Obsolete/deprecated attachments are grayed out now as well.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/attachments-decorated.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<p class="MsoPlainText">&nbsp; </p>
+<h2><a name="focused-ui">Focused UI</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table409">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved exclusion upon checkout</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Context exclusion has been improved for scenarios such as CVS checkout where a large number of files are brought into the workspace.
+			Formerlly all files would pollute the currently active task context. This has be greatly improved so that only explicitly created resources are contributed to the active task context.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/focus-exlude-checkout.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<h2>&nbsp;</h2>
+
+<h2><a name="bugzilla">Bugzilla Connector</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table416">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Bugzilla 3.2</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Bugzilla 3.2 is supported including the additional custom field types introduced (see below) and new security measures introdued in Bugzilla 3.2.2.</p>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table416">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Custom Fields</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Custom fields (configured server side) are accessible within the Attributes section of the Bugzilla Task Editor.  Field types supported include Free Text,
+ Drop Down, Multiple-Selection Box, Large Text Box, and Date/Time field.
+			</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/bugzilla-custom-attributes.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table416">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Move between products</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Move bugs between existing products via
+			the Task Editor when using a Bugzilla 3.0 and greater repository. Simply chose an
+			alternate product from the Product field and other product
+			specific fiels (i.e. Component) are updated to reflect the options
+			apporopriate for the newly choosen product. Submit your changes and the bug
+			will be moved without any additional dialogs or need to visit the
+			web ui.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/bugzilla-change-product.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table416">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Flags</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Flags on a bug now appear within the Task Editor attributes scection and get decorated when changes are made other team memebrs.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/bugzilla-flags.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<p class="MsoPlainText">&nbsp;</p>
+<h2><a name="jira">JIRA Connector</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table423">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Jira Worklog</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The JIRA worklog is now visible within the JIRA task editor when JIRA 3.12 or later is in use.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/jira-worklog.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<p class="MsoPlainText">&nbsp;</p>
+<h2><a name="wikitext">WikiText</a></h2>
+
+		<table cellpadding="10" cellspacing="0" class="category category1"><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Markup Editor</th><td align="left" valign="top" width="70%">
+				<p>
+				WikiText provides an integrated source editor for authoring files containing wiki markup.
+				The editor provides content assist, validation, folding, source formatting, an integrated preview, 
+				structured outline and a markup cheat-sheet.
+				</p>
+				<img src="images/3.1/wikitext-editor.png"/>
+				<p>
+				The WikiText editor is aware of 5 markup languages and is capable of supporting others via the common WikiText parsing framework.
+				The following markup languages are currently recognized.
+				</p>
+				<ul>
+					<li>Confluence</li>
+					<li>MediaWiki</li>
+					<li>Textile</li>
+					<li>TracWiki</li>
+					<li>TWiki</li>
+				</ul>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Markup Conversion</th><td align="left" valign="top" width="70%">
+				<p>
+				WikiText can convert lightweight markup to other formats including Eclipse Help, HTML, DocBook and DITA.  Conversion may be performed
+				within Eclipse or from Ant.
+				</p>
+				<img src="images/3.1/wikitext-generate-menu.png"/>
+				<p>
+				The conversion framework is extensible and can support alternative output formats by extending a simple Document Builder API.
+				</p>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Content Assist</th><td align="left" valign="top" width="70%">
+				<p>
+				Using markup is easy with WikiText in part due to content assist in the editor.  Suggestions are provided in the editor when CTRL+Space is pressed,
+				making it easy to insert bold, italics, bulleted lists, headings and other markup.  
+				</p>
+				<img src="images/3.1/wikitext-content-assist.png"/>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Cheat Sheet</th><td align="left" valign="top" width="70%">
+				<p>
+				If you forget markup syntax, pressing F1 in the editor will bring up a cheat sheet with markup language tips and syntax hints.
+				</p>
+				<img src="images/3.1/wikitext-cheatsheet.png"/>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Preferences</th><td align="left" valign="top" width="70%">
+				<p>
+				The appearance of the source editor and preview can be altered easily with workspace preferences.  CSS is used to specify exactly how you would like
+				the markup to appear.  This gives you ultimate control over the appearance of the editor, editor preview and the Mylyn task editor.
+				</p>
+				<img src="images/3.1/wikitext-preferences.png"/>
+			</td></tr></table>
+
 
 </body>
 </html>

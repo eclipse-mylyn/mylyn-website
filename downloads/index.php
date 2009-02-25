@@ -163,15 +163,15 @@ $html = <<<EOHTML
 		</div>
 		
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>WikiText Stand-Alone (Incubation)&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
 			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
 			<ul>
 					<li>
-						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest_incubation.zip">
+						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-wikitext-standalone-latest.zip">
 							<img border=0 src="/mylyn/images/icon-save.gif">
 						</a>
-						&nbsp;&nbsp;<b>Download Wikitext Standalone (latest)</b>
+						&nbsp;&nbsp;<b>Download WikiText Standalone (latest)</b>
 		        	</li>
 			</ul>	
 		</div>

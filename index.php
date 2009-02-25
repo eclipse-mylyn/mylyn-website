@@ -97,7 +97,7 @@ $html = <<<EOHTML
 						</li>
 						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">
-		           			Mylyn 3.0.4 released</a> <i>Jan 28, 2009</i>
+		           			Mylyn 3.0.5 released</a> <i>Feb 18, 2009</i>
 	            		</li>
 						<li>
 							<table cellspacing="0" cellpadding="0">

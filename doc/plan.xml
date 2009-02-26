@@ -60,19 +60,10 @@
 		<milestone date="01/21/2009" milestone="3.1M1">
 			<html:div>API frozen</html:div>
 		</milestone>
-		<milestone date="02/04/2009" milestone="3.1RC1">
+		<milestone date="03/04/2009" milestone="3.1RC">
 			<html:div>Release candidate</html:div>
 		</milestone>
-		<milestone date="02/11/2009" milestone="3.1RC2">
-			<html:div>Release candidate</html:div>
-		</milestone>
-		<milestone date="02/18/2009" milestone="3.1RC3">
-			<html:div>Release candidate</html:div>
-		</milestone>
-		<milestone date="02/25/2009" milestone="3.1RC4">
-			<html:div>Release candidate</html:div>
-		</milestone>
-		<milestone date="03/04/2009" milestone="3.1">
+		<milestone date="03/17/2009" milestone="3.1">
 			<html:div>General availability</html:div>
 		</milestone>
 		<milestone date="06/25/2009" milestone="3.2">

@@ -196,6 +196,7 @@ Developers
 2009-01-29, bugzilla,	260963, Frank Becker,		<150,		relves,		Bugzilla version string compar fix
 2009-02-02, bugzilla,	259434, Hiroyuki Inaba,		<50,		relves,		attachment parsing internationalization
 2009-02-02, tasks,		246149, David Shepherd,		<150,		spingel,	delete tasks and queries when repository is deleted
+2009-02-26, resources,	263870, David Shepherd, 	<50,		mkersten,	filter preservation fix
 
 ------------------------- 3.0.4 -------------------------
 2009-01-20, bugzilla,	252297, Frank Becker,		<150,		spingel,	status change support for Bugzilla 3.2

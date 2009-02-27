@@ -89,7 +89,7 @@ $html = <<<EOHTML
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
 								 				Less is More: Redefining the "I" of the IDE</a></font>
-								 			<br>by Mik Kersten (Tasktop Technologies) webcast available on Eclipse Live <i>February 17, 2009</i>
+								 			<br>by Mik Kersten (Tasktop), W-JAX keynote discussing Mylyn and the task-focused interface<i>February 17, 2009</i>
 								 		</font>
 								 	</td>
 								 </tr>
@@ -100,21 +100,10 @@ $html = <<<EOHTML
 		           			Mylyn 3.0.5 released</a> <i>Feb 18, 2009</i>
 	            		</li>
 						<li>
-							<table cellspacing="0" cellpadding="0">
-								<tr>
-									<td><a href="http://live.eclipse.org/node/573">
-										<img border=0 src="/mylyn/images/ECLP_webinar.gif"></a>
-									</td>
-									<td width="10>"</td>
-									<td>
-								 		<font size="+1"><a href="http://live.eclipse.org/node/573">
-								 			<a href="http://live.eclipse.org/node/573">
-								 				Mylyn 3.0: Code at the Speed of Thought</a></font>
-								 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live <i>July 30, 2008</i>
-								 		</font>
-								 	</td>
-								 </tr>
-							</table>
+							<a href="http://live.eclipse.org/node/573">
+								 <a href="http://live.eclipse.org/node/573">
+								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
+								 	<br>by Mik Kersten (Tasktop) webcast on Eclipse Live <i>July 30, 2008</i>
 						</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">

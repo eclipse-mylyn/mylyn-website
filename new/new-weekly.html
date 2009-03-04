@@ -15,7 +15,7 @@
 	<li><a href="#task-list">Task List (4)</a></li>
 	<li><a href="#task-editor">Task Editor (7)</a></li>
 	<li><a href="#focused-ui">Focused UI (1)</a></li>
-	<li><a href="#bugzilla">Bugzilla Connector (5)</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector (4)</a></li>
 	<li><a href="#jira">JIRA Connector (2)</a></li>
 	<li><a href="#wikitext">WikiText (5)</a></li>
 </ul>
@@ -157,12 +157,15 @@
     </ul>
     <p>WikiText is configured on a per Task Repository basis. Choose which language you wish to use from the Editor section of the Task Repository preference page:
     </p>
-    <img border="0" src="images/3.1/wikitext-config.png">
     <p>
     	Once a laungage has been chosen, open a task from the repository and type in a comment using wiki language constructs.  Press the preview button, to see how your comment will appear to others using the WikiText support.
     	Also note how previous comments are rendered correctly according to the wiki language you specified.  Right click on a comment and select "View Source" to see the comment in plain text.
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/wikitext-task-editor.png"></td>
+			Authoring:<br/>
+			<img border="0" src="images/3.1/wikitext-editor-author.png"></p>
+			<p>
+			Previewing:<br/>
+			<img border="0" src="images/3.1/wikitext-editor-preview.png"></p></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -179,7 +182,7 @@
 			<td valign="top" width="70%">
 			<p align="left">Tasks can be scheduled through the Schedule Task button in the Task List toolbar.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.0/comment-flow.png"></td>
+			<img border="0" src="images/3.1/taskeditor-schedule-for.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -208,13 +211,11 @@
 <table cellpadding="10" cellspacing="0" id="table413">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Comment text flow</b></p>
+			<p align="right"><b>Comment Text Flow</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The task editor's description and comment fields now
-			reflow to fill available space when the editor is resized.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.0/comment-flow.png"></td>
+			<p align="left">Text in the task editor's description and comment fields
+			now reflow to fill available space when the editor is resized.</p>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -234,9 +235,7 @@
 			introduction of the
 			<code>org.eclipse.mylyn.tasks.ui.taskEditorExtensions</code> and <code>org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings</code> extension points.
 			This extension point is in currently leveraged by the new Wikitext
-			integration (see below).</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/editor-extensibility.png"></td>
+			integration. For example use of this extension point see org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml.</p>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -294,7 +293,7 @@
 			<p align="left">Context exclusion has been improved for scenarios such as CVS checkout where a large number of files are brought into the workspace.
 			Formerly all files would pollute the currently active task context. This has be greatly improved so that only explicitly created resources are contributed to the active task context.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/focus-exlude-checkout.png"></td>
+			<img border="0" src="images/3.1/focus-exclude-checkout.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -331,7 +330,7 @@
 			<td valign="top" width="70%">
 			<p align="left">Right click on attachments to mark as deprecated.  Obsolete/deprecated attachments are grayed out and new incoming attachments are highlighted.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/attachments-decorated.png"></td>
+			<img border="0" src="images/3.1/taskeditor-attachment-obsolete.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -343,12 +342,13 @@
 <table cellpadding="10" cellspacing="0" id="table416">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Custom Fields</b></p>
+			<p align="right"><b>Custom Fields and Flags</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p align="left">Custom fields (configured server side) are accessible within the Attributes section of the Bugzilla Task Editor.  Field types supported include Free Text,
  Drop Down, Multiple-Selection Box, Large Text Box, and Date/Time field.
 			</p>
+			<p align="left">Flags on a bug now appear within the Task Editor attributes scection and get decorated when changes are made other team memebrs.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/bugzilla-custom-attributes.png"></td>
 		</tr>
@@ -373,7 +373,7 @@
 			will be moved without any additional dialogs or need to visit the
 			web ui.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/bugzilla-change-product.png"></td>
+			<img border="0" src="images/3.1/bugzilla-product-selection.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -382,22 +382,6 @@
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" id="table416">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Flags</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">Flags on a bug now appear within the Task Editor attributes scection and get decorated when changes are made other team memebrs.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/bugzilla-flags.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
 
 <p class="MsoPlainText">&nbsp;</p>

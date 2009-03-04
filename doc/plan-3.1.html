@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Project Plan for Mylyn 3.1</title>
+</head>
+<body>
+<h1><span style="font-size: 140%">Project Plan For
+                        <a href="http://www.eclipse.org/projects/project_summary.php?projectid=tools.mylyn">Mylyn</a></span>, version 3.1</h1><div id="toc"><p><a name="toc"><strong>Table of Contents</strong></a></p><ul><li><a href="#introduction">Introduction</a></li><li><a href="#release_deliverables">
+                       Release Deliverables
+                    </a></li><li><a href="#release_milestones">
+                       Release Milestones
+                    </a></li><li><a href="#target_environments">
+                        Target Environments
+                    </a></li><li><a href="#compatibility">
+                        Compatibility with Previous Releases
+                    </a></li><li><a href="#themes_and_priorities">
+                        Themes and Priorities
+                    </a></li></ul></div><h2><a name="introduction">Introduction</a></h2><div>
+      <p>The first goal
+	of <a href="http://www.eclipse.org/mylyn">Mylyn</a> is to make
+	task and context management seamlessly integrated with the
+	Eclipse Platform by providing rich and extensible frameworks for
+	task repository connectors, structure bridges and team
+	support. The second goal is to provide a reference implementation
+	of the Task-Focused UI for the Eclipse SDK. This includes
+	structure bridges for the artifacts supported by the SDK which
+	include Java, PDE, Ant and generic files. It also includes the
+	Bugzilla Connector as the reference task repository
+	implementation, and CVS integration as the reference team
+	support. Additional features can be considered based on the
+	availability community contributions and resources.
+      </p>
+    </div><h2><a name="release_deliverables">Release Deliverables</a></h2><div>
+      <ul>
+	<li><b>Tasks Framework</b></li>
+	<li><b>Task-focused Interface</b>
+	  <ul>
+	    <li>Focused UI</li>
+	    <li>Eclipse IDE Bridge</li>
+	    <li>Java Development Bridge</li>
+	    <li>Plug-in Development Bridge</li>
+	    <li>Team Support Bridge</li>
+	  </ul>
+	</li>
+	<li><b>Bugzilla Connector</b></li>
+	<li><b>JIRA Connector</b></li>
+	<li><b>Trac Connector</b></li>
+	<li><b>XPlanner Connector</b></li>
+	<li><b>WikiText</b></li>
+	<li><b>SDK Features</b>
+	  <ul>
+	    <li>Mylyn SDK</li>
+	    <li>Mylyn Extras SDK</li>
+	  </ul>
+	</li>
+      </ul>
+    </div><p><a href="#toc">Table of Contents</a></p><h2><a name="release_milestones">Release Milestones</a></h2><div>
+      			<p>The plan and roadmap dates are listed in the Mylyn Calendar 
+      			(view as <a href="http://www.google.com/calendar/ical/kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com/public/basic.ics">iCal</a> 
+      			or <a href="http://www.google.com/calendar/embed?src=kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com">html</a>) and on the 
+      			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
+			</div><table border="1" align="center"><tr><td><b>3.1M1</b></td><td>01/21/2009</td><td><div>API frozen</div></td></tr><tr><td><b>3.1RC</b></td><td>03/04/2009</td><td><div>Release candidate</div></td></tr><tr><td><b>3.1</b></td><td>03/17/2009</td><td><div>General availability</div></td></tr><tr><td><b>3.2</b></td><td>06/25/2009</td><td><div>Galileo release (tentative)</div></td></tr></table><p><a href="#toc">Table of Contents</a></p><h2><a name="target_environments">Target Environments</a></h2><div>
+      <p>Mylyn is designed to run on version 1.5.0 of the Java
+	Runtime Environment, Standard Edition.</p> 
+
+      <p>Mylyn will support the following Eclipse releases:
+
+	<ul>
+	  <li>Eclipse 3.5 (latest milestone)</li>
+	  <li>Eclipse 3.4</li>
+	  <li>Eclipse 3.3</li>
+	</ul>
+      </p>
+
+      <p>
+	<table summary="Test Platforms" style="width: 821px;" border="1">
+	  
+	    <tr style="background:#cccccc">
+	      <th colspan="6" align="center">
+		<big><strong>Test Platforms</strong></big>
+	      </th>
+	    </tr>
+	    <tr>
+	      <td><b>Operating system</b></td>
+	      <td><b>OS version</b></td>
+	      <td><b>Processor architecture</b></td>
+	      <td><b>Window system</b></td>
+	      <td><b>Java 2 Platform</b></td>
+	      <td><b>Eclipse Release</b></td>
+	    </tr>
+	    <th colspan="6" align="center">
+	      <big><strong>Manual Tests</strong></big>
+	    </th>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>Vista</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.5 (latest milestone)</td>
+	    </tr>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>Vista</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.4</td>
+	    </tr>
+	    <tr>
+	      <td>Microsoft Windows</td>
+	      <td>XP</td>
+	      <td>x86-32</td>
+	      <td>Win32</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.3</td>
+	    </tr>
+	    <tr>
+	      <td>Ubuntu Linux</td>
+	      <td>8.10</td>
+	      <td>x86-32</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.4</td>
+	    </tr>
+	    <tr>
+	      <td>Apple Mac OS X</td>
+	      <td>10.5</td>
+	      <td>Power</td>
+	      <td>Carbon</td>
+	      <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
+		<td>Eclipse 3.4</td>
+	      </td>
+	    </tr>
+	    <th colspan="6" align="center">
+	      <big><strong>Automated Tests</strong></big>
+	    </th>
+	    <tr>
+	      <td>SuSE Linux</td>
+	      <td>10</td>
+	      <td>x86-32</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Eclipse 3.5, Eclipse 3.4, Eclipse 3.3</td>
+	    </tr>
+	  
+	</table>
+      </p>
+    </div><h3>Internationalization</h3>
+			<div>
+	Strings in all non-incubation plug-ins and features will be externalized and available for translation through Eclipse Babel. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
+	for details.
+      		</div>
+		<p><a href="#toc">Table of Contents</a></p><h2><a name="compatibility">Compatibility with Previous Releases</a></h2><div>
+      <p><strong>API Contract Compatibility:</strong> Mylyn 3.1 will be backward compatible with Mylyn 3.0.
+      </p>
+      <p><strong>Binary (plug-in) Compatibility:</strong> Mylyn 3.1 will be binary compatible with Mylyn 3.0. 
+      </p>
+      <p><strong>Source Compatibility:</strong> Mylyn 3.1 will not by be source compatible with previous versions.  
+      </p>
+      <p><strong>Workspace Compatibility:</strong> We intend to keep Mylyn
+	3.1 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
+	This means that workspaces created with Mylyn 2.0 can be successfully 
+	opened by Mylyn 3.1 and upgraded to a 3.1 workspace.
+      </p>
+    </div><p><a href="#toc">Table of Contents</a></p><h2><a name="themes_and_priorities">Themes and Priorities</a></h2><div>
+	<p>
+	  In addition to using the planned themes listed below, we need to
+	  continue prioritizing the ongoing input of our growing user
+	  community. Committers should prioritize bugs in the following order.
+	  This order need not be used if a bug contains a community
+	  contribution of a patch, in which case the quality of the patch
+	  determines the priority.
+	</p>
+	<p>
+	  <ul>
+	    <li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>		
+ 	    <li>UI: Task List, Task Editor, Task-focused Interface</li>
+ 	    <li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
+ 	    <li>WikiText</li>
+	  </ul>
+	</p>
+	<p>
+	  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.1&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bug scheduled for Mylyn 3.1</a>
+	</p>
+      </div><h3>Framework and API</h3><div/><ul><li><b>Committed</b><ul><li>[api] remove deprecated classes [<a href="http://bugs.eclipse.org/237552">237552</a>] <strike>(target milestone: 3.1)</strike></li></ul></li></ul><ul><li><b>Proposed</b><ul><li>[api] extension for repository properties wizard page [<a href="http://bugs.eclipse.org/244653">244653</a>] <strike>(target milestone: 3.1)</strike></li><li>[api] update layout of repository settings page [<a href="http://bugs.eclipse.org/242445">242445</a>] <strike>(target milestone: 3.1)</strike></li><li>[api] provide common utility classes for form based editors [<a href="http://bugs.eclipse.org/243828">243828</a>] <strike>(target milestone: 3.1)</strike></li><li>[api] move task editor extension out of the sandbox [<a href="http://bugs.eclipse.org/244579">244579</a>] <strike>(target milestone: 3.1)</strike></li></ul></li></ul><ul><li><b>Deferred</b><ul><li>[api] provide a mapping between task attributes and attribute editors [<a href="http://bugs.eclipse.org/248369">248369</a>] (target milestone: 3.2)</li><li>[api] [externalization] make externalization framework extensible [<a href="http://bugs.eclipse.org/248367">248367</a>] (target milestone: 3.2)</li></ul></li></ul><h3>User Interface</h3><div/><ul><li><b>Committed</b><ul><li>externalize Mylyn UI Strings, Labels, Messages to support internationalization [<a href="http://bugs.eclipse.org/215116">215116</a>] <strike>(target milestone: 3.1)</strike></li></ul></li></ul><ul><li><b>Proposed</b><ul><li>support moving bugs across products [<a href="http://bugs.eclipse.org/166595">166595</a>] <strike>(target milestone: 3.1)</strike></li><li>provide one click task creation [<a href="http://bugs.eclipse.org/244553">244553</a>] <strike>(target milestone: 3.1)</strike></li><li>Move WikiText out of incubator, task editor extension out of sandbox [<a href="http://bugs.eclipse.org/244650">244650</a>] <strike>(target milestone: 3.1)</strike></li></ul></li></ul><ul><li><b>Deferred</b><ul><li>provide find functionality for task editor [<a href="http://bugs.eclipse.org/134165">134165</a>] (target milestone: 3.2)</li><li>provide more flexibility for showing child tasks in task list and fix subtask querying [<a href="http://bugs.eclipse.org/239378">239378</a>] (target milestone: 3.2)</li><li>streamline the organization and presentation of the Task List and Task Editor popup menu [<a href="http://bugs.eclipse.org/211012">211012</a>] (target milestone: 3.2)</li><li>merge the local and the repository task editors [<a href="http://bugs.eclipse.org/211096">211096</a>] (target milestone: 3.2)</li><li>provide a flexible bug reporting facility [<a href="http://bugs.eclipse.org/212209">212209</a>] (target milestone: 3.2)</li><li>redesign task list content provider [<a href="http://bugs.eclipse.org/248377">248377</a>] (target milestone: 3.2)</li><li>improve the task editor usability and information density [<a href="http://bugs.eclipse.org/158921">158921</a>] (target milestone: 3.2)</li><li>streamline local task editor ui [<a href="http://bugs.eclipse.org/189312">189312</a>] (target milestone: 3.2)</li></ul></li></ul><p><a href="#toc">Table of Contents</a></p>
+</body>
+</html>

@@ -20,9 +20,9 @@ before installing Mylyn 3.0.</p>
 <p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.1</span> </p>
 <ul>
 	<li><a href="#help">Mylyn Help (1)</a></li>
-	<li><a href="#task-list">Task List (4)</a></li>
+	<li><a href="#task-list">Task List (5)</a></li>
 	<li><a href="#task-editor">Task Editor (7)</a></li>
-	<li><a href="#focused-ui">Focused UI (1)</a></li>
+	<li><a href="#task-context">Task Context (1)</a></li>
 	<li><a href="#bugzilla">Bugzilla Connector (4)</a></li>
 	<li><a href="#jira">JIRA Connector (3)</a></li>
 	<li><a href="#wikitext">WikiText (5)</a></li>
@@ -36,7 +36,8 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Mylyn Help Integrated</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The Mylyn wiki is a great source of information for both new users and those building upon or integrating with Mylyn. A snapshot of the online wiki is now included in Mylyn releases and is accessible from the main Eclipse Help index (Help > Help Contents > Mylyn).</p>
+			<p align="left">The Mylyn wiki is a great source of information for both new users and those building upon or integrating with Mylyn. A snapshot of the online wiki is now included in Mylyn releases and is accessible from the main Eclipse Help index (Help > Help Contents > <b>Tasks</b>).</p>
+			<p align="left">The automated inclusion of Mylyn's wiki is possible thanks to <a href="#wikitext">WikiText</a> technology.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/mylyn-help.png"></td>
 		</tr>
@@ -53,7 +54,8 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Mylyn Internationalization</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">Mylyn has been internationalized and through the <a href="http://babel.eclipse.org/babel/">Eclipse Babel</a> project, users help translate Mylyn to other languages.</p>
+			<p align="left">Mylyn has been internationalized and through the <a href="http://babel.eclipse.org/babel/">Eclipse Babel</a> project, users can help translate Mylyn to other languages.</p>
+			<p align="left">Visit the <a href="http://babel.eclipse.org/babel/translate.php">Babel translate page</a>, select the target language and under Projects choose <b>tools.mylyn</b>, and then choose the latest version.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/mylyn-i18n.png"></td>
 		</tr>
@@ -97,6 +99,24 @@ before installing Mylyn 3.0.</p>
 			new Local Subtask will be created.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/local-subtasks.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table414">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Repository Settings Page</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The Task Repository settings page has been streamlined and now includes a Task Editor Settings section where the <a href="#wikitext">WikiText</a> dialect can be chosen for your Task Editor.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/task-repository-settings-page.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -156,8 +176,8 @@ before installing Mylyn 3.0.</p>
 </p>
 
     <ul>
-    <li> Confluence</li>
-    <li> MediaWiki</li>
+    <li>Confluence</li>
+    <li>MediaWiki</li>
     <li>Textile</li>
     <li>TracWiki</li>
     <li>TWiki</li>
@@ -165,9 +185,11 @@ before installing Mylyn 3.0.</p>
     </ul>
     <p>WikiText is configured on a per Task Repository basis. Choose which language you wish to use from the Editor section of the Task Repository preference page.
     </p>
+    <p align="left">Note also that text in the task editor's description and comment fields
+			will now reflow to fill available space when the editor is resized.</p>
     <p>
     	Once a laungage has been chosen, open a task from the repository and type in a comment using wiki language constructs.  Press the preview button, to see how your comment will appear to others using the WikiText support.
-    	Also note how previous comments are rendered correctly according to the wiki language you specified.  Right click on a comment and select "View Source" to see the comment in plain text.
+    	Also note how previous comments are rendered correctly according to the wiki language you specified.  Right click on a comment and select "View Unformatted Text" to see the comment in plain text.
 			<p class="MsoPlainText">
 			Authoring:<br/>
 			<img border="0" src="images/3.1/wikitext-editor-author.png"></p>
@@ -188,7 +210,7 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Schedule Task Toolbar Button</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">Tasks can be scheduled through the Schedule Task button in the Task List toolbar.</p>
+			<p align="left">Tasks can be scheduled through the Schedule Task button in the Task Editor toolbar. The button's default action (which results from pressing the button instead of choosing from the drop down) will schedule the task for Today.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/taskeditor-schedule-for.png"></td>
 		</tr>
@@ -205,45 +227,10 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Add Tasks not in Task List</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">When a task is opened that doesn't exists in your Task List (i.e. when opening a search hit in the Search View), a hyperlinked message is displayed in the editor's banner. Click the link to add the task to your Task List.</p>
+			<p align="left">When a task is opened that doesn't exists in your Task List (i.e. when opening a search hit in the Search View), a hyperlinked message is displayed in the editor's banner. Click the link to add the task to the Uncategorized category within your Task List.</p>
+			<p align="left">We recommend adjusting the queries in the task list to encompass all tasks you are interested in so that this doesn't become a standard workflow.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.1/add-task.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table413">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Comment Text Flow</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">Text in the task editor's description and comment fields
-			now reflow to fill available space when the editor is resized.</p>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-
-<table cellpadding="10" cellspacing="0" id="table415">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Task Editor Extensibility</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">The task editor has become more extensible with
-			introduction of the
-			<code>org.eclipse.mylyn.tasks.ui.taskEditorExtensions</code> and <code>org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings</code> extension points.
-			This extension point is in currently leveraged by the new Wikitext
-			integration. For example use of this extension point see org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml.</p>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -290,7 +277,7 @@ before installing Mylyn 3.0.</p>
 
 
 <p class="MsoPlainText">&nbsp; </p>
-<h2><a name="focused-ui">Focused UI</a></h2>
+<h2><a name="task-context">Task Context</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table409">
 		<tr>
@@ -398,7 +385,7 @@ before installing Mylyn 3.0.</p>
 <table cellpadding="10" cellspacing="0" id="table423">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Jira Worklog</b></p>
+			<p align="right"><b>JIRA Worklog</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p align="left">The JIRA worklog is now visible within the JIRA task editor when JIRA 3.12 or later is in use.</p>
@@ -494,6 +481,29 @@ before installing Mylyn 3.0.</p>
 				<img src="images/3.1/wikitext-preferences.png"/>
 			</td></tr></table>
 
+
+
+<p class="MsoPlainText">&nbsp;</p>
+<h2><a name="wikitext">Framework and API</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Task Editor Extensibility</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The task editor has become more extensible with
+			introduction of the
+			<code>org.eclipse.mylyn.tasks.ui.taskEditorExtensions</code> and <code>org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings</code> extension points.
+			This extension point is currently leveraged by the new WikiText
+			integration. For example use of this extension point see org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml.</p>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 </body>
 </html>

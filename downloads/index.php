@@ -163,7 +163,7 @@ $html = <<<EOHTML
 		</div>
 		
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/Mylyn/Incubator/WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
 			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
 			<ul>

@@ -5,7 +5,7 @@
 	#****************************************************************************
 	
 	#
-	$pageTitle 		= "Mylyn New & Noteworthy";
+	$pageTitle 		= "Mylyn";
 	$pageKeywords	= "Mylar, Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	

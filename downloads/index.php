@@ -30,7 +30,6 @@ $html = <<<EOHTML
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
-			 <p>&nbsp;&nbsp;
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				&nbsp;<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
 				Vote on EPIC: </a>&nbsp;&nbsp;
@@ -47,7 +46,7 @@ $html = <<<EOHTML
 				<option>1</option>
 				</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 				</form>
-			  </p>
+			  
 		</div>    
 
 		<div class="sideitem">

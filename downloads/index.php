@@ -27,27 +27,25 @@
 		
 $html = <<<EOHTML
 
-	<div style="margin-left:30px; margin-top:20px;">
-        		<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
-					<h6>Support Mylyn</h6>
-					 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-						Vote on EPIC</a><br>
-						<select name="rating">
-						<option selected>10</option>
-						<option>9</option>
-						<option>8</option>
-						<option>7</option>
-						<option>6</option>
-						<option>5</option>
-						<option>4</option>
-						<option>3</option>
-						<option>2</option>
-						<option>1</option>
-						</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
-						</form>
-				</div>    
-		</div>		
+	<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
+		<h6>Support Mylyn</h6>
+		 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+			<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
+			Vote on EPIC</a><br>
+			<select name="rating">
+			<option selected>10</option>
+			<option>9</option>
+			<option>8</option>
+			<option>7</option>
+			<option>6</option>
+			<option>5</option>
+			<option>4</option>
+			<option>3</option>
+			<option>2</option>
+			<option>1</option>
+			</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
+			</form>
+	</div>    
 
 	<div style="margin-top:30px;margin-left:40px; width: 70%">
 		        	<p>

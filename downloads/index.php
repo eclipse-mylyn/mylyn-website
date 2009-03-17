@@ -30,7 +30,7 @@ $html = <<<EOHTML
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
-			 <div style="margin-top:10px;margin-left:10px; >
+			 <div style="margin-top:10px; margin-left:10px;">
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<!--
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">

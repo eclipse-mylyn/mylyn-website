@@ -80,7 +80,7 @@ $html = <<<EOHTML
 						<tr>
 			      			<td><font size=+0><a href="/mylyn/support">Support</a></font></td> 
 						</tr>
-						<tr><td>Community and commercial support resources</td></tr>
+						<tr><td>Community and commercial support</td></tr>
 					</table>
 				</td>
 				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>

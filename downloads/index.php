@@ -49,7 +49,9 @@ $html = <<<EOHTML
 						</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 						</form></p>
 				</div>    
-				<div style="margin-top:30pt;margin-left: 20pt; width: 70%">
+		</div>		
+
+	<div style="margin-top:30pt;margin-left: 20pt; width: 70%">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  
@@ -57,9 +59,7 @@ $html = <<<EOHTML
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
 			        </p>
-    			</div>
-			        
-		</div>		
+    </div>
 
 	<div style="border:none; margin-left:40px; width:75%;">
 		<table border="0" cellpadding="3"> 

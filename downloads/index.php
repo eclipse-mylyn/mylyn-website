@@ -184,6 +184,12 @@ $html = <<<EOHTML
 				</tr> 
 			</table>
 		</div>
+		
+
+	<div align="center">		
+		<font color="#444444">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
+					Software User Agreement</a> unless otherwise specified.</font>
+	</div>
 	<!--	
 	<div id="rightcolumn" style="padding-right: 20px">
 		<div class="sideitem">

@@ -57,7 +57,7 @@ $html = <<<EOHTML
 			        Task List with bug/task/issue trackers and project management tools.  
 			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 			        The preferred way of installing is via the 
-					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
+					<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Update Manager (instructions available)</a>.
 			        </p>
 				
     </div>
@@ -98,7 +98,7 @@ $html = <<<EOHTML
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>3.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>3.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2009-03-17). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
 			<ul> 
 				<li>

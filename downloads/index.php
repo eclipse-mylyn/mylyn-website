@@ -49,6 +49,13 @@ $html = <<<EOHTML
 		  </li></ul>
 	</div>    
 
+	<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
+		<h6>Announce List</h6>
+		 <ul><li>
+			Get notified of Mylyn releases.
+		  </li></ul>
+	</div>    
+
 	<div style="margin-top:30px;margin-left:40px; width: 75%">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the

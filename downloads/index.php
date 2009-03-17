@@ -135,7 +135,7 @@ $html = <<<EOHTML
 	
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 	    	<a name="weekly"></a>
-			<h3>3.x Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>3.2 Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>

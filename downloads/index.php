@@ -22,8 +22,6 @@
 	# Paste your HTML content between the EOHTML markers!	
 	
 	include("/mylyn/_sideCommon.php");
-	include("/mylyn/_sideFeedback.php");
-	include("/mylyn/_sideSubscribe.php");
 		
 $html = <<<EOHTML
 

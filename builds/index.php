@@ -30,8 +30,7 @@
 
 <div id="maincontent">
 	<div id="midcolumn">  
-		Back to the <a href="/mylyn/downloads/">Mylyn Downloads Page</a>
-		<br>&nbsp;
+		<p>Go back to the <a href="/mylyn/downloads/">Mylyn Downloads Page</a></p>
 		<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 		Software User Agreement</a> unless otherwise specified.</p>
 
@@ -60,6 +59,7 @@
 	        </ul>
 		</div>
 
+>>>>>>> 1.42
 		<div class="homeitem3col">
 			<h3>3.1.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
@@ -447,7 +447,7 @@
 		</div>
 		
 		<div class="homeitem3col"> 
-			<h3>2.0 Release</h3> 
+			<h3>2.0 Release (supports Eclipse 3.2)</h3> 
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.0.0/mylyn-2.0.0-e3.3.zip&r=1">
@@ -556,6 +556,24 @@
 					Older: <b>download.eclipse.org/technology/mylar/update-site-archive/0.x.x/e3.x</b>
 				</li>
 			</ul>
+		</div>
+ 	
+ 		<div class="homeitem3col"> 
+			<h3>API Baselines (for contributors)</h3> 
+			<ul>
+				<li> 
+					<a title="Mylyn 3.0.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/mylyn-3.0.0-api.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.0.0 API Baseline</b>
+				</li>
+				<li>
+					<a title="Mylyn 2.3.2" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/2.3.2/mylyn-2.3.2-api.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 2.3.2 API Baseline</b>
+	        	</li>
+	        </ul>
 		</div>
  	
  		<!--

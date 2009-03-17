@@ -25,7 +25,6 @@
 		
 $html = <<<EOHTML
 
-
 	<div id="rightcolumn">
 		$sideCommon
 	</div>

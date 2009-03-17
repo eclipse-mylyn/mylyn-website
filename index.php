@@ -80,6 +80,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
+		           			Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
+	            		</li>
+						<li>
 							<table cellspacing="0" cellpadding="0">
 								<tr>
 									<td><a href="http://live.eclipse.org/node/676">
@@ -88,7 +92,7 @@ $html = <<<EOHTML
 									<td width="10>"</td>
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
-								 				Less is More: Redefining the "I" of the IDE</a></font>
+								 				Webcast: Redefining the "I" of the IDE</a></font>
 								 			<br>by Mik Kersten (Tasktop), W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
 								 		</font>
 								 	</td>
@@ -105,17 +109,15 @@ $html = <<<EOHTML
 								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
 								 	<br>by Mik Kersten (Tasktop) webcast on Eclipse Live <i>July 30, 2008</i>
 						</li>
+						<!--
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>
 	            		</li>
-						
-						<!--
 						<li>
 		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
 		           			Mylyn 2.0 tutorial articles</a>, developerWorks <i>Aug. 14, 2007</i>
 	            		</li>
-	            		
 						<li>
 		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">
 		           			See the Mylyn Extensions listing</a> for available connectors

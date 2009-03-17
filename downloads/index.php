@@ -27,7 +27,7 @@
 		
 $html = <<<EOHTML
 
-	<div style="margin-left:10px; margin-top:20px;">
+	<div style="margin-left:30px; margin-top:20px;">
         	<!--<div style="float:right; margin-right: 30pt;"><img src="/mylyn/images/install-overview.gif"/></div>-->
         		<!-- <img style="margin:20px;" src="/mylyn/images/downloads.gif" align="left"/> -->
         		<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
@@ -58,7 +58,8 @@ $html = <<<EOHTML
 			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
 			        The preferred way of installing is via the 
 					<a href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation">Update Manager (instructions available)</a>.
-			        </p>
+			        <a href="http://www.eclipse.org/legal/epl-v10.html">License:</a> Eclipse Public License (EPL), <a href="http://www.eclipse.org/legal/eplfaq.php">FAQ</a></li>
+				
     </div>
 
 	<div style="border:none; margin-left:40px; width:75%;">

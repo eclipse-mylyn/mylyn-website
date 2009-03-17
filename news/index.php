@@ -6,7 +6,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Mylyn Archive";
+	$pageTitle 		= "Eclispe Mylyn - Archive";
 	$pageKeywords	= "Mylar, Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	

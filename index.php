@@ -51,7 +51,7 @@ $html = <<<EOHTML
 				          			<td><font size=+1><a href="/mylyn/support">Support</a></font></td>
 								</tr>
 								<tr>
-					          		<td>Find support and interact with users and developers</td>
+					          		<td>Find support and interact with users and developers.</td>
 					          	</tr>
 							</table>
 						</td>
@@ -66,7 +66,7 @@ $html = <<<EOHTML
 				          			<td><font size=+1><a href="/mylyn/start">Get Started</a></font></td>
 								</tr>
 								<tr>
-					          		<td>Resources for new users, links to tutorials and articles</td>
+					          		<td>Resources for new users, links to tutorials and articles.</td>
 					          	</tr>
 							</table>
 						</td>
@@ -75,6 +75,25 @@ $html = <<<EOHTML
 	          		<tr height=11>
 	          		</tr>
 	         	</table>
+	         	
+	         	
+				&nbsp;&nbsp;<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
+					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Support Mylyn on EPIC</a>
+					<select name="rating">
+					<option selected>10</option>
+					<option>9</option>
+					<option>8</option>
+					<option>7</option>
+					<option>6</option>
+					<option>5</option>
+					<option>4</option>
+					<option>3</option>
+					<option>2</option>
+					<option>1</option>
+					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
+					</form>
+	         	
 	         	
 				<div class="homeitem3col">
 					<h3>News</h3>
@@ -145,24 +164,6 @@ $html = <<<EOHTML
 						-->
 					 </ul>	
 				</div> 
-
-				&nbsp;&nbsp;<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-					<img border=0 src="/mylyn/images/icon-presentation.gif">&nbsp;Comment on Mylyn at EPIC</a>
-					<select name="rating">
-					<option selected>10</option>
-					<option>9</option>
-					<option>8</option>
-					<option>7</option>
-					<option>6</option>
-					<option>5</option>
-					<option>4</option>
-					<option>3</option>
-					<option>2</option>
-					<option>1</option>
-					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
-					</form>
-				</font>
 	  		</td>
       	</tr>
     </table>

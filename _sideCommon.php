@@ -1,6 +1,5 @@
 <?php
     $sideCommon = <<<EOHTML
-	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
 			 <div style="margin-top:10px; margin-left:10px;">
@@ -29,8 +28,7 @@
 			 <ul><li>
 				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Get notified</a> of Mylyn releases.
 			  </li></ul>
-		</div>    
-	</div>
+		</div>   
 EOHTML
 
 ?>

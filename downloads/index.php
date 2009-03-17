@@ -31,8 +31,8 @@ $html = <<<EOHTML
 					<h6>Support Mylyn on EPIC</h6>
 					 <p>
 					 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
-						<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-						Vote on EPIC</a><br>
+						&nbsp;<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
+						Vote for Mylyn</a>&nbsp;&nbsp;
 						<select name="rating">
 						<option selected>10</option>
 						<option>9</option>

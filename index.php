@@ -92,8 +92,8 @@ $html = <<<EOHTML
 									<td width="10>"</td>
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
-								 				Webcast: Redefining the "I" of the IDE</a></font>
-								 			<br>by Mik Kersten (Tasktop), W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
+								 				Less is More: Redefining the "I" of the IDE</a></font>
+								 			<br>by Mik Kersten (Tasktop). Webcast of W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
 								 		</font>
 								 	</td>
 								 </tr>
@@ -107,7 +107,7 @@ $html = <<<EOHTML
 							<a href="http://live.eclipse.org/node/573">
 								 <a href="http://live.eclipse.org/node/573">
 								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
-								 	<br>by Mik Kersten (Tasktop) webcast on Eclipse Live <i>July 30, 2008</i>
+								 	<br>by Mik Kersten (Tasktop). Webcast on Eclipse Live <i>July 30, 2008</i>
 						</li>
 						<!--
 						<li>

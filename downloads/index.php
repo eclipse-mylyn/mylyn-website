@@ -25,9 +25,7 @@
 		
 $html = <<<EOHTML
 
-	<div id="rightcolumn">
-		$sideCommon
-	</div>
+	$sideCommon
 
 	<div style="margin-top:30px; margin-left:40px; width:75%">
     	<p>

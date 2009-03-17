@@ -29,11 +29,11 @@ $html = <<<EOHTML
 
 	<div id="rightcolumn">
 		<div class="sideitem">
-			<h6>Support Mylyn on EPIC</h6>
+			<h6>Support Mylyn</h6>
 			 <p>&nbsp;&nbsp;
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				&nbsp;<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-				Vote for Mylyn</a>&nbsp;&nbsp;
+				Vote on EPIC: </a>&nbsp;&nbsp;
 				<select name="rating">
 				<option selected>10</option>
 				<option>9</option>
@@ -50,10 +50,10 @@ $html = <<<EOHTML
 			  </p>
 		</div>    
 
-		<div class="sideitem" style="clear: right; float: right; margin-right: 15px">
+		<div class="sideitem">
 			<h6>Announce List</h6>
 			 <ul><li>
-				Get notified of Mylyn releases.
+				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Get notified</a> of Mylyn releases.
 			  </li></ul>
 		</div>    
 	</div>

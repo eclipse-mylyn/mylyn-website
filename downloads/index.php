@@ -47,7 +47,7 @@ $html = <<<EOHTML
 			</form>
 	</div>    
 
-	<div style="margin-top:30px;margin-left:40px; width: 70%">
+	<div style="margin-top:30px;margin-left:44px; width: 70%">
 		        	<p>
 			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
 			        Task List with bug/task/issue trackers and project management tools.  

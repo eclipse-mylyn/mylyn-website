@@ -30,9 +30,10 @@ $html = <<<EOHTML
 	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
+			<ul><li>
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
-				Plugin Central: </a>&nbsp;
+				Vote on Plugin Central: </a>&nbsp;
 				<select name="rating">
 				<option selected>10</option>
 				<option>9</option>
@@ -46,6 +47,7 @@ $html = <<<EOHTML
 				<option>1</option>
 				</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 				</form>
+			</ul></li>
 		</div>    
 
 		<div class="sideitem">
@@ -58,14 +60,13 @@ $html = <<<EOHTML
 
 
 	<div style="margin-top:30px;margin-left:40px; width: 75%">
-		        	<p>
-			        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
-			        Task List with bug/task/issue trackers and project management tools.  
-			        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
-			        The preferred way of installing is via the 
-					<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Update Manager (instructions available)</a>.
-			        </p>
-				
+    	<p>
+        The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
+        Task List with bug/task/issue trackers and project management tools.  
+        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
+        The preferred way of installing is via the 
+		<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Update Manager (instructions available)</a>.
+        </p>
     </div>
 
 	<div style="border:none; margin-left:40px; width:75%;">

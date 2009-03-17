@@ -40,6 +40,12 @@
 			<h3>API Baselines</h3> 
 			<ul>
 				<li> 
+					<a title="Mylyn 3.1.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.1.0/mylyn-3.1.0-api.zip&r=1">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.1.0 API Baseline</b>
+				</li>
+				<li> 
 					<a title="Mylyn 3.0.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.0.0/mylyn-3.0.0-api.zip&r=1">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>

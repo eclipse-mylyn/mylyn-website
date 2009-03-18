@@ -117,7 +117,7 @@
 			    </td> 
 				</tr>
 			</table>
-			<p>&nbsp;</p>
+			<br>&nbsp;
 			<!--
 			<ul>
 				<li>

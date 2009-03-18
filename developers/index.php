@@ -23,10 +23,10 @@
 <div id="maincontent">
 
 	<div id="rightcolumn">
-	asdf
 		$side_vote
+		aaa
 	</div>
-	
+	bbb
 	<!--
 	<div id="rightcolumn"> 
 		<font size=1>

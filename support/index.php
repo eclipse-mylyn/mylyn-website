@@ -105,13 +105,16 @@
 			<table border="0"> 
         		<tr>
         		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
         		</td>
 		        <td>
-			        Commercial support is available for both Mylyn and Mylyn Connectors. 
+			        <a href="http://tasktop.com/support">Tasktop Technologies</a>, the creators of Mylyn, provide training, support, and consulting
+			        to help teams adopt task-focused programming.  The <a href="http://tasktop.com/connectors/">Tasktop Certified Connector</a> program 
+			        includes support for all Mylyn connectors that have graduated from incubation status.
 			    </td> 
 				</tr>
 			</table>
+			<!--
 			<ul>
 				<li>
 					<b>Mylyn</b>: Tasktop Technologies via <a href="http://tasktop.com/products/">Tasktop Pro</a>
@@ -128,8 +131,8 @@
 				<li>
 					<b>XPlanner Connector</b>: <a href="#community">Community Supported</a>
 				</li>
-				
 			</ul>
+			-->
 		</div>
 		
 	</div>	

@@ -94,7 +94,7 @@ $html = <<<EOHTML
 						<tr> 
 			      			<td><font size=+0><a href="/mylyn/builds">Older Downloads</a></font></td>
 						</tr>
-						<tr><td>Eclipse 3.2 and 3.3 based distributions</td></tr>
+						<tr><td>Download archive and support for Eclipse 3.2</td></tr>
 					</table>
 				</td> 
 			</tr> 

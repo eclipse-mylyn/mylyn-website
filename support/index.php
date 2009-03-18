@@ -57,6 +57,21 @@ Mylyn users can support each other using the community channels listed below.  M
 				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Get notified</a> of Mylyn releases.
 			  </li></ul>
 		</div>   
+
+		<div class="sideitem">
+			<h6>Newsgroup</h6>
+			 <ul>
+			 	<li>
+					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the user discussion newsgroup
+				</li>
+				<li>
+					<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Reat the FAQ</a> for instructions on subscribing
+				</li>
+			 	<li>
+			 		<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Browse posts</a> with the web interface
+				</li>
+			 </ul>
+		</div>  
 	</div>
 	
 	<div id="midcolumn">
@@ -77,15 +92,6 @@ Mylyn users can support each other using the community channels listed below.  M
 			</table>
 			
 			<ul>
-				<li>
-					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Newsgroup</a>: user discussions, see <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a> for subscribing.
-				</li>
-				<li>
-					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Web Access</a>,
-					registration is <a href="http://www.eclipse.org/newsgroups/register.php">required</a>. 
-				</li>
-
-
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&bug_severity=normal&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs with severity of normal or higher</a> 
 				</li>

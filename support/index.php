@@ -23,8 +23,8 @@
 <div id="maincontent">
 
 	<div id="rightcolumn">
-		$side_vote
 		$side_newsgroup
+		$side_announce
 	</div>
 	
 	<div id="midcolumn">

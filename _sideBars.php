@@ -7,7 +7,7 @@
 				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Sign up</a> to get notified of Mylyn releases.
 			  </li></ul>
 		</div>   
-	EOHTML;
+EOHTML;
 	
 		$side_vote = <<<EOHTML
 		<div class="sideitem">
@@ -32,7 +32,7 @@
 				</form>
 				</div>
 		</div>
-	EOHTML;
+EOHTML;
 	
 		$side_newsgroup = <<<EOHTML
 		<div class="sideitem">
@@ -49,7 +49,7 @@
 				</li>
 			 </ul>
 		</div> 
-	EOHTML;
+EOHTML;
 	
 	$side_dev = <<<EOHTML
 		<div class="sideitem">
@@ -65,6 +65,6 @@
 				</li>
 			</ul>
 		</div>
-	EOHTML;
+EOHTML;
 	
 ?>

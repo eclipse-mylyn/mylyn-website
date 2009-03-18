@@ -39,6 +39,7 @@
 		<div class="homeitem3col">
 			<h3>Selected Presentations</h3>
 			<ul>
+				<!--
 				<li>
 					<a href="/mylyn/presentations/2007-12-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
 					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
@@ -52,6 +53,7 @@
 					<a href="http://live.eclipse.org/node/325"><img border=0 src="/mylyn/images/icon-presentation.gif">
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
+                -->
 	            <li>
 		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
 	            	[Mylyn]: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)

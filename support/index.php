@@ -19,13 +19,6 @@
 	include("_sideCommon.php");
 		
 	$html = <<<EOHTML
-
-
-
-<div style="padding-left: 40px; padding-top: 30px; width: 75%">
-Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
-</div>
-
 <div id="maincontent">
 
 		<div class="sideitem">
@@ -63,7 +56,9 @@ Mylyn users can support each other using the community channels listed below.  M
 		        <td>    
 				        <p>Submit bugs using Mylyn or the <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Bugzilla web interface.</a> Please 
 				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates</a>first. For defects provide steps 
-				        on how to reproduce. For enhancements outline a use case.</p> 
+				        on how to reproduce. For enhancements outline a use case.  Due to a large number of bug reports, committers prioritize 
+				        critical bug fixes and framework and API improvements and cannot always respond all help inquiries.  For additional help
+				        see the Commercial Support resources listed below.</p> 
 			    </td>
 				</tr>
 			</table>

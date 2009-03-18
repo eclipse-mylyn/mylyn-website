@@ -16,11 +16,16 @@
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	
-	include("_sideCommon.php");
+	include("_side_vote.php");
 		
 	$html = <<<EOHTML
 
 <div id="maincontent">
+
+	<div id="rightcolumn">
+		$side_vote
+	</div>
+
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 

@@ -1,5 +1,5 @@
 <?php
-    $sideCommon = <<<EOHTML
+    $side_vote = <<<EOHTML
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
 			 <div style="margin-top:10px; margin-left:10px;">
@@ -21,14 +21,7 @@
 				</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote on EPIC">
 				</form>
 				</div>
-		</div>    
-
-		<div class="sideitem">
-			<h6>Announce List</h6>
-			 <ul><li>
-				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Get notified</a> of Mylyn releases.
-			  </li></ul>
-		</div>   
+		</div>
 EOHTML
 
 ?>

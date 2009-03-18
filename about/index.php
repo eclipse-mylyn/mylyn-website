@@ -20,6 +20,7 @@
 <div id="maincontent">
 	
 	<div id="rightcolumn">
+		$side_mylynIs
 		$side_vote
 		$side_announce
 	</div>
@@ -33,7 +34,7 @@
 					Mylyn was created by <a href="http://tasktop.com/blog">Mik Kersten</a> as a part of his PhD thesis, supervised by Gail Murphy at the Software Practices Lab at UBC.  Tasktop Technologies was founded by the creators of Mylyn in order to lead the open source project, provide commercial support and extensions, and enable the rapidly growing ecosystem of tools built on Mylyn.
 				</li>
 				<li>
-					Background information on Mylyn technology including research papers and other resources available <a href="http://www.tasktop.com/resources/technology/">here</a>. 
+					Background information on Mylyn technology including research papers and other resources available at <a href="http://www.tasktop.com/resources/technology/">tasktop.com</a>. 
 				</li>
 			</ul>
 		</div>
@@ -50,12 +51,12 @@
 			<h3>Release Reviews</h3>
 			<ul>
 				<li><a href="/mylyn/publications/2009-03-mylyn-3.1-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.1 release review</a></li>
-				<li><a href="/mylyn/publications/2008-06-mylyn-3.0-release-review.ppt">Mylyn 3.0 release review</a></li>
-				<li><a href="/mylyn/publications/2008-02-mylyn-2.3-release-review.ppt">Mylyn 2.3 release review</a></li>
-				<li><a href="/mylyn/publications/2007-12-mylyn-2.2-release-review.ppt">Mylyn 2.2 release review</a></li>
-				<li><a href="/mylyn/publications/2007-10-mylyn-2.1-release-review.ppt">Mylyn 2.1 release review</a></li>
-				<li><a href="/mylyn/publications/2007-06-mylyn-2.0-release-review.ppt">Mylyn 2.0 release review</a></li>
-				<li><a href="/mylyn/publications/2006-11-mylar-1.0-release-review.ppt">Mylar 1.0 release review</a></li>
+				<li><a href="/mylyn/publications/2008-06-mylyn-3.0-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.0 release review</a></li>
+				<li><a href="/mylyn/publications/2008-02-mylyn-2.3-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 2.3 release review</a></li>
+				<li><a href="/mylyn/publications/2007-12-mylyn-2.2-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 2.2 release review</a></li>
+				<li><a href="/mylyn/publications/2007-10-mylyn-2.1-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 2.1 release review</a></li>
+				<li><a href="/mylyn/publications/2007-06-mylyn-2.0-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 2.0 release review</a></li>
+				<li><a href="/mylyn/publications/2006-11-mylar-1.0-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylar 1.0 release review</a></li>
 				<li><a href="/mylyn/publications/2005-05-mylar-creation-review.ppt">Mylar project creation review</a> and <a href="/mylyn/publications/2005-04-mylar-proposal.html">Project Proposal</a> (May 2005)</li>
 			</ul>
 		</div>
@@ -66,7 +67,7 @@
 				<li>
 					<a href="/mylyn/presentations/2007-12-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
 					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
+                    <a href="http://live.eclipse.org/node/412">Webcast on Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
                 </li>
 				<li>
 		            <a href="/mylyn/presentations/2007-06-mylyn-talk.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">

@@ -35,8 +35,9 @@
 		<div class="homeitem3col">
 			<a name="community"></a><h3>Community Newsgroup</h3>
 			<table border="0"> 
+				<tr height="10" colspan="2"></tr>
         		<tr>
-        		<td valign="top" widt="80">
+        		<td width="80" align="center" valign="top" >
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
         		</td>
         		 <td>    

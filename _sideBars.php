@@ -34,23 +34,6 @@ EOHTML;
 		</div>
 EOHTML;
 	
-		$side_newsgroup = <<<EOHTML
-		<div class="sideitem">
-			<h6>Mylyn Newsgroup</h6>
-			 <ul>
-			 	<li>
-					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the user discussion newsgroup
-				</li>
-				<li>
-					<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Read the FAQ</a> for instructions on subscribing
-				</li>
-			 	<li>
-			 		<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Browse posts</a> with the web interface
-				</li>
-			 </ul>
-		</div> 
-EOHTML;
-	
 	$side_dev = <<<EOHTML
 		<div class="sideitem">
 			<h6>Developer Links</h6>

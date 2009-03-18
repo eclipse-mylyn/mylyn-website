@@ -65,7 +65,7 @@
 	            </li>
 	            <li>
 		            <a href="http://www.wakaleo.com/java-power-tools">
-		           Java Power Tools</a> by John Ferguson Smart [2008]
+		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn [2008]
 	            </li>
 			</ul>
 		</div> 

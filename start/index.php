@@ -53,26 +53,20 @@
 				</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Quick Reference Guide</a> [September 2008]
+		           	Mylyn Quick Reference Guide</a> by Tasktop Technologies [September 2008]
 	            </li>
 				<li>
-		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border="0" src="/mylyn/images/star.png"/>
 		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <li> 
-		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border="0" src="/mylyn/images/star.png"/>
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
 	            </li>
 	            <li>
-		            <a href="http://www.wakaleo.com/java-power-tools"><img border=0 src="/mylyn/images/icon-webdoc.gif">
+		            <a href="http://www.wakaleo.com/java-power-tools">
 		           Java Power Tools</a> by John Ferguson Smart [2008]
 	            </li>
-	            <!--
-	            <li>
-                    <a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-flash.gif">
-					Getting Started with Mylyn 2.2</a> by Mik Kersten (56 min, December 2007)
-                </li>
-                -->
 			</ul>
 		</div> 
 		
@@ -80,6 +74,7 @@
 		<div class="homeitem3col">
 			<h3>Selected Articles</h3>
 			<ul>
+				<!--
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
@@ -88,6 +83,7 @@
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/"><img border=0 src="/mylyn/images/icon-webdoc.gif">
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
 	            </li>
+	            -->
 	            <li>
             		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
            			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)

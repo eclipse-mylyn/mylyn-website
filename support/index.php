@@ -49,7 +49,7 @@
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		<div class="homeitem3col">
-			<a name="community"></a><h3>Community Support</h3>
+			<a name="community"></a><h3>Open Source Community Support</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">

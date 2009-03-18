@@ -51,7 +51,7 @@
 				</li>
 			 	<li>
 					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the newsgroup with your news reader.
-					Read the <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">FAQ</a> for instructions on subscribing
+					<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">See the FAQ</a> for instructions on subscribing
 				</li>
 			 </ul>				    
 		</div>

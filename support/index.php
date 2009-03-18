@@ -24,8 +24,8 @@
 
 <div style="padding-left: 40px; padding-top: 30px; width: 75%">
 Mylyn users can support each other using the community channels listed below.  Mylyn committers prioritize critical bug fixes and framework and API improvements.
-		
 </div>
+
 <div id="maincontent">
 		<div id="rightcolumn">
 		<div class="sideitem">
@@ -68,20 +68,14 @@ Mylyn users can support each other using the community channels listed below.  M
         		<td valign="top">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
         		</td>
-		        <td>
-		        
-		        	<p>For Mylyn support with guaranteed response times see <a href="#commercial">Commercial Support</a> below. 
-			        
-			         <p>The preferred way of reporting and discussing defects and enhancement requests is via 
-				        Bugzilla. The <a href="/mylyn/downloads">The Mylyn Bugzilla 
-				        Connector</a> is the recommened way to submit bugs.</p>
-				        
-				        <p><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Submit a bug via web interface.</a> Please manually 
-				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates first.</a> For defects provide steps 
-				        on how to reproduce. For enhancements please outline a use case.</p> 
+		        <td>    
+				        <p>Submit bugs using Mylyn or the <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Bugzilla web interface.</a> Please 
+				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates</a>first. For defects provide steps 
+				        on how to reproduce. For enhancements outline a use case.</p> 
 			    </td>
 				</tr>
 			</table>
+			
 			<ul>
 				<li>
 					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Newsgroup</a>: user discussions, see <a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Webmaster FAQ</a> for subscribing.
@@ -90,18 +84,24 @@ Mylyn users can support each other using the community channels listed below.  M
 					<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Web Access</a>,
 					registration is <a href="http://www.eclipse.org/newsgroups/register.php">required</a>. 
 				</li>
-				
-				<!--<li>
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
-					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
-				</li>-->
-				
+
+
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=blocker&bug_severity=critical&bug_severity=major&bug_severity=normal&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs with severity of normal or higher</a> 
 				</li>
 				<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_severity=minor&bug_severity=trivial&bug_severity=enhancement&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 					<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;All open bugs marked enhancement, minor, or trivial</a> 
 				</li>
+				
+				<li>
+				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bconnector%5D&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+				  <img border=0 src="/mylyn/images/icon-presentation.gif"> Vote for Mylyn Connectors</a> to your task, bug, issue and source repositories
+				</li>
+				<li>
+				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bbridge%5D&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+				  <img border=0 src="/mylyn/images/icon-presentation.gif"> Vote for Mylyn Bridges</a> for your programming language or framework
+				</li>
+			</ul> 
 				
 				<!--<li>
 				<img border=0 src="/mylyn/images/query.gif">&nbsp;&nbsp;Connectors: 
@@ -111,26 +111,10 @@ Mylyn users can support each other using the community channels listed below.  M
 				<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&product=Mylyn&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=notregexp&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">XPlanner</a>
 				</li>-->
 				
-			</ul>
-				
-				<p style="padding-left: 30px;">
-				  You can vote for any bug by using the <i>Vote for this bug</i> link on the bug report.
-				</p>
-
-			<ul>
-				<li>
-				  Vote for
-				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bconnector%5D&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				  task repository connectors</a>
-				</li>
-				<li>
-				  Vote for
-				  <a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=anywordssubstr&short_desc=%5Bbridge%5D&product=Mylyn&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-				  structure bridges</a>
-				</li>
-			</ul> 
-				    
-				    
+				<!--<li>
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
+					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
+				</li>-->	    
 				    
 		</div>
 

@@ -43,8 +43,10 @@
 		</div>
 		
 		<div class="homeitem3col">
-			<h3>Project Reviews</h3>
+			<h3>Release Reviews</h3>
 			<ul>
+				<li><a href="/mylyn/publications/2009-03-mylyn-3.1-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.1 release review</a></li>
+				<li><a href="/mylyn/publications/2008-06-mylyn-3.0-release-review.ppt">Mylyn 3.0 release review</a></li>
 				<li><a href="/mylyn/publications/2008-02-mylyn-2.3-release-review.ppt">Mylyn 2.3 release review</a></li>
 				<li><a href="/mylyn/publications/2007-12-mylyn-2.2-release-review.ppt">Mylyn 2.2 release review</a></li>
 				<li><a href="/mylyn/publications/2007-10-mylyn-2.1-release-review.ppt">Mylyn 2.1 release review</a></li>
@@ -53,6 +55,34 @@
 				<li><a href="/mylyn/publications/2005-05-mylar-creation-review.ppt">Mylar project creation review</a> and <a href="/mylyn/publications/2005-04-mylar-proposal.html">Project Proposal</a> (May 2005)</li>
 			</ul>
 		</div>
+		
+		<div class="homeitem3col">
+			<h3>Historical Presentations</h3>
+			<ul>
+				<li>
+					<a href="/mylyn/presentations/2007-12-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
+					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
+                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
+                </li>
+				<li>
+		            <a href="/mylyn/presentations/2007-06-mylyn-talk.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
+	            	Mylyn 2.0 Talk</a> (June 2006)
+	            </li>
+	            <li>
+		            <a href="/mylyn/presentations/2007-04-mylyn-tutorial.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
+	            	Mylyn 2.0 Tutorial</a> (last updated April 2006)
+	            </li>
+				<li>
+		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
+	            	Mylar: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
+	            </li>			
+	            <li>
+	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
+	            	Mylar: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
+	            </li>
+			</ul> 
+		</div>
+			
 	</div> 
 
 	<p>&nbsp;</p>

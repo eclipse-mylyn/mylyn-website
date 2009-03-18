@@ -97,18 +97,16 @@
 		     
 
         <div class="homeitem3col">
-			<h3>Extensions</h3> 
+			<h3>Documentation Portals</h3> 
 			<ul>
 				<li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/?ca=dgr-eclipse-1"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           	Bugzilla</a>: the Mylyn 2.0, Part 1 article provides a getting started guide
-	            </li>
-	            <li> 
-		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           JIRA</a> the Atlassian page provides a getting started guide
-	            </li>
+					<a href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide">Mylyn User Guide</a> feature reference
 				<li>
-		         WikiText help for getting started is available after installing WikiText from within the Eclipse help under <i>Mylyn->WikiText User Guide->Getting Started</i>.
+					<a href="http://help.tasktop.com/">Tasktop Portal</a> documentation for Mylyn and third-party Mylyn Connectors.
+				</li>
+	            <li> 
+		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn">
+		           Atlassian JIRA</a> guide for getting started with Mylyn
 	            </li>
 			</ul>
 		</div> 

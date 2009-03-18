@@ -104,7 +104,7 @@ $html = <<<EOHTML
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
 			<h3>3.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">New & Noteworthy</a> (Released 2009-03-17). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="../images/star.png"/> New & Noteworthy</a> (Released 2009-03-17). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a>. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 2.18 and later.				
 			<ul> 
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.1.0-e3.4.zip">
@@ -141,7 +141,7 @@ $html = <<<EOHTML
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 	    	<a name="weekly"></a>
 			<h3>3.2 Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php"><img src="../images/star.png"/> New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)

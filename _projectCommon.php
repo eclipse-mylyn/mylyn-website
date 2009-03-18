@@ -38,7 +38,7 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;User Guide (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/User_Guide", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Extensions (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Extensions", "_self", 1);
 
-	$Nav->addNavSeparator("Integrators", "http://wiki.eclipse.org/index.php/Mylyn", "_self", 1);
+	$Nav->addNavSeparator("Integrators", "/mylyn/developers", "_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Development", "/mylyn/developers", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);

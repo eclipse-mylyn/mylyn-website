@@ -53,9 +53,14 @@
 				<li>
 	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference</a>: 
 					Getting started guide for Mylyn development
+				</li>
 				<li>
 	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference">Integrator Reference</a>: 
 					Information for developers building on Mylyn
+				</li>
+				<li>
+					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn page on Eclipsepedia</a>: contributor and integrator links
+				</li>
 			</ul>
 		</div>
 		

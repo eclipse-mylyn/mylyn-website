@@ -154,7 +154,7 @@ $html = <<<EOHTML
 					<td>
 					<table border="0" cellpadding="0">
 							<tr>
-				      			<td><font size=+0><a href="http://tasktop.com">Tasktop</a></font></td> 
+				      			<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td> 
 							</tr>
 							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free version available.</td></tr>
 						</table>

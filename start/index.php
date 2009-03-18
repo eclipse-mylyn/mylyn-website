@@ -63,15 +63,15 @@
 			<ul>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/">
-		           	Mylyn Quick Reference Guide</a> by Tasktop Technologies (September 2008)
+		           	Mylyn Quick Reference Guide<img border="0" src="/mylyn/images/external-link.png"></a> by Tasktop Technologies (September 2008)
 	            </li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border="0" src="/mylyn/images/star.png"/>
-		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (August 2007)
+		           	Mylyn 2.0, Part1: Integrated task management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (August 2007)
 	            </li>
 	            <li> 
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border="0" src="/mylyn/images/star.png"/>
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (August 2007)
+		           	Mylyn 2.0, Part 2: Automated context management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (August 2007)
 	            </li>
 			</ul>
 		</div> 
@@ -82,11 +82,11 @@
 				<li>
 					<a href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide">Mylyn User Guide</a>: feature reference on Eclipsepedia
 				<li>
-					<a href="http://help.tasktop.com/">Tasktop Portal</a> documentation on Mylyn and third-party Mylyn Connectors
+					<a href="http://help.tasktop.com/">Tasktop Portal<img border="0" src="/mylyn/images/external-link.png"></a> documentation on Mylyn and third-party Mylyn Connectors
 				</li>
 	            <li> 
 		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn">
-		           Atlassian JIRA</a>: guide for getting started with Mylyn
+		           Atlassian JIRA<img border="0" src="/mylyn/images/external-link.png"></a>: guide for getting started with Mylyn
 	            </li>
 			</ul>
 		</div> 
@@ -96,24 +96,24 @@
 			<ul>
 				<li>
 		            <a href="http://www.wakaleo.com/java-power-tools">
-		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn (2008)
+		           Java Power Tools<img border="0" src="/mylyn/images/external-link.png"></a> book by John Ferguson Smart, includes section on Mylyn (2008)
 	            </li>
 				<li>
             		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST">
-           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)
+           			Mylyn 2.0 Keeps You Focused on the Task at Hand<img border="0" src="/mylyn/images/external-link.png"></a> by John Ferguson Smart (Aug 17, 2007)
         		</li>
 				<li>
 		            <a href="http://eclipse.sys-con.com/read/336896.htm">
-		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
+		           	Five Reasons to Love [Mylyn]<img border="0" src="/mylyn/images/external-link.png"></a> by Wayne Beaton (Feb 2007)
 	            </li>
 				<!--
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
-		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
+		           	Mylyn 2.0, Part 1: Integrated task management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (Aug 2007)
 	            </li>
 	            <li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/">
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
+		           	Mylyn 2.0, Part 2: Automated context management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (Aug 2007)
 	            </li>
 	            -->
 			</ul> 

@@ -49,7 +49,7 @@
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 		<div class="homeitem3col">
-			<a name="community"></a><h3>Open Source Community Support</h3>
+			<a name="community"></a><h3>Community Support for Mylyn</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">
@@ -101,7 +101,7 @@
 		<br>&nbsp;
 		
 		<div class="homeitem3col">
-			<a name="commercial"></a><h3>Commercial Support</h3>
+			<a name="commercial"></a><h3>Commercial Support for Mylyn and Connectors</h3>
 			<table border="0"> 
         		<tr>
         		<td valign="top">

@@ -50,9 +50,7 @@
 			 		<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Browse newsgroup posts</a> using the web interface
 				</li>
 			 	<li>
-					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the newsgroup with your news reader
-				</li>
-				<li>
+					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the newsgroup with your news reader.
 					<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Read the FAQ</a> for instructions on subscribing
 				</li>
 			 </ul>				    

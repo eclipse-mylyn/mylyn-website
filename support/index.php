@@ -16,34 +16,15 @@
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	
-	include("_sideCommon.php");
+	include("_sideBars.php");
 		
 	$html = <<<EOHTML
 
 <div id="maincontent">
 
 	<div id="rightcolumn">
-		<div class="sideitem">
-			<h6>Announce List</h6>
-			 <ul><li>
-				<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-announce">Get notified</a> of Mylyn releases.
-			  </li></ul>
-		</div>   
-
-		<div class="sideitem">
-			<h6>Newsgroup</h6>
-			 <ul>
-			 	<li>
-					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the user discussion newsgroup
-				</li>
-				<li>
-					<a href="http://wiki.eclipse.org/index.php/Webmaster_FAQ#How_do_I_access_the_Eclipse_newsgroups.3F">Reat the FAQ</a> for instructions on subscribing
-				</li>
-			 	<li>
-			 		<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Browse posts</a> with the web interface
-				</li>
-			 </ul>
-		</div>  
+		$side_vote
+		$side_newsgroup
 	</div>
 	
 	<div id="midcolumn">

@@ -21,8 +21,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	
-	include("../_side_vote.php");
-	include("../_side_announce.php");
+	include("../_sideBars.php");
 		
 $html = <<<EOHTML
 

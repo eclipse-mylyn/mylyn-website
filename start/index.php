@@ -16,8 +16,7 @@
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	
-	include("../_side_vote.php");
-	include("../_side_announce.php");
+	include("../_sideBars.php");
 		
 	$html = <<<EOHTML
 

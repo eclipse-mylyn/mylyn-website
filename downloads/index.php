@@ -21,7 +21,7 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	
-	#include("../_sideBars.php");
+	include("../_sideBars.php");
 		
 $html = <<<EOHTML
 

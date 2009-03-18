@@ -36,7 +36,7 @@
 			<a name="community"></a><h3>Community Newsgroup</h3>
 			<table border="0"> 
         		<tr>
-        		<td valign="top">
+        		<td valign="top" widt="80">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/community.jpg"></a>
         		</td>
         		 <td>    

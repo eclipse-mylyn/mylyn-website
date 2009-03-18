@@ -62,39 +62,8 @@
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border="0" src="/mylyn/images/star.png"/>
 		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
 	            </li>
-	            <li>
-		            <a href="http://www.wakaleo.com/java-power-tools">
-		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn [2008]
-	            </li>
 			</ul>
 		</div> 
-		
-		
-		<div class="homeitem3col">
-			<h3>Selected Articles</h3>
-			<ul>
-				<!--
-				<li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
-		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
-	            </li>
-	            <li>
-		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/">
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
-	            </li>
-	            -->
-	            <li>
-            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST">
-           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)
-        		</li>
-				<li>
-		            <a href="http://eclipse.sys-con.com/read/336896.htm">
-		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
-	            </li>
-			</ul> 
-		</div>
-
-		     
 
         <div class="homeitem3col">
 			<h3>Documentation Portals</h3> 
@@ -110,12 +79,34 @@
 	            </li>
 			</ul>
 		</div> 
-		
-		<p>	
-		<br>&nbsp;	
-		For questions about using Mylyn see the <a href="/mylyn/support">Support Page</a>.
-        </p>
-		
+	
+		<div class="homeitem3col">
+			<h3>Selected Publications</h3>
+			<ul>
+				<li>
+		            <a href="http://www.wakaleo.com/java-power-tools">
+		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn [2008]
+	            </li>
+				<li>
+            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST">
+           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug 17, 2007)
+        		</li>
+				<li>
+		            <a href="http://eclipse.sys-con.com/read/336896.htm">
+		           	Five Reasons to Love [Mylyn]</a> by Wayne Beaton (Feb 2007)
+	            </li>
+				<!--
+				<li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
+		           	Mylyn 2.0, Part 1: Integrated task management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            <li>
+		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/">
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (Aug 2007)
+	            </li>
+	            -->
+			</ul> 
+		</div>
 
 		<!--		
 		<p>In addition to providing personal task management and support for task contexts, Mylyn has the following 

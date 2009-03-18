@@ -43,7 +43,7 @@
 						 		<font size="+1"><a href="http://live.eclipse.org/node/573">
 						 			<a href="http://live.eclipse.org/node/573">
 						 				Mylyn 3.0: Code at the Speed of Thought</a></font>
-						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live [August 2008]
+						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live (August 2008)
 						 			<br>Provides a 45 minute overview of the tool and technology, along with demos of the key features.
 						 		</font>
 						 	</td>
@@ -52,15 +52,15 @@
 				</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/">
-		           	Mylyn Quick Reference Guide</a> by Tasktop Technologies [September 2008]
+		           	Mylyn Quick Reference Guide</a> by Tasktop Technologies (September 2008)
 	            </li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border="0" src="/mylyn/images/star.png"/>
-		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten [August 2007]
+		           	Mylyn 2.0, Part1: Integrated task management</a> by Mik Kersten (August 2007)
 	            </li>
 	            <li> 
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part2.php"><img border="0" src="/mylyn/images/star.png"/>
-		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten [August 2007]
+		           	Mylyn 2.0, Part 2: Automated context management</a> by Mik Kersten (August 2007)
 	            </li>
 			</ul>
 		</div> 
@@ -85,7 +85,7 @@
 			<ul>
 				<li>
 		            <a href="http://www.wakaleo.com/java-power-tools">
-		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn [2008]
+		           Java Power Tools</a> book by John Ferguson Smart, includes section on Mylyn (2008)
 	            </li>
 				<li>
             		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST">

@@ -55,7 +55,7 @@
         		</td>
 		        <td>    
 				        <p>Submit bugs using Mylyn or the <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Bugzilla web interface.</a> Please 
-				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates</a>first. For defects provide steps 
+				        <a href="https://bugs.eclipse.org/bugs/query.cgi?product=Mylyn">search for duplicates</a> first. For defects provide steps 
 				        on how to reproduce. For enhancements outline a use case.  Due to a large number of bug reports, committers prioritize 
 				        critical bug fixes and framework and API improvements and cannot always respond all help inquiries.  For additional help
 				        see the Commercial Support resources listed below.</p> 

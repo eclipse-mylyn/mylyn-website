@@ -24,17 +24,14 @@
 
 	<div id="rightcolumn">
 		$side_vote
-		aaa
 	</div>
-	bbb
-	<!--
+
 	<div id="rightcolumn"> 
 		<font size=1>
 		<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 		<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 		</font>
 	</div>
--->
 
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->

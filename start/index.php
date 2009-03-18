@@ -69,13 +69,13 @@
 			<h3>Documentation Portals</h3> 
 			<ul>
 				<li>
-					<a href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide">Mylyn User Guide</a> feature reference
+					<a href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide">Mylyn User Guide</a>: feature reference on Eclipsepedia
 				<li>
-					<a href="http://help.tasktop.com/">Tasktop Portal</a> documentation for Mylyn and third-party Mylyn Connectors.
+					<a href="http://help.tasktop.com/">Tasktop Portal</a> documentation on Mylyn and third-party Mylyn Connectors
 				</li>
 	            <li> 
 		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn">
-		           Atlassian JIRA</a> guide for getting started with Mylyn
+		           Atlassian JIRA</a>: guide for getting started with Mylyn
 	            </li>
 			</ul>
 		</div> 

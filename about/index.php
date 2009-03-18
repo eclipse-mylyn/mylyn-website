@@ -20,9 +20,9 @@
 <div id="maincontent">
 	
 	<div id="rightcolumn">
-		$side_mylynIs
 		$side_vote
 		$side_announce
+		$side_mylynIs
 	</div>
 	
 	<div id="midcolumn">

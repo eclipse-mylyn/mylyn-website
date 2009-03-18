@@ -110,12 +110,10 @@
 		<div class="homeitem3col">
 			<a name="commercial"></a><h3>Commercial Support for Mylyn and Connectors</h3>
 			<table border="0"> 
-        		<tr height="10" colspan="3"></tr>
+        		<tr height="10" colspan="2"></tr>
         		<tr>
-        		<td align="centre" valign="bottom">
+        		<td width="120" align="centre" valign="bottom">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
-        		</td>
-        		<td width="15">
         		</td>
 		        <td>
 			        <a href="http://tasktop.com/support">Tasktop Technologies</a>, the creators of Mylyn, provide training, support, and consulting

@@ -28,9 +28,8 @@
 	</div>
 
 	<div id="midcolumn">
-		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
-        <div class="homeitem3col">
-			<h3>Getting Started</h3> 
+		<div class="homeitem3col">
+			<h3>Videos</h3> 
 			<ul>
 				<li>
 					<table cellspacing="0" cellpadding="0">
@@ -50,6 +49,17 @@
 						 </tr>
 					</table>
 				</li>
+				<a href="http://live.eclipse.org/node/676">
+ 				Less is More: Redefining the "I" of the IDE</a> W-JAX keynote by Mik Kersten. 
+ 				Conceptual overview of Mylyn and the task-focused interface <i>(November 6, 2008)</i>
+				</li>
+			</ul>
+		</div> 
+	
+	
+        <div class="homeitem3col">
+			<h3>Getting Started</h3> 
+			<ul>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/">
 		           	Mylyn Quick Reference Guide</a> by Tasktop Technologies (September 2008)

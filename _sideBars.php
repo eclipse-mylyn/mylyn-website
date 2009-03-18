@@ -53,11 +53,18 @@ EOHTML;
     $side_mylynIs = <<<EOHTML
 		<div class="sideitem">
 			<h6>What is Mylyn?</h6>
-			The Myelin substance accelerates our 
-			thoughts by making neurons much more efficient at conducting electricity. The Mylyn name 
-			is a tribute to this substance, as many users claim that our tools increase efficiency 
-			to the point where we can <i>code at the speed of thought</i>.  The
-			project was <a href="http://www.eclipse.org/mylyn/rename.php">previously called Mylar</a>.
+			<ul>
+			<li>
+				The Myelin substance accelerates our 
+				thoughts by making neurons much more efficient at conducting electricity.
+			</li>
+			<li>The Mylyn name 
+				is a tribute to this substance, as many users claim that our tools increase efficiency 
+				to the point where we can <i>code at the speed of thought</i>.
+			</li>
+			<li>
+				The project was <a href="http://www.eclipse.org/mylyn/rename.php">previously called Mylar</a>.
+			</li>
 		</div>
 EOHTML;
 

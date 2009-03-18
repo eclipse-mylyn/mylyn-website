@@ -40,11 +40,9 @@
 			<h3>Resources</h3>
 			<table border="0"> 
         		<tr>
-        		<!--
         		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/images/reference.png"><img border="0" src="/mylyn/images/image-email.gif"></a>
         		</td>
-        		-->
 		        <td>
 			       	Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
 			       	development of the Mylyn project should subscribe to the dev mailing list.
@@ -95,7 +93,7 @@
 	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
 	        		</td>
 			        <td>
-				        <p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="https://bugs.eclipse.org/bugs/">Bug Reports</a>.
+				        <p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="https://bugs.eclipse.org/bugs/">Bugzilla Reports</a>.
 				    </td> 
 				</tr>
 			</table>

@@ -24,10 +24,12 @@
 
 	<div id="rightcolumn">
 		$side_announce
+		<!--
 		<font size=1>
 			<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 			<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 		</font>
+		-->
 	</div>
 	
 	<div id="midcolumn">

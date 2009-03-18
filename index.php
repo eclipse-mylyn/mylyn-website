@@ -96,7 +96,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
-		           			Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>
 						<li>
 							<table cellspacing="0" cellpadding="0">
@@ -108,7 +108,7 @@ $html = <<<EOHTML
 									<td>
 								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
 								 				Less is More: Redefining the "I" of the IDE</a></font>
-								 			<br>by Mik Kersten (Tasktop). Webcast of W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
+								 			<br>by Mik Kersten. Webcast of W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
 								 		</font>
 								 	</td>
 								 </tr>
@@ -121,8 +121,8 @@ $html = <<<EOHTML
 						<li>
 							<a href="http://live.eclipse.org/node/573">
 								 <a href="http://live.eclipse.org/node/573">
-								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
-								 	<br>by Mik Kersten (Tasktop). Webcast on Eclipse Live <i>July 30, 2008</i>
+								 	Mylyn 3.0 Webcast: Code at the Speed of Thought</a></font>
+								 	<br>by Mik Kersten. Webcast on Eclipse Live <i>July 30, 2008</i>
 						</li>
 						<!--
 						<li>

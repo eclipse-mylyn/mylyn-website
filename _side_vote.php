@@ -1,7 +1,7 @@
 <?php
     $side_vote = <<<EOHTML
 		<div class="sideitem">
-			<h6>Support Mylyn on EPIC</h6>
+			<h6>Support Mylyn on Plugin Central</h6>
 			 <div style="margin-top:10px; margin-left:10px;">
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<!--
@@ -18,8 +18,7 @@
 				<option>3</option>
 				<option>2</option>
 				<option>1</option>
-				</select><input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating">
-				<input type="submit" value="Vote">
+				</select><input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="  Vote  ">
 				</form>
 				</div>
 		</div>

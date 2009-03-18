@@ -124,7 +124,6 @@
 			    </td> 
 				</tr>
 			</table>
-			<br>&nbsp;
 			<!--
 			<ul>
 				<li>
@@ -145,7 +144,7 @@
 			</ul>
 			-->
 		</div>
-		
+		<p>&nbsp;</p>
 	</div>		
 
 </div>

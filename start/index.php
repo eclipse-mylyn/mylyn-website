@@ -49,6 +49,7 @@
 						 </tr>
 					</table>
 				</li>
+				<li>
 				<a href="http://live.eclipse.org/node/676">
  				Less is More: Redefining the "I" of the IDE</a> W-JAX keynote by Mik Kersten. 
  				Conceptual overview of Mylyn and the task-focused interface <i>(November 6, 2008)</i>

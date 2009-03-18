@@ -59,9 +59,10 @@
 		<div class="homeitem3col">
 			<a name="community"></a><h3>Open Source Support for Mylyn</h3>
 			<table border="0"> 
+        		<tr height="10" colspan="2"></tr>
         		<tr>
-        		<td valign="top">
-        			&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
+        		<td width="80" align="center" valign="center">
+        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
         		</td>
 		        <td>    
 				        <p>Submit bugs using Mylyn or the <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Mylyn">Bugzilla web interface.</a> Please 

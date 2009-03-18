@@ -103,8 +103,9 @@
 		<div class="homeitem3col">
 			<a name="commercial"></a><h3>Commercial Support for Mylyn and Connectors</h3>
 			<table border="0"> 
+        		<tr height="10" colspan="3"></tr>
         		<tr>
-        		<td valign="center">
+        		<td valign="bottom">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
         		</td>
         		<td width=10>

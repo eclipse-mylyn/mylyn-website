@@ -66,6 +66,5 @@
 			</ul>
 		</div>
 	EOHTML;
-
 	
 ?>

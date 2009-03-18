@@ -104,8 +104,10 @@
 			<a name="commercial"></a><h3>Commercial Support for Mylyn and Connectors</h3>
 			<table border="0"> 
         		<tr>
-        		<td valign="top">
+        		<td valign="center">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
+        		</td>
+        		<td width=10>
         		</td>
 		        <td>
 			        <a href="http://tasktop.com/support">Tasktop Technologies</a>, the creators of Mylyn, provide training, support, and consulting

@@ -19,8 +19,10 @@
 	include("_sideCommon.php");
 		
 	$html = <<<EOHTML
+
 <div id="maincontent">
 
+	<div id="rightcolumn">
 		<div class="sideitem">
 			<h6>Announce List</h6>
 			 <ul><li>

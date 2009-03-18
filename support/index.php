@@ -41,7 +41,7 @@
         		</td>
         		 <td>    
 					<p>The Mylyn Newsgroup is intended for the user community discussions on Mylyn usage and troubleshooting.
-					For bug reports please see below.  Mylyn integrators should refer to the <a href="../developers/">Developers page</a></p> 
+					For bug reports please see below.  Mylyn integrators should refer to the <a href="../developers/">Development</a> page.</p> 
 			    </td>
 				</tr>
 			</table>

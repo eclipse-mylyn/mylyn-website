@@ -104,12 +104,9 @@
 				<!--<li>
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.tools.mylyn/maillist.html">Archive</a>, 
 					<a href="http://dev.eclipse.org/newslists/news.eclipse.technology.mylar/maillist.html">Old Archive</a>
-				</li>-->	    
-				    
+				</li>-->	    				    
 		</div>
 
-		<br>&nbsp;
-		
 		<div class="homeitem3col">
 			<a name="commercial"></a><h3>Commercial Support for Mylyn and Connectors</h3>
 			<table border="0"> 

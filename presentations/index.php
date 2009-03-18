@@ -18,33 +18,11 @@
 
 <div id="maincontent">
 	<div id="midcolumn">
-	
-		<div class="homeitem3col">
-			<h3>Current Slides</h3>
-			<ul>
-				<li>
-		            <a href="/mylyn/presentations/2007-06-mylyn-talk.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	Mylyn: the Task-Focused Toolkit</a> (last updated June 2006, 1 hour talk and demo)
-	            </li>
-	            <li>
-		            <a href="/mylyn/presentations/2007-04-mylyn-tutorial.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	Mylyn: Tutorial Materials</a> (last updated April 2006, tutorial materials)
-	            </li>
-	             <li>
-	            	<h4>More videos and background available at <a href="http://tasktop.com/mylyn">http://tasktop.com</a></h4> 
-	            </li>
-			</ul> 
-		</div>
-			
+
 		<div class="homeitem3col">
 			<h3>Selected Presentations</h3>
 			<ul>
 				<!--
-				<li>
-					<a href="/mylyn/presentations/2007-12-mylyn-webinar.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"></a>
-					<a href="http://live.eclipse.org/node/412"><img border=0 src="/mylyn/images/icon-presentation.gif"></a> 
-                    <a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec 2007, 50 min)
-                </li>
                 <li>
 					<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
 					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
@@ -54,14 +32,6 @@
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
                 -->
-	            <li>
-		            <a href="/mylyn/publications/2006-03-mylar-eclipsecon.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	[Mylyn]: a Task Focused UI for Eclipse</a> (EclipseCon talk, Mar 2006)
-	            </li>			
-	            <li>
-	            	<a href="/mylyn/publications/2005-03-mylar-eclipsecon-web.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif">
-	            	[Mylyn]: a degree-of-interest model for Eclipse</a> (EclipseCon talk, Mar 2005)
-	            </li>
 			</ul>
 		</div>
 

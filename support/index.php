@@ -105,10 +105,10 @@
 			<table border="0"> 
         		<tr height="10" colspan="3"></tr>
         		<tr>
-        		<td valign="bottom">
+        		<td align="centre" valign="bottom">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
         		</td>
-        		<td width=10>
+        		<td width="15">
         		</td>
 		        <td>
 			        <a href="http://tasktop.com/support">Tasktop Technologies</a>, the creators of Mylyn, provide training, support, and consulting

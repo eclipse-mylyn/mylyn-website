@@ -14,12 +14,16 @@
 	#
 		
 	# Paste your HTML content between the EOHTML markers!	
-	include("../_sideMylynIs.php");
-	include("_sideFeedback.php");
-	include("_sidePhase.php");
+	include("../_sideBars.php");
 	$html = <<<EOHTML
 
 <div id="maincontent">
+	
+	<div id="rightcolumn">
+		$side_vote
+		$side_announce
+	</div>
+	
 	<div id="midcolumn">
 	
 		<div class="homeitem3col">

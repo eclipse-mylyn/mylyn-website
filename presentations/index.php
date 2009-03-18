@@ -19,10 +19,12 @@
 <div id="maincontent">
 	<div id="midcolumn">
 
+		Moved to: <a href="http://www.eclipse.org/mylyn/about"><b>History & Legal</b></a>
+
+		<!--
 		<div class="homeitem3col">
 			<h3>Selected Presentations</h3>
 			<ul>
-				<!--
                 <li>
 					<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
 					RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Coté (December 2007, 20 minutes)
@@ -31,11 +33,9 @@
 					<a href="http://live.eclipse.org/node/325"><img border=0 src="/mylyn/images/icon-presentation.gif">
 					RedMonkTV: Mylyn Conversation and Demo</a> by Mik Kersten and Michael Coté (July 2007, 18 minutes)
                 </li> 
-                -->
 			</ul>
 		</div>
-
-		<!-- PUBLICATIONS -->
+		-->
 		
 		<!--	
 		<div class="homeitem3col">

@@ -110,7 +110,7 @@
 		        <td>
 			        <a href="http://tasktop.com/support">Tasktop Technologies</a>, the creators of Mylyn, provide training, support, and consulting
 			        to help teams adopt task-focused programming.  The <a href="http://tasktop.com/connectors/">Tasktop Certified Connector</a> program 
-			        includes support for all Mylyn connectors that have graduated from incubation status.
+			        includes support for all non-incubation Mylyn connectors and numberous commercial connectors.
 			    </td> 
 				</tr>
 			</table>

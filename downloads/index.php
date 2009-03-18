@@ -35,8 +35,8 @@ $html = <<<EOHTML
         The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
         Task List with bug/task/issue trackers and project management tools.  
         Bridges focus the user interface on the active task and installing all available bridges is recommended. 
-        The preferred way of installing is via the 
-		<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Update Manager (instructions available)</a>.
+        The preferred way of installing is via 
+		<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Eclipse</a>.
         </p>
     </div>
 

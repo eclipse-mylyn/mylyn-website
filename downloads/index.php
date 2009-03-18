@@ -44,7 +44,7 @@ $html = <<<EOHTML
 				<option>3</option>
 				<option>2</option>
 				<option>1</option>
-				</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote on EPIC">
+				</select> <input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote on EPIC">
 				</form>
 				</div>
 		</div>    

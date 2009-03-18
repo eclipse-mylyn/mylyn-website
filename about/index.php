@@ -31,10 +31,10 @@
 			<h3>History</h3>
 			<ul>
 				<li>
-					Mylyn was created by <a href="http://tasktop.com/blog">Mik Kersten</a> as a part of his PhD thesis, supervised by Gail Murphy at the Software Practices Lab at UBC.  Tasktop Technologies was founded by the creators of Mylyn in order to lead the open source project, provide commercial support and extensions, and enable the rapidly growing ecosystem of tools built on Mylyn.
+					Mylyn was created by <a target="_blank" href="http://en.wikipedia.org/wiki/Mik_Kersten">Mik Kersten</a> as a part of his PhD thesis, supervised by Gail Murphy at the Software Practices Lab at UBC.  Tasktop Technologies was founded by the creators of Mylyn in order to lead the open source project, provide commercial support and extensions, and enable the rapidly growing ecosystem of tools built on Mylyn.
 				</li>
 				<li>
-					Background on Mylyn technology, including research papers, is available at <a href="http://www.tasktop.com/resources/technology/">tasktop.com</a>. 
+					Background on Mylyn technology, including research papers, is available at <a target="_blank" href="http://www.tasktop.com/resources/technology/">tasktop.com</a>. 
 				</li>
 			</ul>
 		</div>

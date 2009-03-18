@@ -41,7 +41,7 @@
 			<table border="0"> 
         		<tr>
         		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/images/reference.png">
+        			&nbsp;&nbsp;&nbsp;&nbsp;<img src="/mylyn/images/reference.png">
         		</td>
 		        <td>
 			       	Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 

@@ -98,7 +98,7 @@
 				    
 		</div>
 
-		<p>&nbsp;</p>
+		<br>&nbsp;
 		
 		<div class="homeitem3col">
 			<a name="commercial"></a><h3>Commercial Support</h3>

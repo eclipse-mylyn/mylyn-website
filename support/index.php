@@ -112,7 +112,7 @@
 			<table border="0"> 
         		<tr height="10" colspan="2"></tr>
         		<tr>
-        		<td width="120" align="centre" valign="bottom">
+        		<td width="80" align="centre" valign="bottom">
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
         		</td>
 		        <td>

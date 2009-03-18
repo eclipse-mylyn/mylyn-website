@@ -132,7 +132,7 @@ $html = <<<EOHTML
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3 and 3.4)
 					<br> 
-					<font size=-1>Web Templates (Generic Web Connector), XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
+					<font size=-1>Web Templates Connector, XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
 				</li>
 			</ul>
 		</div>

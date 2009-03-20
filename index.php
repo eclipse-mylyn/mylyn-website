@@ -73,6 +73,7 @@ $html = <<<EOHTML
 	          		</tr>
 	         	</table>
 	         	
+	         	<!--
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 					<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
 					&nbsp;&nbsp;Support Mylyn on Plugin Central</a>
@@ -89,7 +90,7 @@ $html = <<<EOHTML
 					<option>1</option>
 					</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 					</form>
-	         	
+	         	--> 
 	         	
 				<div class="homeitem3col">
 					<h3>News</h3>

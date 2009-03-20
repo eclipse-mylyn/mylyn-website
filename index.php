@@ -95,6 +95,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="http://www.eweek.com/c/s/Application-Development/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp; eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
+	            		</li>
+						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
 		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>

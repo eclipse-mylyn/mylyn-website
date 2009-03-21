@@ -57,10 +57,35 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
+		<milestone date="05/29/2009" milestone="3.2M1">
+			<html:div>Milestone release</html:div>
+		</milestone>
+		<milestone date="05/20/2009" milestone="3.2M2">
+			<html:div>Milestone release (API changes complete)</html:div>
+		</milestone>
+		<milestone date="06/03/2009" milestone="3.2RC1">
+			<html:div>Release candidate</html:div>
+		</milestone>
+		<milestone date="06/10/2009" milestone="3.2RC2">
+			<html:div>Release candidate</html:div>
+		</milestone>
+		<milestone date="06/17/2009" milestone="3.2RC3">
+			<html:div>Release candidate</html:div>
+		</milestone>
 		<milestone date="06/24/2009" milestone="3.2">
 			<html:div>General availability (Galileo release)</html:div>
 		</milestone>
-		<postamble />
+		<postamble>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p><b>Ramp Down</b></p>
+			<p>After RC1 is released, builds will be produced weekly until the 3.2 release. In the RC
+			phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
+			change except to address critical fixes based on integrator feedback, until RC3, at which
+			point APIs will be frozen. Any API changes or other changes affecting integrators will be
+			posted on will be posted on <a
+				href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=253578">bug 253578</a>.</p>
+		</html:div> 
+		</postamble>
 	</release_milestones>
 	<target_environments>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">

@@ -103,6 +103,10 @@ $html = <<<EOHTML
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
 		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>
+	            		<li>
+		            		<a href="presentations/2009-03-mylyn-tutorial.pdf">
+		           			<img src="images/star.png"/>&nbsp;&nbsp; EclipseCon Slides (pdf)</a>
+	            		</li>
 						<li>
 							<table cellspacing="0" cellpadding="0">
 								<tr>

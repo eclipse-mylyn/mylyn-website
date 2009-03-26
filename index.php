@@ -96,8 +96,9 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 	            		<li>
-		            		<a href="presentations/2009-03-mylyn-tutorial.pdf">
-		           			<img src="images/star.png"/>&nbsp;&nbsp; EclipseCon Mylyn Connector Crash Course: <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">Slides (pdf)</a>, <a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>  <i>March 26th, 2009</i>
+	            			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
+		           			<img src="images/star.png"/>&nbsp;&nbsp; EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
+		           			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
 	            		</li>
 	            		<li>
 		            		<a href="presentations/2009-03-mylyn-tutorial.pdf">

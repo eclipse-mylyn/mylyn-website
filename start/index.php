@@ -66,8 +66,8 @@
 		           	Mylyn Quick Reference Guide<img border="0" src="/mylyn/images/external-link.png"></a> by Tasktop Technologies (September 2008)
 	            </li>
 	            <li>
-            		<a href="../presentations/2009-03-mylyn-tutorial.pdf">
-           			EclipesCon Mylyn Tutorial Slides (pdf)</a> by Tasktop Technologies (March 2009)
+            		<a href="http://www.tasktop.com/mylyn/">
+           			EclipesCon Mylyn Tutorial</a> by Tasktop Technologies (March 2009)
         		</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border="0" src="/mylyn/images/star.png"/>

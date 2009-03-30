@@ -101,7 +101,7 @@ $html = <<<EOHTML
 		           			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
 	            		</li>
 						<li>
-		            		<a href="http://www.eweek.com/c/s/Application-Development/">
+		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Upgrades-Mylyn-Tasktop-Offerings-480768/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp; eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
 	            		</li>
 						<li>

@@ -81,8 +81,8 @@
 			<p>After RC1 is released, builds will be produced weekly until the 3.2 release. In the RC
 			phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
 			change except to address critical fixes based on integrator feedback, until RC3, at which
-			point APIs will be frozen. Any API changes or other changes affecting integrators will be
-			posted on will be posted on <a
+			point APIs will be frozen. After M2 any API changes or other changes affecting integrators 
+			will be	posted on <a
 				href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=253578">bug 253578</a>.</p>
 		</html:div> 
 		</postamble>

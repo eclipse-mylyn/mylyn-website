@@ -67,7 +67,7 @@
 	            </li>
 	            <li>
             		<a href="http://www.tasktop.com/mylyn/">
-           			EclipesCon Mylyn Tutorial<img border="0" src="/mylyn/images/external-link.png"></a> by Tasktop Technologies (March 2009)
+           			EclipseCon Mylyn Tutorial<img border="0" src="/mylyn/images/external-link.png"></a> by Tasktop Technologies (March 2009)
         		</li>
 				<li>
 		            <a href="http://www.tasktop.com/mylyn/mylyn-2.0-part1.php"><img border="0" src="/mylyn/images/star.png"/>

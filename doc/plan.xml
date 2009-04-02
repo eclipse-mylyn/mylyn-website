@@ -57,7 +57,7 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
-		<milestone date="04/29/2009" milestone="3.2M1">
+		<milestone date="05/01/2009" milestone="3.2M1">
 			<html:div>Milestone release (3.5M7)</html:div>
 		</milestone>
 		<milestone date="05/20/2009" milestone="3.2M2">

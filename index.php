@@ -12,7 +12,7 @@ $html = <<<EOHTML
 	<table border="0" cellpadding="5">
      	<tr> 
       		<td valign="top">
-	          	<a href="images/mylyn-2.0.png"><img alt="Mylyn 2.0 Screenshot" border=0 src="images/tasklist-splash.jpg"></a>
+	          	<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 2.0 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
       		</td>
       		<td>
         	<td valign="top">

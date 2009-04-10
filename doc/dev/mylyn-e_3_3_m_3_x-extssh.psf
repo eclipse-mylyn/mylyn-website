@@ -92,6 +92,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.core,org.eclipse.mylyn.wikitext.confluence.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.ui,org.eclipse.mylyn.wikitext.confluence.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.core,org.eclipse.mylyn.wikitext.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.help.ui,org.eclipse.mylyn.wikitext.help.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.mediawiki.core,org.eclipse.mylyn.wikitext.mediawiki.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.mediawiki.ui,org.eclipse.mylyn.wikitext.mediawiki.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.tasks.ui,org.eclipse.mylyn.wikitext.tasks.ui"/>

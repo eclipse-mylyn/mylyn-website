@@ -86,7 +86,6 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki-feature,org.eclipse.mylyn.trac.wiki-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks,org.eclipse.mylyn.web.tasks"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks-feature,org.eclipse.mylyn.web.tasks-feature"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.ui,org.eclipse.mylyn.web.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext-feature,org.eclipse.mylyn.wikitext-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.core,org.eclipse.mylyn.wikitext.confluence.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.ui,org.eclipse.mylyn.wikitext.confluence.ui"/>

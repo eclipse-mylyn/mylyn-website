@@ -20,7 +20,6 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xmlrpc,org.apache.xmlrpc,v3_0_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn,org.eclipse.mylyn,e_3_4_m_3_0_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature,e_3_3_m_3_0_x"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-site,org.eclipse.mylyn-site,e_3_4_m_3_0_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla-feature,org.eclipse.mylyn.bugzilla-feature,e_3_3_m_3_0_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.core,org.eclipse.mylyn.bugzilla.core,e_3_4_m_3_0_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide,e_3_4_m_3_0_x"/>

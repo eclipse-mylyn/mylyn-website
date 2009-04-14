@@ -58,19 +58,19 @@
 			</html:div> 
 		</preamble>
 		<milestone date="05/01/2009" milestone="3.2M1">
-			<html:div>Milestone release (3.5M7)</html:div>
+			<html:div>Milestone release (Galileo 3.5M7)</html:div>
 		</milestone>
-		<milestone date="05/20/2009" milestone="3.2M2">
-			<html:div>Milestone release (API changes complete, 3.5RC1)</html:div>
+		<milestone date="05/15/2009" milestone="3.2M2">
+			<html:div>Milestone release (API changes complete, Galileo 3.5RC1)</html:div>
 		</milestone>
-		<milestone date="06/03/2009" milestone="3.2RC1">
-			<html:div>Release candidate (3.5RC3)</html:div>
+		<milestone date="05/29/2009" milestone="3.2RC1">
+			<html:div>Release candidate (Galileo 3.5RC3)</html:div>
 		</milestone>
 		<milestone date="06/10/2009" milestone="3.2RC2">
-			<html:div>Release candidate (3.5RC4)</html:div>
+			<html:div>Release candidate (Galileo 3.5RC4)</html:div>
 		</milestone>
 		<milestone date="06/17/2009" milestone="3.2RC3">
-			<html:div>Release candidate (3.5RC5)</html:div>
+			<html:div>Release candidate (Galileo 3.5RC5)</html:div>
 		</milestone>
 		<milestone date="06/24/2009" milestone="3.2">
 			<html:div>General availability (Galileo release)</html:div>

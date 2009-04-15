@@ -9,7 +9,7 @@ $html = <<<EOHTML
 
 <div id="maincontent">
 <div id="midcolumn" style="width:98%">
-	<table border="0" cellpadding="5">
+	<table border="0" cellpadding="5" width="100%">
      	<tr> 
         	<td width="600" valign="top">
 				Mylyn is a task-focused interface for Eclipse that reduces information overload and makes multi-tasking easy.  
@@ -174,7 +174,6 @@ $html = <<<EOHTML
 	  		<td valign="top" align="center" width="*">
 	          	<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 2.0 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
       		</td>
-	  		
       	</tr>
     </table>
 </div>

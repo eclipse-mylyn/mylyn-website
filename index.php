@@ -91,6 +91,10 @@ $html = <<<EOHTML
 				<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
+						<li>
+		            		<a href="http://eclipse.org/mylyn/new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1.1 released!</a> <i>April 15th, 2009</i>
+	            		</li>
 						<!--
 	            		<li>
 	            			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
@@ -104,7 +108,7 @@ $html = <<<EOHTML
 	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
-		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
+		           			&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>
 						<li>
 							<table cellspacing="0" cellpadding="0">

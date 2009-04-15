@@ -100,7 +100,7 @@ $html = <<<EOHTML
 	            		-->
 						<li>
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Upgrades-Mylyn-Tasktop-Offerings-480768/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp; eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
+		           			eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">

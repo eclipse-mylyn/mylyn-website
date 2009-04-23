@@ -40,7 +40,7 @@ JDOM 1.0,							2051,	org.jdom Orbit Bundle,						JDOM,		web repository connecti
 
 Apache Xerces 2.9.1,				2460,	WikiText Component,							APL 2.0,	see about file 
 
-ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
+ICU4J 4.0.1,						3075,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 -------------------------- Obsolete CQs -------------------------- 
 
@@ -57,13 +57,14 @@ Java Activation Framework 1.1,		1312,	javax.activation Orbit Bundle,				CDL,		we
 
 Java Servlet API 2.5,				2905,	javax.servlet Orbit Bundle,					APL 2.0,	web repository connections
 Apache Lucene,						1313,	org.apache.lucene Orbit Bundle,				APL 2.0,	web repository connections
+ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 
 Developers
 
 -------------------------- 3.2 --------------------------
 
-2009-04-12, wikitext,	273355, Peter Friese,		<20,		dgreen,		Support image scaling for Textile -> DocBook
+2009-04-22, wikitext,	273355, Peter Friese,		<20,		dgreen,		Support image scaling for Textile -> DocBook
 
 -------------------------- 3.1 --------------------------
 2009-04-12, tasks,		186667, Leo Dos Santos,		<20,		spingel,	tweak task list decorations on carbon 

@@ -61,6 +61,10 @@ Apache Lucene,						1313,	org.apache.lucene Orbit Bundle,				APL 2.0,	web reposi
 
 Developers
 
+-------------------------- 3.2 --------------------------
+
+2009-04-12, wikitext,	273355, Peter Friese,		<20,		dgreen,		Support image scaling for Textile -> DocBook
+
 -------------------------- 3.1 --------------------------
 2009-04-12, tasks,		186667, Leo Dos Santos,		<20,		spingel,	tweak task list decorations on carbon 
 

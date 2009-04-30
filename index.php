@@ -93,7 +93,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="http://eclipse.org/mylyn/new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1.1 released!</a> <i>April 15th, 2009</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1.1 released</a> <i>April 15th, 2009</i>
 	            		</li>
 						<!--
 	            		<li>

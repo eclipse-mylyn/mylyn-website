@@ -105,11 +105,11 @@ $html = <<<EOHTML
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Upgrades-Mylyn-Tasktop-Offerings-480768/">
 		           			eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
 	            		</li>
-	            		-->
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
 		           			&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>
+	            		-->
 						<li>
 							<table cellspacing="0" cellpadding="0">
 								<tr>

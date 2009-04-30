@@ -175,7 +175,7 @@ $html = <<<EOHTML
 					 </ul>	
 				</div> 
 	  		</td>
-	  		<td width="10"></td>
+	  		<td width="20"></td>
 	  		<td valign="top" align="center" width="*">
 	          	<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
       		</td>

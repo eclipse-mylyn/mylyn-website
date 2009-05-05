@@ -64,7 +64,8 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
-2009-05-05, tasks,		274903, Thomas Ehrnhoefer,	<10,		spingel,	fix conversion of work log units 
+2009-05-05, jira,		274915, Thomas Ehrnhoefer,	<150,		spingel,	add equals() and hashCode() to JiraWorkLog 
+2009-05-05, jira,		274903, Thomas Ehrnhoefer,	<10,		spingel,	fix conversion of work log units 
 2009-05-05, tasks,		272605, Thomas Ehrnhoefer,	<10,		spingel,	do not force previous and next buttons 
 2009-04-29, tasks,		266600, Terry Hon, 			<100,		spingel,	add footer to task editor page
 2009-04-23, wikitext,	273325, Alexander Kurtakov, <30,		dgreen,		Ease wikitext ant tasks usage in Eclipse

@@ -64,6 +64,7 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
+2009-05-06, wikitext,	274730, Daniel Migowski,	<10,		dgreen,		MediaWiki Parser does not read tables having mixed headers/normal cells correctly
 2009-05-05, jira,		274915, Thomas Ehrnhoefer,	<250,		spingel,	support logging work from task editor 
 2009-05-05, jira,		274915, Thomas Ehrnhoefer,	<150,		spingel,	add equals() and hashCode() to JiraWorkLog 
 2009-05-05, jira,		274903, Thomas Ehrnhoefer,	<10,		spingel,	fix conversion of work log units 

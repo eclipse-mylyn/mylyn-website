@@ -64,6 +64,7 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
+2009-05-08, tasks,		275506, Thomas Ehrnhoefer,	<10,		spingel,	check for null when getting task list view
 2009-05-08, sandbox,	247213, Maarten Meijer,		<100,		spingel,	show task attributes in properties view
 2009-05-06, jira,		262799, Thomas Ehrnhoefer,	<100,		spingel,	do not update estimate if option not selected 
 2009-05-06, wikitext,	274730, Daniel Migowski,	<10,		dgreen,		MediaWiki Parser does not read tables having mixed headers/normal cells correctly

@@ -65,7 +65,7 @@
            			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
         		</li>
 				<li>
-					<a href="http://www.eclipse.org/articles/">Eclipse Corner Article</a>: General information about Eclipse and plug-in development
+					<a href="http://www.eclipse.org/articles/">Eclipse Corner Articles</a>: General information about Eclipse and plug-in development
 				</li>
 			</ul>
 		</div>

@@ -20,8 +20,6 @@
 		
 	$html = <<<EOHTML
 
-<div id="maincontent">
-
 	<div id="rightcolumn">
 		$side_vote
 	</div>
@@ -51,11 +49,6 @@
 			</table>
 			<ul> 
 				<li>
-        			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
-           			EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
-           			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
-        		</li>
-				<li>
 	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference</a>: 
 					Getting started guide for Mylyn development
 				</li>
@@ -64,7 +57,15 @@
 					Information for developers building on Mylyn
 				</li>
 				<li>
-					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn page on Eclipsepedia</a>: contributor and integrator links
+					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn Page on Eclipsepedia</a>: Contributor and integrator links
+				</li>
+				<li>
+        			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
+           			EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
+           			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
+        		</li>
+				<li>
+					<a href="http://www.eclipse.org/articles/">Eclipse Corner Article</a>: General information about Eclipse and plug-in development
 				</li>
 			</ul>
 		</div>

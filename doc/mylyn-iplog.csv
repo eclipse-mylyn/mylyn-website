@@ -64,6 +64,7 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
+2009-05-20, tasks,		265565, Thomas Ehrnhoefer,	<200,		spingel,	support attaching progress monitors to running submit jobs
 2009-05-20, tasks,		266123, Hiroyuki Inaba,		<2000,		spingel,	improve screen capture (CQ 3291)
 2009-05-18, tasks,		267118, Hiroyuki Inaba,		<100,		spingel,	use new look for filtered tree 
 2009-05-08, tasks,		275506, Thomas Ehrnhoefer,	<10,		spingel,	check for null when getting task list view

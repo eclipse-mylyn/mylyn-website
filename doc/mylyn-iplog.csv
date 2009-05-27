@@ -65,6 +65,7 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
+2008-05-26, tasks,		277970, David Shepherd,		<250,		spingel,	single selection editor with image support 
 2009-05-24, tasks,		277245, Hiroyuki Inaba,		<150,		spingel,	improvements to the screen capture tool 
 2009-05-21, jira,		267720, Thomas Ehrnhoefer,	<100,		spingel,	do not highlight multi segment issues keys 
 2009-05-21, java,		252306, Jingwen Ou,			<200,		sminto,		test for JavaEditingMonitor.handleWorkbenchPartSelection

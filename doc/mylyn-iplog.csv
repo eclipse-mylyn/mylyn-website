@@ -64,7 +64,8 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 Developers
 
 -------------------------- 3.2 --------------------------
-
+ 
+2009-05-28, tasks,		271197, Peter Stibrany,		<250,		spingel,	support saving of multiple attachments 
 2009-05-27, tasks,		277972, David Shepherd,		<100,		spingel,	make the summary taller and move priority icon the to left of the summary 
 2009-05-26, jira,		277405, Thomas Ehrnhoefer,	<50,		spingel,	do not logout between requests 
 2009-05-26, tasks,		256071, Remy Chi Jian Suen, <50,		spingel,	remove reflection usage in Java bridge

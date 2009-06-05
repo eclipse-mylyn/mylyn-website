@@ -1,40 +1,365 @@
 <html>
 <body bgcolor="FFFFFF">
+<!--
+<table border="1" style="border-collapse: collapse" width="100%" id="table128" cellpadding="4" bordercolor="#FFFFFF">
+	<tr>
+		<td bgcolor="#595791" width="7%" align="center"><b>
+		<font color="#FFFFFF" size="1">Release</font></b></td>
+		<td bgcolor="#595791" width="5%" align="center"><b>
+		<font color="#FFFFFF" size="1">Resolved 
+		</font></b></td>
+		<td bgcolor="#595791" width="*" align="center"><b>
+		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
+	</tr>
+	
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.0.5<br>
+		<i>Feb 18, 2009</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=WikiText&component=XML&component=XPlanner&target_milestone=3.0.5&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">1<br>bug</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">This release has support for Bugzilla 3.2.2.
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.0.4<br>
+		<i>Jan 28, 2009</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=notregexp&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=WikiText&component=XML&component=XPlanner&target_milestone=3.0.4&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">4<br>bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Frank Becker contributed a fix for Bugzilla 3.2 support and Shawn Minto provided a patch for
+		for the context framework. 
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.0.3<br>
+		<i>Oct 15, 2008</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=WikiText&component=XML&component=XPlanner&target_milestone=3.0.3&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">15<br>bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Shawn Minto provided patches for
+		for the context framework. <b>This release fixes a critical bug that can cause
+		the local task editor to fail.</b> 
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.0.2<br>
+		<i>Sep 18, 2008</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2008-07-22&chfieldto=2008-09-19&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">175<br>bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">David Green provided 43 patches for 
+		WikiText, Jingwen Ou provided enhancements for the Sandbox, Shawn Minto resolved
+		multiple bugs in the tasks framework and Frank Becker implemented bug fixes for Bugzilla.
+        Additional bug fixes were provided by Maarten Meijer, Helen Bershadskaya, Andrew Eisenberg and
+        Peter Stibrany and David Shepherd.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.0.1<br>
+		<i>Jul 21, 2008</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2008-06-27&chfieldto=2008-07-21&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">108<br>bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Jingwen Ou
+		provided enhancements for the Sandbox. Helen Bershadskaya resolved bugs for 
+		the XPlanner connector. Additional bug fixes were provided by Shawn Minto
+		and Terry Hon.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#E0D0E6"><font size="1">3.0<br>
+		<i>June 25, 2008</i></font></td>
+		<td bgcolor="#E0D0E6" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2008-03-02&chfieldto=2008-06-26&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">581<br>bugs</font></a></td>
+		<td bgcolor="#E0D0E6"><font size="1">Frank Becker provided 30 patches 
+		that improved the Bugzilla Connnector and framework, Helen Bershadskaya 
+		resolved 14 bugs and ported the XPlanner connector to 3.0, Shawn Minto 
+		provided numerous patches for the Tasks API, Leo Dos Santos provided Mac 
+		improvements and Willian Mitsuda improved screenshot attachments.&nbsp; 
+		Additional features and bug fixes were provided by David Green, Jingwen 
+		Ou, Maarten 
+		Meijer, Mark Kralj-Taylor, Terry Hon, Remy Chi Jian Suen and Scott 
+		Lewis.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">2.3<br>
+		<i>Feb 27, 2008</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-12-21&chfieldto=2008-03-01&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">276<br>bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Willian Mitsuda contributed 
+		screenshot markup and numerous other improvements.&nbsp; Frank Becker 
+		provided nine patches to the Bugzilla Connector and Tasks UI.&nbsp; 
+		Additional contributions were provided by Maarten Meijer, Helen 
+		Bershadskaya, Shawn Minto, Tracy Mew, Leo Dos Santos, Jacek Pospychala, 
+		Remy Chi Jian Suen and David Green.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">2.2<br>
+		<i>Dec 19, 2007</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-09-29&chfieldto=2007-12-20&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">384</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Frank Becker resolved a total of 19 
+		bugs with Bugzilla and the task editor. Willian Mitsuda contributed to 
+		screenshot capture and provided several other improvements. Maarten 
+		Meijer provided performance improvements and tests. Shawn Minto provided 
+		task context and UI fixes.&nbsp; Benjamin Pasero provided the 
+		notification popup shell rendering. Additional useful contributions, fixes 
+		and patches were provided by Helen Bershadskaya, Leo Dos Santos, Michael 
+		Valenta, Kevin Bracey, Chris Aniszczyk, George Lindholm, Jakum 
+		Jurkiewicz, Ketan Padegoankar and Nathan Hapke.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">2.1<br>
+		<i>Sep 28, 2007</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-08-29&chfieldto=2007-09-28&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">167</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Jevgeni Holodkov added new import 
+		and export functionality. Shawn Minto provided several fixes for the 
+		Task List.&nbsp; Maarten Meijer added task cloning support. Helen 
+		Bershadskaya improved the XPlanner connector and Leo Dos Santos fixed 
+		export for Mac.</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">2.1M<br>
+		<i>Aug 27, 2007</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&component=Bugzilla&component=Core&component=Doc&component=Java&component=Jira&component=Monitor&component=Tasks&component=Trac&component=UI&component=Web&component=XML&component=XPlanner&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=2007-07-01&chfieldto=2007-08-28&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">295</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Balazs Brinkus contributed the 
+		screenshot attachment and provided new user experience improvements. 
+		Xiaoyang Guan provided prototype wiki integration for Trac.&nbsp; Frank 
+		Becker provided numerous improvements including custom resolutions for 
+		Bugzilla. Jevgeni Holodkov contributed prototype task and query import 
+		export facilities.&nbsp; Helen Bershadskaya contributed several XPlanner 
+		connector improvements including the new task editor. Raphael Ackermann 
+		provided several improvements including spell checking in task 
+		summaries.&nbsp; Shawn Minto provided over a dozen useful bug fixes. 
+		Additional useful patches were provided by George Lindholm, Leo Dos 
+		Santos, Maarten Meijer, Toomas Romer, David Green, Willian Mitsuda, 
+		Meghan Allen and Jacek Pospychala.</font></td>
+	</tr>
+	</table>
+-->
+<h4>Draft Mylyn 3.2 New and Noteworthy</h4>
 
-<p><b>New &amp; Noteworthy for Mylyn Weekly Builds</b></p>
-
-<p>Also see the New &amp; Noteworthy for: 
-<a href="http://eclipse.org/mylyn/new/">Mylyn 3.1</a></p>
+<p><b>Also see the New &amp; Noteworthy for: 
+<a href="http://eclipse.org/mylyn/new/new-3.0.html">Mylyn 3.0</a>, 
+<a href="http://eclipse.org/mylyn/new/new-2.0.html">Mylyn 2.0</a>, 
+<a href="http://eclipse.org/mylyn/new/new-1.0.html">Mylyn 1.0-0.6</a>, <a href="http://eclipse.org/mylyn/new/new-0.5.html">
+Mylyn 0.5</a>,&nbsp;
+<a href="http://eclipse.org/mylyn/new/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/new/new-0.3.html">
+Mylyn 0.3</a></b></p>
+<p><b>Updating</b>:&nbsp; If using a version prior to 2.0, upgrade to 2.0 
+before installing Mylyn 3.0.</p>
 
 <hr>
 
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.2</span> </p>
+<!--
 <ul>
-<li>The presentation of the notification popup has been improved (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=274656">bug 274656</a>)
-<hr size="1">
-<li>The JIRA task editor now supports logging of work (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=262799">bug 262799</a>)
-<hr size="1">
-<li>The search view now supports sorting (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=216150">bug 216150</a>)
-<hr size="1">
-<li>The submit button of the Bugzilla Task Editor is now always visible (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=266600">bug 266600</a>)
-<li>The working set switcher now affects all windows (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=250497">bug 250497</a>)
-<li>Stack traces are now displayed in a pre-formatted block when WikiText is enabled  (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=272757">bug 272757</a>)
-<li>Connectors can be easily installed from the Add Task Repository wizard (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=272621">bug 272621</a>)
-<li>Orphaned elements are now displayed on the context tab (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=174413">bug 174413</a>)
-<hr size="1">
-<li>Task List tooltips element now use a gradient (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=276581">bug 276581</a>)
-<li>Improved screen capture UI (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=266123">bug 266123</a>)
-<hr size="1">
-<li>The submit button is now displayed in the header of the Bugzilla editor (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=274790">bug 274790</a>)
-<b>Note:</b> Changes made for <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=266600">bug 266600</a> that moved the submit button into a always visible footer part have been reverted.
-<li>The task editor header has a big editable priority control now (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=272093">bug 272093</a>)
-<li>The local task editor has been improved and is now consistent with repository task editors (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=211096">bug 211096</a>)
-<li>The integrated bug reporting has been improved, see Help - Report Bug or Enhancement (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=212209">bug 212209</a>)
-<li>The attachment dialog now supports spell checking and wiki markup (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=245187">bug 245187</a>)
-<li>The open and activate task dialogs have an I'm feeling lazy button (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=248490">bug 248490</a>)
-<hr size="1">
-<li>The local task editor allows selection of the task category now (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=199675">bug 199675</a>)
-<li>Multiple attachments can now be be selected and saved to a directory (<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=271197">bug 271197</a>)
+	<li><a href="#task-list">Task List (5)</a></li>
+	<li><a href="#task-editor">Task Editor (3)</a></li>
+	<li><a href="#focused-ui">Focused UI (3)</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector (3)</a></li>
+	<li><a href="#trac">Trac Connector</a></li>
+	<li><a href="#jira">JIRA Connector (1)</a></li>
+	<li><a href="#incubator">Incubator (1)</a></li>
 </ul>
+-->
+
+
+<h2><a name="task-list">Connector Discovery</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Connector install Wizard</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The Add Task Repository dialog provides a wizard based work-flow for easy installation of Mylyn extensions. To lauch Connector Discovery, open the Task Repositories view and click the New Repository button. A list of avaliable connectors is presented in the wizard page.  On this wizard page, click the "Install More Connectors..." button to launch Connector Discover.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/connector-discovery.png"></td>
+		</tr>
+</table>
+
+
+<h2><a name="task-list">Integrated Bug Reporting</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Specify Support Providers </b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The integrated bug reporting has an extension point (org.eclipse.mylyn.tasks.bugs.support) for specifying support providers and supported products. The extensions are used to map error log entries to task repositories based on plug-in ids.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/bug-reporting.png">
+			<img border="0" src="images/3.2.0/report-bug.png">
+			</td>
+		</tr>
+</table>
+
+<h2><a name="task-list">Task-Focused Interface</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Hidden Context Members</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The context page of the Task Editor shows elements that can not be presented in the common navigator in a separate table.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/context-hidden-elements.png"></td>
+		</tr>
+</table>
+
+<h2><a name="task-list">Task List</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Notification and Tooltip UI</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Change notifications and tooltips to use a gradient for the background to improve their visual appearance.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/incoming-notification.png">
+			<img border="0" src="images/3.2.0/tooltips.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Toggle Auto Synchronization per Query</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Toggle whether a query is included in automatic background query synchronizations. Right click on the desired query and deselect "Synchronize Automatically" to ensure this repository does not get synchronized in the background.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/synchronize-automatically.png">
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Sorting Capability</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Sort both the Task List and task search results view by multiple sort levels.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-list-sorting.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2><a name="task-list">Task Editor</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Unified Local and Repository Editor</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The appearance of the editor for local and repository tasks has been streamlined and unified. Connector authors can now enable repositioning of the personal planning controls and notes to be folded into a new Private section within the repository task editor page itself.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-editor.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Screen Capture Improvements</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The screen capture wizard supports improved basic image editing and has capabilities for importing images from files and the clipboard.</p>
+			<p class="MsoPlainText">
+			<img align="top" border="0" src="images/3.2.0/screenshot-attachments-2.png">
+			<img border="0" src="images/3.2.0/screenshot-attachments-1.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Local Task and Attachment Spell Checking</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The local task editor and attachment dialog support spell checking and wiki markup.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/attachments-wikitext.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2><a name="task-list">WikiText</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Pre-formatted Stack Traces</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">To improve consistency of layout, stack traces are now displayed in a pre-formatted block.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/stack-trace.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2><a name="task-list">JIRA Connector</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Work Log</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The Task Editor supports adding work log entries.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/jira-worklog.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 </body>
 </html>

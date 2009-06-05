@@ -179,7 +179,7 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Connector install Wizard</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The Add Task Repository dialog provides a wizard based work-flow for easy installation of Mylyn extensions. To lauch Connector Discovery, open the Task Repositories view and click the New Repository button. A list of avaliable connectors is presented in the wizard page.  On this wizard page, click the "Install More Connectors..." button to launch Connector Discover.</p>
+			<p align="left">From the Add Task Repository dialog you can access the Connector Discovery wizard for simple installation of Mylyn extensions. To lauch the Connector Discovery wizard, open the Task Repositories view and click the New Repository button. In the resulting dialog, click the "Install More Connectors..." button to launch Connector Discovery.  For information on how connectors are made available via the Connector Discovery mechanism stay tuned to the <a href="https://dev.eclipse.org/mailman/listinfo/mylyn-integrators">Mylyn Integrators</a> mailing list.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/connector-discovery.png"></td>
 		</tr>
@@ -194,9 +194,10 @@ before installing Mylyn 3.0.</p>
 			<p align="right"><b>Specify Support Providers </b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The integrated bug reporting has an extension point (org.eclipse.mylyn.tasks.bugs.support) for specifying support providers and supported products. The extensions are used to map error log entries to task repositories based on plug-in ids.</p>
+			<p align="left">If you choose to report an error from the error log (right click > Report as Bug), the appropraite repository will be chosen to file the bug against for you. When using Help > Report Bug or Enhancement..., you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an extension point (org.eclipse.mylyn.tasks.bugs.support) to specifying support providers and supported products.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/bug-reporting.png">
+			<img border="0" src="images/3.2.0/report-as-bug.png">
+			<img border="0" src="images/3.2.0/report-as-bug-wizard.png">
 			<img border="0" src="images/3.2.0/report-bug.png">
 			</td>
 		</tr>
@@ -254,10 +255,16 @@ before installing Mylyn 3.0.</p>
 		
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Improved Sorting Capability</b></p>
+			<p align="right"><b>Improved Sorting and Grouping Capability</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">Sort both the Task List and task search results view by multiple sort levels.</p>
+			<p align="left">Sort both the Task List and task search results view by multiple sort levels. The Sort dialog allows the user to choose how the task list folders are grouped:<br>
+			<ol>
+				<li>none - alphabetical</li>
+				<li>Category and Query - categories grouped separately from queries, then sorted alphabetically</li>
+				<li>Category and Repository - Unmatched/Unsubmitted categories grouped with queries of same repository, queries then sorted alphabetically</li>
+			</ol> 
+			</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/task-list-sorting.png"></td>
 		</tr>
@@ -309,12 +316,14 @@ before installing Mylyn 3.0.</p>
 <table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Local Task and Attachment Spell Checking</b></p>
+			<p align="right"><b>Local Task and Attachment Spell Checking/WikiText</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The local task editor and attachment dialog support spell checking and wiki markup.</p>
+			<p align="left">The local task editor and attachment dialog support both spell checking and wikitext markup. In a local Task editor, click the 'Local' label in the editor header to configure the wiki syntax.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/attachments-wikitext.png"></td>
+			<img border="0" src="images/3.2.0/attachments-wikitext.png">
+			<img border="0" src="images/3.2.0/local-task-editor.png">
+			</td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -339,6 +348,15 @@ before installing Mylyn 3.0.</p>
 			<td colspan="2">
 			<hr>
 			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>WikiText to PDF</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The WikiText component now supports export to XSL Formatting Objects (XSL-FO) and PDF in addition to the other formats curretly supported (HTML, Eclipse Help, DocBook, DITA) </p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/wikitext-pdfexport.png"></td>
 		</tr>
 </table>
 

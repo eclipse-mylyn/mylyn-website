@@ -1,4 +1,4 @@
-Committers
+---------------------------- Committers ---------------------------- 
 
 Mik Kersten (mkersten),
 Robert Elves (relves),
@@ -8,8 +8,7 @@ David Green (dgreen),
 Frank Becker (fbecker)
 Shawn Minto (sminto)
 
-
-Third Party Software
+---------------------- Third Party Software ------------------------
 
 name including version, IPzilla #, directory location or jar file, license name and version, usage
 (APL=Apache License CPL=Common Public License CDL=Common Development and Distribution License 
@@ -42,6 +41,38 @@ JDOM 1.0,							2051,	org.jdom Orbit Bundle,						JDOM,		web repository connecti
 Apache Xerces 2.9.1,				2460,	WikiText Component,							APL 2.0,	see about file 
 
 ICU4J 4.0.1,						3075,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
+
+
+------------- "Works with" Third Party Dependencies --------------
+
+Documented at: http://wiki.eclipse.org/Mylyn/Discovery
+
+The inclusion of Mylyn connector dependencies follow the mechanisms of the Web Tools Platform's [http://www.eclipse.org/webtools/iprelated/2008dependancies.php Server Adapter install] and re based on the the ability to include [http://www.eclipse.org/org/documents/Eclipse_Policy_and_Procedure_for_3rd_Party_Dependencies_Final.pdf works with dependencies] with Eclipse.  Note that third party connectors are not distributed with Mylyn, but instead are retrieved from update sites listed via eclipse.org/mylyn/discovery/directory.xml. Before installing a connector the user is presented with a license agreement for that connector.
+
+Mylyn does not require the third party connector software to be present and functions with multiple third party connectors present.  The following connector kinds are supported.  Three kinds of connector dependencies are supported.  
+* '''Task Repository Connectors''': provide Task List and Task Editor integration for accessing a task/bug/issue management system.
+* '''Document Bridges''': provide focusing features to programming and other document management tools.
+* '''Version Control''':  provide automatic change set management for source and version control systems.
+
+The following reference implementations of connectors are distributed with Mylyn:
+* '''Task Repository Connectors''': Mozilla Bugzilla and Trac
+* '''Document Bridges''': Eclipse JDT and PDE
+* '''Version Control''': Eclipse CVS
+
+==== Current Listing ====
+
+To request being listed please review the criteria below and make the request on {{bug|279709}}.
+
+* Atlassian Connector by Atlassian
+* CollabNet Desktop by CollabNet
+* Danube ScrumWorks by Tasktop
+* Google Gmail and Calendar by Tasktop
+* Microsoft Outlook and Exchange by Tasktop
+* Rally by Rally
+* Tasktop Pro by Tasktop
+* Mantis (under review)
+* Foglyn (under review)
+
 
 -------------------------- Obsolete CQs -------------------------- 
 

@@ -96,6 +96,11 @@ Developers
 
 -------------------------- 3.2 --------------------------
 
+2009-06-21, tasks,		279364, Hiroyuki Inaba,		<10,		spingel,	fix for enabling color selection tool 
+
+
+-------------------------- 3.2 --------------------------
+
 2009-05-31, tasks,		278575, David Shepherd,		<10,		spingel,	decorate incoming changes for the status whiteboard 
 2009-05-29, jira,		269854, Thomas Ehrnhoefer,	<10,		spingel,	test case for insufficient permission problem 
 2009-05-29, tasks,		278334, Leo Dos Santos,		<20,		spingel,	fix squashed submit button on carbon 

@@ -98,7 +98,8 @@ Developers
 
 2009-06-21, tasks,		279364, Hiroyuki Inaba,		<10,		spingel,	fix for enabling color selection tool 
 2009-06-22, tasks,		277974, Kevin Barnes,		<10,		spingel,	fix for showing task list tooltip on Mac
-2009-06-23, wikitext,	279029, Holger Voormann,	<100,		dgreen,		fix for parsing WikiWords (TracWiki) 
+2009-06-23, wikitext,	279029, Holger Voormann,	<100,		dgreen,		fix for TracWiki for parsing WikiWords  
+2009-06-23, xplanner,	231335, Darren Tarbard,		<10,		spingel,	shift icons by one pixel
 
 
 -------------------------- 3.2 --------------------------

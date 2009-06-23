@@ -105,13 +105,29 @@ before installing Mylyn 3.2.</p>
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Specify Support Providers </b></p>
+			<p align="right"><b>Report from Error log</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">If you choose to report an error from the error log (right click > Report as Bug), the appropraite repository will be chosen to file the bug against for you. When using Help > Report Bug or Enhancement..., you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an extension point (org.eclipse.mylyn.tasks.bugs.support) to specifying support providers and supported products.</p>
+			<p align="left">If you choose to report an error from the error log (right click > Report as Bug), the appropraite repository will be chosen to file the bug against for you. </p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/report-as-bug.png">
 			<img border="0" src="images/3.2.0/report-as-bug-wizard.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Report from Help Menu</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">When using Help > Report Bug or Enhancement..., you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an extension point (org.eclipse.mylyn.tasks.bugs.support) to specifying support providers and supported products.</p>
+			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/report-bug.png">
 			</td>
 		</tr>
@@ -164,13 +180,31 @@ before installing Mylyn 3.2.</p>
 <p>&nbsp;</p>
 <h2><a name="task-editor">Task Editor</a></h2>
 
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Optimized Toolbar</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The Task Editor's toolbar has been updated.  The most used actions are now located in the corners Activate (left) and Submit (right) with other repository actions available next to the Submit button in the toolbar.  The task type and id can now be selected and copied using native key bindings.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-editor-toolbar.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
 <table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Unified Local and Repository Editor</b></p>
 			</td>
 			<td valign="top" width="70%">
-			<p align="left">The appearance of the editor for local and repository tasks has been streamlined and unified. The priority and summary are visually more prominent and the task id in the header can be selected and copied using native key bindings.  Additionally, connector authors can now enable repositioning of the personal planning controls and notes to be folded into a new Private section within the repository task editor page itself.</p>
+			<p align="left">The appearance of the editor for local and repository tasks has been streamlined and unified. The priority is now editable and located next to a more visually prominent summary field.  Additionally, connector authors can now enable repositioning of the personal planning controls and notes to be folded into a new Private section within the repository task editor page itself. Information contained within the Private section is not submitted to the repository.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/task-editor.png"></td>
 		</tr>
@@ -181,6 +215,41 @@ before installing Mylyn 3.2.</p>
 		</tr>
 </table>
 
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Local Task and Attachment Spell Checking/WikiText</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The local task editor and notes field in a Private section now support WikiText markup. In a local Task editor, click the 'Local' label in the editor header to configure the wiki syntax.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/local-task-editor.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Attachment Spell Checking/WikiText</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">The attachment dialog supports both spell checking and wikitext markup.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/attachments-wikitext.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
@@ -200,42 +269,23 @@ before installing Mylyn 3.2.</p>
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" id="table403">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Local Task and Attachment Spell Checking/WikiText</b></p>
-			</td>
-			<td valign="top" width="70%">
-			<p align="left">The local task editor and attachment dialog support both spell checking and wikitext markup. In a local Task editor, click the 'Local' label in the editor header to configure the wiki syntax.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/attachments-wikitext.png">
-			<img border="0" src="images/3.2.0/local-task-editor.png">
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
-<!--
 <table cellpadding="10" cellspacing="0" id="table413">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
-			<p align="right"><b>Schedule Task Toolbar Button</b></p>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Schedule Task Button</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">Tasks can be scheduled through the Schedule Task button in the Task Editor toolbar. The button's default action (which results from pressing the button instead of choosing from the drop down) will schedule the task for Today.</p>
+			<p align="left">Tasks can be scheduled through the Schedule Task button (rigth) in the Private section's toolbar. The button's default action (which results from pressing the button instead of choosing from the drop down) will schedule the task for Today.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/taskeditor-schedule-for.png"></td>
+			<img border="0" src="images/3.2.0/taskeditor-schedule-for.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
 			<hr>
 			</td>
 		</tr>
-</table> -->
+</table> 
 
 <table cellpadding="10" cellspacing="0" id="table413">
 		<tr>
@@ -298,12 +348,26 @@ before installing Mylyn 3.2.</p>
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Improved Notification and Tooltip UI</b></p>
+			<p align="right"><b>Improved Notifications</b></p>
+			</td>
+			<td valign="top" width="70%">
+			<p align="left">Change notifications use a gradient for the background to improve their visual appearance.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/incoming-notification.png">
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+			<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Tooltips</b></p>
 			</td>
 			<td valign="top" width="70%">
 			<p align="left">Change notifications and tooltips to use a gradient for the background to improve their visual appearance.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/incoming-notification.png">
 			<img border="0" src="images/3.2.0/tooltips.png"></td>
 		</tr>
 		<tr>

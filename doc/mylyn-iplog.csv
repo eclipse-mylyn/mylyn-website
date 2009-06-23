@@ -125,7 +125,6 @@ Developers
 2009-05-05, jira,		274915, Thomas Ehrnhoefer,	<150,		spingel,	add equals() and hashCode() to JiraWorkLog 
 2009-05-05, jira,		274903, Thomas Ehrnhoefer,	<10,		spingel,	fix conversion of work log units 
 2009-05-05, tasks,		272605, Thomas Ehrnhoefer,	<10,		spingel,	do not force previous and next buttons 
-2009-04-29, tasks,		266600, Terry Hon, 			<100,		spingel,	add footer to task editor page
 2008-04-23, tasks,		256993, Hiroyuki Inaba,		<20,		spingel,	fix image on welcome page 
 2009-04-22, wikitext,	273355, Peter Friese,		<20,		dgreen,		Support image scaling for Textile -> DocBook
 2009-04-12, tasks,		186667, Leo Dos Santos,		<20,		spingel,	tweak task list decorations on carbon 

@@ -16,15 +16,15 @@
 		<i>June 24, 2009</i></font></td>
 		<td bgcolor="#E0D0E6" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&target_milestone=3.2&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-		<font size="1">335</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#E0D0E6"><font size="1">Hiroyuki Inaba improved the screen capture capability. Peter Stibrany added support for saving multiple attachments. Thomas Ehrnhoefer contributed 10 patches improving both the JIRA connector and framework. Additional contributions were provided by Remy Chi Jian Suen, Jingwen Ou, Maarten Meijer, Daniel Migowsk, Peter Friese, David Shepherd, Terry Hon, and Leo Dos Santos.</font></td>
+		<font size="1">334</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#E0D0E6"><font size="1">Thomas Ehrnhoefer contributed 10 patches improving both the JIRA connector and tasks framework. Hiroyuki Inaba enhanced the screen capture capability. Peter Stibrany added support for saving multiple attachments. Additional contributions were provided by David Shepherd, Leo Dos Santos and Remy Chi Jian Suen, Peter Friese, Jingwen Ou, Maarten Meijer and Daniel Migowski.</font></td>
 	</tr>
 	<tr>
 		<td bgcolor="#FAF7FB"><font size="1">3.1.1<br>
 		<i>Apr 15, 2009</i></font></td>
 		<td bgcolor="#FAF7FB" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&target_milestone=3.1.1&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-		<font size="1">7</font><br><font size="1">bugs</font></a></td>
+		<font size="1">6</font><br><font size="1">bugs</font></a></td>
 		<td bgcolor="#FAF7FB"><font size="1">Service release to add support for JIRA 3.13.3.</font></td>
 	</tr>
 	<tr>
@@ -57,7 +57,7 @@ before installing Mylyn 3.2.</p>
 <ul>
 	<li><a href="#connector-discovery">Connector Discovery</a></li>
 	<li><a href="#bug-reporting">Integrated Bug Reporting</a></li>
-	<li><a href="#help">Mylyn Help and Internationalization</a></li>
+	<li><a href="#help">Help and Internationalization</a></li>
 	<li><a href="#task-editor">Task Editor</a></li>
 	<li><a href="#task-list">Task List</a></li>
 	<li><a href="#wikitext">WikiText</a></li>
@@ -88,8 +88,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Connector Install Wizard</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">From the Add Task Repository dialog you can access the Connector Discovery wizard for simple installation of Mylyn extensions. To lauch the Connector Discovery wizard, open the Task Repositories view and click the New Repository button. In the resulting dialog, click the "Install More Connectors..." button to launch Connector Discovery.  For information on how connectors are made available via the Connector Discovery mechanism stay tuned to the <a href="https://dev.eclipse.org/mailman/listinfo/mylyn-integrators">Mylyn Integrators</a> mailing list.</p>
+			<td valign="top" width="85%">
+			<p align="left">From the Add Task Repository dialog you can access the Connector Discovery wizard for simple installation of Mylyn extensions. To launch the Connector Discovery wizard, open the Task Repositories view and click the New Repository button. In the resulting dialog, click the "Install More Connectors..." button to launch Connector Discovery.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/connector-discovery.png"></td>
 		</tr>
@@ -107,8 +107,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Report from Error log</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">If you choose to report an error from the error log (right click > Report as Bug), the appropraite repository will be chosen to file the bug against for you. </p>
+			<td valign="top" width="85%">
+			<p align="left">If you choose to report an error from the Error Log by right clicking and selecting Report as Bug, the appropriate repository will be chosen to file the bug against for you. </p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/report-as-bug-wizard.png">
 			</td>
@@ -125,8 +125,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Report from Help Menu</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">When using Help > Report Bug or Enhancement..., you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an extension point (org.eclipse.mylyn.tasks.bugs.support) to specifying support providers and supported products.</p>
+			<td valign="top" width="85%">
+			<p align="left">When using Report Bug or Enhancement from the Help menu, you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an <a href="#framework">extension point</a> to contribute support providers and supported products.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/report-bug.png">
 			</td>
@@ -146,7 +146,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Integrated Help</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The Mylyn wiki is a great source of information for both new users and those building upon or integrating with Mylyn. A snapshot of the online wiki is now included in Mylyn releases and is accessible from the main Eclipse Help index (Help > Help Contents > <b>Tasks</b>).</p>
 			<p align="left">The automated inclusion of Mylyn's wiki is possible thanks to <a href="#wikitext">WikiText</a> technology.</p>
 			<p class="MsoPlainText">
@@ -164,7 +164,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Internationalization</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">Mylyn has been internationalized and through the <a href="http://babel.eclipse.org/babel/">Eclipse Babel</a> project, users can help translate Mylyn to other languages.</p>
 			<p align="left">Visit the <a href="http://babel.eclipse.org/babel/translate.php">Babel translate page</a>, select the target language and under Projects choose <b>tools.mylyn</b>, and then choose the latest version.</p>
 			<p class="MsoPlainText">
@@ -186,8 +186,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Optimized Toolbar</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">The Task Editor's toolbar has been updated.  The most used actions are now located in the corners Activate (left) and Submit (right) with other repository actions available next to the Submit button in the toolbar. The Alt-S keybinding can now be used to submit changes in the task editor. The task type and id can now be selected and copied using native key bindings.</p>
+			<td valign="top" width="85%">
+			<p align="left">The Task Editor's toolbar has been updated.  The most used actions are now located in the corners Activate (left) and Submit (right) with other repository actions available next to the Submit button in the toolbar. The Alt-S key-binding can now be used to submit changes in the task editor. The task type and id in the header can now be selected and copied.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/task-editor-toolbar.png"></td>
 		</tr>
@@ -203,7 +203,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Unified Local and Repository Editor</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The appearance of the editor for local and repository tasks has been streamlined and unified. The priority is now editable and located next to a more visually prominent summary field.  Additionally, connector authors can now enable repositioning of the personal planning controls and notes to be folded into a new Private section within the repository task editor page itself. Information contained within the Private section is not submitted to the repository.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/task-editor.png"></td>
@@ -215,13 +215,30 @@ before installing Mylyn 3.2.</p>
 		</tr>
 </table>
 
+<table cellpadding="10" cellspacing="0" id="table413">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Schedule Task Button</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Tasks can be scheduled through the Schedule Task button in the top-right of the Private section's header. The button's default action which results from pressing the button instead of choosing from the drop down will schedule the task for Today.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/taskeditor-schedule-for.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table> 
+
 <table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Local Task and Attachment Spell Checking/WikiText</b></p>
+			<p align="right"><b>WikiText Enabled Local Tasks </b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">The local task editor and notes field in a Private section now support WikiText markup. In a local Task editor, click the 'Local' label in the editor header to configure the wiki syntax.</p>
+			<td valign="top" width="85%">
+			<p align="left">The local task editor and notes field in a Private section now support WikiText markup. In a local Task editor, click the Local label in the editor header to configure the wiki dialect.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/local-task-editor.png">
 			</td>
@@ -236,9 +253,9 @@ before installing Mylyn 3.2.</p>
 <table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Attachment Spell Checking/WikiText</b></p>
+			<p align="right"><b>Attachment Spell Checking and WikiText Support</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The attachment dialog supports both spell checking and wikitext markup.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/attachments-wikitext.png">
@@ -256,7 +273,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Screen Capture Improvements</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The screen capture wizard supports improved basic image editing and has capabilities for importing images from files and the clipboard.</p>
 			<p class="MsoPlainText">
 			<img align="top" border="0" src="images/3.2.0/screenshot-attachments-2.png">
@@ -268,24 +285,6 @@ before installing Mylyn 3.2.</p>
 			</td>
 		</tr>
 </table>
-
-
-<table cellpadding="10" cellspacing="0" id="table413">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Schedule Task Button</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">Tasks can be scheduled through the Schedule Task button (rigth) in the Private section's toolbar. The button's default action (which results from pressing the button instead of choosing from the drop down) will schedule the task for Today.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.2.0/taskeditor-schedule-for.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table> 
 
 <table cellpadding="10" cellspacing="0" id="table413">
 		<tr>
@@ -350,7 +349,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Improved Notifications</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">Change notifications use a gradient for the background to improve their visual appearance.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/incoming-notification.png">
@@ -365,8 +364,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Improved Tooltips</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">Change notifications and tooltips to use a gradient for the background to improve their visual appearance.</p>
+			<td valign="top" width="85%">
+			<p align="left">Tooltips use a gradient for the background to improve their visual appearance.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/tooltips.png"></td>
 		</tr>
@@ -380,8 +379,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Toggle Auto Synchronization per Query</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">Toggle whether a query is included in automatic background query synchronizations. Right click on the desired query and deselect "Synchronize Automatically" to ensure this repository does not get synchronized in the background.</p>
+			<td valign="top" width="85%">
+			<p align="left">Toggle whether a query is included in automatic synchronizations. Right click on the desired query and deselect Synchronize Automatically to exclude a query from automatic synchronization.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/synchronize-automatically.png">
 			</td>
@@ -397,14 +396,13 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Improved Sorting and Grouping Capability</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">Sort both the Task List and task search results view by multiple sort levels. The Sort dialog allows the user to choose how the task list folders are grouped:<br>
 			<ol>
-				<li>none - alphabetical</li>
+				<li>None - alphabetical</li>
 				<li>Category and Query - categories grouped separately from queries, then sorted alphabetically</li>
 				<li>Category and Repository - Unmatched/Unsubmitted categories grouped with queries of same repository, queries then sorted alphabetically</li>
 			</ol> 
-			</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/task-list-sorting.png"></td>
 		</tr>
@@ -534,7 +532,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Pre-formatted Stack Traces</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">To improve consistency of layout, stack traces are now displayed in a pre-formatted block.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/stack-trace.png"></td>
@@ -548,7 +546,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>WikiText to PDF</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The WikiText component now supports export to XSL Formatting Objects (XSL-FO) and PDF in addition to the other formats currently supported (HTML, Eclipse Help, DocBook, DITA) </p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/wikitext-pdfexport.png"></td>
@@ -659,7 +657,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Hidden Context Members</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The context page of the Task Editor shows elements that can not be presented in the common navigator in a separate table.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/context-hidden-elements.png"></td>
@@ -698,7 +696,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Work Log</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The Task Editor supports adding work log entries.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/jira-worklog.png"></td>
@@ -712,7 +710,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Task Story Decoration</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">JIRA tasks of type story are now decorated appropriately.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/jira-story-decoration.png"></td>
@@ -784,8 +782,8 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Timestamps converted to local timezone</b></p>
 			</td>
-			<td valign="top" width="70%">
-			<p align="left">Frank Becker has updated the Bugzilla Task editor to displayed all timestamps converted to the local timezone.</p>
+			<td valign="top" width="85%">
+			<p align="left">The Bugzilla Task editor now displays all timestamps converted to the local timezone.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/local-timestamps.png"></td>
 		</tr>
@@ -879,7 +877,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Trac 0.11</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The Trac Connector now supports Trac 0.11 if the latest version of Trac's <a href="http://trac-hacks.org/wiki/XmlRpcPlugin" target="_blank">XmlRpcPlugin</a> is installed on the repository.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/trac-workflow.png"></td>
@@ -893,7 +891,7 @@ before installing Mylyn 3.2.</p>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
 			<p align="right"><b>Select Owner from Drop-down</b></p>
 			</td>
-			<td valign="top" width="70%">
+			<td valign="top" width="85%">
 			<p align="left">The Task Editor shows a drop-down for re-assigning tickets if <code>restrict_owner</code> is enabled for a repository.</p>
 			<p class="MsoPlainText">
 			<img border="0" src="images/3.2.0/trac-usermatch.png"></td>
@@ -917,7 +915,7 @@ before installing Mylyn 3.2.</p>
 			<p align="right"><b>Associate plugins with repositories and products</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">TODO</p>
+			<p align="left">The <code>org.eclipse.mylyn.tasks.bugs</code> plug-in specifies an extension point for contributing mappings from plug-in ids to task repositories or custom support handlers. The mappings are used to provide automatic selection of repositories and to pre-populate the Task Editor when reporing bugs from the error log.</p>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -929,25 +927,10 @@ before installing Mylyn 3.2.</p>
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Editor memento cleared with context</b></p>
+			<p align="right"><b>Incremental Submit</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">TODO</p>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table415">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>getChangedOldAttributes() now implemented</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">TaskDataModel.getChangedOldAttributes() is now implemented sending the old attributes/values along to the connector upon posting changes via AbstractTaskDataHandler.postTaskData(...).</p>
+			<p align="left"><code>TaskDataModel.getChangedOldAttributes()</code> has been implemented and the list of changed attributes is now passed to <code>AbstractTaskDataHandler.postTaskData()</code> to support incremental updates to tasks. </p>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -966,7 +949,7 @@ before installing Mylyn 3.2.</p>
 			introduction of the
 			<code>org.eclipse.mylyn.tasks.ui.taskEditorExtensions</code> and <code>org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings</code> extension points.
 			This extension point is currently leveraged by the new WikiText
-			integration. For example use of this extension point see org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml.</p>
+			integration. For example use of this extension point see <code></code>org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml</code>.</p>
 		</tr>
 		<tr>
 			<td colspan="2">

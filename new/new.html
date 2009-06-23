@@ -12,20 +12,28 @@
 		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
 	</tr>
 	<tr>
+		<td bgcolor="#E0D0E6"><font size="1">3.2<br>
+		<i>June 24, 2009</i></font></td>
+		<td bgcolor="#E0D0E6" align="center">
+		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&target_milestone=3.2&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
+		<font size="1">334</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#E0D0E6"><font size="1">Thomas Ehrnhoefer contributed 10 patches improving both the JIRA connector and tasks framework. Hiroyuki Inaba enhanced the screen capture capability. Peter Stibrany added support for saving multiple attachments. Additional contributions were provided by David Shepherd, Leo Dos Santos and Remy Chi Jian Suen, Peter Friese, Jingwen Ou, Maarten Meijer and Daniel Migowski.</font></td>
+	</tr>
+	<tr>
 		<td bgcolor="#FAF7FB"><font size="1">3.1.1<br>
 		<i>Apr 15, 2009</i></font></td>
 		<td bgcolor="#FAF7FB" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&target_milestone=3.1.1&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
-		<font size="1">7</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#FAF7FB"><font size="1">This release has support for JIRA 3.13.3.</font></td>
+		<font size="1">6</font><br><font size="1">bugs</font></a></td>
+		<td bgcolor="#FAF7FB"><font size="1">Service release to add support for JIRA 3.13.3.</font></td>
 	</tr>
 	<tr>
-		<td bgcolor="#E0D0E6"><font size="1">3.1<br>
+		<td bgcolor="#FAF7FB"><font size="1">3.1<br>
 		<i>Mar 17, 2009</i></font></td>
-		<td bgcolor="#E0D0E6" align="center">
+		<td bgcolor="#FAF7FB" align="center">
 		<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Tools&product=Mylyn&target_milestone=3.1&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=&chfield=resolution&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">
 		<font size="1">432</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#E0D0E6"><font size="1">Hiroyuki Inaba provided 57 patches for externalizing messages and user interface improvements, Frank Becker contributed 
+		<td bgcolor="#FAF7FB"><font size="1">Hiroyuki Inaba provided 57 patches for externalizing messages and user interface improvements, Frank Becker contributed 
 		40 patches that improved the Bugzilla Connector and tasks framework. Shawn Minto and David Shepherd provided numerous patches for
 		the tasks and context framework and Thomas Ehrnhoefer provided improvements for the JIRA connector. Additional contributions were 
 		provided by Jingwen Ou, Terry Hon, Martin Koei, Matthias Kempka, Eugene Kuleshov, Mark Kralj-Taylor, Andrew Eisenberg, Jorrit Schippers, 
@@ -41,11 +49,26 @@ Mylyn 0.5</a>,&nbsp;
 <a href="http://eclipse.org/mylyn/new/new-0.4.html">Mylyn 0.4</a>, <a href="http://eclipse.org/mylyn/new/new-0.3.html">
 Mylyn 0.3</a></b></p>
 <p><b>Updating</b>:&nbsp; If using a version prior to 2.0, upgrade to 2.0 
-before installing Mylyn 3.1.</p>
+before installing Mylyn 3.2.</p>
 
 <hr>
 
-<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.1</span> </p>
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.2</span> </p>
+<ul>
+	<li><a href="#connector-discovery">Connector Discovery</a></li>
+	<li><a href="#bug-reporting">Integrated Bug Reporting</a></li>
+	<li><a href="#help">Help and Internationalization</a></li>
+	<li><a href="#task-editor">Task Editor</a></li>
+	<li><a href="#task-list">Task List</a></li>
+	<li><a href="#wikitext">WikiText</a></li>
+	<li><a href="#jira">JIRA Connector</a></li>
+	<li><a href="#bugzilla">Bugzilla Connector</a></li>
+	<li><a href="#trac">Trac Connector</a></li>
+	<li><a href="#task-focused-interface">Task-Focused Interface</a></li>
+	<li><a href="#framework">Framework and API</a></li>
+</ul>
+
+<!--
 <ul>
 	<li><a href="#help">Mylyn Help and Internationalization (2)</a></li>
 	<li><a href="#task-list">Task List (6)</a></li>
@@ -56,12 +79,71 @@ before installing Mylyn 3.1.</p>
 	<li><a href="#wikitext">WikiText (5)</a></li>
 	<li><a href="#framework">Framework and API (1)</a></li>
 </ul>
+-->
 
+<h2><a name="connector-discovery">Connector Discovery</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Connector Install Wizard</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">From the Add Task Repository dialog you can access the Connector Discovery wizard for simple installation of Mylyn extensions. To launch the Connector Discovery wizard, open the Task Repositories view and click the New Repository button. In the resulting dialog, click the "Install More Connectors..." button to launch Connector Discovery.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/connector-discovery.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<h2><a name="bug-reporting">Integrated Bug Reporting</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Report from Error log</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">If you choose to report an error from the Error Log by right clicking and selecting Report as Bug, the appropriate repository will be chosen to file the bug against for you. </p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/report-as-bug-wizard.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Report from Help Menu</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">When using Report Bug or Enhancement from the Help menu, you are presented with a wizard to help pick the correct repository based on installed features. Integrators can make use of an <a href="#framework">extension point</a> to contribute support providers and supported products.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/report-bug.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<p>&nbsp;</p>
 <h2><a name="help">Help and Internationalization</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table414">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Integrated Help</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -79,7 +161,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table414">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Internationalization</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -95,11 +177,245 @@ before installing Mylyn 3.1.</p>
 		</tr>
 </table>
 
+<p>&nbsp;</p>
+<h2><a name="task-editor">Task Editor</a></h2>
+
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Optimized Toolbar</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The Task Editor's toolbar has been updated.  The most used actions are now located in the corners Activate (left) and Submit (right) with other repository actions available next to the Submit button in the toolbar. The Alt-S key-binding can now be used to submit changes in the task editor. The task type and id in the header can now be selected and copied.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-editor-toolbar.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Unified Local and Repository Editor</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The appearance of the editor for local and repository tasks has been streamlined and unified. The priority is now editable and located next to a more visually prominent summary field.  Additionally, connector authors can now enable repositioning of the personal planning controls and notes to be folded into a new Private section within the repository task editor page itself. Information contained within the Private section is not submitted to the repository.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-editor.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table413">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Schedule Task Button</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Tasks can be scheduled through the Schedule Task button in the top-right of the Private section's header. The button's default action which results from pressing the button instead of choosing from the drop down will schedule the task for Today.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/taskeditor-schedule-for.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table> 
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>WikiText Enabled Local Tasks </b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The local task editor and notes field in a Private section now support WikiText markup. In a local Task editor, click the Local label in the editor header to configure the wiki dialect.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/local-task-editor.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Attachment Spell Checking and WikiText Support</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The attachment dialog supports both spell checking and wikitext markup.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/attachments-wikitext.png">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Screen Capture Improvements</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The screen capture wizard supports improved basic image editing and has capabilities for importing images from files and the clipboard.</p>
+			<p class="MsoPlainText">
+			<img align="top" border="0" src="images/3.2.0/screenshot-attachments-2.png">
+			<img border="0" src="images/3.2.0/screenshot-attachments-1.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table413">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>Add Tasks not in Task List</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">When a task is opened that doesn't exists in your Task List (i.e. when opening a search hit in the Search View), a hyperlinked message is displayed in the editor's banner. Click the link to add the task to the Uncategorized category within your Task List.</p>
+			<p align="left">We recommend adjusting the queries in the task list to encompass all tasks you are interested in so that this doesn't become a standard workflow.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/add-task.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>Resolved Bugs in Strikethrough</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Hyperlinks to resolved bugs within comments in the Task Editor will now be displayed in strikethrough font. Strikethrough also now works on platforms where this wasn't previsouly available (Linux, Mac).</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/tasks-resolved-strikethrough.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>Comment folding</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">When a task has large number of comments, the comments section will fold comments by date, 
+			grouping them into Recent and Older sections.  This makes working with tasks with a large number of comments much smoother since the editor
+			 is not unnecessarily long due to comments.  Upon opening, new comments are revealed while old comments are folded.  Pressing the expand all button will expand all comments since your last comment. Press again to unfold older tasks.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/comment-folding.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<p>&nbsp;</p>
 <h2><a name="task-list">Task List</a></h2>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Notifications</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Change notifications use a gradient for the background to improve their visual appearance.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/incoming-notification.png">
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+			<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Tooltips</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Tooltips use a gradient for the background to improve their visual appearance.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/tooltips.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Toggle Auto Synchronization per Query</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Toggle whether a query is included in automatic synchronizations. Right click on the desired query and deselect Synchronize Automatically to exclude a query from automatic synchronization.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/synchronize-automatically.png">
+			</td>
+		</tr>
+		
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Improved Sorting and Grouping Capability</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Sort both the Task List and task search results view by multiple sort levels. The Sort dialog allows the user to choose how the task list folders are grouped:<br>
+			<ol>
+				<li>None - alphabetical</li>
+				<li>Category and Query - categories grouped separately from queries, then sorted alphabetically</li>
+				<li>Category and Repository - Unmatched/Unsubmitted categories grouped with queries of same repository, queries then sorted alphabetically</li>
+			</ol> 
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/task-list-sorting.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table414">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>New Task Dropdown</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -117,7 +433,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table414">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Local Subtasks</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -139,7 +455,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table414">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Repository Settings Page</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -157,7 +473,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Show In Task List</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -175,7 +491,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Add to Category</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -193,7 +509,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Open Search with Browser</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -208,17 +524,47 @@ before installing Mylyn 3.1.</p>
 		</tr>
 </table>
 
-<h2>&nbsp;</h2>
-<h2><a name="task-editor">Task Editor</a></h2>
+<p>&nbsp;</p>
+<h2><a name="wikitext">WikiText</a></h2>
 
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Pre-formatted Stack Traces</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">To improve consistency of layout, stack traces are now displayed in a pre-formatted block.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/stack-trace.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>WikiText to PDF</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The WikiText component now supports export to XSL Formatting Objects (XSL-FO) and PDF in addition to the other formats currently supported (HTML, Eclipse Help, DocBook, DITA) </p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/wikitext-pdfexport.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table413">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>WikiText</b></p>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>WikiText in Editors</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">The WikiText component is now part of the Mylyn release and is integrated into the Task Editor. Author and preview comments in your choice of 5 popular markup languages:
+			<p align="left">The WikiText component is part of Mylyn and integrated into the Task Editor. Author and preview comments in your choice of 5 popular markup languages:
 </p>
 
     <ul>
@@ -250,50 +596,71 @@ before installing Mylyn 3.1.</p>
 		</tr>
 </table>
 
-<table cellpadding="10" cellspacing="0" id="table413">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Schedule Task Toolbar Button</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">Tasks can be scheduled through the Schedule Task button in the Task Editor toolbar. The button's default action (which results from pressing the button instead of choosing from the drop down) will schedule the task for Today.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/taskeditor-schedule-for.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
 
-<table cellpadding="10" cellspacing="0" id="table413">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Add Tasks not in Task List</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">When a task is opened that doesn't exists in your Task List (i.e. when opening a search hit in the Search View), a hyperlinked message is displayed in the editor's banner. Click the link to add the task to the Uncategorized category within your Task List.</p>
-			<p align="left">We recommend adjusting the queries in the task list to encompass all tasks you are interested in so that this doesn't become a standard workflow.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/add-task.png"></td>
-		</tr>
-		<tr>
+		<table cellpadding="10" cellspacing="0" class="category category1"><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#faf7fb>Markup Editor</th><td align="left" valign="top" width="85%">
+				<p>
+				WikiText provides an integrated source editor for authoring files containing wiki markup.
+				The editor provides content assist, validation, folding, source formatting, an integrated preview, 
+				structured outline and a markup cheat-sheet.
+				</p>
+				<img src="images/3.1/wikitext-editor.png"/>
+				<p>
+				The WikiText editor is aware of 5 markup languages and is capable of supporting others via the common WikiText parsing framework.
+				The following markup languages are currently recognized.
+				</p>
+				<ul>
+					<li>Confluence</li>
+					<li>MediaWiki</li>
+					<li>Textile</li>
+					<li>TracWiki</li>
+					<li>TWiki</li>
+				</ul>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#faf7fb>Markup Conversion</th><td align="left" valign="top" width="85%">
+				<p>
+				WikiText can convert lightweight markup to other formats including Eclipse Help, HTML, DocBook and DITA.  Conversion may be performed
+				within Eclipse or from Ant.
+				</p>
+				<img src="images/3.1/wikitext-generate-menu.png"/>
+				<p>
+				The conversion framework is extensible and can support alternative output formats by extending a simple Document Builder API.
+				</p>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#faf7fb>Content Assist</th><td align="left" valign="top" width="85%">
+				<p>
+				Using markup is easy with WikiText in part due to content assist in the editor.  Suggestions are provided in the editor when CTRL+Space is pressed,
+				making it easy to insert bold, italics, bulleted lists, headings and other markup.  
+				</p>
+				<img src="images/3.1/wikitext-content-assist.png"/>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#faf7fb>Cheat Sheet</th><td align="left" valign="top" width="85%">
+				<p>
+				If you forget markup syntax, pressing F1 in the editor will bring up a cheat sheet with markup language tips and syntax hints.
+				</p>
+				<img src="images/3.1/wikitext-cheatsheet.png"/>
+			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#faf7fb>Preferences</th><td align="left" valign="top" width="85%">
+				<p>
+				The appearance of the source editor and preview can be altered easily with workspace preferences.  CSS is used to specify exactly how you would like
+				the markup to appear.  This gives you ultimate control over the appearance of the editor, editor preview and the Mylyn task editor.
+				</p>
+				<img src="images/3.1/wikitext-preferences.png"/>
+			</td></tr>
+			<tr>
 			<td colspan="2">
 			<hr>
 			</td>
 		</tr>
-</table>
+			</table>
+
+<p>&nbsp;</p>
+<h2><a name="task-focused-interface">Task-Focused Interface</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Resolved Bugs in Strikethrough</b></p>
+			<p align="right"><b>Hidden Context Members</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">Hyperlinks to resolved bugs within comments in the Task Editor will now be displayed in strikethrough font. Strikethrough also now works on platforms where this wasn't previsouly available (Linux, Mac).</p>
+			<p align="left">The context page of the Task Editor shows elements that can not be presented in the common navigator in a separate table.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/tasks-resolved-strikethrough.png"></td>
+			<img border="0" src="images/3.2.0/context-hidden-elements.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -301,33 +668,10 @@ before installing Mylyn 3.1.</p>
 			</td>
 		</tr>
 </table>
-
-<table cellpadding="10" cellspacing="0" id="table415">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Comment folding</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">When a task has large number of comments, the comments section will fold comments by date, 
-			grouping them into Recent and Older sections.  This makes working with tasks with a large number of comments much smoother since the editor
-			 is not unnecessarily long due to comments.  Upon opening, new comments are revealed while old comments are folded.  Pressing the expand all button will expand all comments since your last comment. Press again to unfold older tasks.</p>
-			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/comment-folding.png"></td>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-
-<p class="MsoPlainText">&nbsp; </p>
-<h2><a name="task-context">Task Context</a></h2>
 
 <table cellpadding="10" cellspacing="0" id="table409">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Improved exclusion upon checkout and update</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -344,13 +688,115 @@ before installing Mylyn 3.1.</p>
 </table>
 
 
-<h2>&nbsp;</h2>
+<p>&nbsp;</p>
+<h2><a name="jira">JIRA Connector</a></h2>
 
+<table cellpadding="10" cellspacing="0" id="table403">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Work Log</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The Task Editor supports adding work log entries.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/jira-worklog.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Task Story Decoration</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">JIRA tasks of type story are now decorated appropriately.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/jira-story-decoration.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<table cellpadding="10" cellspacing="0" id="table423">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>JIRA Worklog</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The JIRA worklog is now visible within the JIRA task editor when JIRA 3.12 or later is in use.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/jira-worklog.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table423">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>Issue Type Scoped by Project</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Both new and existing JIRA task editor's issue type field now only lists types available to the selected project. Update your repository configuration is not seeing this scoping. (Note: requiries JIRA 3.12 or later)</p>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table423">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
+			<p align="right"><b>Real Names</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">Real names are now displayed for Assigned to and Reporter and if available for comment and attachment authors.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.1/jira-real-names.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+
+<p>&nbsp;</p>
 <h2><a name="bugzilla">Bugzilla Connector</a></h2>
+
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Timestamps converted to local timezone</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The Bugzilla Task editor now displays all timestamps converted to the local timezone.</p>
+			<p class="MsoPlainText">
+			<img border="0" src="images/3.2.0/local-timestamps.png"></td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
 
 <table cellpadding="10" cellspacing="0" id="table416">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Bugzilla 3.2</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -365,7 +811,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Support for Deprecating Patches</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -382,7 +828,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table416">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Custom Fields and Flags</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -402,7 +848,7 @@ before installing Mylyn 3.1.</p>
 
 <table cellpadding="10" cellspacing="0" id="table416">
 		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Move between products</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -424,51 +870,31 @@ before installing Mylyn 3.1.</p>
 </table>
 
 
+<h2><a name="trac">Trac Connector</a></h2>
 
-<p class="MsoPlainText">&nbsp;</p>
-<h2><a name="jira">JIRA Connector</a></h2>
-
-<table cellpadding="10" cellspacing="0" id="table423">
+<table cellpadding="10" cellspacing="0" id="table403">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>JIRA Worklog</b></p>
+			<p align="right"><b>Trac 0.11</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">The JIRA worklog is now visible within the JIRA task editor when JIRA 3.12 or later is in use.</p>
+			<p align="left">The Trac Connector now supports Trac 0.11 if the latest version of Trac's <a href="http://trac-hacks.org/wiki/XmlRpcPlugin" target="_blank">XmlRpcPlugin</a> is installed on the repository.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/jira-worklog.png"></td>
+			<img border="0" src="images/3.2.0/trac-workflow.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
 			<hr>
 			</td>
 		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table423">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Issue Type Scoped by Project</b></p>
+			<p align="right"><b>Select Owner from Drop-down</b></p>
 			</td>
 			<td valign="top" width="85%">
-			<p align="left">Both new and existing JIRA task editor's issue type field now only lists types available to the selected project. Update your repository configuration is not seeing this scoping. (Note: requiries JIRA 3.12 or later)</p>
-		</tr>
-		<tr>
-			<td colspan="2">
-			<hr>
-			</td>
-		</tr>
-</table>
-
-<table cellpadding="10" cellspacing="0" id="table423">
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
-			<p align="right"><b>Real Names</b></p>
-			</td>
-			<td valign="top" width="85%">
-			<p align="left">Real names are now displayed for Assigned to and Reporter and if available for comment and attachment authors.</p>
+			<p align="left">The Task Editor shows a drop-down for re-assigning tickets if <code>restrict_owner</code> is enabled for a repository.</p>
 			<p class="MsoPlainText">
-			<img border="0" src="images/3.1/jira-real-names.png"></td>
+			<img border="0" src="images/3.2.0/trac-usermatch.png"></td>
 		</tr>
 		<tr>
 			<td colspan="2">
@@ -478,65 +904,44 @@ before installing Mylyn 3.1.</p>
 </table>
 
 
-<p class="MsoPlainText">&nbsp;</p>
-<h2><a name="wikitext">WikiText</a></h2>
-
-		<table cellpadding="10" cellspacing="0" class="category category1"><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Markup Editor</th><td align="left" valign="top" width="85%">
-				<p>
-				WikiText provides an integrated source editor for authoring files containing wiki markup.
-				The editor provides content assist, validation, folding, source formatting, an integrated preview, 
-				structured outline and a markup cheat-sheet.
-				</p>
-				<img src="images/3.1/wikitext-editor.png"/>
-				<p>
-				The WikiText editor is aware of 5 markup languages and is capable of supporting others via the common WikiText parsing framework.
-				The following markup languages are currently recognized.
-				</p>
-				<ul>
-					<li>Confluence</li>
-					<li>MediaWiki</li>
-					<li>Textile</li>
-					<li>TracWiki</li>
-					<li>TWiki</li>
-				</ul>
-			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Markup Conversion</th><td align="left" valign="top" width="85%">
-				<p>
-				WikiText can convert lightweight markup to other formats including Eclipse Help, HTML, DocBook and DITA.  Conversion may be performed
-				within Eclipse or from Ant.
-				</p>
-				<img src="images/3.1/wikitext-generate-menu.png"/>
-				<p>
-				The conversion framework is extensible and can support alternative output formats by extending a simple Document Builder API.
-				</p>
-			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Content Assist</th><td align="left" valign="top" width="85%">
-				<p>
-				Using markup is easy with WikiText in part due to content assist in the editor.  Suggestions are provided in the editor when CTRL+Space is pressed,
-				making it easy to insert bold, italics, bulleted lists, headings and other markup.  
-				</p>
-				<img src="images/3.1/wikitext-content-assist.png"/>
-			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item0"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Cheat Sheet</th><td align="left" valign="top" width="85%">
-				<p>
-				If you forget markup syntax, pressing F1 in the editor will bring up a cheat sheet with markup language tips and syntax hints.
-				</p>
-				<img src="images/3.1/wikitext-cheatsheet.png"/>
-			</td></tr><tr><td colspan="2"><hr/></td></tr><tr class="item item1"><th align="right" valign="top" width="15%" bgcolor=#E0D0E6>Preferences</th><td align="left" valign="top" width="85%">
-				<p>
-				The appearance of the source editor and preview can be altered easily with workspace preferences.  CSS is used to specify exactly how you would like
-				the markup to appear.  This gives you ultimate control over the appearance of the editor, editor preview and the Mylyn task editor.
-				</p>
-				<img src="images/3.1/wikitext-preferences.png"/>
-			</td></tr></table>
-
-
-
-<p class="MsoPlainText">&nbsp;</p>
+<p>&nbsp;</p>
 <h2><a name="framework">Framework and API</a></h2>
 
-<p>See <a href="http://wiki.eclipse.org/Mylyn_Porting_Guide">porting guide</a> for additional notes on API changes.</p>
+<p>See <a href=" http://wiki.eclipse.org/Mylyn/Porting_Guide#Notable_API_changes_in_3.2">porting guide</a> for additional notes on API changes.</p>
 
 <table cellpadding="10" cellspacing="0" id="table415">
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Associate plugins with repositories and products</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left">The <code>org.eclipse.mylyn.tasks.bugs</code> plug-in specifies an extension point for contributing mappings from plug-in ids to task repositories or custom support handlers. The mappings are used to provide automatic selection of repositories and to pre-populate the Task Editor when reporing bugs from the error log.</p>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#E0D0E6>
+			<p align="right"><b>Incremental Submit</b></p>
+			</td>
+			<td valign="top" width="85%">
+			<p align="left"><code>TaskDataModel.getChangedOldAttributes()</code> has been implemented and the list of changed attributes is now passed to <code>AbstractTaskDataHandler.postTaskData()</code> to support incremental updates to tasks. </p>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr>
+			</td>
+		</tr>
+</table>
+
+<table cellpadding="10" cellspacing="0" id="table415">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor=#faf7fb>
 			<p align="right"><b>Task Editor Extensibility</b></p>
 			</td>
 			<td valign="top" width="85%">
@@ -544,7 +949,7 @@ before installing Mylyn 3.1.</p>
 			introduction of the
 			<code>org.eclipse.mylyn.tasks.ui.taskEditorExtensions</code> and <code>org.eclipse.mylyn.tasks.ui.taskEditorExtensionSettings</code> extension points.
 			This extension point is currently leveraged by the new WikiText
-			integration. For example use of this extension point see org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml.</p>
+			integration. For example use of this extension point see <code></code>org.eclipse.mylyn.wikitext.tasks.ui/plugin.xml</code>.</p>
 		</tr>
 		<tr>
 			<td colspan="2">

@@ -35,6 +35,40 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 
 		<div class="homeitem3col">
+			<h3>3.2.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/v20090617-0100/mylyn-3.2.0.v20090617-0100-e3.4.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.0/v20090617-0100/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.5)
+	        	</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/v20090617-0100/mylyn-3.2.0.v20090617-0100-e3.3.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.0/v20090617-0100/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/v20090617-0100/mylyn-3.2.0.v20090617-0100-extras.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.0/v20090617-0100/extras</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4 and 3.5)
+	        		<br>
+					<font size=-1>Trac and JIRA Connector</font>
+	        	</li>
+				<li> 
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/v20090617-0100/mylyn-3.2.0.v20090617-0100-incubator.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.0/v20090617-0100/incubator</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4 and 3.5)
+	        		<br>
+					<font size=-1>Web Templates Connector, XPlanner Connector, UI Usage Reporting and UI Experiments</font>
+	        	</li>
+			</ul>	
+		</div>
+		
+		<div class="homeitem3col">
 			<h3>3.1.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
@@ -569,6 +603,12 @@
  		<div class="homeitem3col"> 
 			<h3>API Baselines (for contributors)</h3> 
 			<ul>
+				<li> 
+					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.2.0 API Baseline</b>
+				</li>
 				<li> 
 					<a title="Mylyn 3.1.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.1.0/mylyn-3.1.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">

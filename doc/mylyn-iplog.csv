@@ -94,10 +94,11 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 Developers
 
--------------------------- 3.2 --------------------------
+-------------------------- 3.2.1 --------------------------
 
 2009-06-21, tasks,		279364, Hiroyuki Inaba,		<10,		spingel,	fix for enabling color selection tool 
-2009-06-22, tasks,		277974, Kevin Barnes,		<10,		spingel,	fix for showing task list tooltip on Mac 
+2009-06-22, tasks,		277974, Kevin Barnes,		<10,		spingel,	fix for showing task list tooltip on Mac
+2009-06-23, wikitext,	279029, Holger Voormann,	<100,		dgreen,		fix for parsing WikiWords (TracWiki) 
 
 
 -------------------------- 3.2 --------------------------

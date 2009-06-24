@@ -123,7 +123,7 @@ $html = <<<EOHTML
 					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 			</ul>
 		</div>

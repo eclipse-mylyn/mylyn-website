@@ -95,6 +95,11 @@ $html = <<<EOHTML
 		            		<a href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!</a></font><i>June 24th, 2009</i>
 	            		</li>
+	            		<li>
+	            		<a href="http://live.eclipse.org/node/676">
+								 	Less is More: Redefining the "I" of the IDE</a></font>
+								 	by Mik Kersten (Tasktop). Keynote webcast discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
+	            		</li>
 						<!--
 	            		<li>
 	            			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
@@ -105,7 +110,6 @@ $html = <<<EOHTML
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Upgrades-Mylyn-Tasktop-Offerings-480768/">
 		           			eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
 	            		</li>
-	            		-->
 						<li>
 							<table cellspacing="0" cellpadding="0">
 								<tr>
@@ -121,7 +125,6 @@ $html = <<<EOHTML
 								 </tr>
 							</table>
 						</li>
-						<!--
 						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">
 		           			Mylyn 3.0.5 released</a> <i>Feb 18, 2009</i>

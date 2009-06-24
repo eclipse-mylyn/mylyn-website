@@ -95,7 +95,7 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2-extras.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4 and 3.5)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4, 3.5)
 					<br>
 					<font size=-1>Trac 0.9 and 0.10, JIRA 3.4 and later</font>
 				</li>
@@ -103,7 +103,7 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4 and 3.5)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4, 3.5)
 					<br> 
 					<font size=-1>Web Templates Connector, XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
 				</li>
@@ -117,10 +117,10 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php"> New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 				<li>
-					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)
+					<b>download.eclipse.org/tools/mylyn/update/weekly/extras</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 				<li>
 					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5 and 3.4)

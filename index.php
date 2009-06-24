@@ -32,7 +32,9 @@ $html = <<<EOHTML
 				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
 								</tr>
 								<tr>
-					          		<td>Get the latest and greatest Mylyn release.  <b><a href="/mylyn/new"><img src="images/star.png"/> What's new</a></b>?</td>
+					          		<td>Get the latest and greatest Mylyn release.  
+					          		<!-- <b><a href="/mylyn/new"><img src="images/star.png"/> What's new</a></b>? -->
+					          		</td>
 					          	</tr>
 							</table>
 						</td>

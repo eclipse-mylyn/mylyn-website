@@ -96,7 +96,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released! <img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24th, 2009</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24th, 2009</i>
 	            		</li>
 	            		<li>
 	            		<a href="http://live.eclipse.org/node/676">

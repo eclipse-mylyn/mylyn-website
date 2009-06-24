@@ -83,7 +83,7 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2-e3.4.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.5, <a href="http://www.eclipse.org/downloads/">Galileo Packages</a>)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4/3.5, <a href="http://www.eclipse.org/downloads/">Galileo Packages</a>)
 				</li>
 				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2-e3.3.zip">

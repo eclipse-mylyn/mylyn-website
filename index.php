@@ -92,8 +92,8 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a href="http://eclipse.org/mylyn/new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp; Mylyn 3.1.1 released</a> <i>April 15th, 2009</i>
+		            		<a href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!</a></font><i>June 24th, 2009</i>
 	            		</li>
 						<!--
 	            		<li>
@@ -105,10 +105,6 @@ $html = <<<EOHTML
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Upgrades-Mylyn-Tasktop-Offerings-480768/">
 		           			eWeek: Tasktop Upgrades Mylyn, Tasktop Offerings</a> <i>March 20th, 2009</i>
 	            		</li>
-						<li>
-		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
-		           			&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
-	            		</li>
 	            		-->
 						<li>
 							<table cellspacing="0" cellpadding="0">
@@ -118,10 +114,9 @@ $html = <<<EOHTML
 									</td>
 									<td width="10>"</td>
 									<td>
-								 		<font size="+1"><a href="http://live.eclipse.org/node/676">
+								 		<a href="http://live.eclipse.org/node/676">
 								 				Less is More: Redefining the "I" of the IDE</a></font>
 								 			by Mik Kersten (Tasktop). Webcast of W-JAX keynote discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
-								 		</font>
 								 	</td>
 								 </tr>
 							</table>
@@ -139,6 +134,10 @@ $html = <<<EOHTML
 								 	by Mik Kersten (Tasktop) <i>July 30, 2008</i>
 						</li>
 						<!--
+						<li>
+		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
+		           			&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
+	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">
 		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>

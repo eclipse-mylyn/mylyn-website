@@ -96,11 +96,15 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24th, 2009</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
+	            		</li>
+						<li>
+		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">
+		           			eWeek: Tasktop Updates Mylyn, Tasktop Tools for Eclipse Galileo</a> <i>June 25, 2009</i>
 	            		</li>
 						<li>
 							<a target="_new" href="http://www.heise.de/developer/Taskverwaltung-mit-Mylyn-3-2-und-Tasktop-1-5--/news/meldung/140802">
-		           			<img src="images/flag-germany.png"/>&nbsp;&nbsp;Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24th, 2009</i>
+		           			<img src="images/flag-germany.png"/>&nbsp;&nbsp;Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
 	            		</li>
 	            		<li>
 	            		<a href="http://live.eclipse.org/node/676">

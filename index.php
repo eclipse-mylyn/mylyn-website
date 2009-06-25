@@ -90,8 +90,7 @@ $html = <<<EOHTML
 					</form>
 	         	--> 
 	         	
-	         	<br>&nbsp;
-				<div class="homeitem3col">
+	         	<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
 						<li>

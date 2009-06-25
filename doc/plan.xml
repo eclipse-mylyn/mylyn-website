@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-	<release projectid="mylyn" version="3.2" />
+	<release projectid="mylyn" version="3.3" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>The first goal
@@ -37,12 +37,12 @@
 	<li><b>Bugzilla Connector</b></li>
 	<li><b>JIRA Connector</b></li>
 	<li><b>Trac Connector</b></li>
-	<li><b>XPlanner Connector</b></li>
 	<li><b>WikiText</b></li>
 	<li><b>SDK Features</b>
 	  <ul>
 	    <li>Mylyn SDK</li>
 	    <li>Mylyn Extras SDK</li>
+	    <li>Mylyn WikiText SDK</li>
 	  </ul>
 	</li>
       </ul>
@@ -57,28 +57,26 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
-		<milestone date="05/01/2009" milestone="3.2M1">
-			<html:div>Milestone release (Galileo M7)</html:div>
+		<milestone date="07/22/2009" milestone="3.2.1">
+			<html:div>Service Release</html:div>
 		</milestone>
-		<milestone date="05/15/2009" milestone="3.2M2">
-			<html:div>Milestone release (API changes complete, Galileo RC1)</html:div>
+		<milestone date="09/25/2009" milestone="3.2.2">
+			<html:div>Service Release (Galileo SR1)</html:div>
 		</milestone>
-		<milestone date="05/29/2009" milestone="3.2RC1">
-			<html:div>Release candidate (Galileo RC3)</html:div>
+		<milestone date="02/26/2010" milestone="3.2.2">
+			<html:div>Service Release (Galileo SR1)</html:div>
 		</milestone>
-		<milestone date="06/10/2009" milestone="3.2RC2">
-			<html:div>Release candidate (Galileo RC4)</html:div>
+		<milestone date="01/2009  (tentative)" milestone="3.3">
+			<html:div>Major Release</html:div>
 		</milestone>
-		<milestone date="06/17/2009" milestone="3.2RC3">
-			<html:div>Release candidate (Galileo RC5)</html:div>
+		<milestone date="06/2009 (tentative)" milestone="3.4">
+			<html:div>Major Release</html:div>
 		</milestone>
-		<milestone date="06/24/2009" milestone="3.2">
-			<html:div>General availability (Galileo release)</html:div>
-		</milestone>
+		<!-- 
 		<postamble>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p><b>Ramp Down</b></p>
-			<p>After RC1 is released, builds will be produced weekly until the 3.2 release. In the RC
+			<p>After RC1 is released, builds will be produced weekly until the 3.4 release. In the RC
 			phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
 			change except to address critical fixes based on integrator feedback, until RC3, at which
 			point APIs will be frozen. After M2 any API changes or other changes affecting integrators 
@@ -86,6 +84,7 @@
 				href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=253578">bug 253578</a>.</p>
 		</html:div> 
 		</postamble>
+		 -->
 	</release_milestones>
 	<target_environments>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
@@ -95,10 +94,12 @@
       <p>Mylyn will support the following Eclipse releases:
 
 	<ul>
+	  <li>Eclipse 3.6</li>
 	  <li>Eclipse 3.5</li>
 	  <li>Eclipse 3.4</li>
-	  <li>Eclipse 3.3</li>
 	</ul>
+	
+		Support for Eclipse 3.3 has been discontinued. 
       </p>
 
       <p>
@@ -121,12 +122,12 @@
 	      <big><strong>Manual Tests</strong></big>
 	    </th>
 	    <tr>
-	      <td>Microsoft Windows</td>
-	      <td>Vista</td>
+	      <td>Ubuntu Linux</td>
+	      <td>8.04</td>
 	      <td>x86-32</td>
-	      <td>Win32</td>
-	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.5 (latest milestone)</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 6.0 Update 7</td>
+	      <td>Eclipse 3.6 (latest milestone)</td>
 	    </tr>
 	    <tr>
 	      <td>Microsoft Windows</td>
@@ -134,7 +135,15 @@
 	      <td>x86-32</td>
 	      <td>Win32</td>
 	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.4</td>
+	      <td>Eclipse 3.5</td>
+	    </tr>
+	    <tr>
+	      <td>Apple Mac OS X</td>
+	      <td>10.5</td>
+	      <td>Power</td>
+	      <td>Cocoa</td>
+	      <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4</td>
+		  <td>Eclipse 3.5</td>
 	    </tr>
 	    <tr>
 	      <td>Microsoft Windows</td>
@@ -142,24 +151,7 @@
 	      <td>x86-32</td>
 	      <td>Win32</td>
 	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.3</td>
-	    </tr>
-	    <tr>
-	      <td>Ubuntu Linux</td>
-	      <td>8.10</td>
-	      <td>x86-32</td>
-	      <td>GTK</td>
-	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
 	      <td>Eclipse 3.4</td>
-	    </tr>
-	    <tr>
-	      <td>Apple Mac OS X</td>
-	      <td>10.5</td>
-	      <td>Power</td>
-	      <td>Carbon</td>
-	      <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4
-		<td>Eclipse 3.4</td>
-	      </td>
 	    </tr>
 	    <th colspan="6" align="center">
 	      <big><strong>Automated Tests</strong></big>
@@ -170,7 +162,7 @@
 	      <td>x86-32</td>
 	      <td>GTK</td>
 	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.5, Eclipse 3.4, Eclipse 3.3</td>
+	      <td>Eclipse 3.6, 3.5, Eclipse 3.4</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -186,16 +178,16 @@
 	</target_environments>
 	<compatibility_with_previous_releases>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p><strong>API Contract Compatibility:</strong> Mylyn 3.2 will be backward compatible with Mylyn 3.0.
+      <p><strong>API Contract Compatibility:</strong> Mylyn 3.3 will be backward compatible with Mylyn 3.0.
       </p>
-      <p><strong>Binary (plug-in) Compatibility:</strong> Mylyn 3.2 will be binary compatible with Mylyn 3.0. 
+      <p><strong>Binary (plug-in) Compatibility:</strong> Mylyn 3.3 will be binary compatible with Mylyn 3.0. 
       </p>
-      <p><strong>Source Compatibility:</strong> Mylyn 3.2 will not by be source compatible with previous versions.  
+      <p><strong>Source Compatibility:</strong> Mylyn 3.3 will not by be source compatible with previous versions.  
       </p>
       <p><strong>Workspace Compatibility:</strong> We intend to keep Mylyn
-	3.2 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
+	3.3 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted. 
 	This means that workspaces created with Mylyn 2.0 can be successfully 
-	opened by Mylyn 3.2 and upgraded to a 3.2 workspace.
+	opened by Mylyn 3.3 and upgraded to a 3.2 workspace.
       </p>
     </html:div>
 	</compatibility_with_previous_releases>
@@ -214,7 +206,7 @@
 	  <ul>
 	    <li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>		
  	    <li>UI: Task List, Task Editor, Task-focused Interface</li>
- 	    <li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported), XPlanner (committer supported)</li>
+ 	    <li>Connectors: Bugzilla (reference implementation), JIRA (community supported), Trac (committer supported)</li>
  	    <li>WikiText</li>
 	  </ul>
 	</p>
@@ -229,22 +221,22 @@
 				<html:div xmlns="http://www.w3.org/1999/xhtml" />
 			</description>
 			<committed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.2&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.2&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 			<deferred
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.4&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 		</theme>
 		<theme name="User Interface">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml" />
 			</description>
 			<committed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.2&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.2&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 			<deferred
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.3&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.4&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
 		</theme>
 	</themes_and_priorities>
 </plan>

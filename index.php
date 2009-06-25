@@ -100,7 +100,7 @@ $html = <<<EOHTML
 	            		</li>
 						<li>
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">
-		           			eWeek: Tasktop Updates Mylyn, Tasktop Tools for Eclipse Galileo</a> <i>June 25, 2009</i>
+		           			eWeek: Tasktop Updates Mylyn, Tasktop Tools for Eclipse Galileo<img border="0" src="/mylyn/images/external-link.png"></a> <i>June 25, 2009</i>
 	            		</li>
 						<li>
 							<a target="_new" href="http://www.heise.de/developer/Taskverwaltung-mit-Mylyn-3-2-und-Tasktop-1-5--/news/meldung/140802">

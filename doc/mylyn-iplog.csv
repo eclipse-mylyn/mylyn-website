@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.2.1 --------------------------
 
+2009-07-17, context,	281002, Philippe Marschall,	<10,		spingel,	fix action enablement for retrieve context 
 2009-06-21, tasks,		279364, Hiroyuki Inaba,		<10,		spingel,	fix for enabling color selection tool 
 2009-06-22, tasks,		277974, Kevin Barnes,		<10,		spingel,	fix for showing task list tooltip on Mac
 2009-06-23, wikitext,	279029, Holger Voormann,	<100,		dgreen,		fix for TracWiki for parsing WikiWords  

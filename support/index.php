@@ -118,8 +118,11 @@
         			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
         		</td>
 		        <td>
-			        <a href="http://tasktop.com/support">Tasktop Technologies<img border="0" src="/mylyn/images/external-link.png"></a>, the creators of Mylyn, provide training, support, and consulting
-			        to help teams adopt task-focused programming.  The <a href="http://tasktop.com/connectors/">Tasktop Certified<img border="0" src="/mylyn/images/external-link.png"></a> Connector program 
+			        <a href="http://tasktop.com/support">Tasktop Technologies<img border="0" src="/mylyn/images/external-link.png"></a>, 
+			        the creators of Mylyn, provide training, support, and customization services
+			        to help teams and enterprises adopt task-focused programming.  Consulting services include Mylyn connector
+			        creation, certification, and porting, as well as support for older Eclipse and Mylyn versions. The 
+			        <a href="http://tasktop.com/connectors/">Tasktop Certified<img border="0" src="/mylyn/images/external-link.png"></a> Connector program 
 			        includes support for all non-incubation Mylyn connectors and numerous commercial connectors.
 			    </td> 
 				</tr>

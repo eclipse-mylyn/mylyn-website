@@ -24,13 +24,15 @@
 		$side_vote
 	</div>
 
+	<!--
 	<div id="rightcolumn"> 
 		<font size=1>
 		<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 		<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 		</font>
 	</div>
-
+	-->
+	
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 
@@ -124,7 +126,7 @@
 			<table border="0"> 
 	        	<tr>
 			        <td>
-				        <p><a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference#API_Baseline">Configuring an API baseline</a> helps to detect changes that break API compatibility.</p>
+				        <p>&nbsp;&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference#API_Baseline">Configuring an API baseline</a> helps to detect changes that break API compatibility.</p>
 				    </td> 
 				</tr>
 			</table>
@@ -133,7 +135,7 @@
 					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.2.0 API Baseline</b>
+					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">Mylyn 3.2.0 API Baseline</a></b>
 				</li>
 			</ul>
 		</div>

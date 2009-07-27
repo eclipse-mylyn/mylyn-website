@@ -635,7 +635,7 @@
 		</div>
  	
  		<div class="homeitem3col"> 
-			<h3>API Baselines (for contributors)</h3> 
+			<a name="baseline"></a><h3>API Baselines (for contributors)</h3> 
 			<ul>
 				<li> 
 					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">

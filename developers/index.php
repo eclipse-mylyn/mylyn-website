@@ -119,6 +119,18 @@
 			</ul>
 		</div>
 				
+ 		<div class="homeitem3col"> 
+			<h3>Latest API Baseline</h3> 
+			<ul>
+				<li> 
+					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b><a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference#API_Baseline">Mylyn 3.2.0 API Baseline</a></b>
+				</li>
+			</ul>
+		</div>
+		
 		<p>&nbsp;</p>
 	</div>	
 

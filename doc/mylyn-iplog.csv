@@ -96,6 +96,10 @@ Developers
 
 -------------------------- 3.2.1 --------------------------
 
+2009-08-06, jira,		285204, Thomas Ehrnhoefer,	<10,		spingel,	show creation date in work log table 
+
+-------------------------- 3.2.1 --------------------------
+
 2009-07-21, tasks,		284172, Thomas Ehrnhoefer,	<20,		spingel,	provide access to synchronization job progress monitor 
 2009-07-20, tasks,		284047, David Shepherd,		<10,		spingel,	fix icon for date attribute editor
 2009-07-19, tasks,		283933, Peter Stibrany,		<10,		spingel,	fix progress monitoring when creating subtasks 

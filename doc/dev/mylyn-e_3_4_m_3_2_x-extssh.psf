@@ -43,6 +43,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.help.ui,org.eclipse.mylyn.help.ui,e_3_5_m_3_2_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide-feature,org.eclipse.mylyn.ide-feature,e_3_5_m_3_2_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.ant,org.eclipse.mylyn.ide.ant,e_3_5_m_3_2_x"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.capabilities,org.eclipse.mylyn.ide.capabilities,e_3_5_m_3_2_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.tests,org.eclipse.mylyn.ide.tests,e_3_5_m_3_2_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.ide.ui,org.eclipse.mylyn.ide.ui,e_3_5_m_3_2_x"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.java-feature,org.eclipse.mylyn.java-feature,e_3_5_m_3_2_x"/>

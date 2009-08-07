@@ -94,7 +94,11 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 Developers
 
--------------------------- 3.2.1 --------------------------
+-------------------------- 3.3.0 --------------------------
+
+2009-08-07, tasks,		285305, David Shepherd,		<10,		spingel,	support drag and drop in search view
+
+-------------------------- 3.2.2 --------------------------
 
 2009-08-06, jira,		285204, Thomas Ehrnhoefer,	<10,		spingel,	show creation date in work log table 
 

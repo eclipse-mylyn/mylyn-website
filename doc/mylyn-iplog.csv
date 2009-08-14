@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-08-13, tasks,		256699, Thomas Ehrnhoefer,	<50,		spingel,	show description in preview mode by default
 2009-08-13, tasks,		281685, Thomas Ehrnhoefer,	<10,		spingel,	improve error messages
 2009-08-13, jira,		274914, Thomas Ehrnhoefer,	<250,		spingel,	validate estimated time in task editor
 2009-08-11, jira,		284172, Thomas Ehrnhoefer,	<10,		spingel,	make delegating monitor available as API

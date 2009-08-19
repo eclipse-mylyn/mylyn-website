@@ -122,7 +122,7 @@
 		</div>
 				
  		<div class="homeitem3col"> 
-			<h3>Latest API Baseline</h3>
+			<h3>Tools</h3>
 			<table border="0"> 
 	        	<tr>
 			        <td>
@@ -138,6 +138,21 @@
 					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.0/mylyn-3.2.0-api.zip">Mylyn 3.2.0 API Baseline</a></b>
 				</li>
 			</ul>
+			<table border="0"> 
+	        	<tr>
+	        		<td width="5"></td>
+			        <td>
+				        <p>A profiler license is available to committers. YourKit is kindly supporting open source projects with its full-featured
+ Java Profiler. YourKit, LLC is the creator of innovative and intelligent
+ tools for profiling Java and .NET applications. Take a look at YourKit's
+ leading software products: <a
+ href="http://www.yourkit.com/java/profiler/index.jsp">YourKit Java
+ Profiler</a> and <a
+ href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET
+ Profiler</a>.</p>
+				    </td> 
+				</tr>
+			</table>
 		</div>
 		
 		<p>&nbsp;</p>

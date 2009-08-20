@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-08-20, tasks,		287213, Thomas Ehrnhoefer,	<10,		spingel,	fix showing validation results on repository settings page
 2009-08-19, jira,		285793, Thomas Ehrnhoefer,	<10,		spingel,	fix tests failures on version 4.0 
 2009-08-17, monitor,	286691, Emerson Murphy-Hill,<200,		sminto,		use IProgressMonitor when reading interaction from file
 2009-08-13, tasks,		256699, Thomas Ehrnhoefer,	<50,		spingel,	show description in preview mode by default

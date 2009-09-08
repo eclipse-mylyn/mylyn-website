@@ -63,16 +63,16 @@
 		<milestone date="09/25/2009" milestone="3.2.2">
 			<html:div>Service Release (Galileo SR1)</html:div>
 		</milestone>
-		<milestone date="02/26/2010" milestone="3.2.3">
-			<html:div>Service Release (Galileo SR2)</html:div>
-		</milestone>
 		<milestone date="10/27/2009 (tentative)" milestone="3.3">
 			<html:div>Major Release</html:div>
+		</milestone>
+		<milestone date="02/26/2010" milestone="3.2.3">
+			<html:div>Service Release (Galileo SR2)</html:div>
 		</milestone>
 		<milestone date="02/2010 (tentative)" milestone="3.4">
 			<html:div>Major Release</html:div>
 		</milestone>
-		<milestone date="06/23/2009" milestone="3.5">
+		<milestone date="06/23/2010" milestone="3.5">
 			<html:div>Major Release</html:div>
 		</milestone>
 		<!-- 

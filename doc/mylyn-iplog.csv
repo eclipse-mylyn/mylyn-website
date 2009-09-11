@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-09-10,	jira,		288441,	Pawel Niewiadomski,	<20,		spingel,	fix for user agent
 2009-09-08,	jira,		287736,	Pawel Niewiadomski,	<10,		spingel,	fix tests for non english locales  
 2009-09-01, jira,		287949, Benjamin Muskalla,	<10,		spingel,	include closed tasks in Google code template
 2009-08-27, jira,		233757, Jacek Jaroczynski,	<20,		spingel,	reverse sorting for versions	

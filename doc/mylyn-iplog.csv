@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-09-16, jira,		267508, Thomas Ehrnhoefer,	<10,		spingel,	speed up JiraFilterTest 
 2009-09-16, bugzilla,	287226, Thomas Ehrnhoefer,	<250,		spingel,	fix Bugzilla standalone tests 
 2009-09-11,	jira,		287832,	Pawel Niewiadomski,	<20,		spingel,	use checkbox tree for multi-selection fields  
 2009-09-10,	jira,		288441,	Pawel Niewiadomski,	<20,		spingel,	fix for user agent

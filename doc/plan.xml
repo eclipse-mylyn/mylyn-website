@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-	<release projectid="mylyn" version="3.3" />
+	<release projectid="tools.mylyn" version="3.3" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>The first goal

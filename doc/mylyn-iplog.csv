@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-09-17, jira,		283881, Thomas Ehrnhoefer,	<100,		spingel,	fix handling of date format 
 2009-09-17, jira,		237996, Thomas Ehrnhoefer,	<100,		spingel,	speed up JIRA searches 
 2009-09-16, jira,		267508, Thomas Ehrnhoefer,	<10,		spingel,	speed up JiraFilterTest 
 2009-09-16, bugzilla,	287226, Thomas Ehrnhoefer,	<250,		spingel,	fix Bugzilla standalone tests 

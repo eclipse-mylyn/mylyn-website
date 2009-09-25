@@ -95,7 +95,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">
-		           			Mylyn 3.2.1 released</a> <i>Jul 22, 2009</i>
+		           			Mylyn 3.2.2 released</a> <i>Sep 25, 2009</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">

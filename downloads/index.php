@@ -97,7 +97,7 @@ $html = <<<EOHTML
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4, 3.5)
 					<br>
-					<font size=-1>Trac 0.10 to 0.11, JIRA 3.7 and later</font>
+					<font size=-1>Trac 0.10 and later, JIRA 3.7 and later</font>
 				</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2.2-incubator.zip">

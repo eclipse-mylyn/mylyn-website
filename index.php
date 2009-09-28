@@ -194,6 +194,8 @@ $html = <<<EOHTML
 	  		<td width="30">&nbsp;</td>
 	  		<td valign="top" align="center" width="*">
 	  			<!--<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>-->
+	  			<br>&nbsp;
+	  			<br>&nbsp;
 	  			<div id="twtr-search-widget"></div>
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">

@@ -193,7 +193,32 @@ $html = <<<EOHTML
 	  		</td>
 	  		<td width="30">&nbsp;</td>
 	  		<td valign="top" align="center" width="*">
-	          	<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
+	  			<!--<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>-->
+	  			<div id="twtr-search-widget"></div>
+					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
+					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
+					<script>
+					new TWTR.Widget({
+					  search: '#mylyn',
+					  id: 'twtr-search-widget',
+					  loop: true,
+					  title: 'What\'s being said about...',
+					  subject: 'Mylyn',
+					  width: 250,
+					  height: 300,
+					  theme: {
+					    shell: {
+					      background: '#5b5993',
+					      color: '#ffffff'
+					    },
+					    tweets: {
+					      background: '#ffffff',
+					      color: '#444444',
+					      links: '#333366'
+					    }
+					  }
+					}).render().start();
+					</script>
       		</td>
       	</tr>
     </table>

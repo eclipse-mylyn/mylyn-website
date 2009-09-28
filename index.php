@@ -207,7 +207,7 @@ $html = <<<EOHTML
 					  title: 'What\'s being said about...',
 					  subject: 'Mylyn',
 					  width: 250,
-					  height: 400,
+					  height: 350,
 					  theme: {
 					    shell: {
 					      background: '#5b5993',
@@ -221,7 +221,6 @@ $html = <<<EOHTML
 					  }
 					}).render().start();
 					</script>
-					<br>
 					Follow: <a href="http://twitter.com/mik_kersten">Mik Kersten (project lead)</a>, <a href="http://twitter.com/WikiText">WikiText component</a>
       		</td>
       	</tr>

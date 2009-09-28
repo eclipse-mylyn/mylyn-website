@@ -221,7 +221,7 @@ $html = <<<EOHTML
 					  }
 					}).render().start();
 					</script>
-					Follow: <a href="http://twitter.com/mik_kersten">Mik Kersten (project lead)</a>, <a href="http://twitter.com/WikiText">WikiText component</a>
+					<font size=-1>Follow <a href="http://twitter.com/mik_kersten">Mik Kersten (lead)</a>, <a href="http://twitter.com/WikiText">WikiText</a></font>
       		</td>
       	</tr>
     </table>

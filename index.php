@@ -199,7 +199,7 @@ $html = <<<EOHTML
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 					<script>
 					new TWTR.Widget({
-					  search: '#mylyn',
+					  search: 'mylyn',
 					  id: 'twtr-search-widget',
 					  loop: true,
 					  title: 'What\'s being said about...',
@@ -219,7 +219,7 @@ $html = <<<EOHTML
 					  }
 					}).render().start();
 					</script>
-					<font size=-1>Follow <a href="http://twitter.com/mik_kersten">Mik Kersten (lead)</a>, <a href="http://twitter.com/WikiText">WikiText</a></font>
+					<font size=-1>Follow: <a href="http://twitter.com/mik_kersten">Mik Kersten</a> (lead), <a href="http://twitter.com/WikiText">WikiText</a></font>
       		</td>
       	</tr>
     </table>

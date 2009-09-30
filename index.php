@@ -12,7 +12,7 @@ $html = <<<EOHTML
 	<table border="0" cellpadding="5">
      	<tr> 
         	<td width="80%" valign="top">
-				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface  <img border="0" src="/mylyn/images/external-link.png"></a> 
+				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 				repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work 
@@ -95,7 +95,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="http://www.ddj.com/development-tools/220100341">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task <img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task<img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">

@@ -69,7 +69,7 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr>
-	          		<tr height="30"></tr>
+	          		<tr height="15"></tr>
 	         	</table>
 	         	
 	         	<!--

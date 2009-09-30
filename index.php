@@ -211,7 +211,7 @@ $html = <<<EOHTML
 					  title: 'What\'s being said about...',
 					  subject: 'Mylyn',
 					  width: 278,
-					  height: 278,
+					  height: 255,
 					  theme: {
 					    shell: {
 					      background: '#5b5993',

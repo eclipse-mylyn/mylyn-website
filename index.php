@@ -198,7 +198,8 @@ $html = <<<EOHTML
 	  		<td width="30">&nbsp;</td>
 	  		<td valign="top" align="center" width="*">
 	  			<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
-	  			<div id="twtr-search-widget"></div>
+	  			<br>&nbsp;
+	  			<div align="left" id="twtr-search-widget"></div>
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 					<script>
@@ -208,8 +209,8 @@ $html = <<<EOHTML
 					  loop: true,
 					  title: 'What\'s being said about...',
 					  subject: 'Mylyn',
-					  width: 250,
-					  height: 300,
+					  width: 280,
+					  height: 280,
 					  theme: {
 					    shell: {
 					      background: '#5b5993',

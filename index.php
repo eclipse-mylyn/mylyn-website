@@ -95,7 +95,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="http://www.ddj.com/development-tools/220100341">
-		           			Dr.Dobb's: Newest ALM tools keep developers focused and on task <img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson <i>September 30, 2009</i>
+		           			Dr.Dobb's: Newest ALM tools keep developers focused and on task <img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">

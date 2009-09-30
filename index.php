@@ -9,7 +9,11 @@ $html = <<<EOHTML
 
 <div id="maincontent">
 <div id="midcolumn" style="width:97%">
-				Mylyn is a task-focused interface for Eclipse that reduces information overload and makes multi-tasking easy.  
+	<table border="0" cellpadding="5">
+     	<tr> 
+        	<td width="80%" valign="top">
+				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface  <img border="0" src="/mylyn/images/external-link.png"></a> 
+				for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
 				repositories such as Bugzilla, Trac, and JIRA.  Once your tasks are integrated, Mylyn monitors your work 
 				activity to identify relevant information, and uses this task context to focus the 
@@ -17,10 +21,6 @@ $html = <<<EOHTML
 				This puts the information you need at your fingertips and improves productivity by reducing 
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
 				planning, reusing past efforts, and sharing expertise.
-	<table border="0" cellpadding="5">
-     	<tr> 
-        	<td width="80%" valign="top">
-
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
 	          		<tr>
@@ -94,12 +94,16 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="http://www.ddj.com/development-tools/220100341">
+		           			Dr.Dobb's: Newest ALM tools keep developers focused and on task <img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson <i>September 30, 2009</i>
+	            		</li>
+						<li>
 		            		<a href="http://eclipse.org/mylyn/downloads/">
 		           			Mylyn 3.2.2 released</a> <i>Sep 25, 2009</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;<font size="+1">Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
+		           			<!--<img src="images/star.png"/>&nbsp;&nbsp;-->Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a>&nbsp;&nbsp;<i>June 24, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">
@@ -107,7 +111,7 @@ $html = <<<EOHTML
 	            		</li>
 						<li>
 							<a target="_new" href="http://www.heise.de/developer/Taskverwaltung-mit-Mylyn-3-2-und-Tasktop-1-5--/news/meldung/140802">
-		           			<img src="images/flag-germany.png"/>&nbsp;&nbsp;Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
+		           			<!--<img src="images/flag-germany.png"/>&nbsp;&nbsp;-->Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
 	            		</li>
 	            		<li>
 	            		<a href="http://live.eclipse.org/node/676">

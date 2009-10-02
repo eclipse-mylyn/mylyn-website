@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-10-02,	jira,		290860,	Pawel Niewiadomski,	<250,		spingel,	only cache configuration for selected projects
 2009-10-01, wikitext,	290961, Martin Kurz,		<200,		dgreen,		markup language configuration locale
 2009-09-30, jira,		211654, Jacek Jaroczynski,	<250,		spingel,	support for posting comments through soap	
 2009-09-29,	jira,		290490,	Pawel Niewiadomski,	<250,		spingel,	limit configuration updates to editor task

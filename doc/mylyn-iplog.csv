@@ -96,6 +96,7 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-10-05,	jira,		189689,	Pawel Niewiadomski,	<100,		spingel,	fix failing tests
 2009-10-02,	jira,		189689,	Pawel Niewiadomski,	<100,		spingel,	update project configuration as needed
 2009-10-02,	jira,		290860,	Pawel Niewiadomski,	<250,		spingel,	only cache configuration for selected projects
 2009-10-01, wikitext,	290961, Martin Kurz,		<200,		dgreen,		markup language configuration locale

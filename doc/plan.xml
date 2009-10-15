@@ -127,11 +127,19 @@
 	    </th>
 	    <tr>
 	      <td>Ubuntu Linux</td>
+	      <td>9.10</td>
+	      <td>x86-32</td>
+	      <td>GTK</td>
+	      <td>Sun Java 2 Standard Edition 6.0 Update 15</td>
+	      <td>Eclipse 3.6 (latest milestone)</td>
+	    </tr>
+	    <tr>
+	      <td>Ubuntu Linux</td>
 	      <td>8.04</td>
 	      <td>x86-32</td>
 	      <td>GTK</td>
-	      <td>Sun Java 2 Standard Edition 6.0 Update 7</td>
-	      <td>Eclipse 3.6 (latest milestone)</td>
+	      <td>Sun Java 2 Standard Edition 6.0 Update 11</td>
+	      <td>Eclipse 3.5.1 (latest milestone)</td>
 	    </tr>
 	    <tr>
 	      <td>Microsoft Windows</td>
@@ -139,7 +147,7 @@
 	      <td>x86-32</td>
 	      <td>Win32</td>
 	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.5</td>
+	      <td>Eclipse 3.5.1</td>
 	    </tr>
 	    <tr>
 	      <td>Apple Mac OS X</td>
@@ -147,7 +155,7 @@
 	      <td>Power</td>
 	      <td>Cocoa</td>
 	      <td>Apple Java 2 Platform Standard Edition (J2SE) 5, service release 4</td>
-		  <td>Eclipse 3.5</td>
+		  <td>Eclipse 3.5.1</td>
 	    </tr>
 	    <tr>
 	      <td>Microsoft Windows</td>
@@ -155,7 +163,7 @@
 	      <td>x86-32</td>
 	      <td>Win32</td>
 	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
-	      <td>Eclipse 3.4</td>
+	      <td>Eclipse 3.4.2</td>
 	    </tr>
 	    <th colspan="6" align="center">
 	      <big><strong>Automated Tests</strong></big>

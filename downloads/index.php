@@ -67,7 +67,7 @@ $html = <<<EOHTML
 						<tr> 
 			      			<td><font size=+0><a href="/mylyn/builds">Older Downloads</a></font></td>
 						</tr>
-						<tr><td>Download archive and support for Eclipse 3.2</td></tr>
+						<tr><td>Download archive and support for Eclipse 3.3 and 3.2</td></tr>
 					</table>
 				</td> 
 			</tr> 
@@ -76,34 +76,28 @@ $html = <<<EOHTML
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>3.2.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2009-09-25). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 3.0 and later.	
+			<h3>3.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2009-10-26). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/">Bugzilla</a> 3.0 and later.	
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2.2-e3.4.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.3.0-e3.4.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, <a href="http://www.eclipse.org/downloads/">Galileo Packages</a>)
-				</li>
-				<li> 
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2.2-e3.3.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.3</b>&nbsp;&nbsp;(Eclipse 3.3)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6M2)
 				</li>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2.2-extras.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.3.0-extras.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4, 3.5)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/extras</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6M2)
 					<br>
 					<font size=-1>Trac 0.10 and later, JIRA 3.7 and later</font>
 				</li>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.2.2-incubator.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.3.0-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.3, 3.4, 3.5)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6M2)
 					<br> 
 					<font size=-1>Web Templates Connector, XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
 				</li>

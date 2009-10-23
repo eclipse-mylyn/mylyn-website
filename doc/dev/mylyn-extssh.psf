@@ -18,6 +18,8 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.logging,org.apache.commons.logging,v1_0_4"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.ws.commons.util,org.apache.ws.commons.util,v1_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.xmlrpc,org.apache.xmlrpc,v3_0_0"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.cdt/all/org.eclipse.cdt.core,org.eclipse.cdt.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.cdt/all/org.eclipse.cdt.ui,org.eclipse.cdt.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn,org.eclipse.mylyn"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn-feature,org.eclipse.mylyn-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla-feature,org.eclipse.mylyn.bugzilla-feature"/>
@@ -25,6 +27,8 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.tests,org.eclipse.mylyn.bugzilla.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ui,org.eclipse.mylyn.bugzilla.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.cdt-feature,org.eclipse.mylyn.cdt-feature"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.cdt.ui,org.eclipse.mylyn.cdt.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.core,org.eclipse.mylyn.commons.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.net,org.eclipse.mylyn.commons.net"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.soap,org.eclipse.mylyn.commons.soap"/>

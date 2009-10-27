@@ -95,16 +95,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="http://tasktop.com/blog/tasktop/agile-task-management-tasktop-16-mylyn-33">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3 released</a> <i>Oct 26, 2009</i>
+	            		</li>
+						<li>
 		            		<a href="http://www.ddj.com/development-tools/220100341">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task<img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
-	            		</li>
-						<li>
-		            		<a href="http://eclipse.org/mylyn/downloads/">
-		           			Mylyn 3.2.2 released</a> <i>Sep 25, 2009</i>
-	            		</li>
-						<li>
-		            		<a target="_new" href="http://tasktop.com/blog/eclipse/tasktop-15-mylyn-32-and-new-connectors-released-for-eclipse-galileo">
-		           			<!--<img src="images/star.png"/>&nbsp;&nbsp;-->Mylyn 3.2 released!<img border="0" src="/mylyn/images/external-link.png"></a>&nbsp;&nbsp;<i>June 24, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">

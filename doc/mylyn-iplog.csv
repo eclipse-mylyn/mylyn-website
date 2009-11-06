@@ -97,6 +97,10 @@ Developers
 
 -------------------------- 3.3.0 --------------------------
 
+2009-09-01, sandbox,	292543, Benjamin Muskalla,	<10,		spingel,	fix all labels column in Google code template
+
+-------------------------- 3.3.0 --------------------------
+
 2009-10-05,	jira,		189689,	Pawel Niewiadomski,	<100,		spingel,	fix failing tests
 2009-10-02,	jira,		189689,	Pawel Niewiadomski,	<100,		spingel,	update project configuration as needed
 2009-10-02,	jira,		290860,	Pawel Niewiadomski,	<250,		spingel,	only cache configuration for selected projects
@@ -111,7 +115,7 @@ Developers
 2009-09-11,	jira,		287832,	Pawel Niewiadomski,	<20,		spingel,	use checkbox tree for multi-selection fields  
 2009-09-10,	jira,		288441,	Pawel Niewiadomski,	<20,		spingel,	fix for user agent
 2009-09-08,	jira,		287736,	Pawel Niewiadomski,	<10,		spingel,	fix tests for non english locales  
-2009-09-01, jira,		287949, Benjamin Muskalla,	<10,		spingel,	include closed tasks in Google code template
+2009-09-01, sandbox,	287949, Benjamin Muskalla,	<10,		spingel,	include closed tasks in Google code template
 2009-08-27, jira,		233757, Jacek Jaroczynski,	<20,		spingel,	reverse sorting for versions	
 2009-08-21, tasks,		287343, David Shepherd,		<10,		spingel,	avoid refreshes when editor is busy
 2009-08-21, jira,		277405, Thomas Ehrnhoefer,	<150,		spingel,	do not logout between requests 
@@ -553,7 +557,7 @@ Developers
 
 ------------------------- 2.2M -------------------------
 
-2007-10-01, tasks		204511, Ketan Padegaonkar,	<10,		mkersten,	schema fix   
+2007-10-01, tasks,		204511, Ketan Padegaonkar,	<10,		mkersten,	schema fix   
 2007-10-04, bugzilla,	196056, Maarten Meijer,		<50,		relves,		add gzip stream support for repository config retrieval
 2007-10-04, tasks,		205213, Maarten Meijer,		<50,		relves,		set user agent on web client
 2007-10-04, tasks,		205206, Ketan Padegaonkar,	<10,		relves,		fixed npe in TaskFactory  	
@@ -754,8 +758,8 @@ Developers
 2007-06-04, tasks,		188415, Leo Dos Santos,		<100,		mkersten,	positioning fix
 2007-06-04, tasks,		165380, Willian Mitsuda,	<250,		mkersten,	editor linking
 2007-06-06,	tasks,		144161,	Leo Dos SAntos,		<250,		mkersten,	task trim
-2007-06-13, tasks		188429, Shawn Minto,		<100,		mkersten, 	resource leak fixes
-2007-06-13, tasks		192064, Shawn Minto,		<10,		relves, 	incoming not showing in archive
+2007-06-13, tasks,		188429, Shawn Minto,		<100,		mkersten, 	resource leak fixes
+2007-06-13, tasks,		192064, Shawn Minto,		<10,		relves, 	incoming not showing in archive
 2007-06-13,	tasks,		144161,	Leo Dos Santos,		<100,		relves,		task trim improvements including popup menu
 2007-06-13, tasks,		165380, Willian Mitsuda,	<20,		relves,		add Show in Task List to editor popup
 2007-06-13, monitor,	188499,	Meghan Allen,		<250,		mkersten,	monitor servlet fix
@@ -851,10 +855,10 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
 2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
 2006-07-05, trac,		148378,	Steffen Pingel,		<100,		mkersten,	settings page flexibility and tests
-2006-07-06, bugzilla	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
+2006-07-06, bugzilla,	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
 2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
 2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
-2006-07-10, tasklist	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
+2006-07-10, tasklist,	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories
 2006-07-10,	bugzilla,	148571,	Jeff Pound,			<100,		mkersten,	obsolete patch indicator
 2006-07-11,	bugzilla,	150065,	Brock Janiczak,		<10,		mkersten,	gzip stream support
 2006-07-11,	jira,		149939,	Steffen Pingel,		<100,		mkersten,	test case for repository notification
@@ -868,8 +872,8 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-07-14,	trac,		150699,	Steffen Pingel,		<100,		mkersten,	new task wizard page
 2006-07-14, bugzilla,	150441,	Steffen Pingel,		<10,		mkersten,	keyboard selection fix
 2006-07-14,	tasks,		150446,	Steffen Pingel,		<100,		mkersten,	equality test case
-2006-07-20,	bugzilla	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
-2006-07-20, tasklist	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
+2006-07-20,	bugzilla,	150746,	Willian Mitsuda,	<100,		relves,		run update products in progress service
+2006-07-20, tasklist,	150430,	Eugene Kuleshov,	<100,		relves,		template regexp improvements
 2006-07-27,	trac,		151896,	Steffen Pingel,		<1000,		mkersten,	port to xmlrpc 3.0
 2006-07-27, tasks,		147960,	Eugene Kuleshov,	<100,		mkersten,	URLs for categories
 2006-07-27, jira,		149605,	Eugene Kuleshov,	<1000,		mkersten,	JIRA query form improvements
@@ -941,7 +945,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-10-15, team,		117517,	Eike Stepper,		<1000,		mkersten,	commit comment templates	
 2006-10-16, tasks,		160686,	Raphael Ackermann,	<10,		mkersten,	single selection fix
 2006-10-19, tasks,		143323,	Willian Mitsuda,	<100,		mkersten,	spacing fix
-2006-10-21, tasks		161806, Willian Mitsuda,	<100,		mkersten,	task progress bar fix
+2006-10-21, tasks,		161806, Willian Mitsuda,	<100,		mkersten,	task progress bar fix
 
 0.9.0
 2006-10-23, tasks,		161835, Eugene Kuleshov,	<1000,		relves,		automatic repository/product selection for new task actions
@@ -982,7 +986,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-11-26,	tasks,		165169,	Willian Mitsuda,	<100,		mkersten,	image preview fix
 2006-11-26,	tasks,		165853,	Willian Mitsuda,	<100,		mkersten,	mantix template fix
 2006-11-26, tasks,		165816,	Eugene Kuleshov,	<100,		mkersten,	failing test fix
-2006-11-27,	tasks		165852,	Willian Mitsuda,	<100,		mkersten,	login fix
+2006-11-27,	tasks,		165852,	Willian Mitsuda,	<100,		mkersten,	login fix
 2006-11-27, tasks,		165581,	Willian Mitsuda,	<1000,		mkersten,	open repository task action
 
 1.0RC2

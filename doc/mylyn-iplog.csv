@@ -95,6 +95,10 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 Developers
 
+-------------------------- 3.4.0 --------------------------
+
+2009-11-10, wikitext,	294383, Peter Stibrany,		<25,		dgreen,		emitDoctype to HTML ant tasks
+
 -------------------------- 3.3.0 --------------------------
 
 2009-09-01, sandbox,	292543, Benjamin Muskalla,	<10,		spingel,	fix all labels column in Google code template

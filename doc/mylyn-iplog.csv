@@ -97,6 +97,7 @@ Developers
 
 -------------------------- 3.4.0 --------------------------
 
+2009-11-12, tasks,		291992, Benjamin Muskalla,	<10,		spingel,	fix multi-line text selection when opening task
 2009-11-10, wikitext,	294383, Peter Stibrany,		<25,		dgreen,		emitDoctype to HTML ant tasks
 2009-11-06, sandbox,	292543, Benjamin Muskalla,	<10,		spingel,	fix all labels column in Google code template
 

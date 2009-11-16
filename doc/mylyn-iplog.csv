@@ -752,7 +752,7 @@ Developers
 
 2.0RC0
 2007-05-23, tasks,		187097, Willian Mitsuda,	<20,		relves,		fix quoting of empty lines
-2007-05-27,	doc,		185863,	Balazs Brinkus,		<250,		mkersten,	universal intro
+2007-05-27,	doc,		185836,	Balazs Brinkus,		<250,		mkersten,	universal intro
 2007-05-29, trac,		189411,	Erik Pearson,		<100,		mkersten, 	trac attachment fix
 2007-05-29, xplanner,	130240, Helen Bershadskaya,	<4000,		mkersten,	CodeGear XPlanner contribution (IPZilla CQ 1321)
 2007-06-04, tasks, 		189743,	Greg Gibeling,		<10,		mkersten,	command char fix

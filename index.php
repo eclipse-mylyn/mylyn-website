@@ -95,8 +95,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3.1 released</a> <i>Dec 15, 2009</i>
+	            		</li>
+						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/tasktop/agile-task-management-tasktop-16-mylyn-33">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3 released<img border="0" src="/mylyn/images/external-link.png"></a> <i>Oct 26, 2009</i>
+		           			Mylyn 3.3 released<img border="0" src="/mylyn/images/external-link.png"></a> <i>Oct 26, 2009</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://www.ddj.com/development-tools/220100341">

@@ -95,7 +95,7 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 Developers
 
--------------------------- 3.4.0 --------------------------
+-------------------------- 3.3.1 --------------------------
 
 2009-11-12, tasks,		291992, Benjamin Muskalla,	<10,		spingel,	fix multi-line text selection when opening task
 2009-11-10, wikitext,	294383, Peter Stibrany,		<25,		dgreen,		emitDoctype to HTML ant tasks

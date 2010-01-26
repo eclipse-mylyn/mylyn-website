@@ -58,13 +58,16 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
+		<milestone date="12/15/2009" milestone="3.3.1">
+			<html:div>Service Release</html:div>
+		</milestone>
+		<milestone date="01/27/2010" milestone="3.3.2">
+			<html:div>Service Release</html:div>
+		</milestone>
 		<milestone date="02/26/2010" milestone="3.2.3">
 			<html:div>Service Release (Galileo SR2)</html:div>
 		</milestone>
-		<milestone date="02/2010 (tentative)" milestone="3.4">
-			<html:div>Major Release</html:div>
-		</milestone>
-		<milestone date="06/23/2010 (tentative)" milestone="3.5">
+		<milestone date="06/23/2010" milestone="3.4">
 			<html:div>Major Release</html:div>
 		</milestone>
 		<!-- 
@@ -160,11 +163,11 @@
 	      <big><strong>Automated Tests</strong></big>
 	    </th>
 	    <tr>
-	      <td>SuSE Linux</td>
-	      <td>10</td>
-	      <td>x86-32</td>
+	      <td>Ubuntu Linux</td>
+	      <td>8.04</td>
+	      <td>x86-64</td>
 	      <td>GTK</td>
-	      <td>Sun Java 2 Standard Edition 5.0 Update 14</td>
+	      <td>Sun Java 2 Standard Edition 6.0 Update 17</td>
 	      <td>Eclipse 3.6, 3.5, Eclipse 3.4</td>
 	    </tr>
 	  </tbody>

@@ -97,6 +97,7 @@ Developers
 
 -------------------------- 3.4.0 --------------------------
 
+2010-02-03, tasks,		297254, Thomas Ehrnhoefer,	<20,		spingel,	add capability for creating task repositories 
 2010-01-28, bugzilla,	287572, Peter Kullmann,		<10,		relves,		support for custom closed status
 2009-11-10, wikitext,	294383, Peter Stibrany,		<25,		dgreen,		emitDoctype to HTML ant tasks
 

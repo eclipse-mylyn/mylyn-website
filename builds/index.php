@@ -94,10 +94,10 @@
 			<h3>3.2.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.3/v20090912-0400/mylyn-3.2.3.v20090912-0400-e3.4.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.3/v20100217-0100/mylyn-3.2.3.v20100217-0100-e3.4.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.3/v20090912-0400/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.5)
+					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.2.3/v20100217-0100/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4 and 3.5)
 	        	</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.2.3/v20100217-0100/mylyn-3.2.3.v20100217-0100-e3.3.zip">

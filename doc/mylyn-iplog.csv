@@ -95,8 +95,12 @@ ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
 
 Developers
 
+
+
 -------------------------- 3.4.0 --------------------------
 
+2010-02-25, tasks,		288427, Abner Ballardo,		<100,		spingel,	recognize closing parenthesis as part of url hyperlinks 
+2010-02-25, tasks,		276113, Abner Ballardo,		<50,		spingel,	make mylyn data directory field editable
 2010-02-03, tasks,		297254, Thomas Ehrnhoefer,	<20,		spingel,	add capability for creating task repositories 
 2010-01-28, bugzilla,	287572, Peter Kullmann,		<10,		relves,		support for custom closed status
 2009-11-10, wikitext,	294383, Peter Stibrany,		<25,		dgreen,		emitDoctype to HTML ant tasks

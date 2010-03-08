@@ -19,7 +19,7 @@ $html = <<<EOHTML
         			<td>
 		        		<ul>
 		        			<li><b>The revolutionary task-focused interface</b>
-		        				<br><i>Re-aligns the IDE around tasks to make it easier to multitask on large code bases</i>
+		        				<br><i>Realigns the IDE around tasks so that you see only the code that's relevant</i>
 		        				<br>&nbsp;
 		        			<li><b>A task management tool for developers</b>
 		        				<br><i>Averaging 1 million downloads/month, Mylyn is the most popular IDE tool for ALM</i>
@@ -234,6 +234,10 @@ $html = <<<EOHTML
 	  		</td>
 	  		<td width="5">&nbsp;</td>
 	  		<td valign="top" align="center" width="*">
+	  			<p><a href="http://marketplace.eclipse.org/content/mylyn">
+						<img src="/mylyn/images/star.png" border="0"/>
+						Star Mylyn as favorite on Eclipse Marketplace</a>
+				</p>
 	  			<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
 	  			<br>&nbsp;
 	  			<div align="left" id="twtr-search-widget"></div>

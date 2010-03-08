@@ -22,15 +22,12 @@
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
   
-<div id="maincontent">
-	<div id="rightcolumn">
-		<!--
-		<font size=1>
-			<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
-			<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
-		</font>
-		-->
+  	<div id="rightcolumn">
+		$side_vote
+		$side_announce
 	</div>
+  
+<div id="maincontent">
 
 	<div id="midcolumn">
 		Listing ordered by number of bugs resolved.  <i>Last updated: 2009-06-24</i>  

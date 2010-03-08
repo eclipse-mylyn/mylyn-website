@@ -12,6 +12,27 @@ $html = <<<EOHTML
 	<table border="0" cellpadding="5">
      	<tr> 
         	<td width="80%" valign="top">
+        		Mylyn is the task and application lifecycle management (ALM) framework for Eclipse.  Mylyn provides:
+        		<ul>
+        			<li><b>The revolutionary task-focused interface</b>
+        				<br>Re-aligns the IDE around tasks to make it easier to multitask on large code bases.
+        			<li><b>A task management tool for developers</b>
+        				<br>Averaging 1 million downloads per month, Mylyn is the most popular IDE tool for ALM.
+        			</li>
+        			<li><b>A broad ecosystem of Agile and ALM integrations</b>
+        				<br>With dozens of extensions, Mylyn is integrated with most ALM and developer collaboration tools.
+        			</li>
+        		<!--
+				Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
+				for Eclipse reduces information overload and makes multitasking easy.  
+				It does this by making tasks a first class part of Eclipse, integrating rich and offline editing for
+				popular task repositories, and re-aligning the IDE and ALM tools around tasks.  Mylyn then monitors your
+				activity to identify relevant information, and uses the resulting "task context" to focus your workspace
+				and automatically link activities with source code, SCM systems and other ALM artifacts.
+				This puts the information you need at your fingertips and improves productivity by reducing 
+				searching, scrolling and navigation. By making task context explicit, Mylyn also facilitates multitasking, 
+				planning, reusing past efforts, and sharing expertise.
+        		<!--
 				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				for Eclipse that reduces information overload and makes multi-tasking easy.  
 				It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for
@@ -20,7 +41,8 @@ $html = <<<EOHTML
 				user interface on the task-at-hand.
 				This puts the information you need at your fingertips and improves productivity by reducing 
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
-				planning, reusing past efforts, and sharing expertise.
+				planning, reusing past efforts, and sharing expertise.-->
+				
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
 	          		<tr>
@@ -95,6 +117,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
+	            		</li>
+						<li>
 		            		<a href="new/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3.2 released</a> <i>Feb 23, 2010</i>
 	            		</li>
@@ -102,18 +128,22 @@ $html = <<<EOHTML
 		            		<a target="_new" href="http://tasktop.com/blog/tasktop/agile-task-management-tasktop-16-mylyn-33">
 		           			Mylyn 3.3 released<img border="0" src="/mylyn/images/external-link.png"></a> <i>Oct 26, 2009</i>
 	            		</li>
+	            		<!--
 						<li>
 		            		<a target="_new" href="http://www.ddj.com/development-tools/220100341">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task<img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
 	            		</li>
+	            		-->
 						<li>
 		            		<a target="_new" href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">
 		           			eWeek: Tasktop Updates Mylyn, Tasktop Tools for Eclipse Galileo<img border="0" src="/mylyn/images/external-link.png"></a> <i>June 25, 2009</i>
 	            		</li>
+	            		<!--
 						<li>
 							<a target="_new" href="http://www.heise.de/developer/Taskverwaltung-mit-Mylyn-3-2-und-Tasktop-1-5--/news/meldung/140802">
-		           			<!--<img src="images/flag-germany.png"/>&nbsp;&nbsp;-->Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
+		           			Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>
 	            		</li>
+	            		-->
 	            		<li>
 	            		<a href="http://live.eclipse.org/node/676">
 								 	Less is More: Redefining the "I" of the IDE</a></font>

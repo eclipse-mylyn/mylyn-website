@@ -154,7 +154,7 @@ $html = <<<EOHTML
 	            		<li>
 	            		<a href="http://live.eclipse.org/node/676">
 								 	Less is More: Redefining the "I" of the IDE</a></font>
-								 	by Mik Kersten (Tasktop). Keynote webcast discussing Mylyn and the task-focused interface, <i>February 17, 2009</i>
+								 	by Mik Kersten (Tasktop). Keynote webcast about Mylyn, <i>February 17, 2009</i>
 	            		</li>
 						<!--
 	            		<li>

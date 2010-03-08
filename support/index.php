@@ -23,6 +23,7 @@
 <div id="maincontent">
 
 	<div id="rightcolumn">
+		$side_vote
 		$side_announce
 		<!--
 		<font size=1>

@@ -11,8 +11,12 @@ EOHTML;
 	
 		$side_vote = <<<EOHTML
 		<div class="sideitem">
-			<h6>Support Mylyn on Plugin Central</h6>
-			 <div style="margin-top:10px; margin-left:10px;">
+			<h6>Support Mylyn</h6>
+			<a href="http://http://marketplace.eclipse.org/content/mylyn">
+			<img src="/mylyn/images/star.png" border="0"/>
+			Vote for Mylyn on Eclipse Marketplace
+			</a>
+			 <!-- <div style="margin-top:10px; margin-left:10px;">
 			 <form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 				<!--
 				<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
@@ -31,6 +35,7 @@ EOHTML;
 				</select><input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating">&nbsp;<input type="submit" value="  Vote  ">
 				</form>
 				</div>
+				-->
 		</div>
 EOHTML;
 	

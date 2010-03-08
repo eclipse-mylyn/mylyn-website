@@ -12,18 +12,21 @@ $html = <<<EOHTML
 	<table border="0" cellpadding="5">
      	<tr> 
         	<td width="80%" valign="top">
-        		Mylyn is the task and application lifecycle management (ALM) framework for Eclipse.  Mylyn provides:
-        		<ul>
+        		Mylyn is the task and application lifecycle management (ALM) framework for Eclipse.  It provides:
+        		<p><ul>
         			<li><b>The revolutionary task-focused interface</b>
         				<br>Re-aligns the IDE around tasks to make it easier to multitask on large code bases.
+        				<br>&nbsp;
         			<li><b>A task management tool for developers</b>
         				<br>Averaging 1 million downloads per month, Mylyn is the most popular IDE tool for ALM.
+        				<br>&nbsp;
         			</li>
         			<li><b>A broad ecosystem of Agile and ALM integrations</b>
         				<br>With dozens of extensions, Mylyn is integrated with most ALM and developer collaboration tools.
+        				<br>&nbsp;
         			</li>
-        		<!--
-				Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
+        		</p>
+				<p>Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				reduces information overload and makes multitasking easy.  
 				Mylyn makes tasks a first class part of Eclipse, integrates rich and offline editing for
 				popular task repositories and connects the IDE to ALM and developer collaboration tools.  
@@ -31,7 +34,7 @@ $html = <<<EOHTML
 				focus your workspace and automatically link source code, commits and other ALM artifacts.
 				This puts the information you need at your fingertips and improves productivity by reducing 
 				searching, scrolling and navigation. By making task context explicit, Mylyn facilitates multitasking, 
-				planning and knowledge sharing.
+				planning and knowledge sharing.</p>
         		<!--
 				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				for Eclipse that reduces information overload and makes multi-tasking easy.  

@@ -12,7 +12,7 @@ EOHTML;
 		$side_vote = <<<EOHTML
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>
-			<a href="http://http://marketplace.eclipse.org/content/mylyn">
+			<a href="http://marketplace.eclipse.org/content/mylyn">
 			<img src="/mylyn/images/star.png" border="0"/>
 			Vote for Mylyn on Eclipse Marketplace
 			</a>

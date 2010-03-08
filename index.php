@@ -26,7 +26,7 @@ $html = <<<EOHTML
 		        				<br>&nbsp;
 		        			</li>
 		        			<li><b>A broad ecosystem of Agile and ALM integrations</b>
-		        				<br>With dozens of extensions, Mylyn is integrated with most ALM and developer collaboration tools.
+		        				<br>Dozens of extensions integrate Mylyn with most ALM and developer collaboration tools.
 		        				<br>&nbsp;
 		        			</li>
 		        		</ul>
@@ -100,7 +100,7 @@ $html = <<<EOHTML
 							</table>
 						</td>
 	          		</tr>
-	          		<tr height="15"></tr>
+	          		<tr height="10"></tr>
 	         	</table>
 	         	
 	         	<!--

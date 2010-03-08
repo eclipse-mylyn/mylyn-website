@@ -234,12 +234,10 @@ $html = <<<EOHTML
 	  		</td>
 	  		<td width="5">&nbsp;</td>
 	  		<td valign="top" align="center" width="*">
-	  			<a href="http://marketplace.eclipse.org/content/mylyn">
+	  			<p align="left"><a href="http://marketplace.eclipse.org/content/mylyn">
 						<img src="/mylyn/images/star.png" border="0"/>
-						Star Mylyn as favorite on Eclipse Marketplace</a>
-				<br>&nbsp;
-				<br>&nbsp;
-	  			<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
+						Star Mylyn as favorite on Eclipse Marketplace</a></p>
+				<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
 	  			<br>&nbsp;
 	  			<div align="left" id="twtr-search-widget"></div>
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>

@@ -24,14 +24,14 @@ $html = <<<EOHTML
         			</li>
         		<!--
 				Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
-				for Eclipse reduces information overload and makes multitasking easy.  
-				It does this by making tasks a first class part of Eclipse, integrating rich and offline editing for
-				popular task repositories, and re-aligning the IDE and ALM tools around tasks.  Mylyn then monitors your
-				activity to identify relevant information, and uses the resulting "task context" to focus your workspace
-				and automatically link activities with source code, SCM systems and other ALM artifacts.
+				reduces information overload and makes multitasking easy.  
+				Mylyn makes tasks a first class part of Eclipse, integrates rich and offline editing for
+				popular task repositories and connects the IDE to ALM and developer collaboration tools.  
+				Mylyn then monitors your programming activity to create a "task context" which is used to 
+				focus your workspace and automatically link source code, commits and other ALM artifacts.
 				This puts the information you need at your fingertips and improves productivity by reducing 
-				searching, scrolling and navigation. By making task context explicit, Mylyn also facilitates multitasking, 
-				planning, reusing past efforts, and sharing expertise.
+				searching, scrolling and navigation. By making task context explicit, Mylyn facilitates multitasking, 
+				planning and knowledge sharing.
         		<!--
 				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				for Eclipse that reduces information overload and makes multi-tasking easy.  

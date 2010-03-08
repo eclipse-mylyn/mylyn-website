@@ -19,14 +19,14 @@ $html = <<<EOHTML
         			<td>
 		        		<ul>
 		        			<li><b>The revolutionary task-focused interface</b>
-		        				<br>Re-aligns the IDE around tasks to make it easier to multitask on large code bases.
+		        				<br><i>Re-aligns the IDE around tasks to make it easier to multitask on large code bases</i>
 		        				<br>&nbsp;
 		        			<li><b>A task management tool for developers</b>
-		        				<br>Averaging 1 million downloads per month, Mylyn is the most popular IDE tool for ALM.
+		        				<br><i>Averaging 1 million downloads/month, Mylyn is the most popular IDE tool for ALM</i>
 		        				<br>&nbsp;
 		        			</li>
 		        			<li><b>A broad ecosystem of Agile and ALM integrations</b>
-		        				<br>Dozens of extensions integrate Mylyn with most ALM and developer collaboration tools.
+		        				<br><i>Dozens of extensions integrate Mylyn with ALM and developer collaboration tools</i>
 		        				<br>&nbsp;
 		        			</li>
 		        		</ul>

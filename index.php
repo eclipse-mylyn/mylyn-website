@@ -189,8 +189,8 @@ $html = <<<EOHTML
 						<li>
 							<a href="http://live.eclipse.org/node/573">
 								 <a href="http://live.eclipse.org/node/573">
-								 	Mylyn 3.0 Webcast: Code at the Speed of Thought</a></font>
-								 	by Mik Kersten (Tasktop) <i>July 30, 2008</i>
+								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
+								 	webcast by Mik Kersten (Tasktop) <i>July 30, 2008</i>
 						</li>
 						<!--
 						<li>

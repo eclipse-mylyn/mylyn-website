@@ -16,8 +16,6 @@ $html = <<<EOHTML
         		<table>
         		<tr>
         			<td width="20">&nbsp;</td>
-        		</tr>
-        		<tr>
         			<td>
 		        		<ul>
 		        			<li><b>The revolutionary task-focused interface</b>

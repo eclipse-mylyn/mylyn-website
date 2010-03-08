@@ -14,7 +14,7 @@ EOHTML;
 			<h6>Support Mylyn</h6>
 			<table>
 				<tr>
-					<td width="15">&nbsp;</td>
+					<td width="5">&nbsp;</td>
 					<td>
 						<a href="http://marketplace.eclipse.org/content/mylyn">
 						<img src="/mylyn/images/star.png" border="0"/>

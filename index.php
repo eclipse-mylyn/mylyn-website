@@ -142,12 +142,10 @@ $html = <<<EOHTML
 		            		<a target="_new" href="http://www.ddj.com/development-tools/220100341">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task<img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>
 	            		</li>
-	            		-->
 						<li>
 		            		<a target="_new" href="http://www.eweek.com/c/a/Application-Development/Tasktop-Updates-Mylyn-Tasktop-Tools-for-Eclipse-Galileo-134393/">
 		           			eWeek: Tasktop Updates Mylyn, Tasktop Tools for Eclipse Galileo<img border="0" src="/mylyn/images/external-link.png"></a> <i>June 25, 2009</i>
 	            		</li>
-	            		<!--
 						<li>
 							<a target="_new" href="http://www.heise.de/developer/Taskverwaltung-mit-Mylyn-3-2-und-Tasktop-1-5--/news/meldung/140802">
 		           			Heise: Taskverwaltung mit Mylyn 3.2 und Tasktop 1.5<img border="0" src="/mylyn/images/external-link.png"></a></font>&nbsp;&nbsp;<i>June 24, 2009</i>

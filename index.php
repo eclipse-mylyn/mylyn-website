@@ -236,7 +236,7 @@ $html = <<<EOHTML
 	  		<td valign="top" align="center" width="*">
 	  			<p align="left"><a href="http://marketplace.eclipse.org/content/mylyn">
 						<img src="/mylyn/images/star.png" border="0"/>
-						Star Mylyn as favorite on Eclipse Marketplace</a></p>
+						Star Mylyn as favorite on Marketplace</a></p>
 				<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
 	  			<br>&nbsp;
 	  			<div align="left" id="twtr-search-widget"></div>

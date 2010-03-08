@@ -32,7 +32,7 @@ $html = <<<EOHTML
 		        		</ul>
 		        	</td>
 		        </table>
-				<p>Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface
+				Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface
 				<img border="0" src="/mylyn/images/external-link.png"></a> 
 				reduces information overload and makes multitasking easy.  
 				Mylyn makes tasks a first class part of Eclipse, integrates rich and offline editing for
@@ -40,7 +40,7 @@ $html = <<<EOHTML
 				Mylyn then monitors your programming activity to create a "task context" which is used to 
 				focus your workspace and automatically link source code, commits and other ALM artifacts.
 				This puts the information you need at your fingertips and improves productivity by reducing 
-				searching and facilitating multitasking sharing of expertise.</p>
+				searching and facilitating multitasking sharing of expertise.
         		<!--
 				Mylyn is a <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface<img border="0" src="/mylyn/images/external-link.png"></a> 
 				for Eclipse that reduces information overload and makes multi-tasking easy.  

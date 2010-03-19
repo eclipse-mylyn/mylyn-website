@@ -88,10 +88,6 @@
 				<li>
 					<a href="http://help.tasktop.com/">Tasktop Portal<img border="0" src="/mylyn/images/external-link.png"></a> documentation on Mylyn and third-party Mylyn Connectors
 				</li>
-	            <li> 
-		            <a href="http://confluence.atlassian.com/display/JIRAEXT/Mylyn">
-		           Atlassian JIRA<img border="0" src="/mylyn/images/external-link.png"></a>: guide for getting started with Mylyn
-	            </li>
 			</ul>
 		</div> 
 	

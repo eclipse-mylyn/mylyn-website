@@ -119,6 +119,8 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.twiki.core,org.eclipse.mylyn.wikitext.twiki.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.twiki.ui,org.eclipse.mylyn.wikitext.twiki.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.ui,org.eclipse.mylyn.wikitext.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.wikitext.sandbox.ui,org.eclipse.mylyn.wikitext.sandbox.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.wikitext.sandbox-feature,org.eclipse.mylyn.wikitext.sandbox-feature"/>
 
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner-feature,org.eclipse.mylyn.xplanner-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.core,org.eclipse.mylyn.xplanner.core"/>

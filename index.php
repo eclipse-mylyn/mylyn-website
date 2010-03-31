@@ -125,12 +125,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3.3 released</a> <i>Mar 31, 2010</i>
 	            		</li>
 						<li>
-		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3.2 released</a> <i>Feb 23, 2010</i>
+		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/tasktop/agile-task-management-tasktop-16-mylyn-33">

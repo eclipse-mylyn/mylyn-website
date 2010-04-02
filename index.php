@@ -125,14 +125,9 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-							<table>
-							<tr><td>
 		            		<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Register for the CollabNet Conference and visit the Tasktop booth to learn more about Mylyn-powered Eclipse integration for TeamForge and ScrumWorks Pro</a>
-		           			</td></tr>
-		           			<tr><td><a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop"><img src="images/collabnet-wide.png"/></a>
-		           			</td></tr>
-		           			</table>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Register</a> for the CollabNet Conference and visit the Tasktop booth to learn more about Mylyn-powered Eclipse integration for TeamForge and ScrumWorks Pro
+		           			<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop"><img src="images/collabnet-wide.png"/></a>
 	            		</li>
 						<li>
 		            		<a href="new/">

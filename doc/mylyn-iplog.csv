@@ -98,6 +98,7 @@ Developers
 
 -------------------------- 3.4.0 --------------------------
 
+2010-04-02,	tasks,		305075, Flavio Donze,		<250,		spingel,	remove dependency on org.eclipse.search from tasks.ui
 2010-04-02,	tasks,		306029, Flavio Donze,		<250,		spingel,	create extension point to provide search functionality
 2010-03-18, tasks,		306029, Kevin Sawicki,		<10,		relves,		fix NPE in AbstractTaskEditorPage when model changes
 2010-02-28, tasks,		296963, Steve Elsemore,		<100,		spingel,	add support for opening authenticated URLs

@@ -125,6 +125,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+							<a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a> – Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
+						</li>
+						<li>
 							<table style="vertical-align:top; margin-top:0;">
 							<tr style="vertical-align:top"><td style="vertical-align:top">
 		            		<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop">

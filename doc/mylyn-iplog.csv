@@ -98,6 +98,7 @@ Developers
 
 -------------------------- 3.4.0 --------------------------
 
+2010-04-06, tasks,		306114, Kevin Sawicki,		<10,		relves,		cancel clone query leaves query in task list
 2010-04-05, bugzilla, 	307655, Attila Szökrönyös,  <50, 		fbecker, 	add an attribute for the the duplicated bug id in a duplicate bug
 2010-04-02,	tasks,		305075, Flavio Donze,		<250,		spingel,	remove dependency on org.eclipse.search from tasks.ui
 2010-04-02,	tasks,		306029, Flavio Donze,		<250,		spingel,	create extension point to provide search functionality

@@ -24,7 +24,6 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.tests,org.eclipse.mylyn.bugzilla.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.bugzilla.ui,org.eclipse.mylyn.bugzilla.ui"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.cdt-feature,org.eclipse.mylyn.cdt-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.cdt.ui,org.eclipse.mylyn.cdt.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.core,org.eclipse.mylyn.commons.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.commons.net,org.eclipse.mylyn.commons.net"/>
@@ -77,7 +76,6 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.trac.ui,org.eclipse.mylyn.trac.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.trac.wiki,org.eclipse.mylyn.trac.wiki"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.web.tasks,org.eclipse.mylyn.web.tasks"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext-feature,org.eclipse.mylyn.wikitext-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.core,org.eclipse.mylyn.wikitext.confluence.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.confluence.ui,org.eclipse.mylyn.wikitext.confluence.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.core,org.eclipse.mylyn.wikitext.core"/>
@@ -85,7 +83,6 @@
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.help.ui,org.eclipse.mylyn.wikitext.help.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.mediawiki.core,org.eclipse.mylyn.wikitext.mediawiki.core"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.mediawiki.ui,org.eclipse.mylyn.wikitext.mediawiki.ui"/>
-<project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.sdk-feature,org.eclipse.mylyn.wikitext.sdk-feature"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.tasks.ui,org.eclipse.mylyn.wikitext.tasks.ui"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.tests,org.eclipse.mylyn.wikitext.tests"/>
 <project reference="1.0,:pserver:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.textile.core,org.eclipse.mylyn.wikitext.textile.core"/>

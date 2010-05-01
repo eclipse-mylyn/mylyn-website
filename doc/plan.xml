@@ -73,19 +73,19 @@
 		<milestone date="05/26/2010" milestone="3.4 RC1">
 			<html:div>Release Candidate (API Freeze)</html:div>
 		</milestone>
-		<milestone date="06/09/2010" milestone="3.4 RC2">
+		<milestone date="06/02/2010" milestone="3.4 RC2">
 			<html:div>Release Candidate</html:div>
 		</milestone>
-		<milestone date="06/16/2010" milestone="3.4 RC3">
+		<milestone date="06/09/2010" milestone="3.4 RC3">
 			<html:div>Release Candidate</html:div>
 		</milestone>
-		<milestone date="06/23/2010" milestone="3.4">
+		<milestone date="06/16/2010" milestone="3.4">
 			<html:div>Major Release</html:div>
 		</milestone>
 		<postamble>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
 			<p><b>Ramp Down</b></p>
-			<p>After RC2 is released, builds will be produced weekly until the 3.4 release. In the RC
+			<p>After RC1 is released, builds will be produced weekly until the 3.4 release. In the RC
 			phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
 			change except to address critical fixes based on integrator feedback, until RC3, at which
 			point APIs will be frozen.</p>

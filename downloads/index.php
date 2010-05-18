@@ -117,7 +117,7 @@ $html = <<<EOHTML
 					<b>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 			</ul>
-			<p>Note: The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the e3.4 repository.</p>
+			<br>&nbsp;&nbsp;&nbsp;<b>Note: </b>The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the e3.4 repository.
 		</div>
 		
 		<div class="homeitem3col" style="margin-left:40px; width:75%">

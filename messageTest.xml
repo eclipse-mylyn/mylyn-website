@@ -1,0 +1,8 @@
+<ServiceMessage> 
+<id>1</id> 
+<description>140 character description here....</description> 
+<title>Mylyn 3.4 now available!</title> 
+<url>http://eclipse.org/mylyn/downloads</url> 
+<image>dialog_messasge_info_image</image> 
+<mylynVersion>3.3.2</mylynVersion> 
+</ServiceMessage>

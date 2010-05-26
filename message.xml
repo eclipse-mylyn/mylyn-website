@@ -3,6 +3,6 @@
 <description>Mylyn 3.4 will be available soon.</description> 
 <title>Mylyn 3.4 coming soon!</title> 
 <url>http://eclipse.org/mylyn/downloads</url> 
-<image>dialog_messasge_info_image</image>
-<mylynVersion>3.3.2</mylynVersion>  
+<image>dialog_message_info_image</image>
+<version>-</version>  
 </ServiceMessage>

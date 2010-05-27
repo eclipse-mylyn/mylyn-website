@@ -98,6 +98,7 @@ Developers
 
 -------------------------- 3.4.0 --------------------------
 
+2010-05-23,	tasks,		220314,	Peter Stibrany,		<1000,		spingel,	support opening attachments with workbench editors (CQ 3789) 
 2010-05-22,	tasks,		296441,	Andreas Hoehmann,	<250,		spingel,	templates for active task prefix and id  
 2010-05-19,	tasks,		313488,	Jacques Lescot,		<10,		spingel,	fix message 
 2009-04-29, tasks,		320798, Benjamin Muskalla,	<20,		spingel,	hide attach context check box if attachment support is not present 

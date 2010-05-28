@@ -1,8 +1,8 @@
 <ServiceMessage> 
 <id>1</id> 
-<description>Mylyn 3.4 will be available soon.</description> 
-<title>Mylyn 3.4 coming soon!</title> 
+<description>Create a task or connector to a repository.</description> 
+<title>Get Started with Mylyn</title> 
 <url>http://eclipse.org/mylyn/downloads</url> 
 <image>dialog_message_info_image</image>
-<version>-</version>  
+<version>3.4.0</version>  
 </ServiceMessage>

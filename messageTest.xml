@@ -1,7 +1,7 @@
 <Messages>
 <ServiceMessage> 
 <id>0</id> 
-<description><A>Connect</A> Mylyn to your task and ALM tools.</description> 
+<description>&lt;A&gt;Connect&lt;/A&gt; Mylyn to your task and ALM tools.</description> 
 <title>Connect Mylyn</title> 
 <url>http://eclipse.org/mylyn/downloads</url> 
 <image>dialog_messasge_info_image</image> 

@@ -90,9 +90,9 @@ Apache PDF Transcoder Library,		3239,	org.apache.batik.pdf Orbit bundle,			APL 2
 Java Servlet API 2.5,				2905,	javax.servlet Orbit Bundle,					APL 2.0,	web repository connections
 Apache Lucene,						1313,	org.apache.lucene Orbit Bundle,				APL 2.0,	web repository connections
 ICU4J 3.8.1,						2785,	com.ibm.icu Orbit Bundle,					MIT,		internationalization
+STAX API,							4218,	java.xml.streams Orbit Bundle,				APL 2.0,	web repository connections
 JAXB Implementation,				4123,	com.sun.xml.bind Orbit Bundle,				CDL,		web repository connections
 JAXB API,							4124,	javax.xml.bind Orbit Bundle,				CDL,		web repository connections
-STAX API,							4218,	java.xml.streams Orbit Bundle,				APL 2.0,	web repository connections
 
 
 Developers

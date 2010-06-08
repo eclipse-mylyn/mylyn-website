@@ -97,6 +97,10 @@ JAXB API,							4124,	javax.xml.bind Orbit Bundle,				CDL,		web repository conne
 
 Developers
 
+-------------------------- 3.5.0 --------------------------
+
+2010-06-07,	build,		315716,	Markus Knittig,		<250,		spingel,	basic Hudson connector 
+
 -------------------------- 3.4.0 --------------------------
 
 2010-05-23,	tasks,		220314,	Peter Stibrany,		<1000,		spingel,	support opening attachments with workbench editors (CQ 3789) 

@@ -80,7 +80,7 @@
 			<html:div>Release Candidate (API Freeze)</html:div>
 		</milestone>
 		<milestone date="06/16/2010" milestone="3.4 RC4">
-			<html:div>Final Build</html:div>
+			<html:div>Release Candidate (Final Build)</html:div>
 		</milestone>
 		<milestone date="06/23/2010" milestone="3.4">
 			<html:div>Major Release (Helios)</html:div>

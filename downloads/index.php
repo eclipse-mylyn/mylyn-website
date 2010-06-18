@@ -28,7 +28,6 @@ $html = <<<EOHTML
 	<div id="rightcolumn">
 		$side_vote
 		$side_announce
-		$side_events
 	</div>
 
 	<div style="margin-top:30px; margin-left:40px; width:75%">

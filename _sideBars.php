@@ -30,12 +30,6 @@ $side_events = <<<EOHTML
 			<h6>Events</h6>
 			<table>
 				<tr>
-					<td width="5">&nbsp;</td>
-					<td>
-						<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop">
-						<img src="/mylyn/images/collabnet-square.png" border="0"/>
-						</a>
-					</td>
 				</tr>
 			</table>
 		</div>

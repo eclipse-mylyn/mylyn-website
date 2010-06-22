@@ -35,7 +35,7 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 
 		<div class="homeitem3col">
-			<h3>3.4 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<h3>3.4.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.4.0/v20100608-0100/mylyn-3.4.0.v20100608-0100-e3.4.zip">
@@ -129,7 +129,7 @@
 	        	</li>
 				<li> 
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update-archive/3.3.1/v20091215-0000/mylyn-3.3.1.v20091215-0000-incubator.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif"
+						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update-archive/3.3.1/v20091215-0000/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5 and 3.6M4)
 	        		<br>

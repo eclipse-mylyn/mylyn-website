@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-06-22,	bugzilla,	259291,	Charley Wang,		<1500,		fbecker,	add support for custom status workflow (CQ 4117)
 2010-06-15,	build,		315151,	Markus Knittig,		<100,		spingel,	fetch Hudson build plans
 2010-06-07,	build,		315717,	Markus Knittig,		<150,		spingel,	test cases for validating Hudson connections
 2010-06-07,	build,		315716,	Markus Knittig,		<250,		spingel,	basic Hudson connector 

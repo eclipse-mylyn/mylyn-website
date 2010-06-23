@@ -65,15 +65,13 @@
 
 <hr>
 
-<h1>DRAFT</h1>
-
-<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.4</span> </p>
+<p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.4</span></p>
 <ul>
     <li><a href="#timing">Time Tracking</a></li>
 	<li><a href="#task-editor">Task Editor (5)</a></li>
 	<li><a href="#task-list">Task List (5)</a></li>
 	<li><a href="#task-focused-interface">Task-Focused Interface (2)</a></li>
-	<li><a href="#wikitext">WikiText (6)</a></li>
+	<li><a href="#wikitext">WikiText (5)</a></li>
 	<li><a href="#bugzilla">Bugzilla Connector (4)</a></li>
 	<li><a href="#trac">Trac Connector (2)</a></li>
 	<li><a href="#cdt">C/C++ Development Tooling</a></li>
@@ -81,7 +79,7 @@
 	<li><a href="#framework">Framework and API (5)</a></li>
 </ul>
 
-<p><b>Note: </b>The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the main e3.4 update site. The extras update site has been removed.
+<p><b>Note: </b>The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the main e3.4 update site. The extras update site has been removed.</p>
 
 <p>&nbsp;</p>
 <h2><a name="timing">Changes to Time Tracking</a></h2>
@@ -133,7 +131,7 @@
 		<p align="right"><b>Improved Workbench Integration for Viewing Attachments</b></p>
 		</td>
 		<td valign="top" width="85%">
-		<p align="left">Task attachments are now automatically downloaded to the local disk and can be opened in any workbench editor.</p>
+		<p align="left">Task attachments are now automatically downloaded and can be opened in any workbench editor.</p>
 		<p><img border="0" src="images/3.4/task-attachment-popup.png"></p>
 		</td>
 	</tr>
@@ -364,8 +362,7 @@
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">Toggling filtering of completed tasks is now available from the Task List toolbar.</p>
-		<p>
-		<img border="0" src="images/3.3/tasklist-filter-completed.png">
+		<p><img border="0" src="images/3.3/tasklist-filter-completed.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -385,6 +382,7 @@
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">A templates for Java that inserts the ID of the active task can now be configured in the preferences.</p>
+		<p><img border="0" src="images/3.4/active-task-template.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -398,6 +396,7 @@
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">The preferences for resource monitoring exclusion supports ANT-sytle filter definitions for more flexible resource exclusions. Resource monitoring can now also take the modification date of files into account to filter file updates caused by background synchronizations of shared drives for instance.</p>
+		<p><img border="0" src="images/3.4/resource-filtering.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -544,7 +543,8 @@
 		<p align="right"><b>Query and Search Page Layout</b></p>
 		</td>
 		<td valign="top" width="85%">
-		<p align="left">The layout of the Bugzilla query and search pages now collapses less frequently used options in an Advanced section.</p>
+		<p align="left">The layout of the Bugzilla query and search pages now collapses less frequently used options in a section.</p>
+		<p><img border="0" src="images/3.4/bugzilla-query-page.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -558,6 +558,7 @@
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">Open Corresponding Task in the History view now scrolls to the corresponding bug comment when a commit was made.</p>
+		<p><img border="0" src="images/3.4/open-corresponding-task.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -735,7 +736,7 @@
 	</tr>
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
-		<p align="right"><b>Commons plug-ins available in separate feature</b></p>
+		<p align="right"><b>Commons Plug-ins Available in Separate Feature</b></p>
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">A new feature org.eclipse.mylyn.commons has been added which includes all commons plug-ins. This feature is provided for update manager compatibility and not categorized on the update site or P2 repository. To avoid conflicts this feature must be the only including the commons plug-ins. All other features should only import all required commons plug-ins.</p>
@@ -814,80 +815,6 @@
 		</td>
 	</tr>
 </table>
-
-<p>&nbsp;</p>
-<h2><a name="noteworthy">List of bugs marked noteworthy</a></h2>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=292337'>bug 292337</a>: [editor] add clone item menu to task editor context menu
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=238006'>bug 238006</a>: TaskAttributeMapper.getDefaultOption() is not used
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=294820'>bug 294820</a>: open task when shift is pressed on task activation from history
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=296913'>bug 296913</a>: support sorting by due date
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=297150'>bug 297150</a>: add support for wild cards in task content assist
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=299697'>bug 299697</a>: [editor] implement preference to enable current line highlight in task editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=216557'>bug 216557</a>: [api] add option to "Replace existing attachment of the same name" when attaching files
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=255003'>bug 255003</a>: [api] allow empty password on repository properties page
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=292330'>bug 292330</a>: [framework] HighlighterImageDescriptor should not hold on to image
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=297254'>bug 297254</a>: [api] allow disabling of repository creation for a connector
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=290026'>bug 290026</a>: [Markup Editor] support for custom templates and autocl
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=297057'>bug 297057</a>: No Preference to set the font for the WikiText Editor is available
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=299669'>bug 299669</a>: show wikitext strikethrough style in editing mode
-</ul>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=164221'>bug 164221</a>: [api] recognize comment#number link on bug editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=272207'>bug 272207</a>: Include iplog flag for patches on bugzilla task editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=290197'>bug 290197</a>: [ui] refactor bugzilla search query page layout
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=294957'>bug 294957</a>: [api] move support extension into API
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=296963'>bug 296963</a>: [api] allow different URL's for opening task in browser and copying task details
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=299838'>bug 299838</a>: Generation of Eclipse Help content from a MediaWiki
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=301756'>bug 301756</a>: [api][editor] provide method for selecting and revealing elements in the task editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=303053'>bug 303053</a>: Support links between WikiText source files
-</ul>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=305199'>bug 305199</a>: show Windows Task Bar progress for manually triggered synchronizations
-</ul>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=298156'>bug 298156</a>: [api] provide method for canceling HTTP requests without blocking
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=298688'>bug 298688</a>: [context] support ant filters for resource monitoring exclusions
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=178474'>bug 178474</a>: [api] open corresponding task should highlight or expand comment number
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=290197'>bug 290197</a>: [ui] refactor bugzilla search query page layout
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=299838'>bug 299838</a>: Generation of Eclipse Help content from a MediaWiki
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=301756'>bug 301756</a>: [api][editor] provide method for selecting and revealing elements in the task editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=304086'>bug 304086</a>: [framework] decouple tasks.ui from org.eclipse.search
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=304755'>bug 304755</a>: [releng] provide support feature for connector that depend on org.eclipse.mylyn.commons.net
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=308737'>bug 308737</a>: [api] provide generic XML-RPC transport layer
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=311634'>bug 311634</a>: [api] allow connectors to provide alternate IEditorInput
-</ul>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=220314'>bug 220314</a>: double click on repository attachment does not respect default workbench editor
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=278102'>bug 278102</a>: add quick outline to task editor and provide quick access to related tasks
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=296441'>bug 296441</a>: [key-binding] provide shortcut for inserting id of activate task
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=306063'>bug 306063</a>: add new task and activate action to the Windows task bar
-</ul>
-
-<hr size='1'>
-
-<ul>
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=263528'>bug 263528</a>: display a repository service message to warn users of problems, updates, and other relevant information
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=302907'>bug 302907</a>: [api] support categorization in Task Repositories view
-<li><a href='https://bugs.eclipse.org/bugs/show_bug.cgi?id=314166'>bug 314166</a>: improve scheduled presentation bins and sort order
-</ul>
-
-<hr size='1'>
 
 </body>
 </html>

@@ -111,7 +111,7 @@ Developers
 2010-05-19,	tasks,		313488,	Jacques Lescot,		<10,		spingel,	fix message 
 2009-04-29, tasks,		320798, Benjamin Muskalla,	<20,		spingel,	hide attach context check box if attachment support is not present 
 2010-04-06, tasks,		306114, Kevin Sawicki,		<10,		relves,		cancel clone query leaves query in task list
-2010-04-05, bugzilla, 	307655, Attila Szï¿½krï¿½nyï¿½s,  <50, 		fbecker, 	add an attribute for the the duplicated bug id in a duplicate bug
+2010-04-05, bugzilla,	307655, Attila Szškršnyšs,	<50,		fbecker, 	add an attribute for the the duplicated bug id in a duplicate bug
 2010-04-02,	tasks,		305075, Flavio Donze,		<250,		spingel,	remove dependency on org.eclipse.search from tasks.ui
 2010-04-02,	tasks,		306029, Flavio Donze,		<250,		spingel,	create extension point to provide search functionality
 2010-03-18, tasks,		306029, Kevin Sawicki,		<10,		relves,		fix NPE in AbstractTaskEditorPage when model changes

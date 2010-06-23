@@ -132,11 +132,11 @@ $html = <<<EOHTML
 		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
 	            		</li>
+	            		<!--
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/tasktop/agile-task-management-tasktop-16-mylyn-33">
 		           			Mylyn 3.3 released<img border="0" src="/mylyn/images/external-link.png"></a> <i>Oct 26, 2009</i>
 	            		</li>
-	            		<!--
 						<li>
 		            		<a target="_new" href="http://www.ddj.com/development-tools/220100341">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Dr.Dobb's: Newest ALM tools keep developers focused and on task<img border="0" src="/mylyn/images/external-link.png"></a> by Jonathan Erickson, <i>September 30, 2009</i>

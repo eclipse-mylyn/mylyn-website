@@ -126,7 +126,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.3.3 released</a> <i>Mar 31, 2010</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4 released</a> <i>Jun 23, 2010</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
@@ -194,7 +194,7 @@ $html = <<<EOHTML
 						<!--
 						<li>
 							<a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a> – Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a> ï¿½ Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
 						</li>
 						<li>
 							<table style="vertical-align:top; margin-top:0;">

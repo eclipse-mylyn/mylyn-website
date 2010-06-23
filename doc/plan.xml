@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan"
 	xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-	<release projectid="tools.mylyn" version="3.4" />
+	<release projectid="tools.mylyn" version="3.5" />
 	<introduction>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>The first goal
@@ -73,22 +73,56 @@
 		<milestone date="10/2010" milestone="3.5">
 			<html:div>Major Release</html:div>
 		</milestone>
-		<html:div><b>Service Releases</b></html:div>
-		<milestone date="07/14/2009" milestone="3.4.1">
-			<html:div>Service Release</html:div>
-		</milestone>
-		<milestone date="09/24/2010" milestone="3.4.2">
-			<html:div>Service Release (Helios SR1)</html:div>
-		</milestone>
-		<milestone date="02/25/2011" milestone="3.4.3">
-			<html:div>Service Release (Helios SR2)</html:div>
-		</milestone>
-		<html:div><b>Tentative Plan</b></html:div>
-		<milestone date="06/2011" milestone="3.6">
-			<html:div>Major Release (Indigo)</html:div>
-		</milestone>
 		<postamble>
 		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p><b>Service Releases</b></p>
+			<p>
+			<table border="1" align="center">
+			<tr>
+				<td>
+					<b>3.4.1</b>
+				</td>
+				<td>07/14/2009</td>
+				<td>
+					<div>Service Release</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>3.4.2</b>
+				</td>
+				<td>09/24/2010</td>
+				<td>
+					<div>Service Release (Helios SR1)</div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<b>3.4.3</b>
+				</td>
+				<td>02/25/2011</td>
+				<td>
+					<div>Service Release (Helios SR2)</div>
+				</td>
+			</tr>
+			</table>
+			</p>
+			
+			<p><b>Tentative Plan</b></p>
+			<p>
+			<table border="1" align="center">
+			<tr>
+				<td>
+					<b>3.6</b>
+				</td>
+				<td>06/2011</td>
+				<td>
+					<div>Major Release (Indigo)</div>
+				</td>
+			</tr>
+			</table>
+			</p>
+		
 			<p><b>Ramp Down</b></p>
 			<p>After RC1 is released, builds will be produced weekly until the 3.5 release. In the RC
 			phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
@@ -135,18 +169,10 @@
 	    <tr>
 	      <td>Ubuntu Linux</td>
 	      <td>9.10</td>
-	      <td>x86-32</td>
-	      <td>GTK</td>
-	      <td>Sun Java 2 Standard Edition 6.0</td>
-	      <td>Eclipse 3.6 (latest milestone)</td>
-	    </tr>
-	    <tr>
-	      <td>Ubuntu Linux</td>
-	      <td>8.04</td>
 	      <td>x86-64</td>
 	      <td>GTK</td>
 	      <td>Sun Java 2 Standard Edition 6.0</td>
-	      <td>Eclipse 3.5.2</td>
+	      <td>Eclipse 3.7 (latest milestone)</td>
 	    </tr>
 	    <tr>
 	      <td>Microsoft Windows</td>
@@ -154,7 +180,7 @@
 	      <td>x86-64</td>
 	      <td>Win32</td>
 	      <td>Sun Java 2 Standard Edition 5.0</td>
-	      <td>Eclipse 3.6 (latest milestone)</td>
+	      <td>Eclipse 3.6</td>
 	    </tr>
 	    <tr>
 	      <td>Apple Mac OS X</td>
@@ -162,7 +188,7 @@
 	      <td>Power</td>
 	      <td>Cocoa</td>
 	      <td>Apple Java 2 Platform Standard Edition (J2SE) 6</td>
-		  <td>Eclipse 3.6 (latest milestone)</td>
+		  <td>Eclipse 3.6</td>
 	    </tr>
 	    <th colspan="6" align="center">
 	      <big><strong>Automated Tests</strong></big>
@@ -173,7 +199,7 @@
 	      <td>x86-64</td>
 	      <td>GTK</td>
 	      <td>Sun Java 2 Standard Edition 6.0</td>
-	      <td>Eclipse 3.6, 3.5, Eclipse 3.4</td>
+	      <td>Eclipse 3.7, 3.6, Eclipse 3.5</td>
 	    </tr>
 	  </tbody>
 	</table>

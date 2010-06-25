@@ -123,10 +123,6 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/org.eclipse.mylyn.wikitext.ui,org.eclipse.mylyn.wikitext.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.wikitext.sandbox.ui,org.eclipse.mylyn.wikitext.sandbox.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.wikitext.sandbox-feature,org.eclipse.mylyn.wikitext.sandbox-feature"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner-feature,org.eclipse.mylyn.xplanner-feature"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.core,org.eclipse.mylyn.xplanner.core"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.tests,org.eclipse.mylyn.xplanner.tests"/>
-<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.mylyn/sandbox/org.eclipse.mylyn.xplanner.ui,org.eclipse.mylyn.xplanner.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/eclipse,org.eclipse.test.performance,org.eclipse.test.performance"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.jdom,org.jdom,v1_0"/>
 </provider>

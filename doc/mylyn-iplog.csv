@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-06-27,	bugzilla,	317729,	Charley Wang,		<50,		fbecker,	resolve custom initial state for Bugzilla
 2010-06-25,	bugzilla,	318040,	Charley Wang,		<10,		fbecker,	Include Custom Repository Test in AllBugzillaTests
 2010-06-22,	bugzilla,	259291,	Charley Wang,		<1500,		fbecker,	add support for custom status workflow (CQ 4117)
 2010-06-15,	build,		315151,	Markus Knittig,		<100,		spingel,	fetch Hudson build plans

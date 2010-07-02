@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-07-02, tasks,		318505, Kevin Sawicki,		<20,		spingel,	show author icon in attachment table
 2010-07-02, tasks,		318396, Kevin Sawicki,		<10,		spingel,	support custom order of attribute editors
 2010-07-02,	build,		316113,	Pawel Niewiadomski,	<20,		spingel,	allow empty passwords
 2010-06-28,	build,		317384,	Markus Knittig,		<200,		spingel,	run Hudson build plans

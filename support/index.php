@@ -128,6 +128,12 @@
 			    </td> 
 				</tr>
 			</table>
+			 <ul>
+				 <li>
+			 		<a href="http://marketplace.eclipse.org/search/apachesolr_search/mylyn?filters=tid:34">Browse for Mylyn Training and Consulting</a> on the Eclipse Marketplace
+				</li>
+			 </ul>				    
+			
 			<!--
 			<ul>
 				<li>

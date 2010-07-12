@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-07-12,	bugzilla,	311966,	Charley Wang,		<150,		fbecker,	create XMLRPC operation for status transition junit test (patch#174031)
 2010-07-12,	bugzilla,	311966,	Charley Wang,		<250,		fbecker,	create XMLRPC operation for status transition (patch#174028)
 2010-07-07,	build,		318228,	Markus Knittig,		<250,		spingel,	add build instances to model
 2010-07-02, tasks,		318505, Kevin Sawicki,		<20,		spingel,	show author icon in attachment table

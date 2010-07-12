@@ -98,7 +98,7 @@ $html = <<<EOHTML
 		</div>
 
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
-	    	<a name="weekly"></a>
+	    	<a name="maintenance"></a>
 			<h3>3.4.x Maintenance Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/maintenance.php">Build Notes</a> Maintenance builds are service releases for the current release
 			<ul> 

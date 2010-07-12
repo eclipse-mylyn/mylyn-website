@@ -112,7 +112,7 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/maintenance/mylyn-latest-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/maintenance/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/maintenance/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6)
 				</li>
 			</ul>
 		</div>

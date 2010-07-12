@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-07-12,	build,		319644,	Markus Knittig,		<200,		spingel,	add editor infrastructure for build details
 2010-07-12,	bugzilla,	318128,	Charley Wang,		<10,		fbecker,	usage of old CustomTransitionManager breaks task creation
 2010-07-12,	bugzilla,	311966,	Charley Wang,		<150,		fbecker,	create XMLRPC operation for status transition junit test (patch#174031)
 2010-07-12,	bugzilla,	311966,	Charley Wang,		<250,		fbecker,	create XMLRPC operation for status transition (patch#174028)

@@ -96,11 +96,31 @@ $html = <<<EOHTML
 			</ul>
 			<br>&nbsp;&nbsp;&nbsp;Note: The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the e3.4 repository.
 		</div>
-	
+
+		<div class="homeitem3col" style="margin-left:40px; width:75%">
+	    	<a name="weekly"></a>
+			<h3>3.4.x Maintenance Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/maintenance.php">Build Notes</a> Maintenance builds are service releases for the current release
+			<ul> 
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/maintenance/mylyn-latest-e3.4.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/maintenance</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6)
+				</li>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/maintenance/mylyn-latest-incubator.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/maintenance/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+				</li>
+			</ul>
+		</div>
+			
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 	    	<a name="weekly"></a>
 			<h3>Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php"> New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-latest-e3.4.zip">

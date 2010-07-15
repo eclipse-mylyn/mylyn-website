@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-07-15, tasks,		319469, Kevin Sawicki,		<250,		spingel,	highlight matches in search view
 2010-07-15,	tasks,		319699,	Pawel Niewiadomski,	<10,		spingel,	log synchronization errors
 2010-07-14,	build,		319339,	Markus Knittig,		<100,		spingel,	show accurate health information
 2010-07-14,	tasks,		319397,	Pawel Niewiadomski,	<20,		spingel,	allow custom rules for task ownership

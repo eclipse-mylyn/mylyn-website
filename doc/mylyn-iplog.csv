@@ -119,6 +119,10 @@ Developers
 2010-06-07,	build,		315717,	Markus Knittig,		<150,		spingel,	test cases for validating Hudson connections
 2010-06-07,	build,		315716,	Markus Knittig,		<250,		spingel,	basic Hudson connector 
 
+-------------------------- 3.4.1 --------------------------
+
+2010-07-28, tasks,		303509, Julio Gesser,		<50,		spingel,	fix sorting by rank
+
 -------------------------- 3.4.0 --------------------------
 
 2010-05-23,	tasks,		220314,	Peter Stibrany,		<1000,		spingel,	support opening attachments with workbench editors (CQ 3789) 

@@ -126,21 +126,21 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Meet Mylyn committers at Agile 2010<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Aug 9, 2010</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Meet Mik Kersten at Agile 2010<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Aug 9, 2010</i>
 	            		</li>
 						<li>
 		            		<a href="new/">
-		           			&nbsp;&nbsp;Mylyn 3.4.1 released</a> <i>Aug 4, 2010</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4.1 released</a> <i>Aug 4, 2010</i>
 	            		</li>
 	            		<!--					
 						<li>
 		            		<a href="new/">
-		           			&nbsp;&nbsp;Mylyn 3.4 released</a> <i>Jun 23, 2010</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4 released</a> <i>Jun 23, 2010</i>
 	            		</li>
 	            		-->
 						<li>
 		            		<a target="_new" href="http://www.sdtimes.com/link/34178">
-		           			&nbsp;&nbsp;SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
+		           			SD Times: Eclipse creates new sub-projects for Mylyn<img border="0" src="/mylyn/images/external-link.png"></a> by David Rubinstein, <i>March 8, 2010</i>
 	            		</li>
 	            		<!--
 						<li>

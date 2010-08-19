@@ -99,6 +99,7 @@ Developers
 
 -------------------------- 3.5.0 --------------------------
 
+2010-08-18, tasks,		319289, David Shepherd,		<100,		spingel,	make person proposal provider more extensible
 2010-07-15, tasks,		319469, Kevin Sawicki,		<250,		spingel,	highlight matches in search view
 2010-07-15,	tasks,		319699,	Pawel Niewiadomski,	<10,		spingel,	log synchronization errors
 2010-07-14,	build,		319339,	Markus Knittig,		<100,		spingel,	show accurate health information

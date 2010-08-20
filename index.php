@@ -125,8 +125,8 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a target="_new" href="http://tasktop.com/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Meet Mik Kersten at Agile 2010<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Aug 9, 2010</i>
+		            		<a target="_new" href="http://wiki.eclipse.org/Eclipse_Day_At_Googleplex_2010/Session_Abstracts#Eclipse_Mylyn:_from_Stack_Trace_to_Scrum">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;From Stack Trace to Scrum at Eclipse Day at the Googleplex on Aug 26th<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Aug 19, 2010</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

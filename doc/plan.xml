@@ -58,19 +58,19 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
-		<milestone date="09/2010" milestone="3.5 RC1">
+		<milestone date="10/13/2010" milestone="3.5 RC1">
 			<html:div>Release Candidate (API and Feature Complete)</html:div>
 		</milestone>
-		<milestone date="09/2010" milestone="3.5 RC2">
+		<milestone date="10/20/2010" milestone="3.5 RC2">
 			<html:div>Release Candidate</html:div>
 		</milestone>
-		<milestone date="09/2010" milestone="3.5 RC3">
+		<milestone date="10/27/2010" milestone="3.5 RC3">
 			<html:div>Release Candidate (API Freeze)</html:div>
 		</milestone>
-		<milestone date="09/2010" milestone="3.5 RC4">
+		<milestone date="11/03/2010" milestone="3.5 RC4">
 			<html:div>Release Candidate (Final Build)</html:div>
 		</milestone>
-		<milestone date="10/2010" milestone="3.5">
+		<milestone date="11/10/2010" milestone="3.5">
 			<html:div>Major Release</html:div>
 		</milestone>
 		<postamble>

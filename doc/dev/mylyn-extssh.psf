@@ -11,6 +11,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.rpc,javax.xml.rpc,v1_1_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.soap,javax.xml.soap,v1_2_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/javax.xml.stream,javax.xml.stream,v1_0_1"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.json,org.json,v1_0_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/org.eclipse,www/mylyn,mylyn"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.axis,org.apache.axis,v1_4_0"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/tools,org.eclipse.orbit/org.apache.commons.codec,org.apache.commons.codec,v1_3"/>

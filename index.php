@@ -125,12 +125,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Sep 16, 2010</i>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4.2 released</a> <i>Sep 24, 2010</i>
 	            		</li>
 						<li>
-		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4.1 released</a> <i>Aug 4, 2010</i>
+		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Sep 16, 2010</i>
 	            		</li>
 	            		<!--					
 						<li>

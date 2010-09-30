@@ -120,6 +120,10 @@ Developers
 2010-06-07,	build,		315717,	Markus Knittig,		<150,		spingel,	test cases for validating Hudson connections
 2010-06-07,	build,		315716,	Markus Knittig,		<250,		spingel,	basic Hudson connector 
 
+-------------------------- 3.4.3 --------------------------
+
+2010-09-29, tasks,		326613, Thomas Ehrnhoefer,	<10,		spingel,	fix file lookup when workspace contains spaces 
+
 -------------------------- 3.4.1 --------------------------
 
 2010-07-28, tasks,		303509, Julio Gesser,		<50,		spingel,	fix sorting by rank

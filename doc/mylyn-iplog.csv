@@ -122,6 +122,7 @@ Developers
 
 -------------------------- 3.4.3 --------------------------
 
+2010-10-28, tasks,		328894, Thomas Ehrnhoefer,	<10,		spingel,	fix key for product attribute 
 2010-09-29, tasks,		326613, Thomas Ehrnhoefer,	<10,		spingel,	fix file lookup when workspace contains spaces 
 2010-10-09, tasks,		327262, Carsten Reckord,	<20,		spingel,	fix corruption of working sets during startup 
 2010-10-12, tasks,		327606, Sam Davis,			<10,		spingel,	fix exception when updating working sets 

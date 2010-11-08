@@ -58,19 +58,19 @@
       			<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>.</p> 
 			</html:div> 
 		</preamble>
-		<milestone date="2/16/2011" milestone="3.5 RC1">
+		<milestone date="2011-02-16" milestone="3.5 RC1">
 			<html:div>Release Candidate (API and Feature Complete)</html:div>
 		</milestone>
-		<milestone date="2/23/2011" milestone="3.5 RC2">
+		<milestone date="2011-02-23" milestone="3.5 RC2">
 			<html:div>Release Candidate</html:div>
 		</milestone>
-		<milestone date="3/2/2011" milestone="3.5 RC3">
+		<milestone date="2011-03-02" milestone="3.5 RC3">
 			<html:div>Release Candidate (API Freeze)</html:div>
 		</milestone>
-		<milestone date="3/9/2011" milestone="3.5 RC4">
+		<milestone date="2011-03-09" milestone="3.5 RC4">
 			<html:div>Release Candidate (Final Build)</html:div>
 		</milestone>
-		<milestone date="3/16/2011" milestone="3.5">
+		<milestone date="2011-03-16" milestone="3.5">
 			<html:div>Major Release</html:div>
 		</milestone>
 		<postamble>
@@ -82,7 +82,7 @@
 				<td>
 					<b>3.4.1</b>
 				</td>
-				<td>08/04/2010</td>
+				<td>2010-08-04/</td>
 				<td>
 					<div>Service Release</div>
 				</td>
@@ -91,7 +91,7 @@
 				<td>
 					<b>3.4.2</b>
 				</td>
-				<td>09/24/2010</td>
+				<td>2010-09-24</td>
 				<td>
 					<div>Service Release (Helios SR1)</div>
 				</td>
@@ -100,7 +100,7 @@
 				<td>
 					<b>3.4.3</b>
 				</td>
-				<td>02/25/2011</td>
+				<td>2011-02-25</td>
 				<td>
 					<div>Service Release (Helios SR2)</div>
 				</td>
@@ -115,7 +115,7 @@
 				<td>
 					<b>3.6</b>
 				</td>
-				<td>06/22/2011</td>
+				<td>2011-06-22</td>
 				<td>
 					<div>Major Release (Indigo)</div>
 				</td>

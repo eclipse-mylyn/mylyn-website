@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="tools.mylyn" version="3.5" />
+  <release projectid="mylyn.builds" version="0.7" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -97,8 +97,7 @@
         </p>
 
         <p>
-          <a name="rampdown"></a>
-          <b>Ramp Down</b>
+          <b><a name="rampdown">Ramp Down</a></b>
         </p>
         <p>After RC1 is released, builds will be produced weekly until the
           final release. In the RC
@@ -120,17 +119,16 @@
       <p>
         Mylyn Builds follows the
         <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">target environment</a>
-        constraints of the Mylyn project.
+        guidelines of the Mylyn project.
       </p>
     </html:div>
     <internationalization>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
-        Strings in all non-incubation bundles will be
-        externalized and
-        available for translation through Eclipse Babel.
-        See
-        <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
-        for details.
+      <p>
+        Mylyn Builds follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
+        guidelines of the Mylyn project.
+      </p>
       </html:div>
     </internationalization>
   </target_environments>
@@ -139,7 +137,7 @@
       <p>
         Mylyn Builds follows the
         <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">compatibility</a>
-        constraints of the Mylyn project.
+        guidelines of the Mylyn project.
       </p>
     </html:div>
   </compatibility_with_previous_releases>

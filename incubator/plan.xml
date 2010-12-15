@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
+  <release projectid="mylyn.incubator" version="3.5" />
+  <introduction>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        The first goal
+        of
+        <a href="http://www.eclipse.org/mylyn/incubator">Mylyn Incubator</a>
+        is new development in areas that are relevant to the Mylyn sub-projects.
+      </p>
+    </html:div>
+  </introduction>
+  <release_deliverables>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>The Mylyn Incubator does not provide releases.</p>
+      <ul>
+        <li>
+          <b>UI Experiments</b>
+        </li>
+        <li>
+          <b>UI Usage Monitor</b>
+        </li>
+        <li>
+          <b>Web Templates Connector</b>
+        </li>
+        <li>
+          <b>WikiText Sandbox</b>
+        </li>
+      </ul>
+    </html:div>
+  </release_deliverables>
+  <release_milestones>
+    <preamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+        <p>The Mylyn Incubator does not provide releases.</p>
+      </html:div>
+    </preamble>
+    <postamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+    </postamble>
+  </release_milestones>
+  <target_environments>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        Mylyn Incubator follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">target environment</a>
+        guidelines of the Mylyn project.
+      </p>
+    </html:div>
+    <internationalization>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+          Mylyn Incubator follows the
+          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
+          guidelines of the Mylyn project.
+        </p>
+      </html:div>
+    </internationalization>
+  </target_environments>
+  <compatibility_with_previous_releases>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        Mylyn Incubator follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">compatibility</a>
+        guidelines of the Mylyn project.
+      </p>
+    </html:div>
+  </compatibility_with_previous_releases>
+  <themes_and_priorities>
+    <preamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+      </html:div>
+    </preamble>
+  </themes_and_priorities>
+</plan>

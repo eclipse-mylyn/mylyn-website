@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="mylyn.builds" version="0.7" />
+  <release projectid="mylyn.Versions" version="0.7" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
         The first goal
         of
-        <a href="http://www.eclipse.org/mylyn/builds">Mylyn Builds</a>
-        is integration of continuous integration and build systems
-        and seamless access to software build and
-        assembly technologies. Mylyn users will be able to access continuous integration processes,
-        control build
-        execution and associate build results with tasks and context.
+        <a href="http://www.eclipse.org/mylyn/versions">Mylyn Versions</a>
+        is Eclipse integration for source code and configuration management tools and bi-directional linking to change
+        management tools. This project and APIs it provides builds on the existing Eclipse Team APIs.
       </p>
     </html:div>
   </introduction>
@@ -20,10 +17,10 @@
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <ul>
         <li>
-          <b>Builds Framework</b>
+          <b>Versions Framework</b>
         </li>
         <li>
-          <b>Hudson Connector</b>
+          <b>CVS Connector</b>
         </li>
       </ul>
     </html:div>
@@ -101,25 +98,25 @@
   <target_environments>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
-        Mylyn Builds follows the
+        Mylyn Versions follows the
         <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">target environment</a>
         guidelines of the Mylyn project.
       </p>
     </html:div>
     <internationalization>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>
-        Mylyn Builds follows the
-        <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
-        guidelines of the Mylyn project.
-      </p>
+        <p>
+          Mylyn Versions follows the
+          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
+          guidelines of the Mylyn project.
+        </p>
       </html:div>
     </internationalization>
   </target_environments>
   <compatibility_with_previous_releases>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
-        Mylyn Builds follows the
+        Mylyn Versions follows the
         <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environments">compatibility</a>
         guidelines of the Mylyn project.
       </p>
@@ -141,7 +138,7 @@
 				</p>
         <p>
           <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Mylyn&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn Builds 0.7</a>
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Mylyn&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn Versions 0.7</a>
           .
         </p>
       </html:div>
@@ -157,7 +154,7 @@
       <deferred
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.6&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
     </theme>
-    <theme name="Hudson Connector">
+    <theme name="CVS Connector">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>

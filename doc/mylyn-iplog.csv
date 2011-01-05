@@ -102,23 +102,16 @@ Developers
 2010-08-18, tasks,		319289, David Shepherd,		<100,		spingel,	make person proposal provider more extensible
 2010-07-15, tasks,		319469, Kevin Sawicki,		<250,		spingel,	highlight matches in search view
 2010-07-15,	tasks,		319699,	Pawel Niewiadomski,	<10,		spingel,	log synchronization errors
-2010-07-14,	build,		319339,	Markus Knittig,		<100,		spingel,	show accurate health information
 2010-07-14,	tasks,		319397,	Pawel Niewiadomski,	<20,		spingel,	allow custom rules for task ownership
-2010-07-12,	build,		319644,	Markus Knittig,		<200,		spingel,	add editor infrastructure for build details
 2010-07-12,	bugzilla,	318128,	Charley Wang,		<10,		fbecker,	usage of old CustomTransitionManager breaks task creation
 2010-07-12,	bugzilla,	311966,	Charley Wang,		<150,		fbecker,	create XMLRPC operation for status transition junit test (patch#174031)
 2010-07-12,	bugzilla,	311966,	Charley Wang,		<250,		fbecker,	create XMLRPC operation for status transition (patch#174028)
-2010-07-07,	build,		318228,	Markus Knittig,		<250,		spingel,	add build instances to model
 2010-07-02, tasks,		318505, Kevin Sawicki,		<20,		spingel,	show author icon in attachment table
 2010-07-02, tasks,		318396, Kevin Sawicki,		<10,		spingel,	support custom order of attribute editors
 2010-07-02,	tasks,		316113,	Pawel Niewiadomski,	<20,		spingel,	allow empty passwords
-2010-06-28,	build,		317384,	Markus Knittig,		<200,		spingel,	run Hudson build plans
 2010-06-27,	bugzilla,	317729,	Charley Wang,		<50,		fbecker,	resolve custom initial state for Bugzilla
 2010-06-25,	bugzilla,	318040,	Charley Wang,		<10,		fbecker,	Include Custom Repository Test in AllBugzillaTests
 2010-06-22,	bugzilla,	259291,	Charley Wang,		<1500,		fbecker,	add support for custom status workflow (CQ 4117)
-2010-06-15,	build,		315151,	Markus Knittig,		<100,		spingel,	fetch Hudson build plans
-2010-06-07,	build,		315717,	Markus Knittig,		<150,		spingel,	test cases for validating Hudson connections
-2010-06-07,	build,		315716,	Markus Knittig,		<250,		spingel,	basic Hudson connector 
 
 -------------------------- 3.4.3 --------------------------
 

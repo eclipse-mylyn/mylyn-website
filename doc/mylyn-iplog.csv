@@ -137,7 +137,7 @@ Developers
 2010-05-23,	tasks,		220314,	Peter Stibrany,		<1000,		spingel,	support opening attachments with workbench editors (CQ 3789) 
 2010-05-22,	tasks,		296441,	Andreas Hoehmann,	<250,		spingel,	templates for active task prefix and id  
 2010-05-19,	tasks,		313488,	Jacques Lescot,		<10,		spingel,	fix message 
-2009-04-29, tasks,		320798, Benjamin Muskalla,	<20,		spingel,	hide attach context check box if attachment support is not present 
+2010-04-29, tasks,		310798, Benjamin Muskalla,	<20,		spingel,	hide attach context check box if attachment support is not present 
 2010-04-06, tasks,		306114, Kevin Sawicki,		<10,		relves,		cancel clone query leaves query in task list
 2010-04-05, bugzilla,	307655, Attila Sz�kr�ny�s,	<50,		fbecker, 	add an attribute for the the duplicated bug id in a duplicate bug
 2010-04-02,	tasks,		305075, Flavio Donze,		<250,		spingel,	remove dependency on org.eclipse.search from tasks.ui

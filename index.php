@@ -126,11 +126,11 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/" href="https://www2.gotomeeting.com/register/363663715">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a> <i>Thursday , Jan 20, 2011 8:00 AM – 9:00 AM PST</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20, 2011 8:00 AM – 9:00 AM PST</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="https://www2.gotomeeting.com/register/851194155">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Thursday, February 24, 2011 9:00 AM – 10:00 AM PST</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a>, <i>February 24, 2011 9:00 AM – 10:00 AM PST</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

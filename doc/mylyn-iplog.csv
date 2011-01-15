@@ -123,7 +123,7 @@ Shawn Minto (sminto)
 2008-09-19, sandbox,	247736, Jingwen Ou,			<20,		spingel,	expand subsections when expand all button is pressed  
 2008-09-19, sandbox,	244353, Jingwen Ou,			<20,		spingel,	follow-up patch that uses open type dialog if multiple matches are found  
 2008-09-19, sandbox,	238038, Jingwen Ou,			<20,		spingel,	follow-up patch to include context attachments in current section
-2008-09-21, commons,	240463,	Mark Kralj-Taylor	<20,		relves,		don't set logging properties if already set 
+2008-09-21, commons,	240463,	Mark Kralj-Taylor,	<20,		relves,		don't set logging properties if already set 
 2008-09-21, tasks,		190503, Shawn Minto,		<100,		relves,		update scheduled presentation to show days of next week
 2008-09-21, bugzilla,	246923, Frank Becker,		<20,		relves,		bugzilla was not setting version on retrieved task data
 2008-09-23, bugzilla,	248193, David Shepherd,		<150,		relves,		improve bugzilla extensibility
@@ -671,7 +671,7 @@ Shawn Minto (sminto)
 2007-04-02, tasks,		180561, Shawn Minto,		<10,		relves,		search for duplicates only available if connector supports
 2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
 2007-04-05, monitor,	179144, Meghan Allen,		<250,		mkersten,	monitor job fixes
-2007-04-13, tasks,		182398, Shawn Minto,		<10			mkersten,	open fix
+2007-04-13, tasks,		182398, Shawn Minto,		<10,		mkersten,	open fix
 2007-04-13, tasks,		180487,	Boris Pruessmann,	<250,		mkersten,	context assist
 2007-04-13, tasks,		172021,	Lubos Pochman,		<100,		relves,		support deletion of comments and attachments in editor
 2007-04-14, tasks,		182369,	Shawn Minto,		<50,		relves,		port detection in url
@@ -720,15 +720,12 @@ Shawn Minto (sminto)
 2007-06-24, tasks,		172699,	Balazs Brinkus,		<250,		mkersten,	query creatino
 2007-06-26, monitor, 	194072, Mehgan Allen,		<100,		mkersten,	monitor fix
 2007-06-26, tasks,		194365, Frank Becker,		<10,		mkersten,	wizard fix
-2007-06026,	tasks,		194519,	Leo Dos Santos,		<10,		mkersten,	mac toolitp fix
-
-
+2007-06-26,	tasks,		194519,	Leo Dos Santos,		<10,		mkersten,	mac toolitp fix
 
 
 ------------------------- 0.4.10 - 1.0.1 -------------------------
 
 0.4.10
-date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-02-28, tasklist,  	129511,	Eugene Kuleshov,	<100,		mkersten,	key comparison
 2006-03-02, bugzilla, 	129459,	Ian Whalley, 		<10,		mkersten,	charset fix
 2006-03-02, bugzilla, 	116514,	Ian Whalley, 		<100,		mkersten,	IBM JDK support
@@ -739,7 +736,6 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-15, bugzilla, 	130435, Ian Whalley,		<10,		mkersten,	NPE guards 
 
 0.5.0
-date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-03-28, jira,		133483,	Brock Janiczak,		<10,		mkersten,	switch to selection listeners
 2006-03-28, ide,		131422,	Brock Janiczak,		<10,		mkersten,	3.2M6 API port
 2006-03-28, bugzilla,	134352,	Brock Janiczak,		<10,		mkersten,	query layout
@@ -798,7 +794,7 @@ date, 		component,	bug, 	contributor name, 	size (LOC), committer, 	description
 2006-07-04, trac,		146334,	Steffen Pingel,		<100,		mkersten,	trac building docs
 2006-07-05, tasklist,	149511, Eugene Kuleshov,	<100,		relves,		convert attachment dialogs from forms to standard swt
 2006-07-05, trac,		148378,	Steffen Pingel,		<100,		mkersten,	settings page flexibility and tests
-2006-07-06, bugzilla,	146868, Nathan Hapke,		<100,		relves		editor layout and date picker improvements for time tracking 
+2006-07-06, bugzilla,	146868, Nathan Hapke,		<100,		relves,		editor layout and date picker improvements for time tracking 
 2006-07-06,	trac, 		149385, Steffen Pingel,		<1000,		mkersten,	adding of tickets
 2006-07-06, trac,		149386,	Steffen Pingel,		<1000,		mkersten,	trac queries
 2006-07-10, tasklist,	135603,	Eugene Kuleshov,	<100,		relves,		new task creation from query categories

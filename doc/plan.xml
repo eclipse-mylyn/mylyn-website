@@ -19,36 +19,14 @@
         </ol>
       </p>
       <p>
-        The project is structured into sub-projects, each representing an
-        ALM category and providing common APIs for
-        specific ALM tools. The
-        primary consumers of this project are ALM ISVs and
-        other adopters of
-        Eclipse ALM
+        The project is structured into sub-projects, each representing an ALM category and providing common APIs for
+        specific ALM tools. The primary consumers of this project are ALM ISVs and other adopters of Eclipse ALM
         frameworks.
         </p>
       <p>
         Please see the
         <a href="http://wiki.eclipse.org/Mylyn/Charter">project charter</a>
         for more details.
-      </p>
-      <p>
-        <!-- <ul> <li>Tasks - Integration with Agile, issue, bug and defect tracking servers. The project provides rich task 
-          editing, task list management and offline synchronization for ALM servers. Central portion of the ALM integration framework 
-          used by other projects, eg, task-based changed tracking for the SCM project.</li> <li>Contexts - Usage monitoring, degree-of-interested 
-          modeling and the task-focused user extensions implementation for the Eclipse UI, which re-aligns the user experience around 
-          tasks and provides features such as workspace focusing and one-click multitasking. </li> <li>Versions - Eclipse integration 
-          for source code and configuration management tools(SCM, SCCM) and bi-directional linking to change management tools. This 
-          project and APIs it provides builds on the existing Eclipse "Team" APIs.</li> <li>Builds - Integration of continuous integration 
-          and build systems and seamless access to software build and assembly technologies. Mylyn users will be able to access continuous 
-          integration processes, control build execution and associate build results with tasks and context.</li> <li>Reviews - Eclipse-based 
-          code review functionality that's seamlessly integrated with the Tasks and SCM systems supported by Mylyn. Eclipse integration 
-          for Agile code reviews, the formal IEEE code review process, review reports with BIRT and aim to support many Eclipse artifact 
-          for reviews, e.g. JDT (Java files), CDT (C/C++ files), EMF (models).</li> <li>Docs - The scope of this project is Eclipse-based 
-          access to documentation systems such as Wikis and other portals. This builds on the Mylyn WikiText framework.</li> <li>Commons 
-          - The scope of this project is to provide a framework of common UI, web service, REST and test utilities to be used by the 
-          rest of Mylyn and by other Eclipse-based tools (see Mylyn_Integrator_Reference#Commons_API).</li> <li>Incubator - New development 
-          in areas that are relevant to the other sub-projects.</li> </ul> -->
       </p>
     </html:div>
   </introduction>
@@ -213,25 +191,19 @@
             <a name="rampdown">Ramp Down</a>
           </b>
         </p>
-        <p>After RC1 is released, builds will be produced weekly until the
-          3.5 release. In the RC
-          phase only bugs marked
-          P2 or higher or
-          severity
-          major or higher will be fixed. APIs will not
-          change except
-          to address critical fixes
-          based on integrator feedback, until RC3,
-          at which
-          point APIs will be frozen.</p>
+        <p>
+          After RC1 is released, builds will be produced weekly until the 3.5 release. In the RC phase only bugs marked
+          P2 or
+          higher or severity major or higher will be fixed. APIs will not change except to address critical fixes
+          based
+          on
+          integrator feedback, until RC3, at which point APIs will be frozen.</p>
       </html:div>
     </postamble>
   </release_milestones>
   <target_environments>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>Mylyn is designed to run on version 1.5.0 of the Java
-        Runtime
-        Environment, Standard Edition.</p>
+      <p>Mylyn is designed to run on version 1.5.0 of the Java Runtime Environment, Standard Edition.</p>
 
       <p>
         Mylyn will support the following Eclipse releases:
@@ -311,21 +283,38 @@
               </big>
             </th>
             <tr>
-              <td>Ubuntu Linux</td>
-              <td>8.04</td>
+              <td>SuSE Linux</td>
+              <td></td>
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.7, 3.6, Eclipse 3.5</td>
+              <td>Eclipse 3.5, 3.6, 3.7</td>
             </tr>
           </tbody>
         </table>
       </p>
+      <p>
+        <a href="http://wiki.eclipse.org/Mylyn/Contributor_Reference#Hudson">Automated Tests</a>
+        :
+      </p>
+      <ul>
+        <li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.5/">Integration test results on Eclipse 3.5</a>
+        </li>
+        <li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.6/">Integration test results on Eclipse 3.6</a>
+        </li>
+        <li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.7/">Integration test results on Eclipse 3.7</a>
+        </li>
+        <li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/">Integration test results on Eclipse 4.1</a>
+        </li>
+      </ul>
     </html:div>
     <internationalization>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
-        Strings in all non-incubation plug-ins and features will be
-        externalized and available for translation through
+        Strings in all non-incubation plug-ins and features will be externalized and available for translation through
         Eclipse Babel. See
         <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
         for details.
@@ -348,16 +337,8 @@
       </p>
       <p>
         <strong>Workspace Compatibility:</strong>
-        We intend to keep Mylyn
-        3.5 upwards workspace-compatible with all
-        versions higher than Mylyn
-        2.0 unless noted.
-        This
-        means that
-        workspaces
-        created with Mylyn 2.0 can be successfully
-        opened by Mylyn
-        3.5 and upgraded to a 3.5
+        We intend to keep Mylyn 3.5 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted.
+        This means that workspaces created with Mylyn 2.0 can be successfully opened by Mylyn 3.5 and upgraded to a 3.5
         workspace.
       </p>
     </html:div>

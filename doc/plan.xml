@@ -41,7 +41,7 @@
           <li>Commons - The scope of this project is to provide a framework of common UI, web service, REST and test
             utilities to be used by the rest of Mylyn and by other Eclipse-based tools (see
             Mylyn_Integrator_Reference#Commons_API).</li>
-          <li>Incubator - New development in areas that are relevant to the other sub-projects.
+          <li>Incubator - New development in areas that are relevant to the other sub-projects.</li>
         </ul>
       </p>
     </html:div>
@@ -270,7 +270,7 @@
             </th>
             <tr>
               <td>Ubuntu Linux</td>
-              <td>9.10</td>
+              <td>10.10</td>
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>

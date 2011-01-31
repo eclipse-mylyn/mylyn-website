@@ -1,462 +1,519 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="tools.mylyn" version="3.5" />
-  <introduction>
-    <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>
-        The mission of the
-        <a href="http://www.eclipse.org/mylyn">Mylyn</a>
-        project is to provide:
-        <ol>
-          <li>Frameworks and APIs for Eclipse-based task and Application Lifecycle Management (ALM)</li>
-          <li>Exemplary tools for task-focused programming within the Eclipse IDE.</li>
-          <li>Reference implementations for open source ALM tools used by the Eclipse community and for open ALM
-            standards such as OSLC</li>
-        </ol>
-      </p>
-      <p>
-        The project is structured into sub-projects, each representing an ALM category and providing common APIs for
-        specific ALM tools. The primary consumers of this project are ALM ISVs and other adopters of Eclipse ALM
-        frameworks.        
-        <ul>
-          <li>Tasks - Integration with Agile, issue, bug and defect tracking servers. The project provides rich task
-            editing, task list management and offline synchronization for ALM servers. Central portion of the ALM
-            integration framework used by other projects, eg, task-based changed tracking for the SCM project.</li>
-          <li>Contexts - Usage monitoring, degree-of-interested modeling and the task-focused user extensions
-            implementation for the Eclipse UI, which re-aligns the user experience around tasks and provides features
-            such as workspace focusing and one-click multitasking.</li>
-          <li>Versions - Eclipse integration for source code and configuration management tools(SCM, SCCM) and
-            bi-directional linking to change management tools. This project and APIs it provides builds on the existing
-            Eclipse "Team" APIs.</li>
-          <li>Builds - Integration of continuous integration and build systems and seamless access to software build and
-            assembly technologies. Mylyn users will be able to access continuous integration processes, control build
-            execution and associate build results with tasks and context.</li>
-          <li>Reviews - Eclipse-based code review functionality that's seamlessly integrated with the Tasks and SCM
-            systems supported by Mylyn. Eclipse integration for Agile code reviews, the formal IEEE code review process,
-            review reports with BIRT and aim to support many Eclipse artifact for reviews, e.g. JDT (Java files), CDT
-            (C/C++ files), EMF (models).</li>
-          <li>Docs - The scope of this project is Eclipse-based access to documentation systems such as Wikis and other
-            portals. This builds on the Mylyn WikiText framework.</li>
-          <li>Commons - The scope of this project is to provide a framework of common UI, web service, REST and test
-            utilities to be used by the rest of Mylyn and by other Eclipse-based tools (see
-            Mylyn_Integrator_Reference#Commons_API).</li>
-          <li>Incubator - New development in areas that are relevant to the other sub-projects.</li>
-        </ul>
-      </p>
-    </html:div>
-  </introduction>
-  <release_deliverables>
-    <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>The Mylyn project does a coordinated releases twice a year.</p>
-      <ul>
-        <li>
-          <b>Mylyn Builds (Incubation)</b>
-          <ul>
-            <li>Hudson Connector</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Commons</b>
-          <ul>
-            <li>Interaction Monitoring</li>
-            <li>Network Access Utilities</li>
-            <li>UI Toolkit</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Context</b>
-          <ul>
-            <li>Focused UI</li>
-            <li>Eclipse IDE Bridge</li>
-            <li>Java Development Bridge</li>
-            <li>Plug-in Development Bridge</li>
-            <li>Team Support Bridge</li>
-            <li>C/C++ Development Bridge</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Docs</b>
-          <ul>
-            <li>WikiText</li>
-            <li>HtmlText</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Reviews (Incubation)</b>
-          <ul>
-            <li>Reviews for Eclipse (R4E)</li>
-            <li>Task-based Reviews</li>
-            <li>Gerrit Connector</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Tasks (Incubation)</b>
-          <ul>
-            <li>Bugzilla Connector</li>
-            <li>Trac Connector</li>
-          </ul>
-        </li>
-        <li>
-          <b>Mylyn Versions (Incubation)</b>
-          <ul>
-            <li>CVS Connector</li>
-          </ul>
-        </li>
-        <li>
-          <b>SDK Features</b>
-          <ul>
-            <li>Mylyn SDK</li>
-            <li>Mylyn WikiText SDK</li>
-          </ul>
-        </li>
-      </ul>
-      <p>The Mylyn Incubator (Incubation) does not have releases by definition.</p>
-    </html:div>
-  </release_deliverables>
-  <release_milestones>
-    <preamble>
-      <html:div xmlns="http://www.w3.org/1999/xhtml">
-        <p>
-          The plan and roadmap dates are listed in the Mylyn Calendar
-          (view as
-          <a
-            href="http://www.google.com/calendar/ical/kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com/public/basic.ics">iCal</a>
-          or
-          <a href="http://eclipse.org/mylyn/calendar/">html</a>
-          ) and on the
-          <a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>
-          .
-        </p>
-      </html:div>
-    </preamble>
-    <milestone date="2011-02-16" milestone="3.5 RC1">
-      <html:div>Release Candidate (API and Feature Complete)</html:div>
-    </milestone>
-    <milestone date="2011-02-23" milestone="3.5 RC2">
-      <html:div>Release Candidate</html:div>
-    </milestone>
-    <milestone date="2011-03-02" milestone="3.5 RC3">
-      <html:div>Release Candidate (API Freeze)</html:div>
-    </milestone>
-    <milestone date="2011-03-09" milestone="3.5 RC4">
-      <html:div>Release Candidate (Final Build)</html:div>
-    </milestone>
-    <milestone date="2011-03-16" milestone="3.5">
-      <html:div>Major Release</html:div>
-    </milestone>
-    <postamble>
-      <html:div xmlns="http://www.w3.org/1999/xhtml">
-        <p>
-          <b>
-            <a name="servicereleases">Service Releases</a>
-          </b>
-        </p>
-        <p>
-          <table border="1" align="center">
-            <tr>
-              <td>
-                <b>3.4.1</b>
-              </td>
-              <td>2010-08-04/</td>
-              <td>
-                <div>Service Release</div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>3.4.2</b>
-              </td>
-              <td>2010-09-24</td>
-              <td>
-                <div>Service Release (Helios SR1)</div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>3.4.3</b>
-              </td>
-              <td>2011-02-25</td>
-              <td>
-                <div>Service Release (Helios SR2)</div>
-              </td>
-            </tr>
-          </table>
-        </p>
+	<release projectid="tools.mylyn" version="3.5" />
+	<introduction>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p>
+				The mission of the
+				<a href="http://www.eclipse.org/mylyn">Mylyn</a>
+				project is to provide:
+				<ol>
+					<li>Frameworks and APIs for Eclipse-based task and Application
+						Lifecycle Management (ALM)</li>
+					<li>Exemplary tools for task-focused programming within the Eclipse
+						IDE.</li>
+					<li>Reference implementations for open source ALM tools used by the
+						Eclipse community and for open ALM
+						standards such as OSLC</li>
+				</ol>
+			</p>
+			<p>
+				The project is structured into sub-projects, each representing an
+				ALM category and providing common APIs for
+				specific ALM tools. The
+				primary consumers of this project are ALM ISVs and
+				other adopters of
+				Eclipse ALM
+				frameworks.
+				<ul>
+					<li>Tasks - Integration with Agile, issue, bug and defect tracking
+						servers. The project provides rich task
+						editing, task list
+						management
+						and offline synchronization for ALM servers.
+						Central
+						portion of the ALM
+						integration framework used by other projects,
+						eg, task-based
+						changed tracking
+						for the SCM project.</li>
+					<li>Contexts - Usage monitoring, degree-of-interested modeling and
+						the task-focused user extensions
+						implementation for the Eclipse UI,
+						which re-aligns the user experience around
+						tasks and provides
+						features
+						such as workspace focusing and one-click multitasking.
+					</li>
+					<li>Versions - Eclipse integration for source code and
+						configuration management tools(SCM, SCCM) and
+						bi-directional
+						linking to change
+						management tools. This project and APIs it
+						provides builds on the existing
+						Eclipse "Team" APIs.</li>
+					<li>Builds - Integration of continuous integration and build
+						systems and seamless access to software build and
+						assembly
+						technologies.
+						Mylyn users will be able to access continuous
+						integration processes, control build
+						execution and associate build
+						results with tasks and
+						context.</li>
+					<li>Reviews - Eclipse-based code review functionality that's
+						seamlessly integrated with the Tasks and SCM
+						systems supported by
+						Mylyn.
+						Eclipse integration for Agile code reviews,
+						the formal IEEE
+						code review process,
+						review reports with BIRT and aim to support
+						many Eclipse
+						artifact for
+						reviews, e.g. JDT (Java files), CDT
+						(C/C++ files), EMF (models).</li>
+					<li>Docs - The scope of this project is Eclipse-based access to
+						documentation systems such as Wikis and other
+						portals. This builds
+						on the
+						Mylyn WikiText framework.</li>
+					<li>Commons - The scope of this project is to provide a framework
+						of common UI, web service, REST and test
+						utilities to be used by
+						the
+						rest of Mylyn and by other Eclipse-based tools
+						(see
+						Mylyn_Integrator_Reference#Commons_API).</li>
+					<li>Incubator - New development in areas that are relevant to the
+						other sub-projects.</li>
+				</ul>
+			</p>
+		</html:div>
+	</introduction>
+	<release_deliverables>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p>The Mylyn project does a coordinated releases twice a year.</p>
+			<ul>
+				<li>
+					<b>Mylyn Builds (Incubation)</b>
+					<ul>
+						<li>Hudson Connector</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Commons</b>
+					<ul>
+						<li>Interaction Monitoring</li>
+						<li>Network Access Utilities</li>
+						<li>UI Toolkit</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Context</b>
+					<ul>
+						<li>Focused UI</li>
+						<li>Eclipse IDE Bridge</li>
+						<li>Java Development Bridge</li>
+						<li>Plug-in Development Bridge</li>
+						<li>Team Support Bridge</li>
+						<li>C/C++ Development Bridge</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Docs</b>
+					<ul>
+						<li>WikiText</li>
+						<li>HtmlText</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Reviews (Incubation)</b>
+					<ul>
+						<li>Reviews for Eclipse (R4E)</li>
+						<li>Task-based Reviews</li>
+						<li>Gerrit Connector</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Tasks (Incubation)</b>
+					<ul>
+						<li>Bugzilla Connector</li>
+						<li>Trac Connector</li>
+					</ul>
+				</li>
+				<li>
+					<b>Mylyn Versions (Incubation)</b>
+					<ul>
+						<li>CVS Connector</li>
+					</ul>
+				</li>
+				<li>
+					<b>SDK Features</b>
+					<ul>
+						<li>Mylyn SDK</li>
+						<li>Mylyn WikiText SDK</li>
+					</ul>
+				</li>
+			</ul>
+			<p>The Mylyn Incubator (Incubation) does not have releases by
+				definition.</p>
+		</html:div>
+	</release_deliverables>
+	<release_milestones>
+		<preamble>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				<p>
+					The plan and roadmap dates are listed in the Mylyn Calendar
+					(view as
+					<a href="http://www.google.com/calendar/ical/kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com/public/basic.ics">iCal</a>
+					or
+					<a href="http://eclipse.org/mylyn/calendar/">html</a>
+					) and on the
+					<a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>
+					.
+				</p>
+			</html:div>
+		</preamble>
+		<milestone date="2011-02-16" milestone="3.5 RC1">
+			<html:div>Release Candidate (API and Feature Complete)</html:div>
+		</milestone>
+		<milestone date="2011-02-23" milestone="3.5 RC2">
+			<html:div>Release Candidate</html:div>
+		</milestone>
+		<milestone date="2011-03-02" milestone="3.5 RC3">
+			<html:div>Release Candidate (API Freeze)</html:div>
+		</milestone>
+		<milestone date="2011-03-09" milestone="3.5 RC4">
+			<html:div>Release Candidate (Final Build)</html:div>
+		</milestone>
+		<milestone date="2011-03-16" milestone="3.5">
+			<html:div>Major Release</html:div>
+		</milestone>
+		<postamble>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				<p>
+					<b>
+						<a name="servicereleases">Service Releases</a>
+					</b>
+				</p>
+				<p>
+					<table border="1" align="center">
+						<tr>
+							<td>
+								<b>3.4.1</b>
+							</td>
+							<td>2010-08-04/</td>
+							<td>
+								<div>Service Release</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<b>3.4.2</b>
+							</td>
+							<td>2010-09-24</td>
+							<td>
+								<div>Service Release (Helios SR1)</div>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<b>3.4.3</b>
+							</td>
+							<td>2011-02-25</td>
+							<td>
+								<div>Service Release (Helios SR2)</div>
+							</td>
+						</tr>
+					</table>
+				</p>
 
-        <p>
-          <b>Tentative Plan</b>
+				<p>
+					<b>Tentative Plan</b>
+				</p>
+				<p>
+					<table border="1" align="center">
+						<tr>
+							<td>
+								<b>3.6</b>
+							</td>
+							<td>2011-06-22</td>
+							<td>
+								<div>Major Release (Indigo)</div>
+							</td>
+						</tr>
+					</table>
+				</p>
+
+				<p>
+					<b>
+						<a name="rampdown">Ramp Down</a>
+					</b>
+				</p>
+				<p>After RC1 is released, builds will be produced weekly until the
+					3.5 release. In the RC
+					phase only bugs marked
+					P2 or higher or
+					severity
+					major or higher will be fixed. APIs will not
+					change except
+					to address critical fixes
+					based on integrator feedback, until RC3,
+					at which
+					point APIs will be frozen.</p>
+			</html:div>
+		</postamble>
+	</release_milestones>
+	<target_environments>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p>Mylyn is designed to run on version 1.5.0 of the Java
+				Runtime
+				Environment, Standard Edition.</p>
+
+			<p>
+				Mylyn will support the following Eclipse releases:
+
+				<ul>
+					<li>Eclipse 3.7</li>
+					<li>Eclipse 3.6</li>
+					<li>Eclipse 3.5</li>
+				</ul>
+
+				<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=313436">Support for Eclipse 3.4</a>
+				has been discontinued.
+			</p>
+
+			<p>
+				<table summary="Test Platforms" style="width: 821px;" border="1">
+					<tbody>
+						<tr style="background:#cccccc">
+							<th colspan="6" align="center">
+								<big>
+									<strong>Test Platforms</strong>
+								</big>
+							</th>
+						</tr>
+						<tr>
+							<td>
+								<b>Operating system</b>
+							</td>
+							<td>
+								<b>OS version</b>
+							</td>
+							<td>
+								<b>Processor architecture</b>
+							</td>
+							<td>
+								<b>Window system</b>
+							</td>
+							<td>
+								<b>Java 2 Platform</b>
+							</td>
+							<td>
+								<b>Eclipse Release</b>
+							</td>
+						</tr>
+						<th colspan="6" align="center">
+							<big>
+								<strong>Manual Tests</strong>
+							</big>
+						</th>
+						<tr>
+							<td>Ubuntu Linux</td>
+							<td>10.10</td>
+							<td>x86-64</td>
+							<td>GTK</td>
+							<td>Sun Java 2 Standard Edition 6.0</td>
+							<td>Eclipse 3.7 (latest milestone)</td>
+						</tr>
+						<tr>
+							<td>Microsoft Windows</td>
+							<td>7</td>
+							<td>x86-64</td>
+							<td>Win32</td>
+							<td>Sun Java 2 Standard Edition 5.0</td>
+							<td>Eclipse 3.6</td>
+						</tr>
+						<tr>
+							<td>Apple Mac OS X</td>
+							<td>10.6</td>
+							<td>Power</td>
+							<td>Cocoa</td>
+							<td>Apple Java 2 Platform Standard Edition (J2SE) 6</td>
+							<td>Eclipse 3.6</td>
+						</tr>
+						<th colspan="6" align="center">
+							<big>
+								<strong>Automated Tests</strong>
+							</big>
+						</th>
+						<tr>
+							<td>Ubuntu Linux</td>
+							<td>8.04</td>
+							<td>x86-64</td>
+							<td>GTK</td>
+							<td>Sun Java 2 Standard Edition 6.0</td>
+							<td>Eclipse 3.7, 3.6, Eclipse 3.5</td>
+						</tr>
+					</tbody>
+				</table>
+			</p>
+		</html:div>
+		<internationalization>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				Strings in all non-incubation plug-ins and features will be
+				externalized and available for translation through
+				Eclipse Babel. See
+				<a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
+				for details.
+			</html:div>
+		</internationalization>
+	</target_environments>
+	<compatibility_with_previous_releases>
+		<html:div xmlns="http://www.w3.org/1999/xhtml">
+			<p>
+				<strong>API Contract Compatibility:</strong>
+				Mylyn 3.5 will be backward compatible with Mylyn 3.0.
+			</p>
+			<p>
+				<strong>Binary (plug-in) Compatibility:</strong>
+				Mylyn 3.5 will be binary compatible with Mylyn 3.0.
+			</p>
+			<p>
+				<strong>Source Compatibility:</strong>
+				Mylyn 3.5 will not by be source compatible with previous versions.
+			</p>
+			<p>
+				<strong>Workspace Compatibility:</strong>
+				We intend to keep Mylyn
+				3.5 upwards workspace-compatible with all
+				versions higher than Mylyn
+				2.0 unless noted.
+				This means that
+				workspaces
+				created with Mylyn 2.0 can be successfully
+				opened by Mylyn
+				3.5 and upgraded to a 3.5
+				workspace.
+			</p>
+		</html:div>
+	</compatibility_with_previous_releases>
+	<themes_and_priorities>
+		<preamble>
+			<html:div xmlns="http://www.w3.org/1999/xhtml">
+				<p>
+					In addition to using the planned themes listed below, we continue
+					prioritizing the ongoing input of our
+					growing user community. 
         </p>
-        <p>
-          <table border="1" align="center">
-            <tr>
-              <td>
-                <b>3.6</b>
-              </td>
-              <td>2011-06-22</td>
-              <td>
-                <div>Major Release (Indigo)</div>
-              </td>
-            </tr>
-          </table>
-        </p>
-
-        <p>
-          <b>
-            <a name="rampdown">Ramp Down</a>
-          </b>
-        </p>
-        <p>After RC1 is released, builds will be produced weekly until the 3.5 release. In the RC
-          phase only bugs marked
-          P2 or higher or severity major or higher will be fixed. APIs will not
-          change except to address critical fixes
-          based on integrator feedback, until RC3, at which
-          point APIs will be frozen.</p>
-      </html:div>
-    </postamble>
-  </release_milestones>
-  <target_environments>
-    <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>Mylyn is designed to run on version 1.5.0 of the Java
-        Runtime Environment, Standard Edition.</p>
-
-      <p>
-        Mylyn will support the following Eclipse releases:
-
-        <ul>
-          <li>Eclipse 3.7</li>
-          <li>Eclipse 3.6</li>
-          <li>Eclipse 3.5</li>
-        </ul>
-
-        <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=313436">Support for Eclipse 3.4</a>
-        has been discontinued.
-      </p>
-
-      <p>
-        <table summary="Test Platforms" style="width: 821px;" border="1">
-          <tbody>
-            <tr style="background:#cccccc">
-              <th colspan="6" align="center">
-                <big>
-                  <strong>Test Platforms</strong>
-                </big>
-              </th>
-            </tr>
-            <tr>
-              <td>
-                <b>Operating system</b>
-              </td>
-              <td>
-                <b>OS version</b>
-              </td>
-              <td>
-                <b>Processor architecture</b>
-              </td>
-              <td>
-                <b>Window system</b>
-              </td>
-              <td>
-                <b>Java 2 Platform</b>
-              </td>
-              <td>
-                <b>Eclipse Release</b>
-              </td>
-            </tr>
-            <th colspan="6" align="center">
-              <big>
-                <strong>Manual Tests</strong>
-              </big>
-            </th>
-            <tr>
-              <td>Ubuntu Linux</td>
-              <td>10.10</td>
-              <td>x86-64</td>
-              <td>GTK</td>
-              <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.7 (latest milestone)</td>
-            </tr>
-            <tr>
-              <td>Microsoft Windows</td>
-              <td>7</td>
-              <td>x86-64</td>
-              <td>Win32</td>
-              <td>Sun Java 2 Standard Edition 5.0</td>
-              <td>Eclipse 3.6</td>
-            </tr>
-            <tr>
-              <td>Apple Mac OS X</td>
-              <td>10.6</td>
-              <td>Power</td>
-              <td>Cocoa</td>
-              <td>Apple Java 2 Platform Standard Edition (J2SE) 6</td>
-              <td>Eclipse 3.6</td>
-            </tr>
-            <th colspan="6" align="center">
-              <big>
-                <strong>Automated Tests</strong>
-              </big>
-            </th>
-            <tr>
-              <td>Ubuntu Linux</td>
-              <td>8.04</td>
-              <td>x86-64</td>
-              <td>GTK</td>
-              <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.7, 3.6, Eclipse 3.5</td>
-            </tr>
-          </tbody>
-        </table>
-      </p>
-    </html:div>
-    <internationalization>
-      <html:div xmlns="http://www.w3.org/1999/xhtml">
-        Strings in all non-incubation plug-ins and features will be externalized and available for translation through
-        Eclipse Babel. See
-        <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=215116">bug 215116</a>
-        for details.
-      </html:div>
-    </internationalization>
-  </target_environments>
-  <compatibility_with_previous_releases>
-    <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>
-        <strong>API Contract Compatibility:</strong>
-        Mylyn 3.5 will be backward compatible with Mylyn 3.0.
-      </p>
-      <p>
-        <strong>Binary (plug-in) Compatibility:</strong>
-        Mylyn 3.5 will be binary compatible with Mylyn 3.0.
-      </p>
-      <p>
-        <strong>Source Compatibility:</strong>
-        Mylyn 3.5 will not by be source compatible with previous versions.
-      </p>
-      <p>
-        <strong>Workspace Compatibility:</strong>
-        We intend to keep Mylyn
-        3.5 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted.
-        This means that workspaces created with Mylyn 2.0 can be successfully
-        opened by Mylyn 3.5 and upgraded to a 3.5
-        workspace.
-      </p>
-    </html:div>
-  </compatibility_with_previous_releases>
-  <themes_and_priorities>
-    <preamble>
-      <html:div xmlns="http://www.w3.org/1999/xhtml">
-        <p>
-          In addition to using the planned themes listed below, we continue prioritizing the ongoing input of our
-          growing user community. 
-        </p>
-      </html:div>
-    </preamble>
-    <theme name="Mylyn Builds">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Builds&amp;target_milestone=0.7">All bugs scheduled for Mylyn Builds 0.7</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Commons">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Commons&amp;target_milestone=3.5">All bugs scheduled for Mylyn Commons 3.5</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Context">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Context&amp;target_milestone=3.5">All bugs scheduled for Mylyn Context 3.5</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Docs">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Docs&amp;target_milestone=1.4">All bugs scheduled for Mylyn Docs 1.4</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.5&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Reviews">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Reviews&amp;target_milestone=0.7">All bugs scheduled for Mylyn Reviews 0.7</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Tasks">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Tasks&amp;target_milestone=3.5">All bugs scheduled for Mylyn Tasks 3.5</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Mylyn Versions">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-                  <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Versions&amp;target_milestone=0.7">All bugs scheduled for Mylyn Versions 0.7</a>
-        </html:div>
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
-    </theme>
-    <theme name="Eclipse 4.1">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml">
-        	<p>Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations.</p>
-        	<p><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a></p>
-        	<p><a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/"/>Integration test results on Eclipse 4.1</a></p>
-        </html:div>
-      </description>
-    </theme>
-  </themes_and_priorities>
+			</html:div>
+		</preamble>
+		<theme name="Mylyn Builds">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Builds&amp;target_milestone=0.7">All bugs scheduled for Mylyn Builds 0.7</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Commons">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Commons&amp;target_milestone=3.5">All bugs scheduled for Mylyn Commons 3.5</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Context">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Context&amp;target_milestone=3.5">All bugs scheduled for Mylyn Context 3.5</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Docs">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Docs&amp;target_milestone=1.4">All bugs scheduled for Mylyn Docs 1.4</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.5&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Reviews">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Reviews&amp;target_milestone=0.7">All bugs scheduled for Mylyn Reviews 0.7</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Tasks">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Tasks&amp;target_milestone=3.5">All bugs scheduled for Mylyn Tasks 3.5</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Mylyn Versions">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Versions&amp;target_milestone=0.7">All bugs scheduled for Mylyn Versions 0.7</a>
+				</html:div>
+			</description>
+			<committed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+			<proposed
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+			<deferred
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
+		</theme>
+		<theme name="Eclipse 4.1">
+			<description>
+				<html:div xmlns="http://www.w3.org/1999/xhtml">
+					<p>Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations.</p>
+					<p>
+						<a
+							href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a>
+					</p>
+					<p>
+						<a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration test results on Eclipse 4.1</a>
+					</p>
+				</html:div>
+			</description>
+		</theme>
+	</themes_and_priorities>
 </plan>

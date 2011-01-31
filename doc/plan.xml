@@ -5,32 +5,67 @@
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
-        The first goal
-        of
+        The mission of the
         <a href="http://www.eclipse.org/mylyn">Mylyn</a>
-        is to make
-        task and context management seamlessly integrated with the
-        Eclipse Platform by providing rich and extensible frameworks for
-        task repository connectors, structure bridges and team
-        support. The second goal is to provide a reference implementation
-        of the Task-Focused UI for the Eclipse SDK. This includes
-        structure bridges for the artifacts supported by the SDK which
-        include Java, PDE, Ant and generic files. It also includes the
-        Bugzilla Connector as the reference task repository
-        implementation, and CVS integration as the reference team
-        support. Additional features can be considered based on the
-        availability community contributions and resources.
+        project is to provide:
+        <ol>
+          <li>Frameworks and APIs for Eclipse-based task and Application Lifecycle Management (ALM)</li>
+          <li>Exemplary tools for task-focused programming within the Eclipse IDE.</li>
+          <li>Reference implementations for open source ALM tools used by the Eclipse community and for open ALM
+            standards such as OSLC</li>
+        </ol>
+      </p>
+      <p>
+        The project is structured into sub-projects, each representing an ALM category and providing common APIs for
+        specific ALM tools. The primary consumers of this project are ALM ISVs and other adopters of Eclipse ALM
+        frameworks.        
+        <ul>
+          <li>Tasks - Integration with Agile, issue, bug and defect tracking servers. The project provides rich task
+            editing, task list management and offline synchronization for ALM servers. Central portion of the ALM
+            integration framework used by other projects, eg, task-based changed tracking for the SCM project.</li>
+          <li>Contexts - Usage monitoring, degree-of-interested modeling and the task-focused user extensions
+            implementation for the Eclipse UI, which re-aligns the user experience around tasks and provides features
+            such as workspace focusing and one-click multitasking.</li>
+          <li>Versions - Eclipse integration for source code and configuration management tools(SCM, SCCM) and
+            bi-directional linking to change management tools. This project and APIs it provides builds on the existing
+            Eclipse "Team" APIs.</li>
+          <li>Builds - Integration of continuous integration and build systems and seamless access to software build and
+            assembly technologies. Mylyn users will be able to access continuous integration processes, control build
+            execution and associate build results with tasks and context.</li>
+          <li>Reviews - Eclipse-based code review functionality that's seamlessly integrated with the Tasks and SCM
+            systems supported by Mylyn. Eclipse integration for Agile code reviews, the formal IEEE code review process,
+            review reports with BIRT and aim to support many Eclipse artifact for reviews, e.g. JDT (Java files), CDT
+            (C/C++ files), EMF (models).</li>
+          <li>Docs - The scope of this project is Eclipse-based access to documentation systems such as Wikis and other
+            portals. This builds on the Mylyn WikiText framework.</li>
+          <li>Commons - The scope of this project is to provide a framework of common UI, web service, REST and test
+            utilities to be used by the rest of Mylyn and by other Eclipse-based tools (see
+            Mylyn_Integrator_Reference#Commons_API).</li>
+          <li>Incubator - New development in areas that are relevant to the other sub-projects.
+        </ul>
       </p>
     </html:div>
   </introduction>
   <release_deliverables>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>The Mylyn project does a coordinated releases twice a year.</p>
       <ul>
         <li>
-          <b>Tasks Framework</b>
+          <b>Mylyn Builds</b>
+          <ul>
+            <li>Hudson Connector</li>
+          </ul>
         </li>
         <li>
-          <b>Task-focused Interface</b>
+          <b>Mylyn Commons</b>
+          <ul>
+            <li>Interaction Monitoring</li>
+            <li>Network Access Utilities</li>
+            <li>UI Toolkit</li>
+          </ul>
+        </li>
+        <li>
+          <b>Context Project</b>
           <ul>
             <li>Focused UI</li>
             <li>Eclipse IDE Bridge</li>
@@ -41,13 +76,32 @@
           </ul>
         </li>
         <li>
-          <b>Bugzilla Connector</b>
+          <b>Docs Project</b>
+          <ul>
+            <li>WikiText</li>
+            <li>HtmlText</li>
+          </ul>
         </li>
         <li>
-          <b>Trac Connector</b>
+          <b>Reviews Project</b>
+          <ul>
+            <li>Reviews for Eclipse (R4E)</li>
+            <li>Task-based Reviews</li>
+            <li>Gerrit Connector</li>
+          </ul>
         </li>
         <li>
-          <b>WikiText</b>
+          <b>Tasks Project</b>
+          <ul>
+            <li>Bugzilla Connector</li>
+            <li>Trac Connector</li>
+          </ul>
+        </li>
+        <li>
+          <b>Versions Project</b>
+          <ul>
+            <li>CVS Connector</li>
+          </ul>
         </li>
         <li>
           <b>SDK Features</b>
@@ -57,11 +111,7 @@
           </ul>
         </li>
       </ul>
-      <p>
-        The Mylyn JIRA Connector
-        <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a>
-        and is no longer released as part of Mylyn.
-      </p>
+      <p>The Incubator project does not have releases by definition.</p>
     </html:div>
   </release_deliverables>
   <release_milestones>
@@ -157,8 +207,10 @@
           </b>
         </p>
         <p>After RC1 is released, builds will be produced weekly until the 3.5 release. In the RC
-          phase only bugs marked P2 or higher or severity major or higher will be fixed. APIs will not
-          change except to address critical fixes based on integrator feedback, until RC3, at which
+          phase only bugs marked
+          P2 or higher or severity major or higher will be fixed. APIs will not
+          change except to address critical fixes
+          based on integrator feedback, until RC3, at which
           point APIs will be frozen.</p>
       </html:div>
     </postamble>
@@ -285,7 +337,8 @@
         We intend to keep Mylyn
         3.5 upwards workspace-compatible with all versions higher than Mylyn 2.0 unless noted.
         This means that workspaces created with Mylyn 2.0 can be successfully
-        opened by Mylyn 3.5 and upgraded to a 3.5 workspace.
+        opened by Mylyn 3.5 and upgraded to a 3.5
+        workspace.
       </p>
     </html:div>
   </compatibility_with_previous_releases>
@@ -293,21 +346,8 @@
     <preamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-          In addition to using the planned themes listed below, we need to
-          continue prioritizing the ongoing input of our growing user
-          community. Committers should prioritize bugs in the following order.
-          This order need not be used if a bug contains a community
-          contribution of a patch, in which case the quality of the patch
-          determines the priority.
-	</p>
-        <p>
-          <ul>
-            <li>Framework APIs: Tasks, Context, Team, Monitor, Standalone and Headless Use</li>
-            <li>UI: Task List, Task Editor, Task-focused Interface</li>
-            <li>Connectors: Bugzilla (reference implementation), Trac</li>
-            <li>Bridges: Java (reference implementation), C/C++</li>
-            <li>WikiText</li>
-          </ul>
+          In addition to using the planned themes listed below, we continue prioritizing the ongoing input of our
+          growing user community. 
         </p>
         <p>
           <a
@@ -315,27 +355,16 @@
         </p>
       </html:div>
     </preamble>
-    <theme name="Framework and API">
+    <theme name="Mylyn Builds">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Mylyn&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Mylyn&amp;product=Mylyn%20Builds&amp;target_milestone=0.7&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.6&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
-    </theme>
-    <theme name="User Interface">
-      <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml" />
-      </description>
-      <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
-      <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
-      <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=notregexp&amp;short_desc=api&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.6&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Mylyn&amp;product=Mylyn%20Builds&amp;target_milestone=0.8&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
   </themes_and_priorities>
 </plan>

@@ -452,13 +452,13 @@
 		<theme name="Mylyn Docs">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Docs&amp;target_milestone=1.4">All bugs scheduled for Mylyn Docs 1.4</a>
+					<a href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Docs&amp;target_milestone=1.4.0">All bugs scheduled for Mylyn Docs 1.4</a>
 				</html:div>
 			</description>
 			<committed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
 			<proposed
-				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
 			<deferred
 				bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.5&amp;keywords_type=allwords&amp;keywords=plan" />
 		</theme>
@@ -504,7 +504,7 @@
 		<theme name="Eclipse 4.1">
 			<description>
 				<html:div xmlns="http://www.w3.org/1999/xhtml">
-					<p>Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations.</p>
+					<p>Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations. Progress is tracked on <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=321278">bug 321278</a> and bugs tagged as [e4].</p>
 					<p>
 						<a
 							href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a>

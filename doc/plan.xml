@@ -27,7 +27,11 @@
         Eclipse ALM
         frameworks.
         </p>
-      <p>Please see the <a href="http://wiki.eclipse.org/Mylyn/Charter">project charter</a> for more details.</p>
+      <p>
+        Please see the
+        <a href="http://wiki.eclipse.org/Mylyn/Charter">project charter</a>
+        for more details.
+      </p>
       <p>
         <!-- <ul> <li>Tasks - Integration with Agile, issue, bug and defect tracking servers. The project provides rich task 
           editing, task list management and offline synchronization for ALM servers. Central portion of the ALM integration framework 
@@ -370,7 +374,12 @@
     <theme name="Builds">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.builds">Project plan for Mylyn Builds 0.7</a>
+          <p>Integration of continuous integration and build systems and seamless access to software build and assembly
+            technologies. Mylyn users will be able to access continuous integration processes, control build execution
+            and associate build results with tasks and context.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.builds">Project plan for Mylyn Builds 0.7</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -383,7 +392,11 @@
     <theme name="Commons">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.commons">Project plan for Mylyn Commons 3.5</a>
+          <p>The scope of this project is to provide a framework of common UI, web service, REST and test utilities to
+            be used by the rest of Mylyn and by other Eclipse-based tools.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.commons">Project plan for Mylyn Commons 3.5</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -396,7 +409,12 @@
     <theme name="Context">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.context">Project plan for Mylyn Context 3.5</a>
+          <p>Usage monitoring, degree-of-interested modeling and the task-focused user extensions implementation for the
+            Eclipse UI, which re-aligns the user experience around tasks and provides features such as workspace
+            focusing and one-click multitasking.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.context">Project plan for Mylyn Context 3.5</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -409,7 +427,12 @@
     <theme name="Docs">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.docs">Project plan for Mylyn Docs 1.4</a>
+          <p>The scope of this project is Eclipse-based access to documentation systems such as Wikis and other portals.
+            This builds on the Mylyn WikiText framework.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.docs">Project plan for Mylyn Docs 1.4</a>
+          </p>
+
         </html:div>
       </description>
       <committed
@@ -422,7 +445,13 @@
     <theme name="Reviews">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.reviews">Project plan for Mylyn Reviews 0.7</a>
+          <p>Eclipse-based code review functionality that's seamlessly integrated with the Tasks and SCM systems
+            supported by Mylyn. Eclipse integration for Agile code reviews, the formal IEEE code review process, review
+            reports with BIRT and aim to support many Eclipse artifact for reviews, e.g. JDT (Java files), CDT (C/C++
+            files), EMF (models).</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.reviews">Project plan for Mylyn Reviews 0.7</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -435,8 +464,12 @@
     <theme name="Tasks">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-        <p>Integration with Agile, issue, bug and defect tracking servers. Mylyn Tasks provides rich task editing, task list management and offline synchronization for ALM servers. Central portion of the ALM integration framework used by other projects, eg, task-based changed tracking for the SCM project.</p>
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.tasks">Project plan for Mylyn Tasks 3.5</a>
+          <p>Integration with Agile, issue, bug and defect tracking servers. Mylyn Tasks provides rich task editing,
+            task list management and offline synchronization for ALM servers. Central portion of the ALM integration
+            framework used by other projects, eg, task-based changed tracking for the SCM project.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.tasks">Project plan for Mylyn Tasks 3.5</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -449,7 +482,12 @@
     <theme name="Versions">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.versions">Project plan for Mylyn Versions 0.7</a>
+          <p>Eclipse integration for source code and configuration management tools(SCM, SCCM) and bi-directional
+            linking to change management tools. Mylyn Versions and the API it provides builds on the existing Eclipse
+            Team APIs.</p>
+          <p>
+            <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.versions">Project plan for Mylyn Versions 0.7</a>
+          </p>
         </html:div>
       </description>
       <committed
@@ -466,15 +504,17 @@
             Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations. Progress is
             tracked on
             <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=321278">bug 321278</a>
-            and bugs tagged as [e4].
+            .
           </p>
-          <p>
-            <a
-              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a>
-          </p>
-          <p>
-            <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration test results on Eclipse 4.1</a>
-          </p>
+          <ul>
+            <li>
+              <a
+                href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a>
+            </li>
+            <li>
+              <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration test results on Eclipse 4.1</a>
+            </li>
+          </ul>
         </html:div>
       </description>
     </theme>

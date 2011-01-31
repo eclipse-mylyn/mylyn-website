@@ -51,7 +51,7 @@
       <p>The Mylyn project does a coordinated releases twice a year.</p>
       <ul>
         <li>
-          <b>Mylyn Builds</b>
+          <b>Mylyn Builds (Incubation)</b>
           <ul>
             <li>Hudson Connector</li>
           </ul>
@@ -65,7 +65,7 @@
           </ul>
         </li>
         <li>
-          <b>Context Project</b>
+          <b>Mylyn Context</b>
           <ul>
             <li>Focused UI</li>
             <li>Eclipse IDE Bridge</li>
@@ -76,14 +76,14 @@
           </ul>
         </li>
         <li>
-          <b>Docs Project</b>
+          <b>Mylyn Docs</b>
           <ul>
             <li>WikiText</li>
             <li>HtmlText</li>
           </ul>
         </li>
         <li>
-          <b>Reviews Project</b>
+          <b>Mylyn Reviews (Incubation)</b>
           <ul>
             <li>Reviews for Eclipse (R4E)</li>
             <li>Task-based Reviews</li>
@@ -91,14 +91,14 @@
           </ul>
         </li>
         <li>
-          <b>Tasks Project</b>
+          <b>Mylyn Tasks (Incubation)</b>
           <ul>
             <li>Bugzilla Connector</li>
             <li>Trac Connector</li>
           </ul>
         </li>
         <li>
-          <b>Versions Project</b>
+          <b>Mylyn Versions (Incubation)</b>
           <ul>
             <li>CVS Connector</li>
           </ul>
@@ -111,7 +111,7 @@
           </ul>
         </li>
       </ul>
-      <p>The Incubator project does not have releases by definition.</p>
+      <p>The Mylyn Incubator (Incubation) does not have releases by definition.</p>
     </html:div>
   </release_deliverables>
   <release_milestones>
@@ -349,10 +349,6 @@
           In addition to using the planned themes listed below, we continue prioritizing the ongoing input of our
           growing user community. 
         </p>
-        <p>
-          <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Tools&amp;product=Mylyn&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn 3.5</a>
-        </p>
       </html:div>
     </preamble>
     <theme name="Mylyn Builds">
@@ -397,11 +393,68 @@
       <deferred
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
+    <theme name="Mylyn Docs">
+      <description>
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+                  <a
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Docs&amp;target_milestone=1.4">All bugs scheduled for Mylyn Docs 1.4</a>
+        </html:div>
+      </description>
+      <committed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+      <proposed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.4&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+      <deferred
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.5&amp;keywords_type=allwords&amp;keywords=plan" />
+    </theme>
+    <theme name="Mylyn Reviews">
+      <description>
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+                  <a
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Reviews&amp;target_milestone=0.7">All bugs scheduled for Mylyn Reviews 0.7</a>
+        </html:div>
+      </description>
+      <committed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+      <proposed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+      <deferred
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
+    </theme>
+    <theme name="Mylyn Tasks">
+      <description>
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+                  <a
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Tasks&amp;target_milestone=3.5">All bugs scheduled for Mylyn Tasks 3.5</a>
+        </html:div>
+      </description>
+      <committed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+      <proposed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+      <deferred
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
+    </theme>
+    <theme name="Mylyn Versions">
+      <description>
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+                  <a
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?product=Mylyn%20Versions&amp;target_milestone=0.7">All bugs scheduled for Mylyn Versions 0.7</a>
+        </html:div>
+      </description>
+      <committed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+      <proposed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.7&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+      <deferred
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
+    </theme>
     <theme name="Eclipse 4.1">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
         	<p>Mylyn 3.5 will support installation into Eclipse 4.1 and function with known limitations.</p>
-        	<p><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">All known bugs on Eclipse 4.1</a></p>
+        	<p><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known Mylyn bugs on Eclipse 4.1</a></p>
+        	<p><a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/"/>Integration test results on Eclipse 4.1</a></p>
         </html:div>
       </description>
     </theme>

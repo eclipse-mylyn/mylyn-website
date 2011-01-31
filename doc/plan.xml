@@ -126,6 +126,7 @@
 					<ul>
 						<li>WikiText</li>
 						<li>HtmlText</li>
+						<li>Mylyn WikiText SDK</li>
 					</ul>
 				</li>
 				<li>
@@ -137,7 +138,7 @@
 					</ul>
 				</li>
 				<li>
-					<b>Mylyn Tasks (Incubation)</b>
+					<b>Mylyn Tasks</b>
 					<ul>
 						<li>Bugzilla Connector</li>
 						<li>Trac Connector</li>
@@ -150,10 +151,9 @@
 					</ul>
 				</li>
 				<li>
-					<b>SDK Features</b>
+					<b>Mylyn</b>
 					<ul>
-						<li>Mylyn SDK</li>
-						<li>Mylyn WikiText SDK</li>
+						<li>Mylyn SDK</li>					
 					</ul>
 				</li>
 			</ul>

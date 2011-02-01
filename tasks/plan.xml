@@ -134,11 +134,11 @@
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla%20Connector&amp;component=Trac%20Connector&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla&amp;component=OSLC&amp;component=Trac&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla%20Connector&amp;component=Trac%20Connector&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla&amp;component=OSLC&amp;component=Trac&amp;target_milestone=3.5&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla%20Connector&amp;component=Trac%20Connector&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;component=Bugzilla&amp;component=OSLC&amp;component=Trac&amp;target_milestone=3.6&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
   </themes_and_priorities>
 </plan>

@@ -165,6 +165,7 @@
       <deferred
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;component=CVS%20Connector&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
+    <!--
     <theme name="OSLC Connector">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
@@ -176,5 +177,6 @@
       <deferred
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;component=OSLC%20Connector&amp;target_milestone=0.8&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
+     -->
   </themes_and_priorities>
 </plan>

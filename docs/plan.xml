@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="mylyn.docs" version="3.5" />
+  <release projectid="mylyn.docs" version="1.4" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -44,19 +44,19 @@
         </p>
       </html:div>
     </preamble>
-    <milestone date="2011-02-16" milestone="3.5 RC1">
+    <milestone date="2011-02-16" milestone="1.4 RC1">
       <html:div>Release Candidate (API and Feature Complete)</html:div>
     </milestone>
-    <milestone date="2011-02-23" milestone="3.5 RC2">
+    <milestone date="2011-02-23" milestone="1.4 RC2">
       <html:div>Release Candidate</html:div>
     </milestone>
-    <milestone date="2011-03-02" milestone="3.5 RC3">
+    <milestone date="2011-03-02" milestone="1.4 RC3">
       <html:div>Release Candidate (API Freeze)</html:div>
     </milestone>
-    <milestone date="2011-03-09" milestone="3.5 RC4">
+    <milestone date="2011-03-09" milestone="1.4 RC4">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2011-03-16" milestone="3.5">
+    <milestone date="2011-03-16" milestone="1.4">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -107,7 +107,7 @@
         </p>
         <p>
           <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Mylyn&amp;product=Mylyn%20Docs&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn Docs 3.5</a>
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Mylyn&amp;product=Mylyn%20Docs&amp;target_milestone=1.4.0&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn Docs 1.4.0</a>
           .
         </p>
       </html:div>

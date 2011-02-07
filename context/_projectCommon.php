@@ -12,17 +12,17 @@
 	# these are optional
 	$Nav->setLinkList(array());
 	$Nav->addNavSeparator("Mylyn", 	"/mylyn/");
-	$Nav->addCustomNav("About", "/projects/project_summary.php?projectid=mylyn.incubator", "_self", 3);
-	#$Nav->addCustomNav("Plan", "/projects/project-plan.php?projectid=mylyn.incubator", "_self", 3);
+	$Nav->addCustomNav("About", "/projects/project_summary.php?projectid=mylyn.context", "_self", 3);
+	$Nav->addCustomNav("Plan", "/projects/project-plan.php?projectid=mylyn.context", "_self", 3);
 	
-	$pageKeywords	= "eclipse, mylyn, incubator";
+	$pageKeywords	= "eclipse, mylyn, context, bugzilla, trac";
 	$pageAuthor		= "Steffen Pingel";
-	$pageTitle 		= "Mylyn Incubator";
+	$pageTitle 		= "Mylyn Context";
 
 	$Menu->setMenuItemList(array());
 	$Menu->addMenuItem("Mylyn", "/mylyn/", "_self");
-	$Menu->addMenuItem("About", "/projects/project_summary.php?projectid=mylyn.incubator", "_self");
-	#$Menu->addMenuItem("Plan", "/projects/project-plan.php?projectid=mylyn.incubator", "_self");
+	$Menu->addMenuItem("About", "/projects/project_summary.php?projectid=mylyn.context", "_self");
+	$Menu->addMenuItem("Plan", "/projects/project-plan.php?projectid=mylyn.context", "_self");
 	
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style.css"/>' . "\n\t");
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="style2.css"/>' . "\n\t");

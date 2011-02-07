@@ -61,11 +61,11 @@ $html = <<<EOHTML
 						<tr><td>Community and commercial support</td></tr>
 					</table>
 				</td>
-				<td><a href="/mylyn/builds/"><img border=0 src="/mylyn/images/archives.gif"></a></td>
+				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><font size=+0><a href="/mylyn/builds">Older Downloads</a></font></td>
+			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></td>
 						</tr>
 						<tr><td>Download archive and support for Eclipse 3.3 and 3.2</td></tr>
 					</table>

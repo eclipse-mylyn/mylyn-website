@@ -369,7 +369,7 @@
     <theme name="Commons">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <p>The scope of this project is to provide a framework of common UI, web service, REST and test utilities to
+          <p>Framework of common UI, web service, REST and test utilities to
             be used by the rest of Mylyn and by other Eclipse-based tools.</p>
           <p>
             <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.commons">Project plan for Mylyn Commons 3.5</a>
@@ -404,7 +404,7 @@
     <theme name="Docs">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <p>The scope of this project is Eclipse-based access to documentation systems such as Wikis and other portals.
+          <p>Eclipse-based access to documentation systems such as Wikis and other portals.
             This builds on the Mylyn WikiText framework.</p>
           <p>
             <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn.docs">Project plan for Mylyn Docs 1.4</a>

@@ -123,15 +123,19 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
+					<!--
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-latest.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
+					-->
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
 				</li>
 				<li>
+					<!--
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-latest-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
+					-->
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/incubator/3.5</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
 				</li>
 			</ul>

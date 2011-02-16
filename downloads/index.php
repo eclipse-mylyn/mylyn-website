@@ -126,13 +126,13 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-latest.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/weekly</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
 				</li>
 				<li>
 					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/weekly/mylyn-latest-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/tools/mylyn/update/weekly/incubator</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/incubator/3.5</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
 				</li>
 			</ul>
 		</div>

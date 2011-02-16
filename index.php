@@ -125,12 +125,16 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a target="_new" href="https://www2.gotomeeting.com/register/363663715">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20, 2011 8:00 AM – 9:00 AM PST</i>
-	            		</li>
-						<li>
 		            		<a target="_new" href="https://www2.gotomeeting.com/register/851194155">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a>, <i>February 24, 2011 9:00 AM – 10:00 AM PST</i>
+	            		</li>
+	            		<li>
+		            		<a target="_new" href="http://tasktop.com/blog/eclipse/predictions-2011-agile-alm-developer-intro">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a>, <i>January 25th, 2011</i>
+	            		</li>
+						<li>
+		            		<a target="_new" href="http://tasktop.com/videos/hp-quality-center/rational-team-concert-integration/">
+		           			Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20 (registration required)</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

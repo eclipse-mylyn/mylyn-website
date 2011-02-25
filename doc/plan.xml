@@ -37,6 +37,7 @@
         <li>
           <b>Mylyn Builds (Incubation)</b>
           <ul>
+            <li>Builds Framework</li>
             <li>Hudson Connector</li>
           </ul>
         </li>
@@ -64,6 +65,7 @@
           <ul>
             <li>WikiText</li>
             <li>HtmlText</li>
+            <li>Mylyn Docs SDK</li>
             <li>Mylyn WikiText SDK</li>
           </ul>
         </li>
@@ -78,6 +80,7 @@
         <li>
           <b>Mylyn Tasks</b>
           <ul>
+            <li>Task List</li>
             <li>Bugzilla Connector</li>
             <li>Trac Connector</li>
           </ul>
@@ -86,6 +89,8 @@
           <b>Mylyn Versions (Incubation)</b>
           <ul>
             <li>CVS Connector</li>
+            <li>Git Connector</li>
+            <li>Versions Framework</li>
           </ul>
         </li>
         <li>

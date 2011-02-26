@@ -76,17 +76,17 @@ $html = <<<EOHTML
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>3.4.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2010-08-04). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
+			<h3>3.4.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2011-02-25). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.2-e3.4.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.3-e3.4.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
 				</li>
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.2-incubator.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.3-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)

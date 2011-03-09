@@ -125,6 +125,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a target="_new" href="http://tasktop.com/about/webinars/">
+		           			Mylyn Ecosystem Webinar: HP Quality Center Connector<img border="0" src="/mylyn/images/external-link.png"></a>, <i>March 17</i>
+	            		</li>
+						<li>
 		            		<a href="new/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4.3 released</a> <i>Feb 25, 2011</i>
 	            		</li>
@@ -139,10 +143,6 @@ $html = <<<EOHTML
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a>, <i>January 25th, 2011</i>
 	            		</li>
 						<li>
-		            		<a target="_new" href="http://tasktop.com/videos/hp-quality-center/rational-team-concert-integration/">
-		           			Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20 (registration required)</i>
-	            		</li>
-						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
 		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Sep 16, 2010</i>
 	            		</li>
@@ -153,7 +153,16 @@ $html = <<<EOHTML
 								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
 								 	webcast by Mik Kersten (Tasktop) <i>July 30, 2008</i>
 						</li>
+	            		
+	            		
+	            		
 	            		<!--
+	            		
+	            		<li>
+		            		<a target="_new" href="http://tasktop.com/videos/hp-quality-center/rational-team-concert-integration/">
+		           			Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20 (registration required)</i>
+	            		</li>
+	            		
 						<li>
 							<a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a> � Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>

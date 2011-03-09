@@ -126,7 +126,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/about/webinars/">
-		           			Mylyn Ecosystem Webinar: HP Quality Center Connector<img border="0" src="/mylyn/images/external-link.png"></a>, <i>March 17</i>
+		           			img src="images/star.png"/>&nbsp;&nbsp;Mylyn Ecosystem Webinar: HP Quality Center Connector<img border="0" src="/mylyn/images/external-link.png"></a>, <i>March 17</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

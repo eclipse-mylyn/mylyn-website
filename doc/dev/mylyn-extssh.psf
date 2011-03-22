@@ -23,6 +23,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.bugzilla.ide,org.eclipse.mylyn.bugzilla.ide"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.cdt-feature,org.eclipse.mylyn.cdt-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.cdt.ui,org.eclipse.mylyn.cdt.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.cdt.tests,org.eclipse.mylyn.cdt.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.context-feature,org.eclipse.mylyn.context-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.context.core,org.eclipse.mylyn.context.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.contexts/org.eclipse.mylyn.context.tests,org.eclipse.mylyn.context.tests"/>

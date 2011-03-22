@@ -76,25 +76,16 @@ $html = <<<EOHTML
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>3.4.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2011-02-25). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
+			<h3>3.5 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2011-03-16). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.3-e3.4.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/archive/3.5.0/v20110316-0100/mylyn-3.5.0.v20110316-0100.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/e3.4</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
-				</li>
-				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/update/mylyn-3.4.3-incubator.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>download.eclipse.org/tools/mylyn/update/incubator</b>&nbsp;&nbsp;(Eclipse 3.4, 3.5, 3.6)
-					<br> 
-					<font size=-1>Web Templates Connector, XPlanner 0.7 and later, UI Usage Reporting, UI Experiments</font>
+					&nbsp;&nbsp;<b>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
 				</li>
 			</ul>
-			<br>&nbsp;&nbsp;&nbsp;Note: The Mylyn JIRA Connector <a href="http://wiki.eclipse.org/index.php/Mylyn_FAQ#What_happened_to_the_Mylyn_JIRA_Connector.3F">has moved to Atlassian</a> and the Trac connector is now available from the e3.4 repository.
 		</div>
 
 		<div class="homeitem3col" style="margin-left:40px; width:75%">

@@ -124,18 +124,13 @@ $html = <<<EOHTML
 	         	<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
-						<!--<li>
-		            		<a target="_new" href="http://tasktop.com/about/webinars/">
-		           			<img width="48" height="48" src="images/hp-small.png"/>&nbsp;&nbsp;Mylyn Ecosystem Webinar: HP Quality Center Connector<img border="0" src="/mylyn/images/external-link.png"></a>, <i>March 17</i>
+						<li>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.5 released</a> <i>March 16, 2011</i>
 	            		</li>
-	            		-->
 	            		<li>
 		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#mar312011">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Introducing Tasktop 2.0<img border="0" src="/mylyn/images/external-link.png"></a>, <i>March 31</i>
-	            		</li>
-						<li>
-		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.4.3 released</a> <i>Feb 25, 2011</i>
 	            		</li>
 	            		<!--
 						<li>

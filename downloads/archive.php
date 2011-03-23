@@ -46,7 +46,7 @@
 			</ul>	
 		</div>
 
-		<div class="homeitem3.5.0>
+		<div class="homeitem3col">
 			<h3>3.4.3 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>

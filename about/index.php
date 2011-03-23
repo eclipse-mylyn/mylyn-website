@@ -50,6 +50,7 @@
 		<div class="homeitem3col">
 			<h3>Release Reviews</h3>
 			<ul>
+				<li><a href="/mylyn/publications/2011-03-mylyn-3.5-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.5 release review</a></li>
 				<li><a href="/mylyn/publications/2010-06-mylyn-3.4-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.4 release review</a></li>
 				<li><a href="/mylyn/publications/2009-10-mylyn-3.3-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.3 release review</a></li>
 				<li><a href="/mylyn/publications/2009-06-mylyn-3.2-release-review.ppt"><img border=0 src="/mylyn/images/icon-ppt.gif"> Mylyn 3.2 release review</a></li>

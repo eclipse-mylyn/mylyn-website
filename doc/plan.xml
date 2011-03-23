@@ -120,19 +120,19 @@
         </p>
       </html:div>
     </preamble>
-    <milestone date="2011-02-16" milestone="3.6 RC1">
+    <milestone date="2011-05-18" milestone="3.6 RC1">
       <html:div>Release Candidate (API and Feature Complete)</html:div>
     </milestone>
-    <milestone date="2011-02-23" milestone="3.6 RC2">
+    <milestone date="2011-05-25" milestone="3.6 RC2">
       <html:div>Release Candidate</html:div>
     </milestone>
-    <milestone date="2011-03-02" milestone="3.6 RC3">
+    <milestone date="2011-06-01" milestone="3.6 RC3">
       <html:div>Release Candidate (API Freeze)</html:div>
     </milestone>
-    <milestone date="2011-03-09" milestone="3.6 RC4">
+    <milestone date="2011-06-08" milestone="3.6 RC4">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2011-03-16" milestone="3.6">
+    <milestone date="2011-06-22" milestone="3.6">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -146,34 +146,16 @@
           <table border="1" align="center">
             <tr>
               <td>
-                <b>3.4.1</b>
+                <b>3.5.1</b>
               </td>
-              <td>2010-08-04</td>
+              <td>2011-05</td>
               <td>
-                <div>Service Release</div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>3.4.2</b>
-              </td>
-              <td>2010-09-24</td>
-              <td>
-                <div>Service Release (Helios SR1)</div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>3.4.3</b>
-              </td>
-              <td>2011-02-25</td>
-              <td>
-                <div>Service Release (Helios SR2)</div>
+                <div>Service Release (Tentative)</div>
               </td>
             </tr>
           </table>
         </p>
-
+        <!-- 
         <p>
           <b>Tentative Plan</b>
         </p>
@@ -190,7 +172,7 @@
             </tr>
           </table>
         </p>
-
+        -->
         <p>
           <b>
             <a name="rampdown">Ramp Down</a>

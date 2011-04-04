@@ -126,25 +126,25 @@ $html = <<<EOHTML
 					<ul>
 	            		<li>
 		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a>, <i>May 26, 2011</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
 	            		</li>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.5 released</a>, <i>March 16, 2011</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.5 released</a> <i>March 16, 2011</i>
 	            		</li>
 	            		<!--
 						<li>
 		            		<a target="_new" href="https://www2.gotomeeting.com/register/851194155">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a>, <i>February 24, 2011 10:00 AM PST</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a> <i>February 24, 2011 10:00 AM PST</i>
 	            		</li>
 	            		-->
 	            		<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/predictions-2011-agile-alm-developer-intro">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a>, <i>January 25th, 2011</i>
+		           			Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a> <i>January 25th, 2011</i>
 	            		</li>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
-		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Sep 16, 2010</i>
+		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a> <i>Sep 16, 2010</i>
 	            		</li>
 	            		
 						<li>

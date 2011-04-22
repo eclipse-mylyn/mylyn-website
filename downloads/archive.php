@@ -35,6 +35,18 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 
 		<div class="homeitem3col">
+			<h3>3.5.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/archive/3.5.1/v20110422-0200/mylyn-3.5.1.v20110422-0200.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>download.eclipse.org/mylyn/archive/3.5.1/v20110422-0200</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6 and 3.7M6)
+	        	</li>
+			</ul>	
+		</div>
+
+		<div class="homeitem3col">
 			<h3>3.5.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>

@@ -51,7 +51,7 @@
 			</table>
 			 <ul>
 				 <li>
-			 		<a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.tools.mylyn">Browse newsgroup posts</a> using the web interface
+			 		<a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=83&S=df429d3c2bf78bb5c03317ff90c312ae">Browse newsgroup posts</a> using the web interface
 				</li>
 			 	<li>
 					<a href="news://news.eclipse.org/eclipse.tools.mylyn">Subscribe</a> to the newsgroup with your news reader.

@@ -128,21 +128,9 @@ $html = <<<EOHTML
 		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
 	            		</li>
-	            		<li>
-		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may052011">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Code Reviews Don't Have to Suck<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 5, 2011</i>
-	            		</li>
-	            		<li>
-		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#apr272011">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Agile Workflow in the Mylyn Framework: Tasktop, Perforce, and Eclipse<img border="0" src="/mylyn/images/external-link.png"></a> <i>April 27, 2011</i>
-	            		</li>
 						<li>
 		            		<a href="new/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.5.1 released</a> <i>April 22, 2011</i>
-	            		</li>
-						<li>
-		            		<a href="new/">
-		           			Mylyn 3.5 released</a> <i>March 16, 2011</i>
 	            		</li>
 	            		<!--
 						<li>

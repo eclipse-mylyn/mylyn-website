@@ -5,6 +5,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn,org.eclipse.mylyn"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons-feature,org.eclipse.mylyn.commons-feature"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.core,org.eclipse.mylyn.commons.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.identity,org.eclipse.mylyn.commons.identity"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.net,org.eclipse.mylyn.commons.net"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.notifications,org.eclipse.mylyn.commons.notifications"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.repositories,org.eclipse.mylyn.commons.repositories"/>
@@ -13,6 +14,7 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.team,org.eclipse.mylyn.commons.team"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.tests,org.eclipse.mylyn.commons.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.ui,org.eclipse.mylyn.commons.ui"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.ui.identity,org.eclipse.mylyn.commons.ui.identity"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.commons.xmlrpc,org.eclipse.mylyn.commons.xmlrpc"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.discovery.core,org.eclipse.mylyn.discovery.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.commons/org.eclipse.mylyn.discovery.tests,org.eclipse.mylyn.discovery.tests"/>
@@ -83,6 +85,8 @@
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.tasks/org.eclipse.mylyn.trac.tests,org.eclipse.mylyn.trac.tests"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.tasks/org.eclipse.mylyn.trac.ui,org.eclipse.mylyn.trac.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.versions/org.eclipse.mylyn.cvs.core,org.eclipse.mylyn.cvs.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.versions/org.eclipse.mylyn.git.core,org.eclipse.mylyn.git.core"/>
+<project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.versions/org.eclipse.mylyn.git.ui,org.eclipse.mylyn.git.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.versions/org.eclipse.mylyn.versions.core,org.eclipse.mylyn.versions.core"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn.versions/org.eclipse.mylyn.versions.ui,org.eclipse.mylyn.versions.ui"/>
 <project reference="1.0,:extssh:dev.eclipse.org:/cvsroot/mylyn,org.eclipse.mylyn/org.eclipse.mylyn.discovery-directory,org.eclipse.mylyn.discovery-directory"/>

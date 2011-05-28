@@ -14,14 +14,36 @@
 <description>Mylyn Updates</description>
 <lastBuildDate>Fri, 27 May 2011 17:33:37 +0000</lastBuildDate>
 <language>en</language>
+
 <item>
-<title>Mylyn 3.6 is now available</title>
+<title>New Connectors</title>
 <link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Thu, 24 Mar 2011 14:00:07 +0000</pubDate>
+<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
 <category>frameworkVersion=[0.0.0,3.7.0)</category>
-<guid isPermaLink="false">http://eclipse.org/mylyn/updates/1</guid>
-<description>Mylyn 3.6 is now available. &lt;a href="#discovery"&gt;Update to the latest&lt;/a&gt;.</description>
+<guid isPermaLink="false">20110529-0001</guid>
+<description>New connectors are now available. &lt;a href="#discovery"&gt;Show connectors&lt;/a&gt;.</description>
 </item>
+
+<item>
+<title>Connector Update</title>
+<link>http://eclipse.org/mylyn/new/</link>
+<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
+<dc:creator>Steffen Pingel</dc:creator>
+<category>frameworkVersion=[3.6.0,3.7.0)</category>
+<guid isPermaLink="false">20110529-0000</guid>
+<description>An updated Bugzilla connector is now available. &lt;a href="#discovery"&gt;Show connectors&lt;/a&gt;.</description>
+</item>
+
+<item>
+<title>Mylyn Update</title>
+<link>http://eclipse.org/mylyn/new/</link>
+<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
+<dc:creator>Steffen Pingel</dc:creator>
+<category>frameworkVersion=[0.0.0,3.6.0)</category>
+<guid isPermaLink="false">http://eclipse.org/mylyn/updates/1</guid>
+<description>Mylyn 3.6 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
+</item>
+
 </channel>
 </rss>

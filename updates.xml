@@ -21,9 +21,7 @@
 <dc:creator>Steffen Pingel</dc:creator>
 <category>frameworkVersion=[0.0.0,3.7.0)</category>
 <guid isPermaLink="false">http://eclipse.org/mylyn/updates/1</guid>
-<description>
-Mylyn 3.6 is now available. <a href="#action:update">Update to the latest</a>.
-</description>
+<description>Mylyn 3.6 is now available. &lt;a href="#discovery"&gt;Update to the latest&lt;/a&gt;.</description>
 </item>
 </channel>
 </rss>

@@ -1,59 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>Mylyn Updates</title>
-<atom:link href="http://eclipse.org/mylyn/updates.xml" rel="self" type="application/rss+xml"/>
 <link>http://eclipse.org/mylyn</link>
 <description>Mylyn Updates</description>
-<lastBuildDate>Fri, 27 May 2011 17:33:37 +0000</lastBuildDate>
 <language>en</language>
-
-<item>
-<title>Mylyn Update</title>
-<link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Fri, 22 Jun 2012 12:00:00 +0000</pubDate>
-<dc:creator>Steffen Pingel</dc:creator>
-<category>frameworkVersion=[0.0.0,3.7.0)</category>
-<guid isPermaLink="false">20120622-0000</guid>
-<description>Mylyn 3.7 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New and Noteworthy&lt;/a&gt; for details.</description>
-</item>
 
 <item>
 <title>New Connectors</title>
 <link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
+<pubDate>Fri, 27 May 2011 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
-<category>frameworkVersion=[0.0.0,3.7.0)</category>
-<guid isPermaLink="false">20110529-0001</guid>
+<dc:subject>frameworkVersion=[0.0.0,3.7.0)</dc:subject>
+<guid isPermaLink="false">20110527-0000</guid>
 <description>New connectors are now available. &lt;a href="#discovery"&gt;Show connectors&lt;/a&gt;.</description>
 </item>
-
-<item>
-<title>Connector Update</title>
-<link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
-<dc:creator>Steffen Pingel</dc:creator>
-<category>frameworkVersion=[3.6.0,3.7.0)</category>
-<guid isPermaLink="false">20110529-0000</guid>
-<description>An updated Bugzilla connector is now available. &lt;a href="#discovery"&gt;Show connectors&lt;/a&gt;.</description>
-</item>
-
+<--
 <item>
 <title>Mylyn Update</title>
 <link>http://eclipse.org/mylyn/new/</link>
 <pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
-<category>frameworkVersion=[0.0.0,3.6.0)</category>
+<dc:subject>frameworkVersion=[0.0.0,3.6.0)</dc:subject>
 <guid isPermaLink="false">20110622-0000</guid>
 <description>Mylyn 3.6 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
 </item>
-
+-->
 </channel>
 </rss>

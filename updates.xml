@@ -13,7 +13,7 @@
 <dc:creator>Steffen Pingel</dc:creator>
 <dc:subject>frameworkVersion=[0.0.0,3.7.0)</dc:subject>
 <guid isPermaLink="false">20110527-0000</guid>
-<description>New connectors are now available. &lt;a href="http://eclipse.org/mylyn/new/#action:discovery"&gt;Show connectors&lt;/a&gt;.</description>
+<description>New connectors are now available. &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;Show connectors&lt;/a&gt;.</description>
 </item>
 <!--
 <item>

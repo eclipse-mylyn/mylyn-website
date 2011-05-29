@@ -16,6 +16,16 @@
 <language>en</language>
 
 <item>
+<title>Mylyn Update</title>
+<link>http://eclipse.org/mylyn/new/</link>
+<pubDate>Wed, 22 Jun 2012 12:00:00 +0000</pubDate>
+<dc:creator>Steffen Pingel</dc:creator>
+<category>frameworkVersion=[0.0.0,3.7.0)</category>
+<guid isPermaLink="false">20120622-0000</guid>
+<description>Mylyn 3.7 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
+</item>
+
+<item>
 <title>New Connectors</title>
 <link>http://eclipse.org/mylyn/new/</link>
 <pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
@@ -41,7 +51,7 @@
 <pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
 <category>frameworkVersion=[0.0.0,3.6.0)</category>
-<guid isPermaLink="false">http://eclipse.org/mylyn/updates/1</guid>
+<guid isPermaLink="false">20110622-0000</guid>
 <description>Mylyn 3.6 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
 </item>
 

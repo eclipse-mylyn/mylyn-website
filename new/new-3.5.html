@@ -12,12 +12,37 @@
 		<font color="#FFFFFF" size="1">Community Contributions</font></b></td>
 	</tr>
 	<tr>
-		<td bgcolor="#FAF7FB"><font size="1">3.5<br>
-		<i>March 16, 2011</i></font></td>
+		<td bgcolor="#FAF7FB"><font size="1">3.5.1<br>
+		<i>Apr 22, 2011</i></font></td>
 		<td bgcolor="#FAF7FB" align="center">
-		<a href="/doc/mylyn/plan-3.5.html">
+		<font size="1">13</font><br><font size="1">bugs</font></td>
+		<td bgcolor="#FAF7FB"><font size="1">Service release.
+			<br>Includes: 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.5.1">Mylyn 3.5.1</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Builds;target_milestone=0.7.1">Mylyn Builds 0.7.1</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Commons;target_milestone=3.5.1">Mylyn Commons 3.5.1</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Context;target_milestone=3.5.1">Mylyn Context 3.5.1</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Docs;target_milestone=1.4.1">Mylyn Docs 1.4.1</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Tasks;target_milestone=3.5.1">Mylyn Tasks 3.5.1</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Versions;target_milestone=0.7.1">Mylyn Versions 0.7.1</a>.
+		</font></td>
+	</tr>
+	<tr>
+		<td bgcolor="#FAF7FB"><font size="1">3.5<br>
+		<i>March 16,&nbsp;2011</i></font></td>
+		<td bgcolor="#FAF7FB" align="center">
+		<a href="/mylyn/doc/plan-3.5.html">
 		<font size="1">350</font><br><font size="1">bugs</font></a></td>
-		<td bgcolor="#FAF7FB"><font size="1">Sam Davis and Thomas Ehrnhoefer provided several enhancements and bug fixes. Markus Knittig contributed the initial implementation of the Hudson/Jenkins connector. Additional contributions were provided by Charley Wang, Pawel Niewiadomski, Kevin Sawicki and David Shepherd.</font></td>
+		<td bgcolor="#FAF7FB"><font size="1">Sam Davis and Thomas Ehrnhoefer provided several enhancements and bug fixes. Markus Knittig contributed the initial implementation of the Hudson/Jenkins connector. Additional contributions were provided by Charley Wang, Pawel Niewiadomski, Kevin Sawicki and David Shepherd.
+			<br>Includes: 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.5">Mylyn 3.5</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Builds;target_milestone=0.7">Mylyn Builds 0.7</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Commons;target_milestone=3.5">Mylyn Commons 3.5</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Context;target_milestone=3.5">Mylyn Context 3.5</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Docs;target_milestone=1.4.0">Mylyn Docs 1.4</a>, 
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Tasks;target_milestone=3.5">Mylyn Tasks 3.5</a>,
+			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Versions;target_milestone=0.7">Mylyn Versions 0.7</a>.
+		</font></td>
 	</tr>
 </table>
 
@@ -127,10 +152,31 @@
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Alt+click Replacement</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Focused navigators display an affordance on hover
+		that shows children of the clicked node. Pressing the plus icon is the
+		equivalent of Alt+clicking. When navigating using Alt+click or the
+		hover affordance revealed nodes now remain visible until a node is
+		added to the context.</p>
+		<p align="left">When a task is activated that does not have a
+		context auto focusing is now disabled by default. The behavior for
+		tasks that have a context is unchanged.</p>
+		<p><img border="0" src="images/3.5/context-hover-affordance.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Merging of Contexts</b></p>
 		</td>
 		<td valign="top" width="85%">
-		<p align="left">Sam Davis contributed an enhancement that displays a prompt to merge or replace an existing context when copying a context between tasks.</p>
+		<p align="left">When copying a context between tasks a prompt to merge or replace an existing context is displayed.</p>
 		<p><img border="0" src="images/3.5/context-merge-contexts.png"></p>
 		</td>
 	</tr>	
@@ -163,13 +209,10 @@
 		<p align="right"><b>Hudson/Jenkins Connector (Incubation)</b></p>
 		</td>
 		<td valign="top" width="85%">
-		<p align="left">
-					The Hudson connector which also supports Jenkins was developed by Markus
-					Knittig as part of a <a href="http://wiki.eclipse.org/Mylyn/Hudson_Integration_for_Mylyn" target="_new">Google Summer of Code project</a> project.
-					It shows the status of selected jobs in a Builds view. For each job the
-					time of the last build is shown and the weather icon indicates how
-					frequently a build has failed in the recent history.
-				</p>
+		<p align="left">The Hudson connector which also supports Jenkins shows
+					the status of selected jobs in a Builds view. For each job the time
+					of the last build is shown and the weather icon indicates how
+					frequently a build has failed in the recent history.</p>
 		<p><img border="0" src="images/3.5/builds-view2.png"></p>
 		</td>
 	</tr>	

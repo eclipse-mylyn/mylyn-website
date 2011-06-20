@@ -87,6 +87,7 @@
 	<li><a href="#hudson">Hudson/Jenkins Connector</a></li>
 	<li><a href="#bugzilla">Bugzilla Connector</a></li>
 	<li><a href="#trac">Trac Connector</a></li>
+	<li><a href="#gerrit">Gerrit Connector</a></li>
 	<li><a href="#framework">Framework and API</a></li>
 </ul>
 
@@ -230,6 +231,7 @@
 		</td>
 		<td valign="top" width="85%">
 		<p align="left">The context of any task can be viewed now and not just the active task.</p>
+		<p><img border="0" src="images/3.6/context-preview.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -604,11 +606,146 @@
 	</tr>
 </table>
 
+<p>&nbsp;</p>
+<h2><a name="gerrit">Gerrit Connector</a></h2>
+
+<p>The Gerrit connector is part of the Mylyn Reviews project which is available for download from a <a href="http://eclipse.org/reviews/download.php" target="_new">separate repository</a>.</p>
+
+<table cellpadding="10" cellspacing="0">
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Task List Integration</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Reviews are added to the Task List through queries.</p>
+		<p><img border="0" src="images/3.5/gerrit-query.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b></b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Reviews are tasks like any other: Reviews can be scheduled, activated and update notifications are managed in the Task List.</p>
+		<p><img border="0" src="images/3.5/gerrit-task-list.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b></b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Gerrit repositories are configured in the same manner as task repositories.</p>
+		<p><img border="0" src="images/3.5/gerrit-repository-settings.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Review Editor</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Review tasks open in a rich editor.</p>
+		<p><img border="0" src="images/3.5/gerrit-editor-header.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b></b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The review editor shows the reviewers and their
+		votes. The requirements section lists outstanding requirements. 
+		If sections are collapsed a summary is displayed
+		next to the section header. Dependencies are navigable through
+		hyperlinks.</p>
+		<p><img border="0" src="images/3.5/gerrit-editor-review.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b></b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Review comments and the most recent patch set are displayed in the editor (required online access).</p>
+		<p><img border="0" src="images/3.5/gerrit-editor.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Submit Reviews</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Patch sets can be abandoned, restored, published and submitted.</p>
+		<p><img border="0" src="images/3.5/gerrit-editor-patch-sets.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b></b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">On publish a dialog is displayed for voting and entering a comment.</p>
+		<p><img border="0" src="images/3.5/gerrit-publish.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Fetch Patch Sets</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Patch sets can be fetched into the local workspace directly from the review editor.</p>
+		<p><img border="0" src="images/3.6/gerrit-fetch-patchset.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>View Review Content</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Review files open in the compare editor. Comments are indicated in a ruler and displayed when hovering over the marker.</p>
+		<p><img border="0" src="images/3.5/gerrit-compare-editor.png"></p>
+		</td>
+	</tr>	
+	<tr>
+		<td colspan="2">
+		<hr>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Add Comments</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Comments can be added to a review through the context menu of the compare editor.</p>
+		<p><img border="0" src="images/3.6/gerrit-add-comment.png"></p>
+		</td>
+	</tr>
+</table>
 
 <p>&nbsp;</p>
 <h2><a name="framework">Framework and API</a></h2>
 
-<p>See <a href="http://wiki.eclipse.org/Mylyn/Porting_Guide#Notable_API_changes_in_3.5" target="_new">porting guide</a> for additional notes on API changes.</p>
+<p>See <a href="http://wiki.eclipse.org/Mylyn/Porting_Guide#Notable_API_changes_in_3.6" target="_new">porting guide</a> for additional notes on API changes.</p>
 
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>

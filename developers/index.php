@@ -62,9 +62,9 @@
 					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn Page on Eclipsepedia</a>: Contributor and integrator links
 				</li>
 				<li>
-        			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
+        			<a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
            			EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
-           			<a href="http://www.eclipse.org/downloads/download.php?file=/tools/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
+           			<a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
         		</li>
 				<li>
 					<a href="http://www.eclipse.org/articles/">Eclipse Corner Articles</a>: General information about Eclipse and plug-in development
@@ -132,10 +132,10 @@
 			</table>
 			<ul>
 				<li> 
-					<a title="Mylyn 3.5.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/archive/3.5.0/mylyn-3.5.0-api.zip">
+					<a title="Mylyn 3.5.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.0/mylyn-3.5.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/archive/3.5.0/mylyn-3.5.0-api.zip">Mylyn 3.5 API Baseline</a></b>
+					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.0/mylyn-3.5.0-api.zip">Mylyn 3.5 API Baseline</a></b>
 				</li>
 			</ul>
 			<table border="0"> 

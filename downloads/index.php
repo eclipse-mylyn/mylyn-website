@@ -80,7 +80,7 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2011-04-22). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/archive/3.5.1/v20110422-0200/mylyn-3.5.1.v20110422-0200.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.1/v20110422-0200/mylyn-3.5.1.v20110422-0200.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)

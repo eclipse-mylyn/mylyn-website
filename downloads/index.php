@@ -90,8 +90,8 @@ $html = <<<EOHTML
 
 		<div class="homeitem3col" style="margin-left:40px; width:75%">
 	    	<a name="weekly"></a>
-			<h3>Weekly Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly (Wednesdays) builds are production quality, but subject to UI changes.
+			<h3>Snapshot Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly builds are production quality, but subject to UI changes.
 			<ul> 
 				<li>
 					<!--

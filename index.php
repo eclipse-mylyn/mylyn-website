@@ -124,13 +124,13 @@ $html = <<<EOHTML
 	         	<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
-	            		<li>
-		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
-	            		</li>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.5.1 released</a> <i>April 22, 2011</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6 released</a> <i>June 22, 2011</i>
+	            		</li>
+	            		<li>
+		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
+		           			Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
 	            		</li>
 	            		<!--
 						<li>
@@ -176,10 +176,6 @@ $html = <<<EOHTML
 		           			<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop"><img src="images/collabnet-wide.png" style="float:right; margin-right: 3px;"/></a>
 		           			</td>
 		           			</table>
-	            		</li>
-						<li>
-		            		<a href="http://tasktop.com/blog/eclipse/tasktop-14-and-eclipse-mylyn-31-released">
-		           			&nbsp;&nbsp; Mylyn 3.1 released!</a> <i>March 17th, 2009</i>
 	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/?p=32">

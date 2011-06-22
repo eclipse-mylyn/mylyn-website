@@ -67,7 +67,7 @@ $html = <<<EOHTML
 						<tr> 
 			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></td>
 						</tr>
-						<tr><td>Download archive and support for Eclipse 3.3 and 3.2</td></tr>
+						<tr><td>Download archive and support for Eclipse 3.4, 3.3 and 3.2</td></tr>
 					</table>
 				</td> 
 			</tr> 
@@ -76,11 +76,11 @@ $html = <<<EOHTML
 	
 	<!-- Release -->
 		 <div class="homeitem3col" style="margin-left:40px; width:75%">
-			<h3>3.5.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>3.6 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2011-04-22). Requires <a href="http://java.sun.com/j2se/1.5.0/download.jsp">JRE 5.0</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a> 3.0 and later, <a href="http://trac.edgewall.org/" target="_new">Trac</a> 0.10 and later.
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.1/v20110422-0200/mylyn-3.5.1.v20110422-0200.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.6/v20110608-1400/mylyn-3.6.0.v20110608-1400.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
@@ -99,7 +99,7 @@ $html = <<<EOHTML
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 3.6, 3.7, 3.8)
 				</li>
 				<li>
 					<!--
@@ -107,7 +107,7 @@ $html = <<<EOHTML
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/3.5</b>&nbsp;&nbsp;(Eclipse 3.5, 3.6, 3.7)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/3.6</b>&nbsp;&nbsp;(Eclipse 3.6, 3.7, 3.8)
 				</li>
 			</ul>
 		</div>

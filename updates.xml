@@ -5,7 +5,7 @@
 <link>http://eclipse.org/mylyn</link>
 <description>Mylyn Updates</description>
 <language>en</language>
-
+<!--
 <item>
 <title>New Connectors</title>
 <link>http://eclipse.org/mylyn/new/</link>
@@ -15,7 +15,6 @@
 <guid isPermaLink="false">20110527-0000</guid>
 <description>New connectors are now available. &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;Show connectors&lt;/a&gt;.</description>
 </item>
-<!--
 <item>
 <title>Mylyn Update</title>
 <link>http://eclipse.org/mylyn/new/</link>

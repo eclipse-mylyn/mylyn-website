@@ -129,11 +129,11 @@ $html = <<<EOHTML
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6 released</a> <i>June 22, 2011</i>
 	            		</li>
 						<li>
-		            		<a href="http://tasktop.com/videos/jax2011/keynote.php">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Task Focused Continuous Integration: Bringing Code to Cloud and back again</a> Keynote by Mik Kersten <i>June 22, 2011</i>
+		            		<a href="http://tasktop.com/videos/jax2011/keynote.php" target="_new">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Task Focused Continuous Integration: Bringing Code to Cloud and back again</a> keynote by Mik Kersten <i>June 22, 2011</i>
 	            		</li>
 						<li>
-		            		<a href="http://vimeo.com/25293932">
+		            		<a href="http://vimeo.com/25293932" target="_new">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Git, Gerrit, Hudson and one Mylyn to rule them all</a> presentation by Steffen Pingel and Benjamin Muskalla <i>June 22, 2011</i>
 	            		</li>
 	            		<li>

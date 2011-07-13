@@ -242,11 +242,11 @@
             </th>
             <tr>
               <td>Ubuntu Linux</td>
-              <td>10.10</td>
+              <td>11.04</td>
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.7 (latest milestone)</td>
+              <td>Eclipse 3.8 (latest milestone)</td>
             </tr>
             <tr>
               <td>Microsoft Windows</td>
@@ -254,12 +254,12 @@
               <td>x86-64</td>
               <td>Win32</td>
               <td>Sun Java 2 Standard Edition 5.0</td>
-              <td>Eclipse 3.6</td>
+              <td>Eclipse 3.7</td>
             </tr>
             <tr>
               <td>Apple Mac OS X</td>
-              <td>10.6</td>
-              <td>Power</td>
+              <td>10.7</td>
+              <td>x86-64</td>
               <td>Cocoa</td>
               <td>Apple Java 2 Platform Standard Edition (J2SE) 6</td>
               <td>Eclipse 3.6</td>
@@ -275,7 +275,7 @@
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.5, 3.6, 3.7</td>
+              <td>Eclipse 3.6, 3.7, 3.8</td>
             </tr>
           </tbody>
         </table>

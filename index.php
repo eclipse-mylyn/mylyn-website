@@ -125,8 +125,8 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
-		            		<a href="new/">
-		           			<img src="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new"/>&nbsp;&nbsp;Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>
+		            		<a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

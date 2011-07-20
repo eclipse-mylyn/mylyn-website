@@ -110,6 +110,7 @@ $html = <<<EOHTML
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/3.6</b>&nbsp;&nbsp;(Eclipse 3.6, 3.7, 3.8)
 				</li>
 			</ul>
+			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>
 		</div>
 
 <!-- see bug 346161

@@ -7,7 +7,7 @@
 
 <p><b>Updating</b>:&nbsp; If using a version prior to 2.0, upgrade to 2.0 before installing Mylyn 3.7.</p>
 
-<hr>
+<hr size="1"/>
 
 <p><span style="font-weight: 700; background-color: #E0D0E6">New in Mylyn 3.7 Snapshot Builds</span></p>
 <!-- 
@@ -26,9 +26,102 @@
  
 <p>Mylyn 3.7 requires <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=348440"><b>Eclipse 3.6 or later</b></a>. See the <a href="/mylyn/downloads/">download page</a> for repository locations.</p>
 
-<hr>
+<hr size="1"/>
 
 <table cellpadding="10" cellspacing="0" width="100%">
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Hudson Connector: Hierarchical View of Artifacts</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Kevin Sawicki contributed a patch that adds support for showing the folder hierarchy in the artifacts section of the build editor. 
+		<p><img border="0" src="images/3.7/hudson-artifacts.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Hyperlinking</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Kevin Sawicki contributed a change that enables hyperlinking for references to Gerrit change IDs.</p>
+		<p><img border="0" src="images/3.7/gerrit-hyperlink-change-id.png"></p>
+		<p>Additionally, URLs that reference Gerrit changes are opened in the review editor instead of the browser.</p>
+		<p><img border="0" src="images/3.7/gerrit-hyperlink.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Custom Queries</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The query page has a field for specifying custom queries. This enables querying for all starred reviews for instance.</p>
+		<p><img border="0" src="images/3.7/gerrit-free-form-query.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Author Information for Patch Sets</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The patch set sections shows author and commit information for each patch set.</p>
+		<p><img border="0" src="images/3.7/gerrit-patch-set-meta-data.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Gerrit 2.2</b></p>
+		</td>
+		<td valign="top" width="85%">
+ 		<p align="left">The connector supports Gerrit 2.2.1 in addition to Gerrit 2.1.8. This enables bootstrapping for contributions using the <a href="http://review.mylyn.org/" target=_new">Mylyn Gerrit instance</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: OpenID Login</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The Gerrit connector supports authentication through OpenID providers.</p>
+		<p><img border="0" src="images/3.7/gerrit-openid-auth-repository.png"></p>
+		<p align="left">The password prompt is displayed in a browser window.</p>
+		<p><img border="0" src="images/3.7/gerrit-openid-auth-browser.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Tasks Framework: Task Activation Listener Extension Point</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The Tasks framework has an extension point for registering task activation listeners: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=349924">bug 349924</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Incubator: Query API for Desktop Search</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The desktop search integration in the Incubator has API for constructing search queries: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=354430">bug 354430</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Improved Content Assist</b></p>
@@ -40,7 +133,7 @@
 	</tr>
 	<tr>
 		<td colspan="2">
-		<hr>
+		<hr size="1"/>
 		</td>
 	</tr>
 	<tr>

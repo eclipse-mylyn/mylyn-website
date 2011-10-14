@@ -85,18 +85,16 @@
           determines
           the priority.
         </p>
-        <p>
-          <ul>
-            <li>
-              <a
-                href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">Scheduled for Mylyn Builds 0.9</a>
-            </li>
-            <li>
-              <a
-                href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=---&amp;keywords_type=allwords&amp;keywords=plan">Release Backlog</a>
-            </li>
-          </ul>
-        </p>
+        <ul>
+          <li>
+            <a
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">Scheduled Tasks</a>
+          </li>
+          <li>
+            <a
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=---&amp;keywords_type=allwords&amp;keywords=plan">Release Backlog</a>
+          </li>
+        </ul>
       </html:div>
     </preamble>
     <theme name="Framework and API">
@@ -119,11 +117,11 @@
         <html:div xmlns="http://www.w3.org/1999/xhtml">
           <p>
             The following repositories are supported:
-            <ul>
-              <li>Hudson 2.1.2</li>
-              <li>Jenkins 1.427</li>
-            </ul>
           </p>
+          <ul>
+            <li>Hudson 2.1.2</li>
+            <li>Jenkins 1.427</li>
+          </ul>
         </html:div>
       </description>
       <committed

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
-<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="mylyn.Versions" version="0.9" />
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn Versions">
+  <release projectid="mylyn.versions" version="0.9" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -22,6 +22,15 @@
         <li>
           <b>CVS Connector</b>
         </li>
+        <li>
+          <b>Git Connector</b>
+        </li>
+        <li>
+          <b>Subclipse Connector</b>
+        </li>
+        <li>
+          <b>SDK</b>
+        </li>
       </ul>
     </html:div>
   </release_deliverables>
@@ -29,7 +38,7 @@
     <preamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-          Mylyn Verions 0.9 is part of the Mylyn 3.7 release. Please see the 
+          Mylyn Versions 0.9 is part of the Mylyn 3.7 release. Please see the
           <a href="http://www.eclipse.org/projects/project-plan.php?projectid=mylyn#release_milestones">Mylyn plan</a>
           for release milestones.
         </p>
@@ -76,12 +85,17 @@
           contribution of a patch, in which case the quality of the patch
           determines
           the priority.
-				</p>
-        <p>
-          <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=Mylyn&amp;product=Mylyn%20Versions&amp;target_milestone=0.9&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for Mylyn Versions 0.9</a>
-          .
         </p>
+        <ul>
+          <li>
+            <a
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=0.9">Scheduled Tasks</a>
+          </li>
+          <li>
+            <a
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=---&amp;keywords_type=allwords&amp;keywords=plan">Release Backlog</a>
+          </li>
+        </ul>
       </html:div>
     </preamble>
     <theme name="Framework and API">

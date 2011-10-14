@@ -22,13 +22,13 @@
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <ul>
         <li>
-          <b>Builds Framework</b>
+          <b>Framework</b>
         </li>
         <li>
-          <b>Hudson/Jenkinks Connector</b>
+          <b>Hudson/Jenkins Connector</b>
         </li>
         <li>
-          <b>Builds SDK</b>
+          <b>SDK</b>
         </li>
       </ul>
     </html:div>
@@ -86,9 +86,16 @@
           the priority.
         </p>
         <p>
-          <a
-            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">All bugs scheduled for Mylyn Builds 0.9</a>
-          .
+          <ul>
+            <li>
+              <a
+                href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">Scheduled for Mylyn Builds 0.9</a>
+            </li>
+            <li>
+              <a
+                href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=---&amp;keywords_type=allwords&amp;keywords=plan">Release Backlog</a>
+            </li>
+          </ul>
         </p>
       </html:div>
     </preamble>
@@ -110,11 +117,13 @@
     <theme name="Connectors">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml">
-          <p>The connectors support the following repositories:</p>
-          <ul>
-            <li>Hudson 2.1.2</li>
-            <li>Jenkins 1.427</li>
-          </ul>
+          <p>
+            The following repositories are supported:
+            <ul>
+              <li>Hudson 2.1.2</li>
+              <li>Jenkins 1.427</li>
+            </ul>
+          </p>
         </html:div>
       </description>
       <committed

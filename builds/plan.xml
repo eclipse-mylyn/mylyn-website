@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
-<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn Builds">
   <release projectid="mylyn.builds" version="0.9" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
@@ -10,9 +10,11 @@
         <a href="http://www.eclipse.org/mylyn/builds">Mylyn Builds</a>
         is integration of continuous integration and build systems
         and seamless access to software build and
-        assembly technologies. Mylyn users will be able to access continuous integration processes,
+        assembly
+        technologies. Mylyn users will be able to access continuous integration processes,
         control build
-        execution and associate build results with tasks and context.
+        execution and
+        associate build results with tasks and context.
       </p>
     </html:div>
   </introduction>
@@ -35,7 +37,7 @@
     <preamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-          Mylyn Builds 0.9 is part of the Mylyn 3.7 release. Please see the 
+          Mylyn Builds 0.9 is part of the Mylyn 3.7 release. Please see the
           <a href="http://www.eclipse.org/projects/project-plan.php?projectid=mylyn#release_milestones">Mylyn plan</a>
           for release milestones.
         </p>
@@ -52,11 +54,11 @@
     </html:div>
     <internationalization>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>
-        Mylyn Builds follows the
-        <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
-        guidelines of the Mylyn project.
-      </p>
+        <p>
+          Mylyn Builds follows the
+          <a href="http://eclipse.org/projects/project-plan.php?projectid=mylyn#target_environment">internationalization</a>
+          guidelines of the Mylyn project.
+        </p>
       </html:div>
     </internationalization>
   </target_environments>
@@ -82,7 +84,7 @@
           contribution of a patch, in which case the quality of the patch
           determines
           the priority.
-				</p>
+        </p>
         <p>
           <a
             href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">All bugs scheduled for Mylyn Builds 0.9</a>
@@ -92,7 +94,11 @@
     </preamble>
     <theme name="Framework and API">
       <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml" />
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+          <p>The framework component provides support for implementing connectors and generic user interface elements
+            such as the Builds view.
+          </p>
+        </html:div>
       </description>
       <committed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
@@ -103,7 +109,13 @@
     </theme>
     <theme name="Connectors">
       <description>
-        <html:div xmlns="http://www.w3.org/1999/xhtml" />
+        <html:div xmlns="http://www.w3.org/1999/xhtml">
+          <p>The connectors support the following repositories:</p>
+          <ul>
+            <li>Hudson 2.1.2</li>
+            <li>Jenkins 1.427</li>
+          </ul>
+        </html:div>
       </description>
       <committed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />

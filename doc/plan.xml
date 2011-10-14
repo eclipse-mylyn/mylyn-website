@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn">
-  <release projectid="tools.mylyn" version="3.7" />
+  <release projectid="mylyn" version="3.7" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -130,13 +130,13 @@
     <milestone date="2012-02-02" milestone="3.7 RC2">
       <html:div>Release Candidate</html:div>
     </milestone>
-    <milestone date="2011-02-09" milestone="3.7 RC3">
+    <milestone date="2012-02-09" milestone="3.7 RC3">
       <html:div>Release Candidate (API Freeze)</html:div>
     </milestone>
-    <milestone date="2011-02-16" milestone="3.7 RC4">
+    <milestone date="2012-02-16" milestone="3.7 RC4">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2011-02-24" milestone="3.7">
+    <milestone date="2012-02-24 (tentative)" milestone="3.7">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -286,7 +286,7 @@
               <td>x86-64</td>
               <td>Win32</td>
               <td>Sun Java 2 Standard Edition 5.0</td>
-              <td>Eclipse 3.8</td>
+              <td>Eclipse 3.7</td>
             </tr>
             <tr>
               <td>Apple Mac OS X</td>
@@ -307,7 +307,7 @@
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 3.7, 3.8, 3.8</td>
+              <td>Eclipse 3.6, 3.7, 3.8, 4.2</td>
             </tr>
           </tbody>
         </table>
@@ -331,8 +331,8 @@
     </html:div>
     <internationalization>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
-        Strings in all non-incubation plug-ins and features will be externalized and available for translation through
-        Eclipse Babel.
+        <p>Strings in all non-incubation plug-ins and features will be externalized and available for translation through
+        Eclipse Babel.</p>
       </html:div>
     </internationalization>
   </target_environments>

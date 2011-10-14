@@ -48,12 +48,13 @@
             <li>Discovery Framework</li>
             <li>Identity Framework</li>
             <li>Interaction Monitoring Framework</li>
+            <li>Notification Framework</li>
             <li>Repository Framework</li>
-            <li>UI Toolkit</li>
             <li>Transport Framework</li>
             <li>HTTP Transport</li>
             <li>SOAP Transport</li>
             <li>XML-RPC Transport</li>
+            <li>UI Toolkit</li>
             <li>Commons SDK</li>
           </ul>
         </li>
@@ -508,7 +509,7 @@
                 href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known limitations on Eclipse 4.2</a>
             </li>
             <li>
-              <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration tests on Eclipse 4.1</a>
+              <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration tests on Eclipse 4.2</a>
             </li>
           </ul>
         </html:div>

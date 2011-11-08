@@ -15,15 +15,26 @@
 <guid isPermaLink="false">20110527-0000</guid>
 <description>New connectors are now available. &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;Show connectors&lt;/a&gt;.</description>
 </item>
+-->
+<!--
 <item>
 <title>Mylyn Update</title>
 <link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Wed, 22 Jun 2011 12:00:00 +0000</pubDate>
+<pubDate>Wed, 26 Oct 2011 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
-<dc:subject>frameworkVersion=[0.0.0,3.6.0)</dc:subject>
-<guid isPermaLink="false">20110622-0000</guid>
-<description>Mylyn 3.6 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
+<dc:subject>frameworkVersion=[0.0.0,3.7.0)</dc:subject>
+<guid isPermaLink="false">20111108-2200</guid>
+<description>Mylyn 3.7.0 is now available. &lt;a href="http://eclipse.org/mylyn/new/"&gt;See New &amp; Noteworthy&lt;/a&gt; for details.</description>
 </item>
 -->
+<item>
+<title>Mylyn Update</title>
+<link>http://eclipse.org/mylyn/new/</link>
+<pubDate>Wed, 26 Oct 2011 12:00:00 +0000</pubDate>
+<dc:creator>Steffen Pingel</dc:creator>
+<dc:subject>frameworkVersion=[0.0.0,3.6.3)</dc:subject>
+<guid isPermaLink="false">20111108-2200</guid>
+<description>Mylyn 3.6.3 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
+</item>
 </channel>
 </rss>

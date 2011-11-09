@@ -131,6 +131,10 @@ $html = <<<EOHTML
 						</li>
 						-->
 						<li>
+		            		<a href="http://tasktopevents.webex.com/tasktopevents/onstage/g.php?t=a&d=662445102" target="_new">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Modernize your ALM Architecture with Tasktop Sync 2.0</a> <i>December 6th, 9am - 10am PST</i>
+		           		</li>
+						<li>
 		            		<a href="new/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6.3 released</a> <i>October 26, 2011</i>
 	            		</li>

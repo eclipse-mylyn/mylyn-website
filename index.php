@@ -136,7 +136,7 @@ $html = <<<EOHTML
 		           		</li>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6.3 released</a> <i>October 26, 2011</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6.4 released</a> <i>November 18, 2011</i>
 	            		</li>
 						<li>
 		            		<a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">

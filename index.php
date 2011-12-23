@@ -124,16 +124,16 @@ $html = <<<EOHTML
 	         	<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
-						<!--
 						<li>
-							<a href="http://tasktopevents.webex.com/tasktopevents/onstage/g.php?t=a&d=660742793" target="_new">
-							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Tasktop Sync with Mik Kersten</a> <i>September 28, 2011</i>
+							<a href="http://tasktop.com/about/webinars#jan192012" target="_new">
+							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Making ALM Work Across Multi-Vendor and Open Source Solutions With OSLC with Robert Elves</a> <i>January 19th 2012, 8-9am PST</i>
 						</li>
-						-->
+						<!--
 						<li>
 		            		<a href="http://tasktopevents.webex.com/tasktopevents/onstage/g.php?t=a&d=662445102" target="_new">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Modernize your ALM Architecture with Tasktop Sync 2.0</a> <i>December 6th, 9am - 10am PST</i>
 		           		</li>
+						-->
 						<li>
 		            		<a href="new/">
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6.4 released</a> <i>November 18, 2011</i>

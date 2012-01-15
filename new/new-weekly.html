@@ -31,6 +31,88 @@
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Hudson Connector: Authentication Improvements</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The Hudson connector now uses form-based authentication to support servers that have Cross Site Request Forgery prevention enabled. Additionally, the settings page now has a section for configuring certificate authentication.</p>
+		<p><img border="0" src="images/3.7/hudson-authentication.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Repository Creation on Fetch</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">When fetching a change set from a Git repository that does not exist in the workspace a dialog is shown to automatically clone the repository.</p>
+		<p><img border="0" src="images/3.7/gerrit-create-repository-on-fetch.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Commons Framework: Restructuring and Deprecation</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The Mylyn Commons components were restructured and provisional packages were promoted to API. Consumers are strongly encouraged
+		to consume the new APIs for Mylyn 3.7 based extensions. See <a href="http://wiki.eclipse.org/Mylyn/Porting_Guide#Mylyn_Commons" target="_new">porting guide</a> for more details.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Commons Framework: Improved Authentication APIs</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The repositories framework now support OpenID, HTTP and certificate authentication: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=317907" target="_new">bug 317907</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Commons Framework: HttpCore Based Transport Layer</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The org.eclipse.mylyn.commons.repositories.http.core bundle provides an HttpCore 4.1 based HTTP transport layer that 
+		replaces org.eclipse.mylyn.commons.net: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=335254" target="_new">bug 335254</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>WikiText: Support for Creole</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">WikiText now support the Creole markup dialect. It is available as part of the WikiText extras feature from the WikiText <a href="http://wiki.eclipse.org/Mylyn/Repositories#Snapshots_5" target="_new">nightly repository</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Task Editor: Filter Obsolete Attachments</b></p>
 		</td>
 		<td valign="top" width="85%">

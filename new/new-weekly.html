@@ -31,6 +31,78 @@
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Hudson Connector: Links Open in Builds Editor</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">If a link that points to a Hudson build for a configured server is clicked it is opened in the build editor providing seamless integration between tasks, reviews and builds.</p>
+		<p><img border="0" src="images/3.7/builds-hyperlink-in-task-editor.png"></p>
+		<p><img border="0" src="images/3.7/builds-hyperlink.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Commons Framework: URL Handler</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The org.eclipse.mylyn.commons.ui bundle provides an extension point for registering handlers that open URLs in rich editors: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=346046" target="_new">bug 346046</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Compare Patch Sets</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The review editor show a button below each patch set to compare it with other patch sets.</p>
+		<p><img border="0" src="images/3.7/gerrit-compare-patch-set-button.png"></p>
+		<p>Changes opened in the compare editor making it very easy to navigate through changed files. This replaces the Synchronize View integration.</p>
+		<p><img border="0" src="images/3.7/gerrit-review-structure.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Links Patterns</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Comment link patterns specified in the Gerrit configuration are hyperlinked in the task editor and publish dialog.</p>
+		<p><img border="0" src="images/3.7/gerrit-bug-hyperlink.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Bugzilla Connector: User Matching</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">If an invalid or incomplete user name is provided on task submission the task editor now provides a content assist that shows suggestions returned from Bugzilla.</p>
+		<p><img border="0" src="images/3.7/bugzilla-usermatch.png"></p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Hudson Connector: Authentication Improvements</b></p>
 		</td>
 		<td valign="top" width="85%">
@@ -173,22 +245,6 @@
 		<td valign="top" width="85%">
 		<p align="left">An enhanced query and search page abstraction is available in <code>AbstractRepositoryQueryPage2</code>. Refresh and Clear buttons are provided by the framework for refreshing the repository configuration and clearing fields.
 		Additionally, state is automatically persisted for search pages. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=310059" target="_new">bug 310059</a>.</p>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-		<hr size="1"/>
-		</td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
-		<p align="right"><b>Gerrit Connector: Compare Patch Sets in Synchronize View</b></p>
-		</td>
-		<td valign="top" width="85%">
-		<p align="left">The review editor show a button below each patch set to compare it with other patch sets.</p>
-		<p><img border="0" src="images/3.7/gerrit-compare-patch-set-button.png"></p>
-		<p>Changes are opened in the Synchronize view making it very easy to navigate through changed files.</p>
-		<p><img border="0" src="images/3.7/gerrit-open-in-sync-view.png"></p>
 		</td>
 	</tr>
 	<tr>

@@ -108,8 +108,6 @@
         </li>
       </ul>
       <p>The following repositories are supported:</p>
-      <ul>
-        <li>
           <ul>
             <li>Bugzilla 3.6.8, 4.0.4</li>
             <li>Trac 0.10.5, 0.11.7, 0.12.3</li>
@@ -117,8 +115,6 @@
             <li>Jenkins 1.427</li>
             <li>Gerrit 2.2.1, 2.2.2</li>
           </ul>
-        </li>
-      </ul>
     </html:div>
   </release_deliverables>
   <release_milestones>

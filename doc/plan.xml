@@ -133,7 +133,7 @@
         </p>
       </html:div>
     </preamble>
-    <milestone date="2012-01-22" milestone="3.7 RC1">
+    <milestone date="2012-02-22" milestone="3.7 RC1">
       <html:div>Release Candidate (API and Feature Complete)</html:div>
     </milestone>
     <milestone date="2012-02-29" milestone="3.7 RC2">
@@ -146,7 +146,7 @@
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
     <milestone date="2012-03-21" milestone="3.7">
-      <html:div>Major Release (Juno M6)</html:div>
+      <html:div>Major Release</html:div>
     </milestone>
     <postamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
@@ -311,7 +311,7 @@
               <td>10.7</td>
               <td>x86-64</td>
               <td>Cocoa</td>
-              <td>Apple Java 2 Platform Standard Edition (J2SE) 6</td>
+              <td>Apple Java 2 Platform Standard Edition 6</td>
               <td>Eclipse 3.7</td>
             </tr>
             <th colspan="6" align="center">

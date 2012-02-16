@@ -107,6 +107,18 @@
           </ul>
         </li>
       </ul>
+      <p>The following repositories are supported:</p>
+      <ul>
+        <li>
+          <ul>
+            <li>Bugzilla 3.6.8, 4.0.4</li>
+            <li>Trac 0.10.5, 0.11.7, 0.12.3</li>
+            <li>Hudson 2.1, 2.2</li>
+            <li>Jenkins 1.427</li>
+            <li>Gerrit 2.2.1, 2.2.2</li>
+          </ul>
+        </li>
+      </ul>
     </html:div>
   </release_deliverables>
   <release_milestones>
@@ -125,19 +137,19 @@
         </p>
       </html:div>
     </preamble>
-    <milestone date="2012-01-26" milestone="3.7 RC1">
+    <milestone date="2012-01-22" milestone="3.7 RC1">
       <html:div>Release Candidate (API and Feature Complete)</html:div>
     </milestone>
-    <milestone date="2012-02-02" milestone="3.7 RC2">
+    <milestone date="2012-02-29" milestone="3.7 RC2">
       <html:div>Release Candidate</html:div>
     </milestone>
-    <milestone date="2012-02-09" milestone="3.7 RC3">
+    <milestone date="2012-03-07" milestone="3.7 RC3">
       <html:div>Release Candidate (API Freeze)</html:div>
     </milestone>
-    <milestone date="2012-02-16" milestone="3.7 RC4">
+    <milestone date="2012-03-14" milestone="3.7 RC4">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2012-02-24 (tentative)" milestone="3.7">
+    <milestone date="2012-03-21" milestone="3.7">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -179,6 +191,15 @@
             <tr>
               <td>
                 <b>3.6.4</b>
+              </td>
+              <td>2012-11-18</td>
+              <td>
+                <div>Service Release</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>3.6.5</b>
               </td>
               <td>2012-02-24</td>
               <td>
@@ -303,11 +324,11 @@
               </big>
             </th>
             <tr>
-              <td>SuSE Linux</td>
-              <td></td>
+              <td>Ubuntu Linux</td>
+              <td>10.04</td>
               <td>x86-64</td>
               <td>GTK</td>
-              <td>Sun Java 2 Standard Edition 6.0</td>
+              <td>Sun Java 2 Standard Edition 7.0</td>
               <td>Eclipse 3.6, 3.7, 3.8, 4.2</td>
             </tr>
           </tbody>

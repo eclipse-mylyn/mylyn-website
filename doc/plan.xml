@@ -267,19 +267,19 @@
             </tr>
             <tr>
               <td>
-                <b>Operating system</b>
+                <b>Operating System</b>
               </td>
               <td>
-                <b>OS version</b>
+                <b>OS Version</b>
               </td>
               <td>
-                <b>Processor architecture</b>
+                <b>Architecture</b>
               </td>
               <td>
-                <b>Window system</b>
+                <b>Window System</b>
               </td>
               <td>
-                <b>Java 2 Platform</b>
+                <b>Java Platform</b>
               </td>
               <td>
                 <b>Eclipse Release</b>

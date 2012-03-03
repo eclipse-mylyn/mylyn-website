@@ -31,13 +31,136 @@
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
-		<p align="right"><b>Gerrit Connector: Import Git Repositories</b></p>
+		<p align="right"><b>Task List Search Index</b></p>
 		</td>
-		<td valign="top" width="85%">
-		<p align="left">The Gerrit connector extends the EGit import wizard (File > Import > Projects from Git). A listing of all Git repositories from configured Gerrit repositories is provided to support simple cloning and importing of projects.</p>
-		<p><img border="0" src="images/3.7/gerrit-import.png"></p>
+			<td valign="top" width="85%">
+				<p align="left">
+					The Task List has a search index that allows to filter the Task
+					List by task content. Specific fields can be searched by prefixing
+					the search text with <i>field:</i>. Content assist
+							(Ctrl+Space) is available. 
+				</p>
+				<p>
+					<img border="0" src="images/3.7/task-list-index-content-assist.png" />
+				</p>
+				<p align="left">
+					Completions are provided for fields that store person information.  
+				</p>
+				<p>
+					<img border="0" src="images/3.7/task-list-index-reporter.png" />
+				</p></td>
+		</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
 		</td>
 	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Docs: WikiText Markup to EPUB Conversion</b></p>
+		</td>
+			<td valign="top" width="85%">
+				<p align="left">
+					WikiText markup in all supported formats (Textile, MediaWiki,
+					Creole, Confluence etc.) can be converted to XHTML and packaged as
+					<a href="http://en.wikipedia.org/wiki/EPUB">EPUB</a> using a one
+					step wizard found in the file popup menu. Simply right click on a
+					markup file and select <i>WikiText > Generate EPUB</i> in order to
+					start the wizard.
+				</p>
+				<p>
+					The EPUB feature is <b>only available from the Mylyn
+						Docs <a
+						href="http://wiki.eclipse.org/Mylyn/Repositories#Mylyn_Docs_p2_Repositories"
+						target="_new">nightly repository</a> </b>.
+				</p>
+				<p>
+					<img border="0" src="images/3.7/docs-epub-generate.png">
+				</p>
+				<p align="left">The wizard presents an UI for filling out all
+					required properties and produces an EPUB compatible with all
+					reading systems pertaining to the 2.0.1 version of the
+					specification.</p>
+			</td>
+		</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Docs: Ant Task for Assembling EPUB Documents</b></p>
+		</td>
+			<td valign="top" width="85%">
+				<p align="left">If more control and flexibility is required when
+					assembling EPUBs, the Ant task may be used to this end. It supports
+					all EPUB features except Digital Rights Management (DRM), fallback
+					mechanisms for unsupported file formats and multiple root files
+					within one publication.</p>
+				<p>
+					The EPUB feature is <b>only available from the Mylyn
+						Docs <a
+						href="http://wiki.eclipse.org/Mylyn/Repositories#Mylyn_Docs_p2_Repositories"
+						target="_new">nightly repository</a> </b>.
+				</p>
+				<p>
+					<img border="0" src="images/3.7/docs-epub-ant-task.png">
+				</p>
+				<p align="left">
+					Task elements and attributes are laid out similar to the Open
+					Publication Structure (OPS) format and should be easily
+					understandable with the <a
+						href="http://idpf.org/epub/20/spec/OPS_2.0.1_draft.htm">OPS
+						specification</a> in hand. In addition the user guide contains
+					detailed descriptions on how to use this task.
+				</p>
+			</td>
+		</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>WikiText: API for creating Wiki markup</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">WikiText provides an API for converting content to Wiki markup.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>WikiText: Incremental Find</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The WikiText extension for the Task Editor supports incremental find (Ctrl+J).</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit Connector: Import Git Repositories</b></p>
+		</td>
+			<td valign="top" width="85%">
+				<p align="left">The Gerrit connector extends the EGit import
+					wizard (File > Import > Projects from Git). A listing of all Git
+					repositories from configured Gerrit repositories is provided to
+					support simple cloning and importing of projects.</p>
+				<p>
+					<img border="0" src="images/3.7/gerrit-import.png">
+				</p></td>
+		</tr>
 	<tr>
 		<td colspan="2">
 		<hr size="1"/>
@@ -61,12 +184,18 @@
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Hudson Connector: Links Open in Builds Editor</b></p>
 		</td>
-		<td valign="top" width="85%">
-		<p align="left">If a link that points to a Hudson build for a configured server is clicked it is opened in the build editor providing seamless integration between tasks, reviews and builds.</p>
-		<p><img border="0" src="images/3.7/builds-hyperlink-in-task-editor.png"></p>
-		<p><img border="0" src="images/3.7/builds-hyperlink.png"></p>
-		</td>
-	</tr>
+			<td valign="top" width="85%">
+				<p align="left">If a link that points to a Hudson build for a
+					configured server is clicked it is opened in the build editor
+					providing seamless integration between tasks, reviews and builds.</p>
+				<p>
+					<img border="0"
+						src="images/3.7/builds-hyperlink-in-task-editor.png">
+				</p>
+				<p>
+					<img border="0" src="images/3.7/builds-hyperlink.png">
+				</p></td>
+		</tr>
 	<tr>
 		<td colspan="2">
 		<hr size="1"/>
@@ -76,10 +205,14 @@
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Commons Framework: URL Handler</b></p>
 		</td>
-		<td valign="top" width="85%">
-		<p align="left">The org.eclipse.mylyn.commons.ui bundle provides an extension point for registering handlers that open URLs in rich editors: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=346046" target="_new">bug 346046</a>.</p>
-		</td>
-	</tr>
+			<td valign="top" width="85%">
+				<p align="left">
+					The org.eclipse.mylyn.commons.ui bundle provides an extension point
+					for registering handlers that open URLs in rich editors: <a
+						href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=346046"
+						target="_new">bug 346046</a>.
+				</p></td>
+		</tr>
 	<tr>
 		<td colspan="2">
 		<hr size="1"/>
@@ -134,8 +267,11 @@
 		<p align="right"><b>Hudson Connector: Authentication Improvements</b></p>
 		</td>
 		<td valign="top" width="85%">
-		<p align="left">The Hudson connector now uses form-based authentication to support servers that have Cross Site Request Forgery prevention enabled. Additionally, the settings page now has a section for configuring certificate authentication.</p>
-		<p><img border="0" src="images/3.7/hudson-authentication.png"></p>
+		<p align="left">The Hudson connector now uses form-based
+					authentication to support servers that have Cross Site Request
+					Forgery prevention enabled. Additionally, the settings page now has
+					a section for configuring certificate authentication.</p>
+				<p><img border="0" src="images/3.7/hudson-authentication.png"></p>
 		</td>
 	</tr>
 	<tr>
@@ -202,10 +338,17 @@
 		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>WikiText: Support for Creole</b></p>
 		</td>
-		<td valign="top" width="85%">
-		<p align="left">WikiText now support the Creole markup dialect. It is available as part of the WikiText extras feature from the WikiText <a href="http://wiki.eclipse.org/Mylyn/Repositories#Snapshots_5" target="_new">nightly repository</a>.</p>
-		</td>
-	</tr>
+			<td valign="top" width="85%">
+				<p align="left">WikiText now support the Creole markup dialect.
+				</p>
+				<p>
+					Creole support is part of the WikiText extras feature and <b>only
+						available from the Mylyn Docs <a
+						href="http://wiki.eclipse.org/Mylyn/Repositories#Mylyn_Docs_p2_Repositories"
+						target="_new">nightly repository</a> </b>.
+				</p>
+			</td>
+		</tr>
 	<tr>
 		<td colspan="2">
 		<hr size="1"/>

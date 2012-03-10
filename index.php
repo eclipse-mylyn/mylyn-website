@@ -124,12 +124,10 @@ $html = <<<EOHTML
 	         	<div class="homeitem3col">
 					<h3>News</h3>
 					<ul>
-						<!--
 						<li>
-							<a href="http://tasktop.com/about/webinars#jan192012" target="_new">
-							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Making ALM Work Across Multi-Vendor and Open Source Solutions With OSLC with Robert Elves</a> <i>January 19th 2012, 8-9am PST</i>
+							<a href="http://tasktop.com/about/webinars#apr192012" target="_new">
+							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Getting ALM2.0+ to work with Mik Kersten and Dave West</a> <i>April 19th, 2012, 9am - 10am PDT</i>
 						</li>
-						-->
 						<!--
 						<li>
 		            		<a href="http://tasktopevents.webex.com/tasktopevents/onstage/g.php?t=a&d=662445102" target="_new">

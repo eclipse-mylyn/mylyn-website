@@ -332,19 +332,8 @@
       </p>
       <ul>
         <li>
-          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.6/">Integration tests on Eclipse 3.6</a>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration/">Integration tests</a>
         </li>
-        <li>
-          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.7/">Integration tests on Eclipse 3.7</a>
-        </li>
-        <!-- 
-        <li>
-          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e3.8/">Integration tests on Eclipse 3.8</a>
-        </li>
-        <li>
-          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.2/">Integration tests on Eclipse 4.2</a>
-        </li>
-         -->
       </ul>
     </html:div>
     <internationalization>

@@ -107,7 +107,7 @@ $html = <<<EOHTML
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/3.7</b>&nbsp;&nbsp;(Eclipse 3.6, 3.7, 3.8, 4.2)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/3.8</b>&nbsp;&nbsp;(Eclipse 3.6, 3.7, 3.8, 4.2)
 				</li>
 			</ul>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>

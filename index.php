@@ -125,6 +125,10 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.7 released</a> <i>March 21, 2012</i>
+	            		</li>
+						<li>
 							<a href="http://tasktop.com/about/webinars#apr192012" target="_new">
 							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Getting ALM2.0+ to work with Mik Kersten and Dave West</a> <i>April 19th, 2012, 9am - 10am PDT</i>
 						</li>
@@ -134,10 +138,6 @@ $html = <<<EOHTML
 		           			<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Modernize your ALM Architecture with Tasktop Sync 2.0</a> <i>December 6th, 9am - 10am PST</i>
 		           		</li>
 						-->
-						<li>
-		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.6.5 released</a> <i>February 24, 2012</i>
-	            		</li>
 						<li>
 		            		<a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">
 		           			Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>

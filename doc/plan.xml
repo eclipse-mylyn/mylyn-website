@@ -177,6 +177,7 @@
             </tr>
           </table>
         </p>
+        <!--
         <p>
           <b>Tentative Plan</b>
         </p>
@@ -193,6 +194,7 @@
             </tr>
           </table>
         </p>
+        -->
         <p>
           <b>
             <a name="rampdown">Ramp Down</a>
@@ -216,9 +218,9 @@
         Mylyn 3.8 will support the following Eclipse releases:
 
         <ul>
-          <li>Eclipse 4.2</li>
-          <li>Eclipse 3.8</li>
           <li>Eclipse 3.7</li>
+          <li>Eclipse 3.8</li>
+          <li>Eclipse 4.2</li>
         </ul>
 
         <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=376210">Support for Eclipse 3.6</a>

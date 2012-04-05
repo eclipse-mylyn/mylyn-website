@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn Docs">
-  <release projectid="mylyn.docs" version="1.6" />
+  <release projectid="mylyn.docs" version="1.7" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -35,7 +35,7 @@
     <preamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-          Mylyn Docs 1.6 is part of the Mylyn 3.7 release. Please see the 
+          Mylyn Docs 1.7 is part of the Mylyn 3.8 release. Please see the 
           <a href="http://www.eclipse.org/projects/project-plan.php?projectid=mylyn#release_milestones">Mylyn plan</a>
           for release milestones.
         </p>
@@ -81,7 +81,7 @@
         <ul>
           <li>
             <a
-              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.6">Scheduled Tasks</a>
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.7">Scheduled Tasks</a>
           </li>
           <li>
             <a
@@ -95,33 +95,33 @@
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Framework&amp;target_milestone=1.8.0&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="HtmlText">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=HtmlText&amp;target_milestone=1.8.0&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="WikiText">
       <description>
         <html:div xmlns="http://www.w3.org/1999/xhtml" />
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.6.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;component=Wikitext&amp;target_milestone=1.8.0&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
   </themes_and_priorities>
 </plan>

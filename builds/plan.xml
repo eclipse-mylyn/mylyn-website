@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
 <plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="Mylyn Builds">
-  <release projectid="mylyn.builds" version="0.9" />
+  <release projectid="mylyn.builds" version="1.0" />
   <introduction>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <p>
@@ -37,7 +37,7 @@
     <preamble>
       <html:div xmlns="http://www.w3.org/1999/xhtml">
         <p>
-          Mylyn Builds 0.9 is part of the Mylyn 3.7 release. Please see the
+          Mylyn Builds 1.0 is part of the Mylyn 3.8 release. Please see the
           <a href="http://www.eclipse.org/projects/project-plan.php?projectid=mylyn#release_milestones">Mylyn plan</a>
           for release milestones.
         </p>
@@ -88,7 +88,7 @@
         <ul>
           <li>
             <a
-              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=0.9">Scheduled Tasks</a>
+              href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=1.0">Scheduled Tasks</a>
           </li>
           <li>
             <a
@@ -106,11 +106,11 @@
         </html:div>
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Framework&amp;target_milestone=1.1&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Connectors">
       <description>
@@ -125,11 +125,11 @@
         </html:div>
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=0.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;component=Hudson%20Connector&amp;component=OSLC%20Connector&amp;target_milestone=1.1&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
   </themes_and_priorities>
 </plan>

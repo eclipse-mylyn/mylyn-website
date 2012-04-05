@@ -360,7 +360,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Builds&amp;target_milestone=1.1&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Commons">
       <description>
@@ -432,7 +432,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Reviews&amp;target_milestone=1.1&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Tasks">
       <description>
@@ -468,7 +468,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=1.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Versions&amp;target_milestone=1.1&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Eclipse 4.2">
       <description>
@@ -483,9 +483,6 @@
             <li>
               <a
                 href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;short_desc=%5Be4%5D;short_desc_type=allwordssubstr;product=Mylyn;product=Mylyn%20Builds;product=Mylyn%20Commons;product=Mylyn%20Context;product=Mylyn%20Docs;product=Mylyn%20Incubator;product=Mylyn%20Reviews;product=Mylyn%20Tasks;product=Mylyn%20Versions">Known limitations on Eclipse 4.2</a>
-            </li>
-            <li>
-              <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-e4.1/lastBuild/">Integration tests on Eclipse 4.2</a>
             </li>
           </ul>
         </html:div>

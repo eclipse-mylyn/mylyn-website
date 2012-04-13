@@ -51,6 +51,10 @@ $html = <<<EOHTML
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
 				planning, reusing past efforts, and sharing expertise.-->
 				
+				<div style="float: right; margin-top:0px;">
+				<iframe width="260" height="165" src="http://www.youtube.com/embed/WBwyAyvneNo" frameborder="0" allowfullscreen></iframe>
+				</div>
+
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
 	          		<tr>

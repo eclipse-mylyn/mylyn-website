@@ -251,8 +251,10 @@ $html = <<<EOHTML
 	  			<div style="margin-top:0px;">
 				<iframe width="260" height="165" src="http://www.youtube.com/embed/WBwyAyvneNo" frameborder="0" allowfullscreen></iframe>
 				</div>
+
+	  			<br>&nbsp;
 	  			
-	  			<div align="left" id="twtr-search-widget"></div>
+	  			<div style="margin-top:0px;" align="left" id="twtr-search-widget"></div>
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 					<script>

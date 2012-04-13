@@ -251,10 +251,8 @@ $html = <<<EOHTML
 	  			<div style="margin-top:0px;">
 				<iframe width="260" height="165" src="http://www.youtube.com/embed/WBwyAyvneNo" frameborder="0" allowfullscreen></iframe>
 				</div>
-
-	  			<br>&nbsp;
 	  			
-	  			<div align="left" id="twtr-search-widget"></div>
+	  			<div align="left" id="twtr-search-widget">
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 					<script>
@@ -280,6 +278,7 @@ $html = <<<EOHTML
 					}).render().start();
 					</script>
 					<font size=-1>Follow: <a href="http://twitter.com/mik_kersten">Mik Kersten</a> (lead), <a href="http://twitter.com/WikiText">WikiText</a></font>
+				</div>
       		</td>
       	</tr>
     </table>

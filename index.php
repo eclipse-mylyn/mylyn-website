@@ -51,10 +51,6 @@ $html = <<<EOHTML
 				searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, 
 				planning, reusing past efforts, and sharing expertise.-->
 				
-				<div style="float: right; margin-top:0px;">
-				<iframe width="260" height="165" src="http://www.youtube.com/embed/WBwyAyvneNo" frameborder="0" allowfullscreen></iframe>
-				</div>
-
 				<table border="0" cellpadding="5">
 					<tr height=9>	 
 	          		<tr>
@@ -249,13 +245,21 @@ $html = <<<EOHTML
 						<img src="/mylyn/images/star.png" border="0"/>
 						Star Mylyn as favorite on Marketplace</a></p>
 				<a href="images/mylyn-3.1-screenshot.png"><img alt="Mylyn 3.1 Screenshot" border=0 src="images/tasklist-splash-3.1.png"></a>
+	  			
 	  			<br>&nbsp;
+	  			
+	  			<div style="margin-top:0px;">
+				<iframe width="260" height="165" src="http://www.youtube.com/embed/WBwyAyvneNo" frameborder="0" allowfullscreen></iframe>
+				</div>
+
+	  			<br>&nbsp;
+	  			
 	  			<div align="left" id="twtr-search-widget"></div>
 					<script src="http://widgets.twimg.com/j/1/widget.js"></script>
 					<link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
 					<script>
 					new TWTR.Widget({
-					  search: 'mylyn',
+					  search: '#mylyn',
 					  id: 'twtr-search-widget',
 					  loop: true,
 					  title: 'What\'s being said about...',

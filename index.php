@@ -126,11 +126,11 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.7 released</a> <i>March 21, 2012</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.7.1 released</a> <i>April 25, 2012</i>
 	            		</li>
 						<li>
 							<a href="http://tasktop.com/about/webinars#apr192012" target="_new">
-							<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Getting ALM2.0+ to work with Mik Kersten and Dave West</a> <i>April 19th, 2012, 9am - 10am PDT</i>
+							Upcoming Webinar: Getting ALM2.0+ to work with Mik Kersten and Dave West</a> <i>April 19th, 2012, 9am - 10am PDT</i>
 						</li>
 						<!--
 						<li>

@@ -75,8 +75,10 @@
           <ul>
             <li>WikiText</li>
             <li>HtmlText</li>
+            <li>EPUB</li>
             <li>Docs SDK</li>
             <li>WikiText SDK</li>
+            <li>EPUB SDK</li>
           </ul>
         </li>
         <li>
@@ -103,17 +105,18 @@
             <li>Versions Framework</li>
             <li>CVS Connector</li>
             <li>Git Connector</li>
+            <li>Subclipse Connector</li>
             <li>Versions SDK</li>
           </ul>
         </li>
       </ul>
       <p>The following repositories are supported:</p>
           <ul>
-            <li>Bugzilla 3.6.8, 4.0.5, 4.2.0</li>
-            <li>Trac 0.11.7, 0.12.3</li>
-            <li>Hudson 2.1.2, 2.2.0</li>
+            <li>Bugzilla 3.6.9, 4.0.6, 4.2.1</li>
+            <li>Trac 0.12.3</li>
+            <li>Hudson 2.2.1</li>
             <li>Jenkins 1.447.1</li>
-            <li>Gerrit 2.2.2.1, 2.3.0</li>
+            <li>Gerrit 2.3.0, 2.4.0</li>
           </ul>
     </html:div>
   </release_deliverables>
@@ -161,7 +164,7 @@
               <td>
                 <b>3.8.1</b>
               </td>
-              <td>2012-09-28</td>
+              <td>2012-08-03</td>
               <td>
                 <div>Service Release (Juno SR1)</div>
               </td>
@@ -169,6 +172,15 @@
             <tr>
               <td>
                 <b>3.8.2</b>
+              </td>
+              <td>2012-09-28</td>
+              <td>
+                <div>Service Release (Juno SR1)</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>3.8.3</b>
               </td>
               <td>2013-02-22</td>
               <td>
@@ -264,7 +276,7 @@
             </th>
             <tr>
               <td>Ubuntu Linux</td>
-              <td>11.04</td>
+              <td>12.04</td>
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>

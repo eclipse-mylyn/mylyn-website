@@ -143,10 +143,6 @@ $html = <<<EOHTML
 		           			Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>
 	            		</li>
 						<li>
-		            		<a href="http://tasktop.com/videos/jax2011/keynote.php" target="_new">
-		           			Task Focused Continuous Integration: Bringing Code to Cloud and back again</a> keynote by Mik Kersten <i>June 22, 2011</i>
-	            		</li>
-						<li>
 		            		<a href="http://vimeo.com/25293932" target="_new">
 		           			Git, Gerrit, Hudson and one Mylyn to rule them all</a> presentation by Steffen Pingel and Benjamin Muskalla <i>June 22, 2011</i>
 	            		</li>
@@ -161,7 +157,7 @@ $html = <<<EOHTML
 	            		</li>
 	            		-->
 	            		<li>
-		            		<a target="_new" href="http://tasktop.com/blog/eclipse/predictions-2011-agile-alm-developer-intro">
+		            		<a target="_new" href="http://tasktop.com/thought-leadership">
 		           			Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a> <i>January 25th, 2011</i>
 	            		</li>
 						<li>

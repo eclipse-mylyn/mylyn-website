@@ -16,7 +16,7 @@
 		<i>June 27, 2012</i></font></td>
 		<td bgcolor="#E0D0E6" align="center">
 		<a href="/mylyn/doc/plan-3.8.html">
-		<font size="1">89</font><br><font size="1">bugs</font></a></td>
+		<font size="1">88</font><br><font size="1">bugs</font></a></td>
 		<td bgcolor="#E0D0E6"><font size="1">Benjamin Muskalla contributed several API improvements for the Tasks framework. Additional contributions were provided by Robert Munteanu, Manuel Doninger, Lucas Panjer and Sebastien Dubois.
 			<br>Includes: 
 			<a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.8">Mylyn 3.8</a>, 
@@ -94,6 +94,7 @@
 	<li><a href="#trac">Trac Connector</a></li>
 	<li><a href="#gerrit">Gerrit Connector</a></li>
 	<li><a href="#hudson">Hudson/Jenkins Connector</a></li>
+	<li><a href="#subclipse">Subclipse Connector</a></li>
 	<li><a href="#framework">Framework and API</a></li>
 </ul>
  
@@ -202,7 +203,7 @@
 
 <table cellpadding="10" cellspacing="0" width="100%">
 	<tr>
-		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Wiki Markup to EPUB Conversion</b></p>
 		</td>
 			<td valign="top" width="85%">
@@ -213,12 +214,6 @@
 					step wizard found in the file popup menu. Simply right click on a
 					markup file and select <i>WikiText > Generate EPUB</i> in order to
 					start the wizard.
-				</p>
-				<p>
-					The EPUB feature is <b>only available from the Mylyn
-						Docs <a
-						href="http://wiki.eclipse.org/Mylyn/Repositories#Mylyn_Docs_p2_Repositories"
-						target="_new">nightly repository</a> </b>.
 				</p>
 				<p>
 					<img border="0" src="images/3.7/docs-epub-generate.png">
@@ -235,7 +230,7 @@
 		</td>
 	</tr>
 	<tr>
-		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
 		<p align="right"><b>Ant Task for Assembling EPUB Documents</b></p>
 		</td>
 			<td valign="top" width="85%">
@@ -244,12 +239,6 @@
 					all EPUB features except Digital Rights Management (DRM), fallback
 					mechanisms for unsupported file formats and multiple root files
 					within one publication.</p>
-				<p>
-					The EPUB feature is <b>only available from the Mylyn
-						Docs <a
-						href="http://wiki.eclipse.org/Mylyn/Repositories#Mylyn_Docs_p2_Repositories"
-						target="_new">nightly repository</a> </b>.
-				</p>
 				<p>
 					<img border="0" src="images/3.7/docs-epub-ant-task.png">
 				</p>
@@ -326,6 +315,19 @@
 		<p align="left">Custom priority levels are mapped to P1-P5 priority levels in the <i>Task List</i>.</p>
 		</td>
 	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
+		<p align="right"><b>Bugzilla 4.2</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Bugzilla 4.2 is supported.</p>
+		</td>
+	</tr>
 </table>
 
 
@@ -350,6 +352,19 @@
 
 
 <table cellpadding="10" cellspacing="0" width="100%">
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Gerrit 2.3 and Gerrit 2.4</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Gerrit 2.3 and 2.4 are supported.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
 		<p align="right"><b>Compare Patch Sets</b></p>
@@ -488,6 +503,24 @@
 		</td>
 	</tr>
 	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Hudson 3.0</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">Hudson 3.0M2 is supported</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
+	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
 		<p align="right"><b>Hierarchical View of Artifacts</b></p>
 		</td>
@@ -536,6 +569,19 @@
 	</tr>
 </table>
 
+<p>&nbsp;</p>
+<h2><a name="subclipse">Subclipse Connector</a></h2>
+
+<table cellpadding="10" cellspacing="0" width="100%">
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Subclipse Connector</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The Subclipse Connector which provides change set integration for builds and code reviews is now available from the main repository. 
+		</td>
+	</tr>
+</table>
 
 <p>&nbsp;</p>
 <h2><a name="framework">Framework and API</a></h2>
@@ -543,6 +589,19 @@
 <p>See <a href="http://wiki.eclipse.org/Mylyn/Porting_Guide#Notable_API_changes_in_3.6" target="_new">porting guide</a> for additional notes on API changes.</p>
 
 <table cellpadding="10" cellspacing="0" width="100%">
+	<tr>
+		<td align="left" valign="top" width="15%" bgcolor="#E0D0E6">
+		<p align="right"><b>Tasks: Generic Client Manager</b></p>
+		</td>
+		<td valign="top" width="85%">
+		<p align="left">The <code>RepositoryClientManager</code> class that is now available as API and can be reused by connectors: <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=375076" target="_new">bug 375076</a>.</p>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<hr size="1"/>
+		</td>
+	</tr>
 	<tr>
 		<td align="left" valign="top" width="15%" bgcolor="#FAF7FB">
 		<p align="right"><b>Commons: Restructuring and Deprecation</b></p>

@@ -132,10 +132,10 @@
 			</table>
 			<ul>
 				<li> 
-					<a title="Mylyn 3.7.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.7.0/mylyn-3.7.0-api.zip">
+					<a title="Mylyn 3.8.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.0/mylyn-3.8.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.7.0/mylyn-3.7.0-api.zip">Mylyn 3.7 API Baseline</a></b>
+					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.0/mylyn-3.8.0-api.zip">Mylyn 3.8 API Baseline</a></b>
 				</li>
 			</ul>
 			<table border="0"> 

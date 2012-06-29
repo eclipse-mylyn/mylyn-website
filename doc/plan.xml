@@ -416,9 +416,9 @@
         </html:div>
       </description>
       <committed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.8.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1" />
       <proposed
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.7.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.8.0&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Docs&amp;target_milestone=1.9.0&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>

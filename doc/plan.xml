@@ -280,7 +280,7 @@
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 6.0</td>
-              <td>Eclipse 4.2 (latest milestone)</td>
+              <td>Eclipse 4.3 (latest milestone)</td>
             </tr>
             <tr>
               <td>Microsoft Windows</td>
@@ -309,7 +309,7 @@
               <td>x86-64</td>
               <td>GTK</td>
               <td>Sun Java 2 Standard Edition 7.0</td>
-              <td>Eclipse 3.7, 3.9, 4.2</td>
+              <td>Eclipse 3.8, 4.2, 4.3</td>
             </tr>
           </tbody>
         </table>
@@ -317,6 +317,12 @@
       <ul>
         <li>
           <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration/">Integration tests</a>
+        </li>
+		<li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-connectors/">Connector tests</a>
+        </li>
+		<li>
+          <a href="https://hudson.eclipse.org/hudson/job/mylyn-integration-standalone/">Standalone tests</a>
         </li>
       </ul>
     </html:div>

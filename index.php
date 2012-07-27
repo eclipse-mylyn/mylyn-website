@@ -125,8 +125,12 @@ $html = <<<EOHTML
 					<h3>News</h3>
 					<ul>
 						<li>
+		            		<a href="new/">
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.8.1 released</a> <i>July 25, 2012</i>
+	            		</li>
+						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/mylyn-3-8-released-as-part-of-eclipse-juno">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.8 released</a> <i>June 27, 2012</i>
+		           			Mylyn 3.8 released</a> <i>June 27, 2012</i>
 	            		</li>
 						<!--
 						<li>

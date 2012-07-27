@@ -130,7 +130,7 @@ $html = <<<EOHTML
 	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/mylyn-3-8-released-as-part-of-eclipse-juno">
-		           			Mylyn 3.8 released</a> <i>June 27, 2012</i>
+		           			Mylyn 3.8 released as part of Eclipse Juno</a> <i>June 27, 2012</i>
 	            		</li>
 						<!--
 						<li>

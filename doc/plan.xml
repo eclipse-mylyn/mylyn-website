@@ -112,7 +112,7 @@
       </ul>
       <p>The following repositories are supported:</p>
           <ul>
-            <li>Bugzilla 3.6.9, 4.0.6, 4.2.1</li>
+            <li>Bugzilla 3.6.10, 4.0.7, 4.2.2</li>
             <li>Trac 0.12.3</li>
             <li>Hudson 2.2.1</li>
             <li>Jenkins 1.447.1</li>

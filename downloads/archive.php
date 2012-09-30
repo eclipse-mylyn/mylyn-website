@@ -39,7 +39,7 @@
 			<h3>3.8.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
-					a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.2/v20120916-1200/mylyn-3.8.2.v20120916-1200.zip">
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.2/v20120916-1200/mylyn-3.8.2.v20120916-1200.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.8.2/v20120916-1200</b>&nbsp;&nbsp;(Eclipse 3.7, 3.8 and 4.2)

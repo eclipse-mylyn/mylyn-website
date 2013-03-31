@@ -180,9 +180,9 @@
             </tr>
             <tr>
               <td>
-                <b>3.9.3</b>
+                <b>3.8.3</b>
               </td>
-              <td>2013-02-22</td>
+              <td>2013-03-01</td>
               <td>
                 <div>Service Release (Juno SR2)</div>
               </td>
@@ -224,7 +224,10 @@
   </release_milestones>
   <target_environments>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
-      <p>Mylyn is designed to run on version 1.5 of the Java Runtime Environment, Standard Edition. </p>
+      <p>Mylyn is designed to run on version 1.6 of the Java Runtime Environment, Standard Edition. </p>
+
+	  <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=383907">Support for Java 1.5</a>
+        has been discontinued.
 
       <p>
         Mylyn 3.9 will support the following Eclipse releases:

@@ -33,7 +33,7 @@
   <release_deliverables>
     <html:div xmlns="http://www.w3.org/1999/xhtml">
       <!--  <p>The Mylyn project coordinates a release of all participating sub-projects twice a year.</p>  -->
-      <p>The Mylyn project coordinates a release of all participating sub-projects.</p>  -->
+      <p>The Mylyn project coordinates a release of all participating sub-projects.</p>
       <ul>
         <li>
           <b>Mylyn Builds 1.1</b>

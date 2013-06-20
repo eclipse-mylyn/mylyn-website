@@ -163,43 +163,33 @@
           <table border="1" align="center">
             <tr>
               <td>
-                <b>3.8.1</b>
+                <b>3.9.1</b>
               </td>
-              <td>2012-08-03</td>
+              <td>2013-07-24</td>
               <td>
                 <div>Service Release</div>
               </td>
             </tr>
             <tr>
               <td>
-                <b>3.8.2</b>
+                <b>3.9.2</b>
               </td>
-              <td>2012-09-28</td>
+              <td>2013-09-27</td>
               <td>
-                <div>Service Release (Juno SR1)</div>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <b>3.8.3</b>
-              </td>
-              <td>2013-03-01</td>
-              <td>
-                <div>Service Release (Juno SR2)</div>
+                <div>Service Release (Kepler SR1)</div>
               </td>
             </tr>
             <tr>
               <td>
-                <b>3.8.4</b>
+                <b>3.9.3</b>
               </td>
-              <td>2013-05-08</td>
+              <td>2014-02-28</td>
               <td>
-                <div>Service Release</div>
+                <div>Service Release (Kepler SR2)</div>
               </td>
             </tr>
           </table>
         </p>
-        <!--
         <p>
           <b>Tentative Plan</b>
         </p>
@@ -207,16 +197,15 @@
           <table border="1" align="center">
             <tr>
               <td>
-                <b>4.0</b>
+                <b>3.10</b>
               </td>
               <td>2014-06-27</td>
               <td>
-                <div>Major Release (Juno)</div>
+                <div>Major Release (Luna)</div>
               </td>
             </tr>
           </table>
         </p>
-        -->
         <p>
           <b>
             <a name="rampdown">Ramp Down</a>
@@ -404,7 +393,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=4.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Commons&amp;target_milestone=3.10&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Context">
       <description>
@@ -419,7 +408,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=4.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Context&amp;target_milestone=3.10&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Docs">
       <description>
@@ -464,7 +453,7 @@
       <proposed
         bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.9&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5" />
       <deferred
-        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=4.0&amp;keywords_type=allwords&amp;keywords=plan" />
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;product=Mylyn%20Tasks&amp;target_milestone=3.10&amp;keywords_type=allwords&amp;keywords=plan" />
     </theme>
     <theme name="Versions">
       <description>

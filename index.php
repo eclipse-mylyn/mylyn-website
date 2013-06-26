@@ -126,12 +126,18 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.8.4 released</a> <i>May 8, 2013</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26 8, 2013</i>
+	            		</li>
+	            		<!--
+						<li>
+		            		<a href="new/">
+		           			Mylyn 3.8.4 released</a> <i>May 8, 2013</i>
 	            		</li>
 						<li>
 		            		<a href="http://tasktop.com/blog/eclipse/mylyn-3-8-released-as-part-of-eclipse-juno">
 		           			Mylyn 3.8 released as part of Eclipse Juno</a> <i>June 27, 2012</i>
 	            		</li>
+	            		-->
 						<!--
 						<li>
 							<a href="http://tasktop.com/about/webinars#apr192012" target="_new">
@@ -187,7 +193,7 @@ $html = <<<EOHTML
 	            		
 						<li>
 							<a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a> � Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a>Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
 						</li>
 						<li>
 							<table style="vertical-align:top; margin-top:0;">
@@ -223,7 +229,7 @@ $html = <<<EOHTML
 	            		</li>
 								                <li>
 							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael Cot� (Dec. 13, 2007, 20 min)
+							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael (Dec. 13, 2007, 20 min)
 		                </li>
 						<li>
 							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.

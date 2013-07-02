@@ -126,7 +126,7 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26 8, 2013</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26, 2013</i>
 	            		</li>
 	            		<!--
 						<li>

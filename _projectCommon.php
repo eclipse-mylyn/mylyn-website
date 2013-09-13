@@ -43,7 +43,7 @@ EOBRANDING;
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Development", "/mylyn/developers", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Contributing (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference", 	"_self", 1);
 	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Integrating (wiki)", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);
-	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Plan", "http://www.eclipse.org/projects/project-plan.php?projectid=mylyn", 	"_self", 1);
+	$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;Plan", "https://projects.eclipse.org/projects/mylyn/releases/next", 	"_self", 1);
 
 	$App->SetGoogleAnalyticsTrackingCode("UA-6100912-1");
 ?>

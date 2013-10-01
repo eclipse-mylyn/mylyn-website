@@ -126,28 +126,12 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26, 2013</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.9.1 released</a> <i>September 27, 2013</i>
 	            		</li>
-	            		<!--
 						<li>
 		            		<a href="new/">
-		           			Mylyn 3.8.4 released</a> <i>May 8, 2013</i>
+		           			Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26, 2013</i>
 	            		</li>
-						<li>
-		            		<a href="http://tasktop.com/blog/eclipse/mylyn-3-8-released-as-part-of-eclipse-juno">
-		           			Mylyn 3.8 released as part of Eclipse Juno</a> <i>June 27, 2012</i>
-	            		</li>
-	            		-->
-						<!--
-						<li>
-							<a href="http://tasktop.com/about/webinars#apr192012" target="_new">
-							Upcoming Webinar: Getting ALM2.0+ to work with Mik Kersten and Dave West</a> <i>April 19th, 2012, 9am - 10am PDT</i>
-						</li>
-						<li>
-		            		<a href="http://tasktopevents.webex.com/tasktopevents/onstage/g.php?t=a&d=662445102" target="_new">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Upcoming Webinar: Modernize your ALM Architecture with Tasktop Sync 2.0</a> <i>December 6th, 9am - 10am PST</i>
-		           		</li>
-						-->
 						<li>
 		            		<a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">
 		           			Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>
@@ -156,16 +140,6 @@ $html = <<<EOHTML
 		            		<a href="http://tasktop.com/resources/videos/git-gerrit-hudson-one-mylyn" target="_new">
 		           			Git, Gerrit, Hudson and one Mylyn to rule them all</a> presentation by Steffen Pingel and Benjamin Muskalla <i>June 22, 2011</i>
 	            		</li>
-	            		<!--
-	            		<li>
-		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
-		           			Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
-	            		</li>
-						<li>
-		            		<a target="_new" href="https://www2.gotomeeting.com/register/851194155">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar: An Introduction to Mylyn 3.5<img border="0" src="/mylyn/images/external-link.png"></a> <i>February 24, 2011 10:00 AM PST</i>
-	            		</li>
-	            		-->
 	            		<li>
 		            		<a target="_new" href="http://tasktop.com/thought-leadership">
 		           			Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a> <i>January 25th, 2011</i>
@@ -173,70 +147,18 @@ $html = <<<EOHTML
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
 		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a> <i>Sep 16, 2010</i>
-	            		</li>
-	            		
+	            		</li>	            		
 						<li>
 							<a href="http://tasktop.com/resources/videos/mylyn/webcast-mylyn-3.0.html">
 								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
 								 	webcast by Mik Kersten (Tasktop) <i>July 30, 2008</i>
 						</li>
-	            		
-	            		
-	            		
 	            		<!--
-	            		
 	            		<li>
-		            		<a target="_new" href="http://tasktop.com/videos/hp-quality-center/rational-team-concert-integration/">
-		           			Webinar: Integrating IBM Rational Team Concert with HP Quality Center using Tasktop<img border="0" src="/mylyn/images/external-link.png"></a>, <i>Jan 20 (registration required)</i>
+		            		<a target="_new" href="http://tasktop.com/about/webinars/index.php#may262011">
+		           			Webinar: Cross-Repository Agile Planning<img border="0" src="/mylyn/images/external-link.png"></a> <i>May 26, 2011</i>
 	            		</li>
-	            		
-						<li>
-							<a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Webinar</a>Code at the Speed of Thought with Task-focused Programming. Join Mik Kersten, creator and lead of the Eclipse Mylyn project and CEO of Tasktop Technologies, and Roy Ganor, Zend Studio and PDT Project Lead for an introduction to task-focused PHP programming. April 15th, 2010. <a href="http://www.zend.com/en/company/news/event/webinar-code-at-the-speed-of-thought-with-task-focused-programming">View details and register</a>
-						</li>
-						<li>
-							<table style="vertical-align:top; margin-top:0;">
-							<tr style="vertical-align:top"><td style="vertical-align:top">
-		            		<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Register</a> for the CollabNet Conference and visit the Tasktop booth to learn more about Mylyn-powered Eclipse integration for TeamForge and ScrumWorks Pro
-		           			</td><td>
-		           			<a href="http://event.on24.com/r.htm?e=188674&s=1&k=4690DB5DA995CA264747D73872922FC1&partnerref=tasktop"><img src="images/collabnet-wide.png" style="float:right; margin-right: 3px;"/></a>
-		           			</td>
-		           			</table>
-	            		</li>
-						<li>
-		            		<a href="http://tasktop.com/blog/?p=32">
-		           			Mylyn 3.0 released with Ganymede!</a> <i>June 25, 2008</i>
-	            		</li>
-						<li>
-		            		<a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
-		           			Mylyn 2.0 tutorial articles</a>, developerWorks <i>Aug. 14, 2007</i>
-	            		</li>
-						<li>
-		            		<a href="http://wiki.eclipse.org/index.php/Mylyn/Extensions">
-		           			See the Mylyn Extensions listing</a> for available connectors
-	            		</li>
-						<li>
-							<a href="http://live.eclipse.org/node/412">Webinar: Mylyn 2.2</a> by Mik Kersten (Dec. 19, 2007, 50 min)
-		                </li>
-						<li>
-							Mylyn becomes part of the <a href="http://www.eclipse.org/downloads/">default Eclipse 3.3/Europa downloads</a> (June 29)
-						</li>
-							            		<li>
-		            		<a href="http://www.devx.com/opensource/Article/35218?trk=DXRSS_LATEST"><img border=0 src="/mylyn/images/icon-webdoc.gif">
-		           			Mylyn 2.0 Keeps You Focused on the Task at Hand</a> by John Ferguson Smart (Aug. 17, 2007)
-	            		</li>
-								                <li>
-							<a href="http://live.eclipse.org/node/442"><img border=0 src="/mylyn/images/icon-presentation.gif">
-							RedMonkTV: JIRA Connector for Mylyn</a> by Mik Kersten and Michael (Dec. 13, 2007, 20 min)
-		                </li>
-						<li>
-							June 18: Mylyn graduates from the Technology to the <a href="http://www.eclipse.org/projects/">Tools project</a>.
-						</li> 
-						<li>
-							June 11: <a href="http://tasktop.com/blog/?p=6">Mylar is reborn. Long live Mylyn!</a>  Read the <a href="rename.php">Rename FAQ</a>.
-						</li>
-						-->
+	            		-->
 					 </ul>	
 				</div> 
 	  		</td>

@@ -36,6 +36,18 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 
 		<div class="homeitem3col">
+			<h3>3.10.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.10.0/v20131025-2037/mylyn-3.10.0.v20131025-2037.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.10.0/v20131025-2037</b>&nbsp;&nbsp;(Eclipse 3.8, 4.3 and 4.4M2)
+	        	</li>
+			</ul>
+		</div>
+
+		<div class="homeitem3col">
 			<h3>3.9.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
@@ -1099,89 +1111,6 @@
 			</ul>
 		</div>
  	
- 		<div class="homeitem3col"> 
-			<a name="baseline"></a><h3>API Baselines (for contributors)</h3> 
-			<ul>
-				<li> 
-					<a title="Mylyn 3.9.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.9.0/mylyn-3.9.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.9.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.8.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.0/mylyn-3.8.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.8.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.7.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.7.0/mylyn-3.7.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.7.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.6.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.6.0/mylyn-3.6.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.6.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.5.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.0/mylyn-3.5.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.5.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.4.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.4.0/mylyn-3.4.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.4.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.3.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.3.0/mylyn-3.3.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.3.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.2.0/mylyn-3.2.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.2.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.1.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.1.0/mylyn-3.1.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.1.0 API Baseline</b>
-				</li>
-				<li> 
-					<a title="Mylyn 3.0.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.0.0/mylyn-3.0.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 3.0.0 API Baseline</b>
-				</li>
-				<li>
-					<a title="Mylyn 2.3.2" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/2.3.2/mylyn-2.3.2-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b>Mylyn 2.3.2 API Baseline</b>
-	        	</li>
-	        </ul>
-		</div>
- 	
- 		<!--
-        <div class="homeitem3col">
-			<h3>Other</h3>
-			<ul>
-				<li>
-					Headless Tasks Framework: <a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/mylar-lib-2.0M2.zip">mylar-lib-2.0M2.zip</a>
-				</li>
-			</ul>
-		</div>
-		-->
-		<p>&nbsp;</p>
 	</div>
 </div>
 

@@ -125,21 +125,6 @@
 			<h3>Tools</h3>
 			<table border="0"> 
 	        	<tr>
-			        <td>
-				        <p>&nbsp;&nbsp;<a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference#API_Baseline">Configuring an API baseline</a> helps to detect changes that break API compatibility.</p>
-				    </td> 
-				</tr>
-			</table>
-			<ul>
-				<li> 
-					<a title="Mylyn 3.9.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.9.0/mylyn-3.9.0-api.zip">
-						<img border=0 src="/mylyn/images/icon-save.gif">
-					</a>
-					&nbsp;&nbsp;<b><a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.9.0/mylyn-3.9.0-api.zip">Mylyn 3.9 API Baseline</a></b>
-				</li>
-			</ul>
-			<table border="0"> 
-	        	<tr>
 	        		<td width="5"></td>
 			        <td>
 				        <p>A profiler license is available to committers. YourKit is kindly supporting open source projects with its full-featured

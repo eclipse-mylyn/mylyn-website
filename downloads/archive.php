@@ -34,6 +34,18 @@
 		
 		<p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 		Software User Agreement</a> unless otherwise specified.</p>
+		
+		<div class="homeitem3col">
+			<h3>3.11.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.11.0/v20140314-2044/mylyn-3.11.0.v20140314-2044.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.11.0/v20140314-2044</b>&nbsp;&nbsp;(Eclipse 3.8, 4.3 and 4.4M2)
+	        	</li>
+			</ul>
+		</div>
 
 		<div class="homeitem3col">
 			<h3>3.10.0 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>

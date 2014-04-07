@@ -1134,6 +1134,91 @@
 				</li>
 			</ul>
 		</div>
+		
+		
+ 		<div class="homeitem3col"> 
+			<a name="baseline"></a><h3>API Baselines (for contributors)</h3> 
+			<ul>
+				<li> 
+					<a title="Mylyn 3.11.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.11.0/mylyn-3.11.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.11.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.10.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.11.0/mylyn-3.10.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.10.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.9.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.9.0/mylyn-3.9.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.9.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.8.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.8.0/mylyn-3.8.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.8.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.7.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.7.0/mylyn-3.7.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.7.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.6.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.6.0/mylyn-3.6.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.6.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.5.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.5.0/mylyn-3.5.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.5.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.4.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.4.0/mylyn-3.4.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.4.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.3.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.3.0/mylyn-3.3.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.3.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.2.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.2.0/mylyn-3.2.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.2.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.1.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.1.0/mylyn-3.1.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.1.0 API Baseline</b>
+				</li>
+				<li> 
+					<a title="Mylyn 3.0.0" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.0.0/mylyn-3.0.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.0.0 API Baseline</b>
+				</li>
+				<li>
+					<a title="Mylyn 2.3.2" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/2.3.2/mylyn-2.3.2-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 2.3.2 API Baseline</b>
+	        	</li>
+	        </ul>
+		</div>
  	
 	</div>
 </div>

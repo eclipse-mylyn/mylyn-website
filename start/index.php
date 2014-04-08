@@ -39,8 +39,7 @@
 							</td>
 							<td width="10>"</td>
 							<td>
-						 		<font size="+1"><a href="http://live.eclipse.org/node/573">
-						 			<a href="http://live.eclipse.org/node/573">
+						 		<font size="+1"><a href="https://www.youtube.com/watch?v=2wp32Ow_OmE">
 						 				Mylyn 3.0: Code at the Speed of Thought</a></font>
 						 			<br>by Mik Kersten (Tasktop Technologies) webcast on Eclipse Live (August 2008)
 						 			<br>Provides a 45 minute overview of the tool and technology, along with demos of the key features.
@@ -50,7 +49,7 @@
 					</table>
 				</li>
 				<li>
-				<a href="http://live.eclipse.org/node/676">
+				<a href="http://tasktop.com/resources/videos/w-jax/kersten-keynote-high-resolution.html">
  				Less is More: Redefining the "I" of the IDE</a> W-JAX keynote by Mik Kersten. 
  				Conceptual overview of Mylyn and the task-focused interface <i>(November 6, 2008)</i>
 				</li>

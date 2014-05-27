@@ -1,0 +1,160 @@
+<h1>Mylyn Charter</h1>
+
+<h2>Contents</h2>
+
+__TOC__
+
+= Overview =
+
+The '''Mylyn Application Lifecycle Tools''' Top-Level Project is an open source collaborative software development project dedicated to providing an extensible, standards-based platform to address a broad range of needs of accessing task and application lifecycle management tools and services using the Eclipse platform.
+
+* Descriptive name: '''Application Lifecycle Tools'''
+* Nickname: '''Mylyn'''
+
+For details on the structure of the project see the '''[https://wiki.eclipse.org/Mylyn/Restructuring Restructuring]''' document.
+
+= Mission =
+
+The mission of the project is to provide:
+# Frameworks and APIs for Eclipse-based task and Application Lifecycle Management (ALM)
+# Exemplary tools for [http://en.wikipedia.org/wiki/Task-focused_interface task-focused programming] within the Eclipse IDE.
+# Reference implementations for open source ALM tools used by the Eclipse community and for open ALM standards such as [http://open-services.net OSLC]
+
+This document describes the composition and organization of the project, roles and responsibilities of the participants, and development process for the project.
+
+= Scope =
+
+* '''A task management tool for developers''' 
+* '''The revolutionary task-focused interface''' 
+* '''A broad ecosystem of Agile and ALM integrations'''
+
+==== Framework Projects ====
+
+The project will initially be structured into the following sub-projects, each representing an ALM category and providing common APIs for specific ALM tools.  The primary consumers of this project are ALM ISVs and other adopters of Eclipse ALM frameworks.
+
+* '''Tasks''' - Integration with Agile, issue, bug and defect tracking servers. The project provides rich task editing, task list management and offline synchronization for ALM servers. Central portion of the ALM integration framework used by other projects, eg, task-based changed tracking for the SCM project.
+* '''Contexts''' - Usage monitoring, degree-of-interested modeling and the task-focused user extensions implementation for the Eclipse UI, which re-aligns the user experience around tasks and provides features such as workspace focusing and one-click multitasking. 
+* '''Versions''' - Eclipse integration for source code and configuration management tools(SCM, SCCM) and bi-directional linking to change management tools. This project and APIs it provides builds on the existing Eclipse "Team" APIs. 
+* '''Builds''' - Integration of continuous integration and build systems and seamless access to software build and assembly technologies. Mylyn users will be able to access continuous integration processes, control build execution and associate build results with tasks and context.  
+* '''Reviews''' - Eclipse-based code review functionality that's seamlessly integrated with the Tasks and SCM systems supported by Mylyn. Eclipse integration for Agile code reviews, the formal IEEE code review process, review reports with BIRT and aim to support many Eclipse artifact for reviews, e.g. JDT (Java files), CDT (C/C++ files), EMF (models).
+* '''Docs''' - The scope of this project is Eclipse-based access to documentation systems such as Wikis and other portals. This builds on the Mylyn WikiText framework.
+* '''Commons''' - The scope of this project is to provide a framework of common UI, web service, REST and test utilities to be used by the rest of Mylyn and by other Eclipse-based tools (see [https://wiki.eclipse.org/Mylyn_Integrator_Reference#Commons_API Mylyn_Integrator_Reference#Commons_API]).
+* '''Incubator''' - New development in areas that are relevant to the other sub-projects.
+
+==== Tool Projects ====
+
+The primary consumers of the tool projects are developers using Eclipse and wanting integration with their application lifecycle tools.  Each of these projects fits under a framework sub-project, but typically will its own branding and user community, which builds on the community defined by the corresponding ALM or application development tool.  While the number of tool projects will grow, the goal is only to provide reference implementations, and not the comprehensive set of open source and commercial integrations provided by the [https://wiki.eclipse.org/Mylyn/Extensions Mylyn/Extensions] ecosystem.
+
+* Tasks
+** '''Bugzilla Connector''': Mozilla Bugzilla bug tracker integratoin
+** '''Trac Connector''': Trac ticket tracker integration
+* Context
+** '''Java Bridge''': Context management for Java development with JDT
+** '''C/C++ Bridge''': Context management for C/C++ development with CDT
+* Versions
+** '''EGit''': the new top-level project is proposed as a new home for EGit/JGit
+** '''CVS Connector''': Task-based change set management for CVS, depends on team.cvs
+* Builds
+** '''Hudson Connector''': Continuous integration access for Hudson
+* Reviews
+** '''R4E''': The reviews tool leverages the above integrations, and does not require a separate server integration, just a compatible Tasks and SCM integration
+** '''Task-based Reviews''': Lightweight code reviews shared through task repositories
+** '''Gerrit Connector''': Gerrit code review integration for Git repositories
+* Docs
+** '''WikiText''': Wiki-based markup editing for popular dialects
+** '''RichText''': HTML/XHTML/RTF markup editing
+
+==== Incubator Projects ====
+
+The Mylyn Incubator will focus on new development in areas that are relevant to the other Mylyn Project sub-projects, which because of their nature would not be appropriate for direct inclusion in the effected sub-project. This could be because the work is still experimental, will have a longer timeline than can be contained within a single release, has dependencies on external IP that has not yet cleared the Eclipse Foundation IP process, or is simply potentially too destabilizing in nature.
+
+* '''Incubator''': Trac Wiki Integration, UI Experiments, UI Usage Reporting
+** '''Web Templates Connector'''
+** '''WikiText Sandbox'''
+
+= Project Management Committee =
+
+The Projects under this Charter are managed by a group known as the Project Management Committee (the "PMC"). The PMC's duties are described in [http://www.eclipse.org/projects/dev_process/development_process.php#4_6_Leaders "4.6 Leaders"] of the Eclipse Development Process.
+
+The work of the PMC is shared by the PMC members. All PMC members are expected to contribute actively. In particular, PMC members are expected to take responsibility for overseeing certain areas of work in the Project, and reporting to the PMC on these areas. Because of the diversity amongst individual projects, PMC members are not expected to maintain anything other than general currency with projects outside their assigned technical areas.
+
+Active participation in the user newsgroups and the appropriate developer mailing lists is a responsibility of all PMC members, and is critical to the success of the Project. PMC members are required to monitor the main Project mailing list, and the developer mailing lists for all Projects and components they are overseeing.
+
+= Roles =
+
+The Projects under this Charter are operated as meritocracies -- the more you contribute, and the higher the quality of your contribution, the more you are allowed to do. However with this comes increased responsibility.
+
+== Users ==
+
+Users are the people who use the output from the Project. Output will typically consist of software in form of extensible frameworks and exemplary tools. Software in this context means intellectual property in electronic form, including source and binary code, documentation, courseware, reports and whitepapers. 
+
+== Developers ==
+
+Users who contribute software, documentation, or other materially useful content become developers. Developers are encouraged to participate in the user newsgroup(s), and should monitor the developer mailing list associated with their area of contribution. When appropriate, developers may also contribute to development design discussions related to their area of contribution. Developers are expected to be proactive in reporting problems in the bug tracking system
+
+== Committers ==
+
+Developers who give frequent and valuable contributions to a Project, or component of a Project (in the case of large Projects), can have their status promoted to that of a "Committer" for that Project or component respectively. See [http://www.eclipse.org/projects/dev_process/development_process.php#4_7_Committers_and_Contributors "4.7 Committers and Contributors"] of the Eclipse Development Process for the process and responsibilities that entails.
+
+At times, Committers may become inactive for a variety of reasons. The decision making process of the Project relies on active committers who respond to discussions and vote in a constructive and timely manner. The PMC is responsible for ensuring the smooth operation of the Project. A Committer who is disruptive, does not participate actively, or has been inactive for an extended period may have his or her commit status revoked by the PMC.
+
+Active participation in the user newsgroup and the appropriate developer mailing lists is a responsibility of all Committers, and is critical to the success of the Project. Committers are required to monitor and contribute to the user newsgroup.
+
+Committers are required to monitor the mailing lists associated with all Projects and components for which they have commit privileges. This is a condition of being granted commit rights to the Project or component. It is mandatory because committers must participate in votes (which in some cases require a certain minimum number of votes) and must respond to the mailing list in a timely fashion in order to facilitate the smooth operation of the Project. When a Committer is granted commit rights they will be added to the appropriate mailing lists. A Committer must not be unsubscribed from a developer mailing list unless their associated commit privileges are also revoked.
+
+Committers are required to track, participate in, and vote on, relevant discussions in their associated Projects and components. There are three voting responses: +1 (yes), -1 (no, or veto), and 0 (abstain).
+
+Committers are responsible for proactively reporting problems in the bug tracking system, and annotating problem reports with status information, explanations, clarifications, or requests for more information from the submitter. Committers are responsible for updating problem reports when they have done work related to the problem.
+
+= Projects =
+
+The work under this Top Level Project is further organized into Projects. New Projects must be consistent with the mission of the Top Level Project, be recommended by the PMC, and confirmed by the EMO. Projects can be discontinued by recommendation of the PMC, and confirmed by the EMO.
+
+When a new Project is created, the PMC nominates a Project lead to act as the technical leader and nominates the initial set of Committers for the Project, and these nominations are approved by the EMO. Project leads are accountable to the PMC for the success of their Project.
+
+= Project Organization =
+
+Given the fluid nature of Eclipse Projects, organizational changes are possible, in particular: dividing a Project into components; dividing a Project into two or more independent Projects; and merging two or more Projects into a single Project. In each case, the initiative for the change may come either from within the Project or from the PMC, but the PMC must approve any change, and approval must be confirmed by the EMO.
+
+If a Project wishes to divide into components, commit privileges are normally granted at the component level, and the committers for a given component vote on issues specific to that component. Components are established and discontinued by the PMC. When the PMC creates a component, it appoints a component lead to act as the technical leader and names the initial set of Committers for the component. The component lead is designated as a committer for the Project and represents the component in discussions and votes pertaining to the Project as a whole. Component committers do not participate in votes at the level of the Project as a whole, unless they are also the component lead.
+
+In cases where new Projects are being created, either by splitting or by merging, the usual procedures as set forth in this Charter are followed. In particular, developers will not necessarily have the same rights after an organizational change that they enjoyed in the previous structure.
+
+= Infrastructure =
+
+The PMC works with the EMO to ensure the required infrastructure for the Project. The Project infrastructure will include, at minimum:
+
+* Bug Database - Bugzilla database for tracking bugs and feature requests.
+* Source Repository -- One or more source repositories containing all the software for the Projects.
+* Website - A website will contain information about the Project, including documentation, reports and papers, courseware, downloads of releases, and this Charter.
+* General Mailing List - Mailing list for discussions pertaining to the Project as a whole or that cross Projects. This mailing list is open to the public.
+* Project Mailing Lists - Mailing list for technical discussions related to the Project. This mailing list is open to the public.
+* Component Mailing Lists - Mailing list for technical discussions related to the component. This mailing list is open to the public.
+* Newsgroups - Newsgroups where users, developers, and committers can interact regarding general questions and issues about the project. The newsgroup is open to the public.
+
+== Bugzilla ==
+
+Each framework project is represented as a component under the Mylyn product, e.g. Mylyn/Tasks. Tools and incubator projects have their own product that maybe prefixed with the top-level project name, e.g. "Mylyn Bugzilla Connector". Tools and incubator projects may vote on their own components.
+
+= The Development Process =
+Each Project lead must produce a development plan for the release cycle, and the development plan must be approved by a majority of Committers of the Project. The plan must be submitted to the PMC for review. The PMC may provide feedback and advice on the plan but approval rests with the Project Committers.
+
+Each Project must identify, and make available on its web site, the requirements and prioritizations it is working against in the current release cycle. In addition, each Project must post a release plan showing the date and content of the next major release, including any major milestones, and must keep this plan up to date.
+
+The Committers of a Project or component decide which changes may be committed to the master code base of a Project or component respectively. The PMC defines the decision process, but that process must include the ability for Committers to veto the change. The decision process employed may change with the phase of development.  Common decision processes include:
+
+* Retroactive - changes are proactively made by Committers but can be vetoed by a single Committer. 
+* Proactive - for efficiency, some code changes from some contributors (e.g. feature additions, bug fixes) may be approved in advance, or approved in principle based on an outline of the work, in which case they may be committed first and changed as needed, with conflicts resolved by majority vote of the Committers of the Project or component, as applicable.
+* Three Positive - No code is committed without a vote; three +1 ('yes' votes) with no -1 ('no' votes or vetoes) are needed to approve a code change. 
+
+Vetoes must be followed by an explanation for the veto within 24 hours or the veto becomes invalid. All votes are conducted via the developer mailing list associated with the Project or component. Special rules may be established by the PMC for Projects or components with fewer than three Committers. 
+
+The master copy of the code base must reside on the Project web site where it is accessible to all users, developers and committers. Committers must check their changes and new work into the master code base as promptly as possible (subject to any check-in voting rules that may be in effect) in order to foster collaboration among widely distributed groups and so that the latest work is always available to everyone. The PMC is responsible for working with the Eclipse Foundation to establish a release engineering and build process to ensure that builds can be reliably produced on a regular and frequent basis from the master code base and made available for download from the Project web site. Builds in this context are intended to include not only code but also reports, documentation, and courseware.
+
+Each Project is responsible for establishing test plans and the level of testing appropriate for the Project.
+
+All development technical discussions are conducted using the development mailing lists. If discussions are held offline, then a summary must be posted to the mailing list to keep the other committers, and any other interested parties.
+
+= Licensing =
+
+All contributions to Projects under this Charter must adhere to the Eclipse Foundation [http://www.eclipse.org/org/documents/Eclipse_IP_Policy.pdf Intellectual Property Policy].

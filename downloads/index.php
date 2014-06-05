@@ -24,13 +24,9 @@
 	include("../_sideBars.php");
 		
 $html = <<<EOHTML
-
-	<div id="rightcolumn">
-		$side_vote
-		$side_announce
-	</div>
-
-	<div style="margin-top:30px; margin-left:40px; width:75%">
+<div class="maincontent">
+  <div id="midcolumn">
+	  <div>
     	<p>
         The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
         Task List with bug/task/issue trackers and project management tools.  
@@ -40,7 +36,7 @@ $html = <<<EOHTML
         </p>
     </div>
 
-	<div style="border:none; margin-left:40px; width:75%;">
+	<div>
 		<table border="0" cellpadding="3"> 
 			<tr>
 				<td><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/plugin.png"></a></td>
@@ -75,7 +71,7 @@ $html = <<<EOHTML
 	</div>
 	
 	<!-- Release -->
-		 <div class="homeitem3col" style="margin-left:40px; width:75%">
+		 <div class="homeitem3col">
 			<h3>3.11 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2014-03-26). Requires <a href="http://www.oracle.com/technetwork/java/">Java SE 6</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a>, <a href="http://trac.edgewall.org/" target="_new">Trac</a>, <a href="http://hudson-ci.org/" target="_new">Hudson</a>, <a href="http://jenkins-ci.org/" target="_new">Jenkins</a> and <a href="http://code.google.com/p/gerrit/" target="_new">Gerrit</a>.
 			<ul> 
@@ -88,7 +84,7 @@ $html = <<<EOHTML
 			</ul>
 		</div>
 
-		<div class="homeitem3col" style="margin-left:40px; width:75%">
+		<div class="homeitem3col">
 	    	<a name="weekly"></a>
 			<h3>Snapshot Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly builds are production quality, but subject to UI changes.
@@ -113,7 +109,7 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>
 		</div>
 
-		<div class="homeitem3col" style="margin-left:40px; width:75%">
+		<div class="homeitem3col">
 			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			
 			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
@@ -128,7 +124,7 @@ $html = <<<EOHTML
 		</div>
 		
 		<!-- Commercial -->
-		 <div class="homeitem3col" style="margin-left:40px; width:75%">
+		 <div class="homeitem3col">
 				<h3>Commercial Distributions</h3> 
 				<table border="0" cellpadding="3"> 
 				<tr>
@@ -152,23 +148,24 @@ $html = <<<EOHTML
 					Software User Agreement</a> unless otherwise specified.</font>
 	</div>
 	-->
-	
-	<!--	
-	<div id="rightcolumn" style="padding-right: 20px">
+	</div>
+	<div id="rightcolumn">
+	  $side_vote
+		$side_announce
+		<!--
 		<div class="sideitem">
-				<h6>New Users</h6>
+		  <h6>New Users</h6>
 			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
-				        then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.
-				        </p> 
+			then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.</p> 
 		</div>
 		<div class="sideitem">
-				<h6>License</h6>
+			<h6>License</h6>
 			<p style="padding-left: 5px;">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
-		Software User Agreement</a> unless otherwise specified.</p>
+			Software User Agreement</a> unless otherwise specified.</p>
 		</div>
 		<div class="sideitem">
-		<h6>Support Mylyn</h6>
-		 <p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
+			<h6>Support Mylyn</h6>
+			<p style="padding-left: 5px; text-align: center;"><form method="post" action="http://www.eclipseplugincentral.com/Web_Links.html">
 			<a href="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-587.html">
 			Vote on EPIC</a><br>
 			<select name="rating">
@@ -184,12 +181,9 @@ $html = <<<EOHTML
 			<option>1</option>
 			</select>&nbsp;<input type="hidden" name="ratinglid" value="560"><input type="hidden" name="ratinguser" value="outside"><input type="hidden" name="req" value="addrating"><input type="submit" value="Vote">
 			</form><br>&nbsp;</p>
-		</div>
+		</div>-->
 	</div>
-	-->
-		
-
-	<div align="homeitem3col" style="width:85%">&nbsp;</div>
+</div>
 	
 EOHTML;
 

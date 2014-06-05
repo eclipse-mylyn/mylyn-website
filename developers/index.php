@@ -20,19 +20,6 @@
 		
 	$html = <<<EOHTML
 
-	<div id="rightcolumn">
-		$side_vote
-	</div>
-
-	<!--
-	<div id="rightcolumn"> 
-		<font size=1>
-		<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
-		<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
-		</font>
-	</div>
-	-->
-	
 	<div id="midcolumn">
 		<!--	<div align="center"><h1>$pageTitle</h1></div> -->
 
@@ -141,8 +128,16 @@
 		</div>
 		
 		<p>&nbsp;</p>
-	</div>	
-
+	</div>
+	<div id="rightcolumn">
+		$side_vote
+	  <!--
+			<font size=1>
+			<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
+			<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
+			</font>
+		-->			
+	</div>
 </div>
 
 EOHTML;

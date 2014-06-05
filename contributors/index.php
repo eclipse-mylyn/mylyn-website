@@ -21,12 +21,6 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
-  
-  	<div id="rightcolumn">
-		$side_vote
-		$side_announce
-	</div>
-  
 <div id="maincontent">
 
 	<div id="midcolumn">
@@ -205,6 +199,8 @@
 	
 	<div id="rightcolumn">
 		$commonside
+		$side_vote
+		$side_announce
 	</div>
 </div>
 

@@ -18,13 +18,6 @@
 	$html = <<<EOHTML
 
 <div id="maincontent">
-	
-	<div id="rightcolumn">
-		$side_vote
-		$side_announce
-		$side_mylynIs
-	</div>
-	
 	<div id="midcolumn">
 	
 		<div class="homeitem3col">
@@ -100,6 +93,9 @@
 	<div id="rightcolumn">
 		$mylynIsSide
 		<!-- $sidePhase-->
+		$side_vote
+		$side_announce
+		$side_mylynIs
 	</div>
 
 </div>

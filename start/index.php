@@ -22,11 +22,6 @@
 
 <div id="maincontent">
 	
-	<div id="rightcolumn">
-		$side_vote
-		$side_announce
-	</div>
-
 	<div id="midcolumn">
 		<div class="homeitem3col">
 			<h3>Videos</h3> 
@@ -151,11 +146,13 @@
 		-->
 		<p>&nbsp;</p>
 	</div>
-	<!--
+
 	<div id="rightcolumn">
-		$commonside
+		$side_vote
+		$side_announce
+		$commonside	
 	</div>
-	-->
+
 </div>
 
 

@@ -26,7 +26,7 @@
 		<div class="homeitem3col">
 			<h3>Videos</h3> 
 			<ul>
-				<li>
+				<li style="list-style-type: none;">
 					<table cellspacing="0" cellpadding="0">
 						<tr>
 							<td><a href="http://live.eclipse.org/node/573">

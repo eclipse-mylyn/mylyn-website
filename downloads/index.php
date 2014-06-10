@@ -61,7 +61,7 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></td>
+			      			<td><span style="white-space: nowrap"><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></span></td>
 						</tr>
 						<tr><td>Download archive and support for Eclipse 3.7, 3.6, 3.5, 3.4, 3.3 and 3.2</td></tr>
 					</table>

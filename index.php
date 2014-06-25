@@ -126,15 +126,15 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.11 released</a> <i>March 26, 2014</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.12 released as part of Eclipse Luna</a> <i>June 25, 2014</i>
+	            		</li>
+						<li>
+		            		<a href="new/">
+		           			Mylyn 3.11 released</a> <i>March 26, 2014</i>
 	            		</li>
 						<li>
 		            		<a href="new/">
 		           			Mylyn 3.10 released</a> <i>November 6, 2013</i>
-	            		</li>
-						<li>
-		            		<a href="new/">
-		           			Mylyn 3.9 released as part of Eclipse Kepler</a> <i>June 26, 2013</i>
 	            		</li>
 						<li>
 		            		<a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">

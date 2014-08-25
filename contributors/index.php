@@ -63,7 +63,7 @@ EOHTML;
 
 EOHTML;
 
-$html= $htmlStart.$htmlEnd;
+$html= $htmlStart . $htmlDynamic . $htmlEnd;
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

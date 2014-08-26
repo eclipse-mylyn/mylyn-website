@@ -41,7 +41,6 @@
   }
   $htmlDynamic = $htmlDynamic . '</table>';
 		
-	$htmlDynamic = "<br><brTest<br><br>";
 	# Paste your HTML content between the EOHTML markers!	
 	$htmlStart = <<<EOHTML
 <div id="maincontent">
@@ -63,7 +62,7 @@ EOHTML;
 
 EOHTML;
 
-$html= $htmlStart.$htmlEnd;
+$html= $htmlStart . $htmlDynamic .$htmlEnd;
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

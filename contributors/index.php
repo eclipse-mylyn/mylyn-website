@@ -38,7 +38,13 @@ EOHTML;
 	</div>
 </div>
 EOHTML;
-$htmlDynamic = file_get_contents('./contributer.inc', FILE_USE_INCLUDE_PATH);
+
+  $ch = curl_init(); 
+  curl_setopt($ch, CURLOPT_URL, "http://staging.eclipse.org/mylyn/contributors/contributer.inc"); 
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
+  $output = curl_exec($ch); 
+  curl_close($ch); 
+
 $html= $htmlStart . $htmlDynamic .$htmlEnd;
 
 	# Generate the web page

@@ -39,11 +39,7 @@ EOHTML;
 </div>
 EOHTML;
 
-  $ch = curl_init(); 
-  curl_setopt($ch, CURLOPT_URL, "http://staging.eclipse.org/mylyn/contributors/contributer.inc"); 
-  curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); 
-  $output = curl_exec($ch); 
-  curl_close($ch); 
+$htmlDynamic = file_get_contents("https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc");
 
 $html= $htmlStart . $htmlDynamic .$htmlEnd;
 

@@ -1,4 +1,5 @@
 <?php
+  $file = 'contributor.inc';
   function extractCommitter($url, $committerArray)
   {
     $committerReviews = file_get_contents($url);
@@ -101,11 +102,7 @@
                  . $sort_recfields[1].'</a></td></tr>';
   }
   $htmlDynamic = $htmlDynamic . '</table><br> page generated  '.date("Y/m/d h:i:sa");
-  header("Pragma: public");
-  header("Expires: 0");
-  header("Cache-Control: must-revalidate, post-check=0, pre-check=0");
-  header("Content-Type: application/force-download");
-  header( "Content-Disposition: attachment; filename=contributer.inc");
-  header( "Content-Description: File Transfer");
-  echo $htmlDynamic;
+
+
+  file_put_contents($file, $htmlDynamic);
 ?>

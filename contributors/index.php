@@ -24,7 +24,7 @@
 <div id="maincontent">
 
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved.
+		Listing ordered by number of bugs resolved. Test!!!
 		<div class="homeitem3col">
 EOHTML;
 	$htmlEnd = <<<EOHTML
@@ -39,8 +39,8 @@ EOHTML;
 </div>
 EOHTML;
 
-$htmlDynamic = file_get_contents("https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc");
-
+$htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
+$htmlDynamic = $htmlDynamic . "<!-- https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc -->";
 $html= $htmlStart . $htmlDynamic .$htmlEnd;
 
 	# Generate the web page

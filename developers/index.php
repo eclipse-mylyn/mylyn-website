@@ -49,9 +49,9 @@
 					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn Page on Eclipsepedia</a>: Contributor and integrator links
 				</li>
 				<li>
-        			<a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
+        			<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
            			EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
-           			<a href="http://www.eclipse.org/downloads/download.php?file=/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
+           			<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
         		</li>
 				<li>
 					<a href="http://www.eclipse.org/articles/">Eclipse Corner Articles</a>: General information about Eclipse and plug-in development

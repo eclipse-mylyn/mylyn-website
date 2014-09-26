@@ -76,7 +76,7 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2014-06-25). Requires <a href="http://www.oracle.com/technetwork/java/">Java SE 6</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a>, <a href="http://trac.edgewall.org/" target="_new">Trac</a>, <a href="http://hudson-ci.org/" target="_new">Hudson</a>, <a href="http://jenkins-ci.org/" target="_new">Jenkins</a> and <a href="http://code.google.com/p/gerrit/" target="_new">Gerrit</a>.
 			<ul> 
 				<li>
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.13.0/v20140908-2330/mylyn-3.13.0.v20140908-2330.zip">
+					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.13.0/v20140908-2330/mylyn-3.13.0.v20140908-2330.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.8, 4.3 and 4.4)
@@ -91,7 +91,7 @@ $html = <<<EOHTML
 			<ul> 
 				<li>
 					<!--
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest.zip">
+					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
@@ -99,7 +99,7 @@ $html = <<<EOHTML
 				</li>
 				<li>
 					<!--
-					<a title="Update Site Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest-incubator.zip">
+					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
@@ -115,7 +115,7 @@ $html = <<<EOHTML
 			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
 			<ul>
 					<li>
-						<a title="Latest Zip" href="http://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/nightly/docs/wikitext-standalone-latest.zip">
+						<a title="Latest Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/nightly/docs/wikitext-standalone-latest.zip">
 							<img border=0 src="/mylyn/images/icon-save.gif">
 						</a>
 						&nbsp;&nbsp;<b>Download WikiText Standalone (latest)</b>
@@ -134,7 +134,7 @@ $html = <<<EOHTML
 							<tr>
 				      			<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td> 
 							</tr>
-							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free version available.</td></tr>
+							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free trial available.</td></tr>
 						</table>
 					</td>
 				</tr> 

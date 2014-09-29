@@ -12,6 +12,8 @@
         // need to hardcode committers whose email doesn't contain all the words in their name because using assigned_to_realname doesn't work
         if($actualCommitter === "Torkild U. Resheim") {
         	$actualCommitter = "torkildr";
+        } else if($actualCommitter === "Jacques Bouthillier") {
+        	$actualCommitter = "lmcbout@gmail.com";
         }
         if (!in_array( $actualCommitter, $committerArray)) {
           $committerArray[] = $actualCommitter;
@@ -67,7 +69,7 @@
       }
     }
   }
-  $htmlDynamic = '<h1>Committers</h1>Sorted by number of bugs resolved.<br>';
+  $htmlDynamic = '<h1>Committers</h1>Sorted by number of bugs resolved.<br><br>';
   $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
   array_multisort($sort_ord, SORT_NUMERIC, SORT_DESC, $sort_rec);
   foreach($sort_rec as $sort_recfields) {
@@ -97,7 +99,7 @@
       }
     }
   }
-  $htmlDynamic = $htmlDynamic . '<h1>Contributors</h1>Sorted by number of bugs resolved.<br>';
+  $htmlDynamic = $htmlDynamic . '<h1>Contributors</h1>Sorted by number of bugs resolved.<br><br>';
   $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
   array_multisort($sort_ord, SORT_NUMERIC, SORT_DESC, $sort_rec);
   foreach($sort_rec as $sort_recfields) {
@@ -107,7 +109,7 @@
                  . "&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
                  .  $sort_recfields[1].'</a></td></tr>';
   }
-  $htmlDynamic = $htmlDynamic . '</table><br> Page generated  '.date("Y/m/d h:i:sa").".";
+  $htmlDynamic = $htmlDynamic . '</table><br> <i>Page generated  '.date("Y/m/d h:i:sa").". The list of committers may be incomplete.</i>";
 
 
   file_put_contents($file, $htmlDynamic);

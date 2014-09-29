@@ -24,7 +24,6 @@
 <div id="maincontent">
 
 	<div id="midcolumn">
-		Listing ordered by number of bugs resolved. Test!!!
 		<div class="homeitem3col">
 EOHTML;
 	$htmlEnd = <<<EOHTML

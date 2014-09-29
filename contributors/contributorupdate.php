@@ -9,6 +9,10 @@
     foreach($lines as $line) {
       if (strlen($line)>3) {
         $actualCommitter = substr($line, strpos($line, ">")+1);
+        // need to hardcode committers whose email doesn't contain all the words in their name because using assigned_to_realname doesn't work
+        if($actualCommitter === "Torkild U. Resheim") {
+        	$actualCommitter = "torkildr";
+        }
         if (!in_array( $actualCommitter, $committerArray)) {
           $committerArray[] = $actualCommitter;
         }
@@ -30,6 +34,7 @@
   $committerArray =extractCommitter("https://projects.eclipse.org/projects/mylyn.versions/who", $committerArray);
 
   $committerList = "";
+  // negate the assigned_to clauses in committerList
   $committerNotList = "";
   $committerIndex = 0;
   foreach($committerArray as $committerName) {
@@ -43,9 +48,10 @@
     }
   }
 
-  $committerpart = "bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&classification=Mylyn&resolution=FIXED"
-                 . "&j_top=OR" . $committerList;
+  $resolutionPart = "bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&classification=Mylyn&resolution=FIXED"; 
+  $committerpart =  "&j_top=OR" . $committerList;
   $url= "https://bugs.eclipse.org/bugs/report.cgi?"
+      . $resolutionPart
       . $committerpart
       . "&x_axis_field=assigned_to_realname&width=1024&height=600&action=wrap&ctype=csv&format=table";
   $content = file_get_contents($url);
@@ -61,19 +67,20 @@
       }
     }
   }
-  $htmlDynamic = '<h1>Committer</h1>sorted list (count descending)<br>';
-  $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><td>Name</td><td>Count</td></tr>';
+  $htmlDynamic = '<h1>Committers</h1>Sorted by number of bugs resolved.<br>';
+  $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
   array_multisort($sort_ord, SORT_NUMERIC, SORT_DESC, $sort_rec);
   foreach($sort_rec as $sort_recfields) {
     $htmlDynamic = $htmlDynamic . '<tr><td>' .str_replace('"','',$sort_recfields[0])
-                 .' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'.str_replace('&','&amp;',$committerpart)
-                 ."&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
-                 . $sort_recfields[1].'</a></td></tr>';
+                 . ' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'
+                 . str_replace('&','&amp;', $resolutionPart)
+                 . "&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
+                 .  $sort_recfields[1].'</a></td></tr>';
   }
 
   $htmlDynamic = $htmlDynamic . '</table><br><br><br>';
     $url= "https://bugs.eclipse.org/bugs/report.cgi?"
-                 . str_replace('&j_top=OR','&j_top=AND',$committerpart)
+                 . str_replace('&j_top=OR','&j_top=AND', $resolutionPart . $committerpart)
                  . $committerNotList
                  . "&x_axis_field=assigned_to_realname&width=1024&height=600&action=wrap&ctype=csv&format=table";
 
@@ -90,18 +97,17 @@
       }
     }
   }
-  $htmlDynamic = $htmlDynamic . '<h1>Contributors</h1>sorted list (count descending)<br>';
-  $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><td>Name</td><td>Count</td></tr>';
+  $htmlDynamic = $htmlDynamic . '<h1>Contributors</h1>Sorted by number of bugs resolved.<br>';
+  $htmlDynamic = $htmlDynamic . '<table id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
   array_multisort($sort_ord, SORT_NUMERIC, SORT_DESC, $sort_rec);
   foreach($sort_rec as $sort_recfields) {
     $htmlDynamic = $htmlDynamic . '<tr><td>' .str_replace('"','',$sort_recfields[0])
-                 .' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'
-                 .str_replace('&','&amp;',str_replace('&j_top=OR','&j_top=AND',$committerpart))
-                 . $committerNotList
-                 ."&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
-                 . $sort_recfields[1].'</a></td></tr>';
+                 . ' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'
+                 . str_replace('&','&amp;',str_replace('&j_top=OR','&j_top=AND', $resolutionPart))
+                 . "&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
+                 .  $sort_recfields[1].'</a></td></tr>';
   }
-  $htmlDynamic = $htmlDynamic . '</table><br> page generated  '.date("Y/m/d h:i:sa");
+  $htmlDynamic = $htmlDynamic . '</table><br> Page generated  '.date("Y/m/d h:i:sa").".";
 
 
   file_put_contents($file, $htmlDynamic);

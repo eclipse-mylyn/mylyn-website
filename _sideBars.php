@@ -1,6 +1,5 @@
 <?php
-
-    $side_announce = <<<EOHTML
+	$side_announce = <<<EOHTML
 		<div class="sideitem">
 			<h6>Announce List</h6>
 			 <ul><li>
@@ -8,7 +7,6 @@
 			  </li></ul>
 		</div>   
 EOHTML;
-	
 		$side_vote = <<<EOHTML
 		<div class="sideitem">
 			<h6>Support Mylyn</h6>

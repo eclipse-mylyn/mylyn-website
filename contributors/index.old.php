@@ -23,11 +23,17 @@
 	$htmlStart = <<<EOHTML
 <div id="maincontent">
 
-	<div id="midcolumn" class="no-right-sidebar">
-		<div class="row" >
+	<div id="midcolumn">
+		<div class="homeitem3col">
 EOHTML;
 	$htmlEnd = <<<EOHTML
-		</div>
+	   </div> 
+	</div> 
+	
+	<div id="rightcolumn">
+		$commonside
+		$side_vote
+		$side_announce
 	</div>
 </div>
 EOHTML;

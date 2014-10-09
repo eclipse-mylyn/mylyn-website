@@ -9,23 +9,22 @@
 	$pageTitle 		= "Eclispe Mylyn - Archive";
 	$pageKeywords	= "Mylar, Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
-	
+
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	# End: page-specific settings
-	
-	include("_sideCommon.php");
-	include("_sideNews.php");
-	include("_sideIncubator.php");
+	#
+		
 	$html = <<<EOHTML
   
 <div id="maincontent">
-  <div id="midcolumn" style="width:92%">
+  <div id="midcolumn" class="no-right-sidebar">
   		<i>Last updated 2006-12-15</i> 
-  		<div class="homeitem3col">
+		<div class="row" >
+		<div class="col-md-8">
 			<h3>News Archive</h3>
 			<ul>			
 				<li>
@@ -93,7 +92,7 @@
 	            </li>
 			</ul>
 		</div>
-		<div class="homeitem3col">
+		<div class="col-md-8">
 			<h3>Blogs Archive</h3>		
 			<ul>	
 				<li>
@@ -213,7 +212,7 @@
 				<span class="dates">(Feb. 23, 2006)</span></li>
 				
 				<li>Ryan Markel: <a href="http://blog.platinumsolutions.com/node/15">
-				Mylar Technology Project — Eclipse Just Got Easier</a>
+				Mylar Technology Project ï¿½ Eclipse Just Got Easier</a>
 				<span class="dates">(Jan. 16, 2006)</span></li>
 								
 				<li>Haranguing Garden: <a href="http://chambery.subfire.org/wordpress/?p=38">
@@ -237,7 +236,7 @@
 			</ul>
 		</div> 				
 		
-		<div class="homeitem3col">
+		<div class="col-md-8">
 			<h3>Event Archive</h3>
 			<ul>
 				<li>
@@ -261,6 +260,7 @@
 				
 				<li>First user study preview release, <span class="dates">(July 11, 2005)</span></li>
 			</ul>
+		</div> 
 		</div> 
 	</div>
 </div>

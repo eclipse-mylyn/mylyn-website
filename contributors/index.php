@@ -32,9 +32,8 @@ EOHTML;
 </div>
 EOHTML;
 
-#$htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
-#$htmlDynamic = $htmlDynamic . "<!-- https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc -->";
-$htmlDynamic = file_get_contents('./contributor.inc', FILE_USE_INCLUDE_PATH);
+$htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
+#$htmlDynamic = file_get_contents('./contributor.inc', FILE_USE_INCLUDE_PATH);
 
 $html= $htmlStart . $htmlDynamic .$htmlEnd;
 

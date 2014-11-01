@@ -8,8 +8,10 @@
 	$pageTitle 		= "Mylyn New & Noteworthy";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
+
 	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/doc/new.html";
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/".htmlspecialchars($_GET["version"]);
+	
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {
@@ -26,12 +28,14 @@
 		
 	$html = <<<EOHTML
 
-<div id="midcolumn" style="width:92%">
-     $contents
+<div id="midcolumn">
+	<div class="row" >
+		<div class="col-md-24">
+			<div class="news_view_all">&gt; <a href="/mylyn/new/all.php">View all Release Notes</a></div>
+			$contents
+     	</div>
+	</div>   	
 </div>
-</div>
-
-
 EOHTML;
 
 

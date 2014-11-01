@@ -9,7 +9,7 @@
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new.html";
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new-3.13.html";
     $dataFile = fopen( $filename, "r" ) ;
     if ( $dataFile )  {
     	while (!feof($dataFile))   {
@@ -27,11 +27,13 @@
 	$html = <<<EOHTML
 
 <div id="midcolumn">
-     $contents
+	<div class="row" >
+		<div class="col-md-24">
+			<div class="news_view_all">&gt; <a href="/mylyn/new/all.php">View all Release Notes</a></div>
+			$contents
+     	</div>
+	</div>   	
 </div>
-</div>
-
-
 EOHTML;
 
 

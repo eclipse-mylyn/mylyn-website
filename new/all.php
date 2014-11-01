@@ -8,88 +8,88 @@ $pageAuthor		= "Mik Kersten";
 $versions = array(
 				  array(
 					 "date" => "2014/09/26"
-					, "title" => "<a href=\"new-3.13.html\"><img src=\"../images/star.png\"/>Mylyn 3.13 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.13.html\"><img src=\"../images/star.png\"/>Mylyn 3.13 released</a>"
 					, "description" => "Mylyn 3.13 released as part of Eclipse Luna SR1"
 				)
 				, array(
 					 "date" => "2014/06/25"
-					, "title" => "<a href=\"new-3.12.html\">Mylyn 3.12 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.12.html\">Mylyn 3.12 released</a>"
 					, "description" => "Mylyn 3.12 released as part of Eclipse Luna"
 				)
 				, array(
 					 "date" => "2014/03/26"
-					, "title" => "<a href=\"new-3.11.html\">Mylyn 3.11 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.11.html\">Mylyn 3.11 released</a>"
 				)
 				, array(
 					 "date" => "2013/11/06"
-					, "title" => "<a href=\"new-3.10.html\">Mylyn 3.10 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.10.html\">Mylyn 3.10 released</a>"
 				)
 				, array(
 					 "date" => "2013/06/26"
-					, "title" => "<a href=\"new-3.9.html\">Mylyn 3.9 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.9.html\">Mylyn 3.9 released</a>"
 					, "description" => "Mylyn 3.9 released as part of Eclipse Kepler"
 				)
 				, array(
 					 "date" => "2012/06/27"
-					, "title" => "<a href=\"new-3.8.html\">Mylyn 3.8 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.8.html\">Mylyn 3.8 released</a>"
 					, "description" => "Mylyn 3.8 released as part of Eclipse Juno"
 				)
 				, array(
 					 "date" => "2011/06/22"
-					, "title" => "<a href=\"new-3.6.html\">Mylyn 3.6 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.6.html\">Mylyn 3.6 released</a>"
 					, "description" => "Mylyn 3.6 released as part of Eclipse Indego"
 				)
 				, array(
 					 "date" => "2011/03/16"
-					, "title" => "<a href=\"new-3.5.html\">Mylyn 3.5 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.5.html\">Mylyn 3.5 released</a>"
 				)
 				, array(
 					 "date" => "2010/06/23"
-					, "title" => "<a href=\"new-3.4.html\">Mylyn 3.4 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.4.html\">Mylyn 3.4 released</a>"
 					, "description" => "Mylyn 3.4 released as part of Eclipse Helios"
 				)
 				, array(
 					 "date" => "2009/10/26"
-					, "title" => "<a href=\"new-3.3.html\">Mylyn 3.3 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.3.html\">Mylyn 3.3 released</a>"
 				)
 				, array(
 					 "date" => "2009/06/24"
-					, "title" => "<a href=\"new-3.2.html\">Mylyn 3.2 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.2.html\">Mylyn 3.2 released</a>"
 					, "description" => "Mylyn 3.2 released as part of Eclipse Galileo"
 				)
 				, array(
 					 "date" => "2009/03/17"
-					, "title" => "<a href=\"new-3.1.html\">Mylyn 3.1 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.1.html\">Mylyn 3.1 released</a>"
 				)
 				, array(
 					 "date" => "2008/06/25"
-					, "title" => "<a href=\"new-3.0.html\">Mylyn 3.0 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.0.html\">Mylyn 3.0 released</a>"
 					, "description" => "Mylyn 3.0 released as part of Eclipse Ganymede"
 				)
 				, array(
 					 "date" => "2008/02/27"
-					, "title" => "<a href=\"new-2.3.html\">Mylyn 2.3 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.3.html\">Mylyn 2.3 released</a>"
 					, "description" => "Mylyn 2.3 released as part of Eclipse Europa SR2"
 				)
 				, array(
 					 "date" => "2007/12/19"
-					, "title" => "<a href=\"new-2.2.html\">Mylyn 2.2 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.2.html\">Mylyn 2.2 released</a>"
 				)
 				, array(
 					 "date" => "2007/08/27"
-					, "title" => "<a href=\"new-2.1M.html\">Mylyn 2.1M1 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.1M.html\">Mylyn 2.1M1 released</a>"
 				)
 				, array(
 					 "date" => "2007/05/14"
-					, "title" => "<a href=\"new-2.0M3.html\">Mylyn 2.0M3 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.0M3.html\">Mylyn 2.0M3 released</a>"
 				)
 				, array(
 					 "date" => "2007/02/16"
-					, "title" => "<a href=\"new-2.0M1.html\">Mylyn 2.0M1 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.0M1.html\">Mylyn 2.0M1 released</a>"
 				)
 				, array(
 					 "date" => "2006/06/29"
-					, "title" => "<a href=\"new-2.0.html\">Mylyn 2.0 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-2.0.html\">Mylyn 2.0 released</a>"
 					, "description" => "Mylyn 3.0 released as part of Eclipse Callisto"
 				)
 

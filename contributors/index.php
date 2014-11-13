@@ -32,10 +32,14 @@ EOHTML;
 </div>
 EOHTML;
 
-$htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
-#$htmlDynamic = file_get_contents('./contributor.inc', FILE_USE_INCLUDE_PATH);
+if($_SERVER['HTTP_HOST'] == 'staging.eclipse.org' ||
+   $_SERVER['HTTP_HOST'] == 'localhost:2080') {
+  $htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors-staging/lastSuccessfulBuild/artifact/contributor.inc');
+} else {
+  $htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
+}
 
-$html= $htmlStart . $htmlDynamic .$htmlEnd;
+$html= $htmlStart. $htmlDynamic .$htmlEnd;
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

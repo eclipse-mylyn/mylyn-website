@@ -46,8 +46,13 @@ $html = <<<EOHTML
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
 				<div class="news_item">
+					<div class="news_item_date">2015/01/9</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.14.html"><img src="images/star.png"/>Mylyn 3.14 released</a></div>
+					<div class="news_item_description">Mylyn 3.14 released as part of Eclipse Luna SR1</div>
+				</div>
+				<div class="news_item">
 					<div class="news_item_date">2014/09/26</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.13.html"><img src="images/star.png"/>Mylyn 3.13 released</a></div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.13.html">Mylyn 3.13 released</a></div>
 					<div class="news_item_description">Mylyn 3.13 released as part of Eclipse Luna SR1</div>
 				</div>
 				<div class="news_item">

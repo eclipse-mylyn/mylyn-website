@@ -1,4 +1,4 @@
-<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
+<?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());	# All on the same line to unclutter the user's desktop'
 
 	#*****************************************************************************
 	#
@@ -9,16 +9,16 @@
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new-3.13.html";
-    $dataFile = fopen( $filename, "r" ) ;
-    if ( $dataFile )  {
-    	while (!feof($dataFile))   {
-        	$contents .= fgets($dataFile, 4096);
-    	}
-    	fclose($dataFile);
-    } else  {
-    	die( "fopen failed for $filename" ) ;
-    }
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new-3.14.html";
+	$dataFile = fopen( $filename, "r" ) ;
+	if ( $dataFile )  {
+		while (!feof($dataFile))   {
+			$contents .= fgets($dataFile, 4096);
+		}
+		fclose($dataFile);
+	} else  {
+		die( "fopen failed for $filename" ) ;
+	}
 
 	# Paste your HTML content between the EOHTML markers!	
 	
@@ -31,8 +31,8 @@
 		<div class="col-md-24">
 			<div class="news_view_all">&gt; <a href="/mylyn/new/all.php">View all Release Notes</a></div>
 			$contents
-     	</div>
-	</div>   	
+		</div>
+	</div>
 </div>
 EOHTML;
 

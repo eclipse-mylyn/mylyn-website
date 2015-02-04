@@ -7,8 +7,13 @@ $pageAuthor		= "Mik Kersten";
 
 $versions = array(
 				  array(
+					 "date" => "2015/01/9"
+					, "title" => "<a href=\"showVersion.php?version=new-3.14.html\"><img src=\"../images/star.png\"/>Mylyn 3.14 released</a>"
+					, "description" => "Mylyn 3.14"
+				)
+				, array(
 					 "date" => "2014/09/26"
-					, "title" => "<a href=\"showVersion.php?version=new-3.13.html\"><img src=\"../images/star.png\"/>Mylyn 3.13 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.13.html\">Mylyn 3.13 released</a>"
 					, "description" => "Mylyn 3.13 released as part of Eclipse Luna SR1"
 				)
 				, array(
@@ -125,7 +130,7 @@ $html = <<<EOHTML
 	<div class="row" >
 		<div class="col-md-24">
 			<div class="news-list"> <h2>Releases</h2>
-	    <div class="row" >
+		<div class="row" >
 EOHTML;
 	$html = $html . $cola. $col1 . $col2 . "</div></div></div>";
 

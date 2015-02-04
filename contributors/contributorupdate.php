@@ -4,7 +4,7 @@
   {
     $committerReviews = file_get_contents($url);
     $start=  substr($committerReviews, strpos($committerReviews, "<h3>Committers</h3>"));
-    $committerList =substr($start,19, strpos($start, "</div>"));
+    $committerList =substr($start,19, strpos($start, "</ul></div>"));
     $lines = explode('</li>', strip_tags($committerList, '<li>'));
     foreach($lines as $line) {
       if (strlen($line)>3) {

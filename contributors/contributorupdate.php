@@ -190,5 +190,6 @@
 	$htmlDynamic = $htmlDynamic . '<i>Page generated	' . date("Y/m/d h:i:sa")."
 				. The list of committers may be incomplete.</i>";
 
+	$file = 'contributor.inc';
 	file_put_contents($file, $htmlDynamic);
 ?>

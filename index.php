@@ -126,7 +126,11 @@ $html = <<<EOHTML
 					<ul>
 						<li>
 		            		<a href="new/">
-		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.14 released</a> <i>January 9, 2015</i>
+		           			<img src="images/star.png"/>&nbsp;&nbsp;Mylyn 3.14.1 released</a> <i>February 10, 2015</i>
+	            		</li>
+						<li>
+		            		<a href="new/">
+		           			Mylyn 3.14 released</a> <i>January 9, 2015</i>
 	            		</li>
 						<li>
 		            		<a href="new/">

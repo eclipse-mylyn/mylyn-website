@@ -72,23 +72,23 @@ $html = <<<EOHTML
 				<div class="news_item">
 					<div class="news_item_date">2011/06/28</div>
 					<div class="news_item_title"><a href="http://jaxenter.com/mik-kersten-jaxconf-2011-36569.html" target="_new">
-			           			Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6<img border="0" src="/mylyn/images/external-link.png"></a></div>
+								Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6<img border="0" src="/mylyn/images/external-link.png"></a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2011/06/22</div>
 					<div class="news_item_title"><a href="http://tasktop.com/resources/videos/git-gerrit-hudson-one-mylyn" target="_new">
-			           			Git, Gerrit, Hudson and one Mylyn to rule them all<img border="0" src="/mylyn/images/external-link.png"></a></div>
+								Git, Gerrit, Hudson and one Mylyn to rule them all<img border="0" src="/mylyn/images/external-link.png"></a></div>
 					<div class="news_item_description">presentation by Steffen Pingel and Benjamin Muskalla</div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2011/01/25</div>
 					<div class="news_item_title"><a target="_new" href="http://tasktop.com/thought-leadership">
-			           			Read Mik Kersten's predictions on Eclipse, Mylyn and ALM<img border="0" src="/mylyn/images/external-link.png"></a></div>
+								Read Mik Kersten's predictions on Eclipse, Mylyn and ALM<img border="0" src="/mylyn/images/external-link.png"></a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2010/09/16</div>
 					<div class="news_item_title"><a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
-			           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a></div>
+								Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2008/07/30</div>

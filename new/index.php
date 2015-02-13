@@ -3,7 +3,7 @@
 	#*****************************************************************************
 	#
 	#****************************************************************************
-	
+
 	#
 	$pageTitle 		= "Mylyn New & Noteworthy";
 	$pageKeywords	= "Mylyn, Eclipse";
@@ -35,7 +35,6 @@
 	</div>
 </div>
 EOHTML;
-
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);

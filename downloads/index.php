@@ -3,13 +3,13 @@
 	#*****************************************************************************
 	#
 	#****************************************************************************
-	
+
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Mylyn Downloads";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
-	
+
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
@@ -18,11 +18,11 @@
 
 	# End: page-specific settings
 	#
-		
+
 	# Paste your HTML content between the EOHTML markers!	
 	
 	include("../_sideBars.php");
-		
+
 $html = <<<EOHTML
 <div class="maincontent">
   <div id="midcolumn">
@@ -43,7 +43,7 @@ $html = <<<EOHTML
 				<td>
 				<table border="0" cellpadding="0">
 						<tr>
-			      			<td><font size=+0><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Extensions</a></font></td> 
+						<td><font size=+0><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Extensions</a></font></td> 
 						</tr>
 						<tr><td>Additional Connectors and Bridges</td></tr>
 					</table>
@@ -52,7 +52,7 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
-			      			<td><font size=+0><a href="/mylyn/support">Support</a></font></td> 
+						<td><font size=+0><a href="/mylyn/support">Support</a></font></td> 
 						</tr>
 						<tr><td>Community and commercial support</td></tr>
 					</table>
@@ -61,7 +61,7 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0"> 
 						<tr> 
-			      			<td><span style="white-space: nowrap"><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></span></td>
+						<td><span style="white-space: nowrap"><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></span></td>
 						</tr>
 						<tr><td>Download archive and support for Eclipse 3.7, 3.6, 3.5, 3.4, 3.3 and 3.2</td></tr>
 					</table>
@@ -85,7 +85,7 @@ $html = <<<EOHTML
 		</div>
 
 		<div class="homeitem3col">
-	    	<a name="weekly"></a>
+			<a name="weekly"></a>
 			<h3>Snapshot Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly builds are production quality, but subject to UI changes.
 			<ul> 
@@ -119,7 +119,7 @@ $html = <<<EOHTML
 							<img border=0 src="/mylyn/images/icon-save.gif">
 						</a>
 						&nbsp;&nbsp;<b>Download WikiText Standalone (latest)</b>
-		        	</li>
+					</li>
 			</ul>	
 		</div>
 		
@@ -132,7 +132,7 @@ $html = <<<EOHTML
 					<td>
 					<table border="0" cellpadding="0">
 							<tr>
-				      			<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td> 
+							<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td> 
 							</tr>
 							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free trial available.</td></tr>
 						</table>
@@ -154,7 +154,7 @@ $html = <<<EOHTML
 		$side_announce
 		<!--
 		<div class="sideitem">
-		  <h6>New Users</h6>
+			<h6>New Users</h6>
 			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
 			then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.</p> 
 		</div>

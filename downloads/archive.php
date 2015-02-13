@@ -4,7 +4,7 @@
 	#
 	#****************************************************************************
 	
-	# 
+	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Mylyn Download Archives";
 	$pageKeywords	= "Mylyn, Eclipse";
@@ -18,14 +18,14 @@
 
 	# End: page-specific settings
 	#
-		
+
 	# Paste your HTML content between the EOHTML markers!	
-	
+
 	include("_sideCommon.php");
 	include("_sideFeedback.php");
 	include("_sideMylarIs.php");
 	include("_sideSubscribe.php");
-		
+
 	$html = <<<EOHTML
 
 <div id="maincontent">

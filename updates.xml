@@ -19,11 +19,11 @@
 <item>
 <title>Mylyn Update</title>
 <link>http://eclipse.org/mylyn/new/</link>
-<pubDate>Mon, 18 Feb 2015 12:00:00 +0000</pubDate>
+<pubDate>Fri, 10 Apr 2015 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
-<dc:subject>frameworkVersion=[0.0.0,3.14.2)</dc:subject>
-<guid isPermaLink="false">20150218-1200</guid>
-<description>Mylyn 3.14.2 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
+<dc:subject>frameworkVersion=[0.0.0,3.15.0)</dc:subject>
+<guid isPermaLink="false">20150410-1200</guid>
+<description>Mylyn 3.15 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
 </item>
 </channel>
 </rss>

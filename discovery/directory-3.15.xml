@@ -3,6 +3,6 @@
 	<entry
 		url="https://www.eclipse.org/downloads/download.php?file=/mylyn/discovery/org.eclipse.mylyn.discovery-3.15.jar&amp;r=1&amp;protocol=http"
 		permitCategories="true" />
-	<!-- <entry url="http://tasktop.com/downloads/discovery/com.tasktop.discovery-3.15.jar" 
-		permitCategories="true"/> -->
+	<entry url="http://tasktop.com/downloads/discovery/com.tasktop.discovery-3.15.jar" 
+		permitCategories="true"/>
 </directory>

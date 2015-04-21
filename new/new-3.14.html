@@ -12,37 +12,38 @@
 					color="#FFFFFF" size="1">Community Contributions</font></b></td>
 		</tr>
 		<tr>
-			<td bgcolor="#EFEFEF"><font size="1">3.15<br> <i>April 10, 2015</i></font></td>
+			<td bgcolor="#EFEFEF"><font size="1">3.14<br> <i>January
+						9, 2015</i></font></td>
 			<td bgcolor="#EFEFEF" align="center"><a
-				href="https://projects.eclipse.org/projects/mylyn/releases/3.15/plan">
-					<font size="1">41</font><br> <font size="1">bugs</font>
+				href="https://projects.eclipse.org/projects/mylyn/releases/3.14/plan">
+					<font size="1">33</font><br> <font size="1">bugs</font>
 			</a></td>
 			<td bgcolor="#EFEFEF"><font size="1">Community contributions were
-					provided by Mat Booth, Nicholas Folk, Doug Janzen, and Stephan Wahlbrink. <br>Includes:
+					provided by Nicholas Folk, Michael Keppler, Marc-Andre Laperle, Ron
+					Peters, Mark Sayson, Stephan Wahlbrink, and Ulf Winkelvos. <br>Includes:
 					<a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.15">Mylyn
-						3.15</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Builds;target_milestone=1.7">Mylyn
-						Builds 1.7</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Commons;target_milestone=3.15">Mylyn
-						Commons 3.15</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Context;target_milestone=3.15">Mylyn
-						Context 3.15</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Docs;target_milestone=2.4">Mylyn
-						Docs 2.4</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Reviews;target_milestone=2.6">Mylyn
-						Reviews 2.6</a>. <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Tasks;target_milestone=3.15">Mylyn
-						Tasks 3.15</a>, <a
-					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Versions;target_milestone=1.7">Mylyn
-						Versions 1.7</a>.
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.14">Mylyn
+						3.14</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Builds;target_milestone=1.6">Mylyn
+						Builds 1.6</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Commons;target_milestone=3.14">Mylyn
+						Commons 3.14</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Context;target_milestone=3.14">Mylyn
+						Context 3.14</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Docs;target_milestone=2.3">Mylyn
+						Docs 2.3</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Reviews;target_milestone=2.5">Mylyn
+						Reviews 2.5</a>. <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Tasks;target_milestone=3.14">Mylyn
+						Tasks 3.14</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Versions;target_milestone=1.6">Mylyn
+						Versions 1.6</a>.
 			</font></td>
 		</tr>
 	</table>
 
 	<p>
 		<b>Also see the New &amp; Noteworthy for: <a
-			href="http://eclipse.org/mylyn/new/new-3.13.html">Mylyn 3.14</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.13.html">Mylyn 3.13</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.12.html">Mylyn 3.12</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.11.html">Mylyn 3.11</a>, <a
@@ -63,23 +64,27 @@
 	<hr size="1" />
 
 	<p>
-		<h1>New	in Mylyn 3.15</h1>
+		<h1>New	in Mylyn 3.14</h1>
 	</p>
 
 
 
 	<ul>
 		<li><a href="#gerrit">Gerrit Connector</a></li>
+		<li><a href="#hudson">Hudson/Jenkins Connector</a></li>
 		<li><a href="#bugzilla">Bugzilla Connector</a></li>
 		<li><a href="#framework">Framework and API</a></li>
 	</ul>
 
 	<p>
-		<b>NOTE:</b> Mylyn 3.15 requires <a
+		<b>NOTE:</b> Mylyn 3.14 requires <a
 			href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=383907"
 			target="_new"><b>Java 1.6 or later</b></a> and supports <a
 			href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=412708"
-			target="_new"><b>Eclipse 3.8, 4.3 or 4.4</b></a>. See the <a href="/mylyn/downloads/">download
+			target="_new"><b>Eclipse 3.8, 4.3 or 4.4</b></a>. Eclipse 3.6 is now
+		the base compilation target, so <a
+			href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=417262">Mylyn
+			no longer runs on Eclipse 3.5</a>. See the <a href="/mylyn/downloads/">download
 			page</a> for repository locations.
 	</p>
 	<hr size="1" />
@@ -94,16 +99,12 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b>Cherry-Pick Commits</b>
+					<b>Gerrit Topic</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">The Gerrit connector supports cherry-picking
-					changes to another branch, and reviews display their branch in the
-					header of the attributes section.</p>
-				<p>
-					<img border="0" src="images/3.15/cherry-pick.png" />
-				</p>
+				<p align="left">The Gerrit topic is now shown in the task editor
+					and in the dashboard view.</p>
 			</td>
 		</tr>
 		<tr>
@@ -114,17 +115,11 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b>Parent Commits</b>
+					<b>Review Status</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">The patch set section has been redesigned to use
-					a 2 column layout that shows the parent commit of each patch set.
-					Hyperlinking allows the parent commit to be opened in the EGit
-					commit editor.</p>
-				<p>
-					<img border="0" src="images/3.15/patch-sets.png" />
-				</p>
+				<p align="left">The Gerrit dashboard view now shows the status of all reviews.</p>
 			</td>
 		</tr>
 		<tr>
@@ -135,18 +130,36 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b>Reuse compare editors</b>
+					<b>Gerrit 2.9</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">The Gerrit connector reuses open compare editors
-					instead of opening duplicate editors when opening a file from the
-					patch sets section or the review navigator, and when comparing
-					patch sets.</p>
+				<p align="left">
+				Gerrit 2.9 is now supported.
 			</td>
 		</tr>
 	</table>
 	
+
+	<p>&nbsp;</p>
+	<h2>
+		<a name="hudson">Hudson/Jenkins Connector</a>
+	</h2>
+
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Hudson 3.2.1 and Jenkins 1.580.1</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">
+				Hudson 3.2.1 and Jenkins 1.580.1 are now supported.
+			</td>
+		</tr>
+	</table>
+
 
 	<p>&nbsp;</p>
 	<h2>
@@ -156,30 +169,12 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b>See Also</b>
-				</p>
-			</td>
-			<td valign="top" width="85%">
-				<p align="left">The Bugzilla connector now supports the See Also field.</p>
-				<p>
-					<img border="0" src="images/3.15/see-also.png" />
-				</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2">
-				<hr size="1" />
-			</td>
-		</tr>
-		<tr>
-			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
-				<p align="right">
-					<b>Bugzilla 5.0rc2, 4.4.8, 4.2.13, and 4.0.17</b>
+					<b>Bugzilla 4.5.6, 4.4.6, 4.2.11, and 4.0.15</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
 				<p align="left">
-				Bugzilla 5.0rc2, 4.4.8, 4.2.13, and 4.0.17 are now supported.</p>
+				Bugzilla 4.5.6, 4.4.6, 4.2.11, and 4.0.15 are now supported.</p>
 			</td>
 		</tr>
 	</table>
@@ -192,7 +187,7 @@
 
 	<p>
 		See <a
-			href="https://wiki.eclipse.org/Mylyn/Porting_Guide#Changes_in_3.15"
+			href="https://wiki.eclipse.org/Mylyn/Porting_Guide#Changes_in_3.14"
 			target="_new">porting guide</a> for additional notes on API changes.
 	</p>
 
@@ -200,15 +195,15 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b>Tasks: Owner ID added to ITask</b>
+					<b>Tasks: Inject Depencencies</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">To better support connectors which provide options for person fields, <tt>ITask</tt> now provides 
-				<tt>getOwnerId</tt> and <tt>setOwnerId</tt> methods, and <tt>ITaskMapping</tt> provides a 
-				<tt>getOwnerId</tt> method. See <a
-						href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=446091">bug
-						446091</a>
+				<p align="left">To reduce the dependency of tests on the UI, <tt>AbstractRepositorySettingsPage</tt> has a new 
+				constructor that takes the connector UI as a parameter. <tt>AbstractRepositoryConnectorUi</tt> now provides 
+				a <tt>getConnector</tt> method. See <a
+						href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=436398">bug
+						436398</a>
 				</p>
 			</td>
 		</tr>

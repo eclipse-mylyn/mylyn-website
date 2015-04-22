@@ -152,10 +152,6 @@ $html = <<<EOHTML
 		            		<a href="http://tasktop.com/resources/videos/git-gerrit-hudson-one-mylyn" target="_new">
 		           			Git, Gerrit, Hudson and one Mylyn to rule them all</a> presentation by Steffen Pingel and Benjamin Muskalla <i>June 22, 2011</i>
 	            		</li>
-	            		<li>
-		            		<a target="_new" href="http://tasktop.com/thought-leadership">
-		           			Read Mik Kersten's predictions on Eclipse, Mylyn and ALM <img border="0" src="/mylyn/images/external-link.png"></a> <i>January 25th, 2011</i>
-	            		</li>
 						<li>
 		            		<a target="_new" href="http://tasktop.com/blog/eclipse/mylyn-top-level-eclipse-project">
 		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a> <i>Sep 16, 2010</i>

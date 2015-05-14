@@ -98,6 +98,11 @@ $html = <<<EOHTML
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 4.3 or later)
 				</li>
 				<li>
+					<a title="Update Site Zips" href="http://download.eclipse.org/mylyn/drops/">
+						<img border=0 src="/mylyn/images/icon-save.gif">Archived Snapshot Builds
+					</a>
+				</li>
+				<li>
 					<!--
 					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest-incubator.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">

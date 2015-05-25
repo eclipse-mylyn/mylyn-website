@@ -99,7 +99,7 @@ $html = <<<EOHTML
 				</li>
 				<li>
 					<a title="Update Site Zips" href="http://download.eclipse.org/mylyn/drops/">
-						<img border=0 src="/mylyn/images/icon-save.gif">Archived Snapshot Builds
+						<img border=0 src="/mylyn/images/icon-save.gif"> Archived Snapshot Builds
 					</a>
 				</li>
 				<li>

@@ -104,7 +104,7 @@
         		<tr height="10" colspan="2"></tr>
         		<tr>
         		<td width="80" align="centre" valign="bottom">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/tasktop50px.png"></a>
+        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://tasktop.com/support"><img border=0 src="/mylyn/images/TAS-mark-48x48.png"></a>
         		</td>
 		        <td>
 			        <a href="http://tasktop.com/support">Tasktop Technologies<img border="0" src="/mylyn/images/external-link.png"></a>, 

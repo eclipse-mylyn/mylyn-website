@@ -44,7 +44,7 @@
 					</table>
 				</li>
 				<li>
-				<a href="http://tasktop.com/resources/videos/w-jax/kersten-keynote-high-resolution.html">
+				<a href="http://tasktop.com/content/video/2008-01-w-jax-keynote-less-more-redefining-i-ide">
  				Less is More: Redefining the "I" of the IDE</a> W-JAX keynote by Mik Kersten. 
  				Conceptual overview of Mylyn and the task-focused interface <i>(November 6, 2008)</i>
 				</li>

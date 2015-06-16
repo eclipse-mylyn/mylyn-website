@@ -149,7 +149,7 @@ $html = <<<EOHTML
 		           			Mik Kersten on Eclipse Indigo and new features in Mylyn 3.6</a> <i>June 28, 2011</i>
 	            		</li>
 						<li>
-		            		<a href="http://tasktop.com/resources/videos/git-gerrit-hudson-one-mylyn" target="_new">
+		            		<a href="http://tasktop.com/content/video/2013-11-jax-git-gerrit-hudson-mylyn" target="_new">
 		           			Git, Gerrit, Hudson and one Mylyn to rule them all</a> presentation by Steffen Pingel and Benjamin Muskalla <i>June 22, 2011</i>
 	            		</li>
 						<li>
@@ -157,7 +157,7 @@ $html = <<<EOHTML
 		           			Mylyn promoted to top-level Eclipse project<img border="0" src="/mylyn/images/external-link.png"></a> <i>Sep 16, 2010</i>
 	            		</li>	            		
 						<li>
-							<a href="http://tasktop.com/resources/videos/mylyn/webcast-mylyn-3.0.html">
+							<a href="http://tasktop.com/content/video/2011-01-mylyn-30-code-speed-thought">
 								 	Mylyn 3.0: Code at the Speed of Thought</a></font>
 								 	webcast by Mik Kersten (Tasktop) <i>July 30, 2008</i>
 						</li>

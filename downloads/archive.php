@@ -36,6 +36,18 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 				
 		<div class="homeitem3col">
+			<h3>3.16 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.16.0/v20150609-2039/mylyn-3.16.0.v20150609-2039.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.16.0/v20150609-2039</b>&nbsp;&nbsp;(Eclipse 3.8, 4.4 and 4.5)
+	        	</li>
+			</ul>
+		</div>
+				
+		<div class="homeitem3col">
 			<h3>3.15 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>
@@ -1211,6 +1223,12 @@
  		<div class="homeitem3col"> 
 			<a name="baseline"></a><h3>API Baselines (for contributors)</h3> 
 			<ul>
+				<li> 
+					<a title="Mylyn 3.16.0" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.16.0/mylyn-3.16.0-api.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>Mylyn 3.16.0 API Baseline</b>
+				</li>
 				<li> 
 					<a title="Mylyn 3.15.0" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.15.0/mylyn-3.15.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">

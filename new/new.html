@@ -17,8 +17,11 @@
 			<td bgcolor="#EFEFEF" align="center"><a
 				href="https://projects.eclipse.org/projects/mylyn/releases/3.17/plan">
 					<font size="1">47</font><br> <font size="1">bugs</font>
+			</a></td></td>
+			<td bgcolor="#EFEFEF" align="center"><a
+				href="https://git.eclipse.org/r/#/q/mylyn/+status:merged+after:%222015-06-04+14:00:00+-0800%22+%28%28branch:master+before:%222015-08-28+13:15:00+-0800%22%29+OR+%28branch:e_4_5_m_3_17_x+before:2015-10-09%29%29">
+					<font size="1">124</font><br> <font size="1">reviews</font>
 			</a></td>
-			<td bgcolor="#EFEFEF" align="center"></td>
 			<td bgcolor="#EFEFEF"><font size="1">Community contributions were
 					provided by Max Rydahl Andersen, Jeremie Bresson, Jaxsun McCarthy Huggan, James Kennedy, Chris Poon, and Kenneth Poon.
 					<br>Includes:
@@ -45,7 +48,7 @@
 
 	<p>
 		<b>Also see the New &amp; Noteworthy for: <a
-			href="http://eclipse.org/mylyn/new/new-3.15.html">Mylyn 3.16</a>, <a
+			href="http://eclipse.org/mylyn/new/new-3.16.html">Mylyn 3.16</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.15.html">Mylyn 3.15</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.14.html">Mylyn 3.14</a>, <a
 			href="http://eclipse.org/mylyn/new/new-3.13.html">Mylyn 3.13</a>, <a
@@ -91,7 +94,140 @@
 
 	<h1>New	in Mylyn 3.17</h1>
 
-	Coming Soon!
+	<ul>
+		<li><a href="#gerrit">Gerrit Connector</a></li>
+		<li><a href="#builds">Hudson/Jenkins Connector</a></li>
+		<li><a href="#framework">Framework and API</a></li>
+	</ul>
+
+	<h2>
+		<a name="gerrit">Gerrit Connector</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Inline Comments</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Inline comments can now be edited and replied to inline, without opening a separate dialog.</p>
+				<p>
+					<img border="0" src="images/3.17/inline-comments.png" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Gerrit 2.11.3</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Gerrit 2.11.3 is now supported.</p>
+			</td>
+		</tr>
+	</table>
+
+	<p>&nbsp;</p>
+	<h2>
+		<a name="builds">Hudson/Jenkins Connector</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Identify Build Plan in JUnit and Console Views</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">When showing the results of a build executed by Hudson/Jenkins, the JUnit and Console views
+				now display the name of the build plan. This is also shown when selecting previous builds from the view history.</p>
+				<p>
+					<img border="0" src="images/3.17/build-labels.png" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Hudson 3.3.0 and Jenkins 1.609.2</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Hudson 3.3.0 and Jenkins 1.609.2 are now supported.</p>
+			</td>
+		</tr>
+	</table>
+
+
+	<p>&nbsp;</p>
+	<h2>
+		<a name="framework">Framework and API</a>
+	</h2>
+
+	<p>
+		See <a
+			href="https://wiki.eclipse.org/Mylyn/Porting_Guide#Changes_in_3.16"
+			target="_new">porting guide</a> for additional notes on API changes.
+	</p>
+
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Label Fields</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">The Tasks framework now has an attribute editor for label fields.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Field Dependencies</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">A <tt>TaskAttribute.META_DEPENDS_ON_ATTRIBUTE_ID</tt> metadata key has been added to
+				 represent attribute dependencies. See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=470016">bug 470016</a>.</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Connector Branding</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left"><tt>AbstractRepositorySettingsPage</tt> now has API to allow a connector brand to be set on the page and 
+				to update the title and banner when the brand changes. 
+				See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=472556">bug 472556</a>.</p>
+			</td>
+		</tr>
+	</table>
 
 	<p>&nbsp;</p>
 

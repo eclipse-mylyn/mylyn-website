@@ -7,8 +7,23 @@ $pageAuthor		= "Mik Kersten";
 
 $versions = array(
 				  array(
+					 "date" => "2015/10/2"
+					, "title" => "<a href=\"showVersion.php?version=new-3.17.html\"><img src=\"../images/star.png\"/>Mylyn 3.17 released</a>"
+					, "description" => "Mylyn 3.17 released as part of Eclipse Mars.1"
+				)
+				, array(
+					 "date" => "2015/06/26"
+					, "title" => "<a href=\"showVersion.php?version=new-3.16.html\">Mylyn 3.16 released</a>"
+					, "description" => "Mylyn 3.16"
+				)	
+				, array(
+					 "date" => "2015/04/10"
+					, "title" => "<a href=\"showVersion.php?version=new-3.15.html\">Mylyn 3.15 released</a>"
+					, "description" => "Mylyn 3.15"
+				)	
+				, array(
 					 "date" => "2015/01/9"
-					, "title" => "<a href=\"showVersion.php?version=new-3.14.html\"><img src=\"../images/star.png\"/>Mylyn 3.14 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.14.html\">Mylyn 3.14 released</a>"
 					, "description" => "Mylyn 3.14"
 				)
 				, array(

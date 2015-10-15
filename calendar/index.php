@@ -16,7 +16,6 @@
 	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	# End: page-specific settings
-	#
 
 	include("../_sideBars.php");	
 	include("_sideCommon.php");

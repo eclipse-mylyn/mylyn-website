@@ -61,9 +61,9 @@
 		if (strlen($committerName[0])>0) {
 			$committerIndex++;
 			$committerList = $committerList . '&f'. $committerIndex
-							. '=assigned_to_realname&o'. $committerIndex
-							. '=allwordssubstr&v'. $committerIndex
-							. '=' . str_replace(' ', '+', $committerName[0]);
+						   . '=assigned_to_realname&o'. $committerIndex
+						   . '=allwordssubstr&v'. $committerIndex
+						   . '=' . str_replace(' ', '+', $committerName[0]);
 			$committerNotList = $committerNotList . '&n'. $committerIndex . '=1';
 		}
 	}
@@ -104,7 +104,7 @@
 		$scResult = strcmp($t1 , $t2);
 		if ($scResult == 0) {
 			$sortResult_ord[] = $sort_rec[$j][1];
-			$sortResult_rec[] = array ($sortCommitter_rec[$i][1] , $sortCommitter_rec[$i][0] , $sort_rec[$i][1], $sortCommitter_rec[$i][2]);
+			$sortResult_rec[] = array ($sortCommitter_rec[$i][1] , $sortCommitter_rec[$i][0] , $sort_rec[$j][1], $sortCommitter_rec[$i][2]);
 			$i++;
 			$j++;
 		} else {if ($scResult > 0) {
@@ -139,9 +139,9 @@
 	}
 	$htmlDynamic = $htmlDynamic . '</table>';
 		$url= "https://bugs.eclipse.org/bugs/report.cgi?"
-			. str_replace('&j_top=OR','&j_top=AND', $resolutionPart . $committerpart)
-			. $committerNotList
-			. "&x_axis_field=assigned_to_realname&width=1024&height=600&action=wrap&ctype=csv&format=table";
+			 . str_replace('&j_top=OR','&j_top=AND', $resolutionPart . $committerpart)
+			 . $committerNotList
+			 . "&x_axis_field=assigned_to_realname&width=1024&height=600&action=wrap&ctype=csv&format=table";
 
 	$content = file_get_contents($url);
 	$lines = explode($lines_seperator, $content);
@@ -165,27 +165,27 @@
 	}
 	$htmlDynamic = $htmlDynamic . '</div> </div>';
 	$htmlDynamic = $htmlDynamic . '<div class="col-sm-7 col-md-7 col-lg-7"><div class="news-list"> <h2>Contributors</h2> First '.$maxLinesHalf.
-				 '<br>Sorted by number of bugs resolved.<br>';
+				  '<br>Sorted by number of bugs resolved.<br>';
 	$htmlDynamic = $htmlDynamic . '<table class="table table-striped" id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
 	array_multisort($sort_ord, SORT_NUMERIC, SORT_DESC, $sort_rec);
 	$idx=0;
 	foreach($sort_rec as $sort_recfields) {
 		$htmlDynamic = $htmlDynamic . '<tr><td>' .str_replace('"','',$sort_recfields[0])
-					. ' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'
-					. str_replace('&','&amp;',str_replace('&j_top=OR','&j_top=AND', $resolutionPart))
-					. "&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
-					. $sort_recfields[1].'</a></td></tr>';
+					 . ' </td><td><a href="https://bugs.eclipse.org/bugs/buglist.cgi?action=wrap&amp;'
+					 . str_replace('&','&amp;',str_replace('&j_top=OR','&j_top=AND', $resolutionPart))
+					 . "&amp;assigned_to_realname=".urlencode(str_replace('"','',$sort_recfields[0])).'">'
+					 . $sort_recfields[1].'</a></td></tr>';
 		$idx = $idx + 1;
 		if ($idx== $maxLinesHalf) {
 			$htmlDynamic = $htmlDynamic .'</table></div> </div><div class="col-sm-7 col-md-7 col-lg-7"><div class="news-list"> <h2>Contributors</h2>continued '
-						. '<br>Sorted by number of bugs resolved.<br>';
+						 . '<br>Sorted by number of bugs resolved.<br>';
 			 $htmlDynamic = $htmlDynamic . '<table class="table table-striped" id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
 			}
 		}
 		$htmlDynamic = $htmlDynamic . '</table></div> </div><div class="row" >'
 					. '<div class="col-sm-24 col-md-24 col-lg-24">';
 	$htmlDynamic = $htmlDynamic . '<i>Page generated	' . date("Y/m/d h:i:sa")."
-				. The list of committers may be incomplete.</i>";
+				 . The list of committers may be incomplete.</i>";
 
 	$file = 'contributor.inc';
 	file_put_contents($file, $htmlDynamic);

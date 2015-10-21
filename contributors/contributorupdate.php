@@ -22,7 +22,7 @@
 				}
 				// need to hardcode committers whose email doesn't contain all the words in their name because using assigned_to_realname doesn't work
 				$found =0;
-				for ($i = 0; $i <= count($committerArray); $i++) {
+				for ($i = 0; $i < count($committerArray); $i++) {
 					$centry =$committerArray[$i];
 					if(strcmp($actualCommitter, $centry[0])==0) {
 						$found = 1;
@@ -98,7 +98,7 @@
 	$sortResult_ord = array();
 	$sortResult_rec = array();
 	$j = 0;
-	for ($i = 0; $i <= count($sortCommitter_ord) && $j <= count($sort_ord);) {
+	for ($i = 0; $i < count($sortCommitter_ord) && $j < count($sort_ord);) {
 		$t1 = $sortCommitter_rec[$i][0];
 		$t2 = str_replace('"','',$sort_rec[$j][0]);
 		$scResult = strcmp($t1 , $t2);
@@ -184,8 +184,9 @@
 		}
 		$htmlDynamic = $htmlDynamic . '</table></div> </div><div class="row" >'
 					. '<div class="col-sm-24 col-md-24 col-lg-24">';
-	$htmlDynamic = $htmlDynamic . '<i>Page generated	' . date("Y/m/d h:i:sa")."
-				 . The list of committers may be incomplete.</i>";
+	date_default_timezone_set("UTC"); 
+	$htmlDynamic = $htmlDynamic . '<i>Page generated ' . date("Y/m/d h:i:s")
+				 . " GMT. The list of committers or contributor may be incomplete.</i>";
 
 	$file = 'contributor.inc';
 	file_put_contents($file, $htmlDynamic);

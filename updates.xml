@@ -25,5 +25,15 @@
 <guid isPermaLink="false">20150109-1200</guid>
 <description>Mylyn 3.14 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
 </item>
+<item>
+<title>New JIRA Connector</title>
+<link>http://eclipse.org/mylyn/new/</link>
+<pubDate>Fri, 30 Oct 2015 12:00:00 +0000</pubDate>
+<dc:creator>Sam Davis</dc:creator>
+<dc:subject>frameworkVersion=[3.17.0,4.0.0)</dc:subject>
+<dc:subject>conflicts=com.tasktop.connector.atlassian.jira</dc:subject>
+<guid isPermaLink="false">org.eclipse.mylyn.reset.2</guid>
+<description>A new connector for Atlassian JIRA is available. See the &lt;a href="https://links.tasktop.com/jira-dev-limitations"&gt;release notes&lt;/a&gt; or &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;install from connector discovery&lt;/a&gt;.</description>
+</item>
 </channel>
 </rss>

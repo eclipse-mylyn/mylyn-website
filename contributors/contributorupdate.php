@@ -2,8 +2,8 @@
 	function extractCommitter($url, $committerArray)
 	{
 		$committerReviews = file_get_contents($url);
-		$start=	substr($committerReviews, strpos($committerReviews, "<h3>Committers</h3>"));
-		$committerList =substr($start,19, strpos($start, "</ul></div"));
+		$start=	substr($committerReviews, strpos($committerReviews, "<h3>Committers</h3><ul class=\"list-inline\">"));	
+		$committerList =substr($start,43, strpos($start, "</ul></div"));
 		$lines = explode('</li>', $committerList);
 		foreach($lines as $line) {
 			if (strlen($line)>10) {

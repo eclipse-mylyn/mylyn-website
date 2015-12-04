@@ -42,6 +42,57 @@ $html = <<<EOHTML
 					This puts the information you need at your fingertips and improves productivity by reducing 
 					information overload, facilitating multitasking and easing the sharing of expertise.
 					<br>
+				<table border="0" cellpadding="5">
+					<tr height=9>	 
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Get the latest and greatest Mylyn release.  
+					          		<!-- <b><a href="/mylyn/new"><img src="images/star.png"/> What's new</a></b>? -->
+					          		</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr>
+	          		
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/support"><img border=0 src="images/community.jpg"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/support">Support</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Find support and interact with users and developers.</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr>
+
+	          		<tr>
+						<td width=20></td>
+						<td><a href="/mylyn/start"><img border=0 src="images/reference.png"></a></td>
+						<td>
+							<table border="0" cellpadding="0">
+								<tr>
+				          			<td><font size=+1><a href="/mylyn/start">Get Started</a></font></td>
+								</tr>
+								<tr>
+					          		<td>Resources for new users, links to tutorials and articles.</td>
+					          	</tr>
+							</table>
+						</td>
+	          		</tr>
+	          		<tr height="10"></tr>
+	         	</table>
+
 		</div>
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
@@ -70,11 +121,6 @@ $html = <<<EOHTML
 					<div class="news_item_title"><a href="http://tasktop.com/resources/videos/git-gerrit-hudson-one-mylyn" target="_new">
 								Git, Gerrit, Hudson and one Mylyn to rule them all<img border="0" src="/mylyn/images/external-link.png"></a></div>
 					<div class="news_item_description">presentation by Steffen Pingel and Benjamin Muskalla</div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2011/01/25</div>
-					<div class="news_item_title"><a target="_new" href="http://tasktop.com/thought-leadership">
-								Read Mik Kersten's predictions on Eclipse, Mylyn and ALM<img border="0" src="/mylyn/images/external-link.png"></a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2010/09/16</div>

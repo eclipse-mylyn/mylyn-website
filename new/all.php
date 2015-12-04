@@ -57,7 +57,7 @@ $versions = array(
 				, array(
 					 "date" => "2011/06/22"
 					, "title" => "<a href=\"showVersion.php?version=new-3.6.html\">Mylyn 3.6 released</a>"
-					, "description" => "Mylyn 3.6 released as part of Eclipse Indego"
+					, "description" => "Mylyn 3.6 released as part of Eclipse Indigo"
 				)
 				, array(
 					 "date" => "2011/03/16"

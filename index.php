@@ -133,7 +133,7 @@ $html = <<<EOHTML
 									 	Mylyn 3.0: Code at the Speed of Thought<img border="0" src="/mylyn/images/external-link.png"></a></div>
 					<div class="news_item_description">webcast by Mik Kersten (Tasktop)</div>
 				</div>
-				<div class="news_view_all">&gt; <a href="news/index.php">News Archiv</a></div>
+				<div class="news_view_all">&gt; <a href="news/index.php">News Archive</a></div>
 			</div>
 		</div>
 	</div>

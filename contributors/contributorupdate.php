@@ -7,12 +7,28 @@
 		$lines = explode('</li>', $committerList);
 		foreach($lines as $line) {
 			if (strlen($line)>10) {
+//
+//	Example entry for an Committer
+//
+//		<li sort="Sam Davis">  <div class="user-picture pull-left">
+//		<a href="/user/1691" title="View user profile.">
+//		<img class="media-object dp img-circle img-responsive" src="https://secure.gravatar.com/avatar/85e7e373112a1ca31e5d565e8c7ef708.jpg?d=mm&amp;s=100&amp;r=G" alt="Sam Davis&#//39;s picture" title="Sam Davis&#039;s picture" />
+//
+//				parse the name form the tag
+//					<li sort="???">
+//
 				$actualCommitter1 = substr($line, strpos($line,"<li sort=\"")+10);
 				$actualCommitter = substr($actualCommitter1, 0, strpos($actualCommitter1, "\""));
-
-				$userName0 = substr($line, strpos($line,"<a href=\"/users/")+9);
-				$userName = substr($userName0, 0, strpos($userName0,"\"View user profile.")+21);
-
+//
+//				parse the link for the profile form the tag
+//					<a href="/user/???" title="View user profile.">
+//
+				$userLink0 = substr($line, strpos($line,"<a href=\"/user/")+9);
+				$userLink = substr($userLink0, 0, strpos($userLink0,"\"View user profile.")+21);
+//
+//				parse the image form the src within the tag
+//					<img class="media-object dp img-circle img-responsive" src="https://secure.gravatar.com/avatar/85e7e373112a1ca31e5d565e8c7ef708.jpg?d=mm&amp;s=100&amp;r=G" alt="Sam Davis&#039;s picture" title="Sam Davis&#039;s picture" />
+//
 				$actpic00  = substr($line, strpos($line,"<img ")+5);
 				$actpic0  = substr($actpic00, strpos($actpic00,"src=\"")+5);
 				$actpic  = substr($actpic0, 0, strpos($actpic0,"\""));
@@ -30,7 +46,7 @@
 					}
 				}
 				if ($found ==0) {
-					$committerArray[] = array($actualCommitter, $picurl, $userName);
+					$committerArray[] = array($actualCommitter, $picurl, $userLink);
 				}
 			}
 		}

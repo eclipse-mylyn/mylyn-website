@@ -31,7 +31,7 @@
 <div id="midcolumn">
 	<div class="row" >
 		<div class="col-md-24">
-			<div class="news_view_all">&gt; <a href="/mylyn/new/all.php">View all Release Notes</a></div>
+			<div class="news_view_all"></div>
 			$contents
      	</div>
 	</div>   	

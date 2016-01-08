@@ -48,7 +48,7 @@
 	</table>
 
 	<p>
-		<b>Also see the New &amp; Noteworthy for <a href="/mylyn/new/all.php">previous releases</a></b>
+		<div class="news_view_all"><b>Also see the New &amp; Noteworthy for <a href="/mylyn/new/all.php">previous releases</a></b></div>
 	</p>
 
 	<hr size="1" />
@@ -179,11 +179,11 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b></b>
+					<b>Disable Editing Repository URL</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">
+				<p align="left"><code>AbstractRepositorySettingsPage</code> has API to disable editing the repository URL.
 				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=482186">bug 482186</a>.
 				</p>
 			</td>
@@ -196,11 +196,12 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b></b>
+					<b>Suggest Query Titles</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">
+				<p align="left"><code>AbstractRepositoryQueryPage2</code> has a <code>suggestQueryTitle</code>
+				 method that connectors can override to suggest a title based on the query parameters.
 				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=482633">bug 482633</a>.
 				</p>
 			</td>
@@ -213,11 +214,12 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b></b>
+					<b>New Subtask Wizard</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">
+				<p align="left"><code>AbstractRepositoryConnectorUi.getNewSubTaskWizard()</code> allows connectors to provide a wizard
+				 to be opened when creating a new subtask.
 				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=483856">bug 483856</a>.
 				</p>
 			</td>
@@ -230,11 +232,11 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b></b>
+					<b>Edit Child Attributes</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">
+				<p align="left">The restriction on using attribute editors to edit attributes whose parent is not root has been removed.
 				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=483421">bug 483421</a>.
 				</p>
 			</td>
@@ -247,11 +249,11 @@
 		<tr>
 			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
 				<p align="right">
-					<b></b>
+					<b>Date/Time Precision</b>
 				</p>
 			</td>
 			<td valign="top" width="85%">
-				<p align="left">
+				<p align="left">The precision of date/time fields can be specified using <code>TaskAttributeMetaData.setPrecision</code>.
 				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=483327">bug 483327</a>.
 				</p>
 			</td>

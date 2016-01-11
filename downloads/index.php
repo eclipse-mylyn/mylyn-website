@@ -79,7 +79,7 @@ $html = <<<EOHTML
 					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.18.0/v20151215-0126/mylyn-3.18.0.v20151215-0126.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.8, 4.4 and 4.5)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.8 and 4.5)
 				</li>
 			</ul>
 		</div>
@@ -95,7 +95,7 @@ $html = <<<EOHTML
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 4.4 or later)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 4.5 or later)
 				</li>
 				<li>
 					<a title="Update Site Zips" href="http://download.eclipse.org/mylyn/drops/">
@@ -108,7 +108,7 @@ $html = <<<EOHTML
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/latest</b>&nbsp;&nbsp;(Eclipse 4.4 or later)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/latest</b>&nbsp;&nbsp;(Eclipse 4.5 or later)
 				</li>
 			</ul>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>

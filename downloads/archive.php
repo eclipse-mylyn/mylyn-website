@@ -42,7 +42,7 @@
 					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.18.0/v20151215-0126/mylyn-3.18.0.v20151215-0126.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.18.0/v20151215-0126</b>&nbsp;&nbsp;(Eclipse 3.8, 4.4 and 4.5)
+					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.18.0/v20151215-0126</b>&nbsp;&nbsp;(Eclipse 3.8 and 4.5)
 	        	</li>
 			</ul>
 		</div>

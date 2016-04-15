@@ -97,8 +97,13 @@ $html = <<<EOHTML
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
 				<div class="news_item">
+					<div class="news_item_date">2016/04/15</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.19.html"><img src="images/star.png"/>Mylyn 3.19 released</a></div>
+					<div class="news_item_description">Mylyn 3.19 released</div>
+				</div>
+				<div class="news_item">
 					<div class="news_item_date">2016/01/08</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.18.html"><img src="images/star.png"/>Mylyn 3.18 released</a></div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.18.html">Mylyn 3.18 released</a></div>
 					<div class="news_item_description">Mylyn 3.18 released</div>
 				</div>
 				<div class="news_item">

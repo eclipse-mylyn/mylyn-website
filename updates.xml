@@ -18,12 +18,12 @@
 -->
 <item>
 <title>Mylyn Update</title>
-<link>https://eclipse.org/mylyn/new/showVersion.php?version=new-3.18.html</link>
-<pubDate>Fri, 8 Jan 2016 12:00:00 +0000</pubDate>
+<link>https://eclipse.org/mylyn/new/showVersion.php?version=new-3.19.html</link>
+<pubDate>Fri, 15 Apr 2016 12:00:00 +0000</pubDate>
 <dc:creator>Steffen Pingel</dc:creator>
-<dc:subject>frameworkVersion=[0.0.0,3.18.0)</dc:subject>
-<guid isPermaLink="false">org.eclipse.mylyn.reset.2</guid>
-<description>Mylyn 3.18 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
+<dc:subject>frameworkVersion=[0.0.0,3.19.0)</dc:subject>
+<guid isPermaLink="false">org.eclipse.mylyn.reset.3</guid>
+<description>Mylyn 3.19 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
 </item>
 <item>
 <title>New JIRA Connector</title>

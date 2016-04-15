@@ -1,0 +1,312 @@
+<html>
+<body bgcolor="FFFFFF">
+	<table border="1" style="border-collapse: collapse" width="100%"
+		cellpadding="4" bordercolor="#FFFFFF">
+		<tr>
+			<td bgcolor="#595791" width="7%" align="center"><b> <font
+					color="#FFFFFF" size="1">Release</font></b></td>
+			<td bgcolor="#595791" width="5%" align="center"><b> <font
+					color="#FFFFFF" size="1">Resolved </font></b></td>
+			<td bgcolor="#595791" width="5%" align="center"><b> <font
+					color="#FFFFFF" size="1">Merged </font></b></td>
+			<td bgcolor="#595791" width="*" align="center"><b> <font
+					color="#FFFFFF" size="1">Community Contributions</font></b></td>
+		</tr>
+		<tr>
+			<td bgcolor="#EFEFEF"><font size="1">3.19<br> <i>April 15, 2016</i></font></td>
+			<td bgcolor="#EFEFEF" align="center"><a
+				href="https://projects.eclipse.org/projects/mylyn/releases/3.19/plan">
+					<font size="1">38</font><br> <font size="1">bugs</font>
+			</a></td></td>
+			<td bgcolor="#EFEFEF" align="center"><a
+				href="https://git.eclipse.org/r/#/q/mylyn/org+status:merged+after:%222015-12-09+00:00:00+-0800%22+before:%222016-03-18+00:00:00+-0800%22+branch:master">
+					<font size="1">91</font><br> <font size="1">reviews</font>
+			</a></td>
+			<td bgcolor="#EFEFEF"><font size="1">Community contributions were
+					provided by Alex Blewitt, Andreas Dangel, Andreas Sewe, Blaine Lewis, Brandon Dong, Chris Poon,
+					Christian Gaege, Florian Thienel, James Kennedy, Jeremie Bresson, Kenneth Poon, Kyle Ross, Landon Butterworth, Patrik Suzzi, and Vaughan Hilts.
+					<br>Includes:
+					<a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn;target_milestone=3.19">Mylyn
+						3.19</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Builds;target_milestone=1.11">Mylyn
+						Builds 1.10</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Commons;target_milestone=3.19">Mylyn
+						Commons 3.19</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Context;target_milestone=3.19">Mylyn
+						Context 3.19</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Docs;target_milestone=2.8">Mylyn
+						Docs 2.7</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Reviews;target_milestone=2.10">Mylyn
+						Reviews 2.9</a>. <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Tasks;target_milestone=3.19">Mylyn
+						Tasks 3.19</a>, <a
+					href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced;product=Mylyn%20Versions;target_milestone=1.11">Mylyn
+						Versions 1.10</a>.
+			</font></td>
+		</tr>
+	</table>
+
+	<p>
+		<div class="news_view_all"><b>Also see the New &amp; Noteworthy for <a href="/mylyn/new/all.php">previous releases</a></b></div>
+	</p>
+
+	<hr size="1" />
+
+	<p>
+		<b>NOTE:</b> Mylyn 3.19 requires <a
+			href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=423848"
+			target="_new"><b>Java 1.7 or later</b></a> and supports <a
+			href="https://wiki.eclipse.org/Mylyn_Integrator_Reference#Deciding_on_a_version"
+			target="_new"><b>Eclipse 3.8 and 4.5</b></a>. See the <a href="/mylyn/downloads/">download
+			page</a> for repository locations.
+	</p>
+	
+	<h3>Supported Repository Versions</h3>
+	<div style="font-size: small;">
+	Connectors included in Mylyn 3.19 support the following repository versions:
+	<ul>
+	<li>Bugzilla 4.0 - 4.4.11, 5.0.2</li>
+	<li>Gerrit 2.9.4 - 2.11.3</li>
+	<li>Hudson 3.0 - 3.3.2</li>
+	<li>Jenkins 1.509 - 1.642</li>
+	</ul>
+	</div>
+	<hr size="1" />
+
+
+	<h1>New	in Mylyn 3.19</h1>
+	
+
+	<ul>
+		<li><a href="#tasks">Task List</a></li>
+		<li><a href="#bugzilla">Bugzilla Connector</a></li>
+		<li><a href="#gerrit">Gerrit Connector</a></li>
+		<li><a href="#builds">Hudson/Jenkins Connector</a></li>
+		<li><a href="#framework">Framework and API</a></li>
+	</ul>
+
+	<h2>
+		<a name="tasks">Task List</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Incoming Notifications</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Tasks no longer receive incoming notifications for changes to attributes that are not shown in the task editor, such as rank.</p>
+			</td>
+		</tr>
+	</table>
+	
+	<h2>
+		<a name="bugzilla">Bugzilla Connector</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Bugzilla 5.0.2, 4.4.11, and 4.2.16</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Bugzilla 5.0.2, 4.4.11, and 4.2.16 are now supported.</p>
+			</td>
+		</tr>
+	</table>
+	
+	<h2>
+		<a name="gerrit">Gerrit Connector</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Task to Review Traceability</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">The task editor contains a section showing the reviews associated with the task, including which reviews have unread incoming changes.</p>
+				<p>
+					<img border="0" src="images/3.19/reviews-section.png" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Comment Threads</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Inline comments are in threads, directly in the patch sets section in the review editor. This makes it easy to see the conversation taking place at a given line of code. Unread incoming comments are highlighed in blue.</p>
+				<p>
+					<img border="0" src="images/3.19/review-comment-threads.png" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Comment Navigation</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Double clicking an inline comment in the review editor or the review navigator opens a compare editor to the relevant line and opens the comment in a popup.</p>
+			</td>
+		</tr>
+	</table>
+
+
+	<p>&nbsp;</p>
+	<h2>
+		<a name="builds">Hudson/Jenkins Connector</a>
+	</h2>
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>CloudBees Folder Plugin</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Build jobs nested in folders using the Cloudbees Folder Plugin are now supported.</p>
+				<p>
+					<img border="0" src="images/3.19/builds-folders.png" />
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+				<hr size="1" />
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Hudson 3.3.2 and Jenkins 1.642</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Hudson 3.3.2 and Jenkins 1.642 are now supported.</p>
+			</td>
+		</tr>
+	</table>
+
+	
+	<p>&nbsp;</p>
+	<h2>
+		<a name="framework">Framework and API</a>
+	</h2>
+
+	<p>
+		See <a
+			href="https://wiki.eclipse.org/Mylyn/Porting_Guide"
+			target="_new">porting guide</a> for additional notes on API changes.
+	</p>
+
+	<table cellpadding="10" style="border-spacing: 5px 0px; border-collapse: separate;"width="100%">
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Search by Task Key</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left"><code>AbstractRepositoryConnector</code> now has methods <code>supportsSearchByTaskKey</code>
+				 and <code>searchByTaskKey</code> to search for tasks by key (as opposed to task ID). Additionally, 
+				 the documentation for <code>getTaskData</code> has been clarified to specify that it should only be called
+				 with a task ID and not a task key.  
+				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=485380">bug 485380</a>.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Incoming Notifications</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Mylyn now suppresses notifications on changes to most attributes that have no kind. These attributes are normally not shown in the task editor unless connectors contribute custom task editor sections to display them. Such connectors should now ensure that the attributes in those sections have a kind set in the attribute metadata. Otherwise, users will not be notified when those attributes change unless other attributes (with a kind) have changed at the same time.
+				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=486145">bug 486145</a>.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Markup Language</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Connectors can specify that their markup language extends a "base" language by providing a <code>base-markup</code> parameter in the media type. This will determine which markup lanaguage will be used to
+				render rich text attributes.
+				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=486309">bug 486309</a>.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Disable Credential Fields</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left"><code>AbstractRepositorySettingsPage.setNeedsRepositoryCredentials()</code> can now be used to dynamically enable or disable credential fields at any time, even after the page has been created.
+				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=487761">bug 487761</a>.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">
+			<hr size="1"/>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top" width="15%" bgcolor="#3D355C" style="color:white;  padding-right: 5px;">
+				<p align="right">
+					<b>Sort by Rank as String</b>
+				</p>
+			</td>
+			<td valign="top" width="85%">
+				<p align="left">Tasks can now be sorted by rank even when the rank is not a base-10 number. Sorting uses standard String comparison order in this case.
+				 See <a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=488263">bug 488263</a>.
+				</p>
+			</td>
+		</tr>
+	</table>
+	<p>&nbsp;</p>
+
+
+
+</body>
+</html>

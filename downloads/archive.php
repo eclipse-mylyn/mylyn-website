@@ -36,6 +36,18 @@
 		Software User Agreement</a> unless otherwise specified.</p>
 
 		<div class="homeitem3col">
+			<h3>3.20.2 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+			<ul>
+				<li>
+					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.20.2/v20160630-1910/mylyn-3.20.2.v20160630-1910.zip">
+						<img border=0 src="/mylyn/images/icon-save.gif">
+					</a>
+					&nbsp;&nbsp;<b>archive.eclipse.org/mylyn/drops/3.20.2/v20160630-1910</b>&nbsp;&nbsp;(Eclipse 4.5 and 4.6)
+	        	</li>
+			</ul>
+		</div>
+
+		<div class="homeitem3col">
 			<h3>3.20.1 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn_User_Guide#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<ul>
 				<li>

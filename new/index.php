@@ -8,8 +8,8 @@
 	$pageTitle 		= "Mylyn New & Noteworthy";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
-	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new-3.19.html";
+
+	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/new-3.20.html";
 	$dataFile = fopen( $filename, "r" ) ;
 	if ( $dataFile )  {
 		while (!feof($dataFile))   {
@@ -20,10 +20,10 @@
 		die( "fopen failed for $filename" ) ;
 	}
 
-	# Paste your HTML content between the EOHTML markers!	
-	
+	# Paste your HTML content between the EOHTML markers!
+
 	include("_sideCommon.php");
-		
+
 	$html = <<<EOHTML
 <div id="midcolumn">
 	<div class="row" >

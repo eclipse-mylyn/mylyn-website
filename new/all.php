@@ -1,12 +1,17 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
-# Begin: page-specific settings.  Change these. 
+# Begin: page-specific settings.  Change these.
 $pageTitle 		= "Eclipse Mylyn Open Source Project";
 $pageKeywords	= "Mylyn, Eclipse, Tasks, Bugs, Focus, UI";
 $pageAuthor		= "Mik Kersten";
 
 $versions = array(
 				  array(
+					 "date" => "2016/06/22"
+					, "title" => "<a href=\"showVersion.php?version=new-3.20.html\"><img src=\"../images/star.png\"/>Mylyn 3.20 released</a>"
+					, "description" => "Mylyn 3.20"
+				)
+				,  array(
 					 "date" => "2016/04/15"
 					, "title" => "<a href=\"showVersion.php?version=new-3.19.html\"><img src=\"../images/star.png\"/>Mylyn 3.19 released</a>"
 					, "description" => "Mylyn 3.19"
@@ -25,12 +30,12 @@ $versions = array(
 					 "date" => "2015/06/26"
 					, "title" => "<a href=\"showVersion.php?version=new-3.16.html\">Mylyn 3.16 released</a>"
 					, "description" => "Mylyn 3.16"
-				)	
+				)
 				, array(
 					 "date" => "2015/04/10"
 					, "title" => "<a href=\"showVersion.php?version=new-3.15.html\">Mylyn 3.15 released</a>"
 					, "description" => "Mylyn 3.15"
-				)	
+				)
 				, array(
 					 "date" => "2015/01/9"
 					, "title" => "<a href=\"showVersion.php?version=new-3.14.html\">Mylyn 3.14 released</a>"

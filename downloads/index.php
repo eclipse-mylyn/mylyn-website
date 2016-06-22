@@ -5,7 +5,7 @@
 	#****************************************************************************
 
 	#
-	# Begin: page-specific settings.  Change these. 
+	# Begin: page-specific settings.  Change these.
 	$pageTitle 		= "Mylyn Downloads";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
@@ -19,8 +19,8 @@
 	# End: page-specific settings
 	#
 
-	# Paste your HTML content between the EOHTML markers!	
-	
+	# Paste your HTML content between the EOHTML markers!
+
 	include("../_sideBars.php");
 
 $html = <<<EOHTML
@@ -29,21 +29,21 @@ $html = <<<EOHTML
 	  <div>
     	<p>
         The minimal Mylyn install is a standalone Task List.  Optional Task Repository Connectors integrate the
-        Task List with bug/task/issue trackers and project management tools.  
-        Bridges focus the user interface on the active task and installing all available bridges is recommended. 
-        The preferred way of installing is via 
+        Task List with bug/task/issue trackers and project management tools.
+        Bridges focus the user interface on the active task and installing all available bridges is recommended.
+        The preferred way of installing is via
 		<a href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation">Eclipse</a>.
         </p>
     </div>
 
 	<div>
-		<table border="0" cellpadding="3"> 
+		<table border="0" cellpadding="3">
 			<tr>
 				<td><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions"><img border=0 src="/mylyn/images/plugin.png"></a></td>
 				<td>
 				<table border="0" cellpadding="0">
 						<tr>
-						<td><font size=+0><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Extensions</a></font></td> 
+						<td><font size=+0><a href="http://wiki.eclipse.org/index.php/Mylyn_Extensions">Extensions</a></font></td>
 						</tr>
 						<tr><td>Additional Connectors and Bridges</td></tr>
 					</table>
@@ -52,31 +52,32 @@ $html = <<<EOHTML
 				<td>
 					<table border="0" cellpadding="0">
 						<tr>
-						<td><font size=+0><a href="/mylyn/support">Support</a></font></td> 
+						<td><font size=+0><a href="/mylyn/support">Support</a></font></td>
 						</tr>
 						<tr><td>Community and commercial support</td></tr>
 					</table>
 				</td>
 				<td><a href="/mylyn/downloads/archive.php"><img border=0 src="/mylyn/images/archives.gif"></a></td>
 				<td>
-					<table border="0" cellpadding="0"> 
-						<tr> 
+					<table border="0" cellpadding="0">
+						<tr>
 						<td><span style="white-space: nowrap"><font size=+0><a href="/mylyn/downloads/archive.php">Older Downloads</a></font></span></td>
 						</tr>
 						<tr><td>Download archive and support for Eclipse 3.7, 3.6, 3.5, 3.4, 3.3 and 3.2</td></tr>
 					</table>
-				</td> 
-			</tr> 
+				</td>
+			</tr>
 		</table>
 	</div>
-	
+
 	<!-- Release -->
 		 <div class="homeitem3col">
-			<h3>3.19 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>3.20 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new"><img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2016-04-15). Requires <a href="http://www.oracle.com/technetwork/java/">Java SE 7</a> or later. Supports <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a>, <a href="http://trac.edgewall.org/" target="_new">Trac</a>, <a href="http://hudson-ci.org/" target="_new">Hudson</a>, <a href="http://jenkins-ci.org/" target="_new">Jenkins</a> and <a href="http://code.google.com/p/gerrit/" target="_new">Gerrit</a>.
-			<ul> 
+			<ul>
 				<li>
-					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.19.0/v20160331-2042/mylyn-3.19.0.v20160331-2042.zip">
+					<a title="Update Site Zip"
+href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.20.1/v20160614-0041/mylyn-3.20.1.v20160614-0041.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 3.8 and 4.5)
@@ -86,9 +87,9 @@ $html = <<<EOHTML
 
 		<div class="homeitem3col">
 	    	<a name="weekly"></a>
-			<h3>Snapshot Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
+			<h3>Snapshot Builds&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new/weekly.php">New & Noteworthy</a> Weekly builds are production quality, but subject to UI changes.
-			<ul> 
+			<ul>
 				<li>
 					<!--
 					<a title="Update Site Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/weekly/mylyn-latest.zip">
@@ -115,9 +116,9 @@ $html = <<<EOHTML
 		</div>
 
 		<div class="homeitem3col">
-			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3> 
-			
-			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.				
+			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+
+			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.
 			<ul>
 					<li>
 						<a title="Latest Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/nightly/docs/wikitext-standalone-latest.zip">
@@ -125,30 +126,30 @@ $html = <<<EOHTML
 						</a>
 						&nbsp;&nbsp;<b>Download WikiText Standalone (latest)</b>
 					</li>
-			</ul>	
+			</ul>
 		</div>
-		
+
 		<!-- Commercial -->
 		 <div class="homeitem3col">
-				<h3>Commercial Distributions</h3> 
-				<table border="0" cellpadding="3"> 
+				<h3>Commercial Distributions</h3>
+				<table border="0" cellpadding="3">
 				<tr>
 					<td><a href="http://tasktop.com"><img border=0 src="/mylyn/images/TAS-mark-48x48.png"></a></td>
 					<td>
 					<table border="0" cellpadding="0">
 							<tr>
-							<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td> 
+							<td><font size=+0><a href="http://tasktop.com">Tasktop<img border="0" src="/mylyn/images/external-link.png"></a></font></td>
 							</tr>
 							<tr><td>Numerous connectors and productivity features, supported by the creators of Mylyn. Free trial available.</td></tr>
 						</table>
 					</td>
-				</tr> 
+				</tr>
 			</table>
 		</div>
-		
+
 
 	<!--
-	<div align="center">		
+	<div align="center">
 		<font color="#444444">All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation
 					Software User Agreement</a> unless otherwise specified.</font>
 	</div>
@@ -160,8 +161,8 @@ $html = <<<EOHTML
 		<!--
 		<div class="sideitem">
 			<h6>New Users</h6>
-			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>, 
-			then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.</p> 
+			<p style="padding-left: 5px;">You can download Eclipse with Mylyn in most of the <a href="http://www.eclipse.org/downloads/">Eclipse Bundles</a>,
+			then look for updates using the sites below.  <br><b>Eclipse 3.2 users</b>: use the <a href="http://www.eclipse.org/mylyn/builds">Mylyn 2.0 release</a>.</p>
 		</div>
 		<div class="sideitem">
 			<h6>License</h6>
@@ -189,7 +190,7 @@ $html = <<<EOHTML
 		</div>-->
 	</div>
 </div>
-	
+
 EOHTML;
 
 

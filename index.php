@@ -1,6 +1,6 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
-	# Begin: page-specific settings.  Change these. 
+	# Begin: page-specific settings.  Change these.
 	$pageTitle 		= "Eclipse Mylyn Open Source Project";
 	$pageKeywords	= "Mylyn, Eclipse, Tasks, Bugs, Focus, UI";
 	$pageAuthor		= "Mik Kersten";
@@ -12,14 +12,14 @@
 	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
 	# End: page-specific settings
 	#
-	
+
 $html = <<<EOHTML
 
 <div id="maincontent">
 <div id="midcolumn">
 	<div class="row" >
 		<div class="col-sm-24 col-md-24 col-lg-24">
-			Mylyn is the task and application lifecycle management (ALM) framework for Eclipse.<br><br>It provides:  
+			Mylyn is the task and application lifecycle management (ALM) framework for Eclipse.<br><br>It provides:
 					<ul>
 						<li><b>The revolutionary task-focused interface</b>
 							<br><i>Realigns the IDE around tasks so that you see only the code that's relevant</i>
@@ -34,16 +34,16 @@ $html = <<<EOHTML
 						</li>
 					</ul>
 					Mylyn's <a href="http://en.wikipedia.org/wiki/Task-focused_interface">task-focused interface
-					<img border="0" src="/mylyn/images/external-link.png"></a> 
-					reduces information overload and makes multitasking easy.  
+					<img border="0" src="/mylyn/images/external-link.png"></a>
+					reduces information overload and makes multitasking easy.
 					Mylyn makes tasks a first class part of the IDE, integrates rich and offline editing for
-					ALM tools, and monitors your programming activity to create a "task context" that 
+					ALM tools, and monitors your programming activity to create a "task context" that
 					focuses your workspace and automatically links all relevant artifacts to the task-at-hand.
-					This puts the information you need at your fingertips and improves productivity by reducing 
+					This puts the information you need at your fingertips and improves productivity by reducing
 					information overload, facilitating multitasking and easing the sharing of expertise.
 					<br>
 				<table border="0" cellpadding="5">
-					<tr height=9>	 
+					<tr height=9>
 	          		<tr>
 						<td width=20></td>
 						<td><a href="/mylyn/downloads"><img border=0 src="images/downloads.gif"></a></td>
@@ -53,14 +53,14 @@ $html = <<<EOHTML
 				          			<td><font size=+1><a href="/mylyn/downloads">Downloads</a></font></td>
 								</tr>
 								<tr>
-					          		<td>Get the latest and greatest Mylyn release.  
+					          		<td>Get the latest and greatest Mylyn release.
 					          		<!-- <b><a href="/mylyn/new"><img src="images/star.png"/> What's new</a></b>? -->
 					          		</td>
 					          	</tr>
 							</table>
 						</td>
 	          		</tr>
-	          		
+
 	          		<tr>
 						<td width=20></td>
 						<td><a href="/mylyn/support"><img border=0 src="images/community.jpg"></a></td>
@@ -97,8 +97,13 @@ $html = <<<EOHTML
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
 				<div class="news_item">
+					<div class="news_item_date">2016/06/22</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html"><img src="images/star.png"/>Mylyn 3.20 released</a></div>
+					<div class="news_item_description">Mylyn 3.20 released as part of Eclipse Neon</div>
+				</div>
+				<div class="news_item">
 					<div class="news_item_date">2016/04/15</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.19.html"><img src="images/star.png"/>Mylyn 3.19 released</a></div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.19.html">Mylyn 3.19 released</a></div>
 					<div class="news_item_description">Mylyn 3.19 released</div>
 				</div>
 				<div class="news_item">
@@ -110,11 +115,6 @@ $html = <<<EOHTML
 					<div class="news_item_date">2015/10/02</div>
 					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.17.html">Mylyn 3.17 released</a></div>
 					<div class="news_item_description">Mylyn 3.17 released as part of Eclipse Mars.1</div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2015/06/26</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.16.html">Mylyn 3.16 released</a></div>
-					<div class="news_item_description">Mylyn 3.16 released as part of Eclipse Mars</div>
 				</div>
 				<div class="news_view_all">&gt; <a href="new/all.php">View all Release Notes</a></div>
 			</div>

@@ -97,29 +97,17 @@ $html = <<<EOHTML
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
 				<div class="news_item">
+					<div class="news_item_date">2016/10/07</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.21.html"><img src="images/star.png"/>Mylyn 3.21 released</a></div>
+				</div>
+				<div class="news_item">
 					<div class="news_item_date">2016/06/30</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html"><img src="images/star.png"/>Mylyn 3.20.2 released</a></div>
-					<div class="news_item_description">Mylyn 3.20.2 released</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html">Mylyn 3.20.2 released</a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2016/06/22</div>
 					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html">Mylyn 3.20 released</a></div>
 					<div class="news_item_description">Mylyn 3.20 released as part of Eclipse Neon</div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2016/04/15</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.19.html">Mylyn 3.19 released</a></div>
-					<div class="news_item_description">Mylyn 3.19 released</div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2016/01/08</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.18.html">Mylyn 3.18 released</a></div>
-					<div class="news_item_description">Mylyn 3.18 released</div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2015/10/02</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.17.html">Mylyn 3.17 released</a></div>
-					<div class="news_item_description">Mylyn 3.17 released as part of Eclipse Mars.1</div>
 				</div>
 				<div class="news_view_all">&gt; <a href="new/all.php">View all Release Notes</a></div>
 			</div>

@@ -7,19 +7,21 @@ $pageAuthor		= "Mik Kersten";
 
 $versions = array(
 				  array(
+					 "date" => "2016/10/07"
+					, "title" => "<a href=\"showVersion.php?version=new-3.21.html\"><img src=\"../images/star.png\"/>Mylyn 3.21 released</a>"
+				)
+				,  array(
 					 "date" => "2016/06/22"
-					, "title" => "<a href=\"showVersion.php?version=new-3.20.html\"><img src=\"../images/star.png\"/>Mylyn 3.20 released</a>"
-					, "description" => "Mylyn 3.20"
+					, "title" => "<a href=\"showVersion.php?version=new-3.20.html\">Mylyn 3.20 released</a>"
+					, "description" => "Mylyn 3.20 released as part of Eclipse Neon"
 				)
 				,  array(
 					 "date" => "2016/04/15"
-					, "title" => "<a href=\"showVersion.php?version=new-3.19.html\"><img src=\"../images/star.png\"/>Mylyn 3.19 released</a>"
-					, "description" => "Mylyn 3.19"
+					, "title" => "<a href=\"showVersion.php?version=new-3.19.html\">Mylyn 3.19 released</a>"
 				)
 				,  array(
 					 "date" => "2016/01/8"
 					, "title" => "<a href=\"showVersion.php?version=new-3.18.html\">Mylyn 3.18 released</a>"
-					, "description" => "Mylyn 3.18"
 				)
 				, array(
 					 "date" => "2015/10/2"
@@ -29,17 +31,14 @@ $versions = array(
 				, array(
 					 "date" => "2015/06/26"
 					, "title" => "<a href=\"showVersion.php?version=new-3.16.html\">Mylyn 3.16 released</a>"
-					, "description" => "Mylyn 3.16"
 				)
 				, array(
 					 "date" => "2015/04/10"
 					, "title" => "<a href=\"showVersion.php?version=new-3.15.html\">Mylyn 3.15 released</a>"
-					, "description" => "Mylyn 3.15"
 				)
 				, array(
 					 "date" => "2015/01/9"
 					, "title" => "<a href=\"showVersion.php?version=new-3.14.html\">Mylyn 3.14 released</a>"
-					, "description" => "Mylyn 3.14"
 				)
 				, array(
 					 "date" => "2014/09/26"

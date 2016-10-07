@@ -31,6 +31,7 @@ $versions = array(
 				, array(
 					 "date" => "2015/06/26"
 					, "title" => "<a href=\"showVersion.php?version=new-3.16.html\">Mylyn 3.16 released</a>"
+					, "description" => "Mylyn 3.16 released as part of Eclipse Mars"
 				)
 				, array(
 					 "date" => "2015/04/10"

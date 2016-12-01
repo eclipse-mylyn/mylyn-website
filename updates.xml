@@ -17,6 +17,26 @@
 </item>
 -->
 <item>
+<title>New CA Agile Central Connector</title>
+<pubDate>Fri, 1 Dec 2016 12:00:00 +0000</pubDate>
+<dc:creator>Sam Davis</dc:creator>
+<dc:subject>frameworkVersion=[3.0.0,4.0.0)</dc:subject>
+<dc:subject>conflicts=com.tasktop.connector.rally</dc:subject>
+<dc:subject>conflicts=com.rallydev.mylyn_feature</dc:subject>
+<guid isPermaLink="false">org.eclipse.mylyn.reset.8</guid>
+<description>A new connector for CA Agile Central is available. See &lt;a href="https://www.tasktop.com/integrations/rally-dev"&gt;more information&lt;/a&gt; or &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;install from connector discovery&lt;/a&gt;.</description>
+</item>
+<item>
+<title>New CA Agile Central Connector</title>
+<pubDate>Fri, 1 Dec 2016 12:00:00 +0000</pubDate>
+<dc:creator>Sam Davis</dc:creator>
+<dc:subject>frameworkVersion=[3.0.0,4.0.0)</dc:subject>
+<dc:subject>conflicts=com.tasktop.connector.rally</dc:subject>
+<dc:subject>requires=com.rallydev.mylyn_feature</dc:subject>
+<guid isPermaLink="false">org.eclipse.mylyn.reset.7</guid>
+<description>Support is ending for the CA Agile Central (formerly Rally) connector. A new, supported connector is available. &lt;a href="http://eclipse.org/mylyn/new/?action=discovery"&gt;Install from connector discovery&lt;/a&gt;.</description>
+</item>
+<item>
 <title>Mylyn Update</title>
 <link>https://eclipse.org/mylyn/new/showVersion.php?version=new-3.21.html</link>
 <pubDate>Fri, 7 Oct 2016 12:00:00 +0000</pubDate>

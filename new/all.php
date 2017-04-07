@@ -7,8 +7,12 @@ $pageAuthor		= "Mik Kersten";
 
 $versions = array(
 				  array(
+					 "date" => "2017/04/07"
+					, "title" => "<a href=\"showVersion.php?version=new-3.22.html\"><img src=\"../images/star.png\"/>Mylyn 3.22 released</a>"
+				)
+				,  array(
 					 "date" => "2016/10/07"
-					, "title" => "<a href=\"showVersion.php?version=new-3.21.html\"><img src=\"../images/star.png\"/>Mylyn 3.21 released</a>"
+					, "title" => "<a href=\"showVersion.php?version=new-3.21.html\">Mylyn 3.21 released</a>"
 				)
 				,  array(
 					 "date" => "2016/06/22"

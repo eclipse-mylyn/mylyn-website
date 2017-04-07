@@ -1326,7 +1326,7 @@
 					&nbsp;&nbsp;<b>Mylyn 3.22.0 API Baseline</b>
 				</li>
 				<li>
-					3.22itle="Mylyn 3.21.0" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.21.0/mylyn-3.21.0-api.zip">
+					<a title="Mylyn 3.21.0" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.21.0/mylyn-3.21.0-api.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b>Mylyn 3.21.0 API Baseline</b>

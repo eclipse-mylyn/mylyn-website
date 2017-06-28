@@ -97,21 +97,17 @@ $html = <<<EOHTML
 		<div class="col-sm-12 col-md-12 col-lg-12">
 			<div class="news-list"> <h2>Releases</h2>
 				<div class="news_item">
+					<div class="news_item_date">2017/06/28</div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.23.html"><img src="images/star.png"/>Mylyn 3.23 released</a></div>
+					<div class="news_item_description">Mylyn 3.23 released as part of Eclipse Oxygen</div>
+				</div>
+				<div class="news_item">
 					<div class="news_item_date">2017/04/07</div>
 					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.22.html"><img src="images/star.png"/>Mylyn 3.22 released</a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2016/10/07</div>
 					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.21.html">Mylyn 3.21 released</a></div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2016/06/30</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html">Mylyn 3.20.2 released</a></div>
-				</div>
-				<div class="news_item">
-					<div class="news_item_date">2016/06/22</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.20.html">Mylyn 3.20 released</a></div>
-					<div class="news_item_description">Mylyn 3.20 released as part of Eclipse Neon</div>
 				</div>
 				<div class="news_view_all">&gt; <a href="new/all.php">View all Release Notes</a></div>
 			</div>

@@ -72,19 +72,19 @@ $html = <<<EOHTML
 
 	<!-- Release -->
 		 <div class="homeitem3col">
-		 	<h3>3.22 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
+		 	<h3>3.23 Release&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#Installation"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://www.eclipse.org/mylyn/new">
-			<img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2017-4-07). Requires <a href="http://www.oracle.com/technetwork/java/">Java SE 8</a> or later.
+			<img src="/mylyn/images/star.png"/> New & Noteworthy</a> (2017-6-28). Requires <a href="http://www.oracle.com/technetwork/java/">Java SE 8</a> or later.
 			Includes connectors to <a href="http://www.bugzilla.org/" target="_new">Bugzilla</a>, <a href="http://trac.edgewall.org/" target="_new">Trac</a>,
 			<a href="http://hudson-ci.org/" target="_new">Hudson</a>, <a href="http://jenkins-ci.org/" target="_new">Jenkins</a> and
 			<a href="https://www.gerritcodereview.com/" target="_new">Gerrit</a>.
 			<ul>
 				<li>
 					<a title="Update Site Zip"
-href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.22.0/v20170328-0000/mylyn-3.22.0.v20170328-0000.zip">
+href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.23.1/v20170623-2012/mylyn-3.23.0.v20170623-2012.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 4.5 and 4.6)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 4.6 and 4.7)
 				</li>
 			</ul>
 		</div>

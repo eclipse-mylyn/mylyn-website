@@ -103,7 +103,7 @@ $html = <<<EOHTML
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2017/04/07</div>
-					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.22.html"><img src="images/star.png"/>Mylyn 3.22 released</a></div>
+					<div class="news_item_title"><a href="new/showVersion.php?version=new-3.22.html">Mylyn 3.22 released</a></div>
 				</div>
 				<div class="news_item">
 					<div class="news_item_date">2016/10/07</div>

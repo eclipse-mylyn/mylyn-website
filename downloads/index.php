@@ -100,7 +100,7 @@ href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.23.1/v2
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 4.5 or later)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/snapshots/weekly</b>&nbsp;&nbsp;(Eclipse 4.6 or later)
 				</li>
 				<li>
 					<a title="Update Site Zips" href="http://download.eclipse.org/mylyn/drops/">
@@ -113,7 +113,7 @@ href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.23.1/v2
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					-->
-					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/latest</b>&nbsp;&nbsp;(Eclipse 4.5 or later)
+					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/incubator/latest</b>&nbsp;&nbsp;(Eclipse 4.6 or later)
 				</li>
 			</ul>
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>

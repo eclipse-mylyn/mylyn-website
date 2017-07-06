@@ -119,20 +119,6 @@ href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.23.1/v2
 			<br>&nbsp;&nbsp;&nbsp;<a href="http://wiki.eclipse.org/Mylyn/Repositories">Additional Repository Locations</a>
 		</div>
 
-		<div class="homeitem3col">
-			<h3>WikiText Standalone&nbsp;<a title="More Info" href="http://wiki.eclipse.org/index.php/Mylyn/FAQ#WikiText"><img border=0 src="/mylyn/images/icon-help.gif"></a></h3>
-
-			<br>&nbsp;&nbsp;&nbsp;Ant tasks and APIs for parsing wiki markup to HTML, Docbook, DITA, and Eclipse Help.
-			<ul>
-					<li>
-						<a title="Latest Zip" href="https://www.eclipse.org/downloads/download.php?file=/mylyn/snapshots/nightly/docs/wikitext-standalone-latest.zip">
-							<img border=0 src="/mylyn/images/icon-save.gif">
-						</a>
-						&nbsp;&nbsp;<b>Download WikiText Standalone (latest)</b>
-					</li>
-			</ul>
-		</div>
-
 		<!-- Commercial -->
 		 <div class="homeitem3col">
 				<h3>Commercial Distributions</h3>

@@ -81,7 +81,7 @@ $html = <<<EOHTML
 			<ul>
 				<li>
 					<a title="Update Site Zip"
-href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.24.1/v20180619-2220/mylyn-3.24.1.v20180619-2220.zip">
+href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.24.2/v20180905-2014/mylyn-3.24.2.v20180905-2014.zip">
 						<img border=0 src="/mylyn/images/icon-save.gif">
 					</a>
 					&nbsp;&nbsp;<b><font color="#666666">http://</font>download.eclipse.org/mylyn/releases/latest</b>&nbsp;&nbsp;(Eclipse 4.7 and 4.8)

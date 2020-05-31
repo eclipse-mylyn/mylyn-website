@@ -38,12 +38,12 @@
 </item>
 <item>
 <title>Mylyn Update</title>
-<link>https://eclipse.org/mylyn/new/showVersion.php?version=new-3.24.html</link>
-<pubDate>Mon, 17 Sep 2018 12:00:00 +0000</pubDate>
+<link>https://eclipse.org/mylyn/new/showVersion.php?version=new-3.25.html</link>
+<pubDate>Wed, 3 Jun 2020 12:00:00 +0000</pubDate>
 <dc:creator>Sam Davis</dc:creator>
-<dc:subject>frameworkVersion=[0.0.0,3.24.2)</dc:subject>
-<guid isPermaLink="false">20180917-0000</guid>
-<description>Mylyn 3.24.2 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
+<dc:subject>frameworkVersion=[0.0.0,3.25.1)</dc:subject>
+<guid isPermaLink="false">20200526-0000</guid>
+<description>Mylyn 3.25.1 is &lt;a href="http://eclipse.org/mylyn/downloads/"&gt;now available&lt;/a&gt;.</description>
 </item>
 </channel>
 </rss>

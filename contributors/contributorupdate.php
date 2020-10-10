@@ -196,13 +196,13 @@
 			$htmlDynamic = $htmlDynamic .'</table></div> </div><div class="col-sm-7 col-md-7 col-lg-7"><div class="news-list"> <h2>Contributors</h2>continued '
 						 . '<br>Sorted by number of bugs resolved.<br>';
 			 $htmlDynamic = $htmlDynamic . '<table class="table table-striped" id="user_list_sort" border="1"><tbody><tr><th>Name</th><th>Bugs</th></tr>';
-			}
 		}
-		$htmlDynamic = $htmlDynamic . '</table></div> </div><div class="row" >'
-					. '<div class="col-sm-24 col-md-24 col-lg-24">';
+	}
+	$htmlDynamic = $htmlDynamic . '</table></div> </div><div class="row" >'
+				. '<div class="col-sm-24 col-md-24 col-lg-24">';
 	date_default_timezone_set("UTC"); 
 	$htmlDynamic = $htmlDynamic . '<i>Page generated ' . date("Y/m/d h:i:s")
-				 . " GMT. The list of committers or contributor may be incomplete.</i>";
+				 . " GMT. The list of committers or contributor may be incomplete.</i></div></div>";
 
 	$file = 'contributor.inc';
 	file_put_contents($file, $htmlDynamic);

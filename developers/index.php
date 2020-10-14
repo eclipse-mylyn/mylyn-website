@@ -26,33 +26,33 @@
 		<div class="homeitem3col">
 			<h3>Resources</h3>
 			<table border="0"> 
-        		<tr>
-        		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<img src="/mylyn/images/reference.png">
-        		</td>
-		        <td>
-			       	Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
-			       	development of the Mylyn project should subscribe to the dev mailing list.
-			    </td>
+				<tr>
+				<td valign="top">
+					&nbsp;&nbsp;&nbsp;&nbsp;<img src="/mylyn/images/reference.png">
+				</td>
+				<td>
+					Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
+					development of the Mylyn project should subscribe to the dev mailing list.
+				</td>
 				</tr>
 			</table>
 			<ul> 
 				<li>
-	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference</a>: 
+					<a href="http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference">Contributor Reference</a>: 
 					Getting started guide for Mylyn development
 				</li>
 				<li>
-	                <a href="http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference">Integrator Reference</a>: 
+					<a href="http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference">Integrator Reference</a>: 
 					Information for developers building on Mylyn
 				</li>
 				<li>
 					<a href="http://wiki.eclipse.org/index.php/Mylyn">Mylyn Page on Eclipsepedia</a>: Contributor and integrator links
 				</li>
 				<li>
-        			<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
-           			EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
-           			<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
-        		</li>
+					<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/2009-03-mylyn-connector-crash-course-talk.pdf">
+					EclipseCon Connector Crash Course Slides (pdf)</a> <i>March 26th, 2009</i><br>
+					<a href="https://www.eclipse.org/downloads/download.php?file=/mylyn/docs/workspace-connector-tutorial.zip">Workspace (zip)</a> or <a href="doc/dev/mylyn-connector-tutorial.psf">Team Project Set (psf)</a>
+				</li>
 				<li>
 					<a href="http://www.eclipse.org/articles/">Eclipse Corner Articles</a>: General information about Eclipse and plug-in development
 				</li>
@@ -62,23 +62,23 @@
 		<div class="homeitem3col">
 			<h3>Mailing Lists</h3>
 			<table border="0"> 
-        		<tr>
-        		<td valign="top">
-        			&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
-        		</td>
-		        <td>
-			       	Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
-			       	development of the Mylyn project should subscribe to the dev mailing list.
-			    </td> 
+				<tr>
+				<td valign="top">
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/image-email.gif"></a>
+				</td>
+				<td>
+					Developers building on Mylyn should subscribe to the integrators mailing list. Those actively involved in the 
+					development of the Mylyn project should subscribe to the dev mailing list.
+				</td> 
 				</tr>
 			</table>
 			<ul> 
 				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
+					<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-integrators">
 					mylyn-integrators@eclipse.org:</a> discussion related to building on Mylyn
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-integrators/maillist.html">[archive]</a></li>
 				<li>
-	                <a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
+					<a href="http://dev.eclipse.org/mailman/listinfo/mylyn-dev">
 					mylyn-dev@eclipse.org:</a> developer discussions and planning
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylyn-dev/maillist.html">[archive]</a>
 					<a href="http://dev.eclipse.org/mhonarc/lists/mylar-dev/maillist.html">[old archive]</a></li>
@@ -88,13 +88,13 @@
 		<div class="homeitem3col">
 			<h3>Bugzilla</h3>
 			<table border="0"> 
-	        	<tr>
-	        		<td valign="top">
-	        			<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
-	        		</td>
-			        <td>
-				        <p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="https://bugs.eclipse.org/bugs/">Bugzilla Reports</a>.
-				    </td> 
+				<tr>
+					<td valign="top">
+						<a href="/mylyn/bugs"><img border="0" src="/mylyn/images/bug-report.png"></a>
+					</td>
+					<td>
+						<p>The preferred way of reporting and discussing defects and enhancement requests is via <a href="https://bugs.eclipse.org/bugs/">Bugzilla Reports</a>.
+					</td> 
 				</tr>
 			</table>
 
@@ -111,10 +111,10 @@
  		<div class="homeitem3col"> 
 			<h3>Tools</h3>
 			<table border="0"> 
-	        	<tr>
-	        		<td width="5"></td>
-			        <td>
-				        <p>A profiler license is available to committers. YourKit is kindly supporting open source projects with its full-featured
+				<tr>
+					<td width="5"></td>
+					<td>
+						<p>A profiler license is available to committers. YourKit is kindly supporting open source projects with its full-featured
  Java Profiler. YourKit, LLC is the creator of innovative and intelligent
  tools for profiling Java and .NET applications. Take a look at YourKit's
  leading software products: <a
@@ -122,7 +122,7 @@
  Profiler</a> and <a
  href="http://www.yourkit.com/.net/profiler/index.jsp">YourKit .NET
  Profiler</a>.</p>
-				    </td> 
+					</td> 
 				</tr>
 			</table>
 		</div>
@@ -131,14 +131,13 @@
 	</div>
 	<div id="rightcolumn">
 		$side_vote
-	  <!--
+	<!--
 			<font size=1>
 			<?= $votesBugs->getAsSideHTML("Top Voted Bugs") ?>
 			<?= $votesEnhancements->getAsSideHTML("Top Voted Enhancements") ?>
 			</font>
-		-->			
+		-->
 	</div>
-</div>
 
 EOHTML;
 

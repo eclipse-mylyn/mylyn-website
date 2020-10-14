@@ -34,8 +34,8 @@ EOHTML;
 
 if($_SERVER['HTTP_HOST'] == 'staging.eclipse.org') {
   $htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors-staging/lastSuccessfulBuild/artifact/contributor.inc');
-} else if($_SERVER['HTTP_HOST'] == 'localhost:2080') {
-  $htmlDynamic = file_get_contents('../contributor.inc');
+} else if($_SERVER['HTTP_HOST'] == 'websitetest.local') {
+  $htmlDynamic = file_get_contents('./contributor.inc');
 } else {
   $htmlDynamic = file_get_contents('https://hudson.eclipse.org/mylyn/job/mylyn-update-contributors/lastSuccessfulBuild/artifact/contributor.inc');
 }

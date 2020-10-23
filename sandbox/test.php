@@ -36,5 +36,17 @@
 <?php
         $html = ob_get_contents();
         ob_end_clean();
-    $App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
+
+	# Generate the web page
+    $Theme = $App->getThemeClass();
+    $Theme = $App->getThemeClass($theme);
+    $Theme->setNavPosition('left');
+    $Theme->setNav($Nav);
+    $Theme->setMenu($Menu);
+    $Theme->setPageAuthor($pageAuthor);
+    $Theme->setPageKeywords($pageKeywords);
+    $Theme->setPageTitle($pageTitle);
+    $Theme->setHtml($html);
+    $Theme->setBreadcrumb($Breadcrumb);
+    $Theme->generatePage();
 ?>

@@ -183,7 +183,15 @@ href="https://www.eclipse.org/downloads/download.php?file=/mylyn/drops/3.25.2/v2
 
 EOHTML;
 
-
 	# Generate the web page
-	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
-?>
+    $Theme = $App->getThemeClass();
+    $Theme = $App->getThemeClass($theme);
+    $Theme->setNavPosition('left');
+    $Theme->setNav($Nav);
+    $Theme->setMenu($Menu);
+    $Theme->setPageAuthor($pageAuthor);
+    $Theme->setPageKeywords($pageKeywords);
+    $Theme->setPageTitle($pageTitle);
+    $Theme->setHtml($html);
+    $Theme->setBreadcrumb($Breadcrumb);
+    $Theme->generatePage();?>

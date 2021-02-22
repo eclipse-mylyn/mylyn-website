@@ -3,17 +3,21 @@
 	#*****************************************************************************
 	#
 	#****************************************************************************
-	
+
 	#
 	$pageTitle 		= "Mylyn New & Noteworthy";
 	$pageKeywords	= "Mylyn, Eclipse";
 	$pageAuthor		= "Mik Kersten";
 
-	
-	$filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/".htmlspecialchars($_GET["version"]);
-	
+  $version = pathinfo($_GET['version'], PATHINFO_FILENAME);
+  $ext = pathinfo($_GET['version'], PATHINFO_EXTENSION);
+  $filename = "";
+  if (!empty($version) && $ext === 'html') {
+    $filename = $_SERVER['DOCUMENT_ROOT'] . "/mylyn/new/". $version . '.html';
     $dataFile = fopen( $filename, "r" ) ;
-    if ( $dataFile )  {
+  }
+
+    if (!empty($dataFile))  {
     	while (!feof($dataFile))   {
         	$contents .= fgets($dataFile, 4096);
     	}
@@ -22,10 +26,10 @@
     	die( "fopen failed for $filename" ) ;
     }
 
-	# Paste your HTML content between the EOHTML markers!	
-	
+	# Paste your HTML content between the EOHTML markers!
+
 	include("_sideCommon.php");
-		
+
 	$html = <<<EOHTML
 
 <div id="midcolumn">

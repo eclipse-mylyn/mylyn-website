@@ -24,8 +24,8 @@ EOBRANDING;
 	
 	$Nav->addNavSeparator("Mylyn", 	"/mylyn/index.php");
 	$Nav->addCustomNav("About", "/projects/project_summary.php?projectid=mylyn", "", 1  );
-	$Nav->addCustomNav("Calendar", "/mylyn/calendar", 	"_self", 1);
-	$Nav->addCustomNav("Contributors", "/mylyn/contributors", 	"_self", 1);
+	//$Nav->addCustomNav("Calendar", "/mylyn/calendar", 	"_self", 1);
+	//$Nav->addCustomNav("Contributors", "/mylyn/contributors", 	"_self", 1);
 	$Nav->addCustomNav("<span style='white-space: nowrap'>History &amp; Legal</span>", "/mylyn/about", "_self", 1);
 	//$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Presentations", "/mylyn/presentations", 	"_self", 1); 
 	//$Nav->addCustomNav("&nbsp;&nbsp;&nbsp;&nbsp;Publications", "/mylyn/publications", 	"_self", 1);
@@ -43,7 +43,7 @@ EOBRANDING;
 	$Nav->addCustomNav("Development", "/mylyn/developers", 	"_self", 1);
 	$Nav->addCustomNav("<span style='white-space: nowrap;letter-spacing:-1px;'>Contributing (wiki)</span>", "http://wiki.eclipse.org/index.php/Mylyn/Contributor_Reference", 	"_self", 1);
 	$Nav->addCustomNav("<span style='white-space: nowrap;letter-spacing:-1px;'>Integrating (wiki)</span>", "http://wiki.eclipse.org/index.php/Mylyn/Integrator_Reference", 	"_self", 1);
-	$Nav->addCustomNav("Plan", "https://projects.eclipse.org/projects/mylyn/documentation", 	"_self", 1);
+	//$Nav->addCustomNav("Plan", "https://projects.eclipse.org/projects/mylyn/documentation", 	"_self", 1);
 
 	$App->SetGoogleAnalyticsTrackingCode("UA-6100912-1");
 ?>

@@ -23,7 +23,7 @@ EOBRANDING;
 	$Menu->setProjectBranding($branding);
 	
 	$Nav->addNavSeparator("Mylyn", 	"/mylyn/index.php");
-	$Nav->addCustomNav("About", "/projects/project_summary.php?projectid=mylyn", "", 1  );
+	$Nav->addCustomNav("About", "https://eclipse.org/projects/project_summary.php?projectid=mylyn", "", 1  );
 	//$Nav->addCustomNav("Calendar", "/mylyn/calendar", 	"_self", 1);
 	//$Nav->addCustomNav("Contributors", "/mylyn/contributors", 	"_self", 1);
 	$Nav->addCustomNav("<span style='white-space: nowrap'>History &amp; Legal</span>", "/mylyn/about", "_self", 1);

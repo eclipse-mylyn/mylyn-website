@@ -43,13 +43,16 @@
 						 </tr>
 					</table>
 				</li>
+				<!--
 				<li>
 				<a href="http://tasktop.com/content/video/2008-01-w-jax-keynote-less-more-redefining-i-ide">
  				Less is More: Redefining the "I" of the IDE</a> W-JAX keynote by Mik Kersten. 
  				Conceptual overview of Mylyn and the task-focused interface <i>(November 6, 2008)</i>
 				</li>
+				-->
 			</ul>
 
+			<!--
 			<h3>Getting Started</h3> 
 			<ul>
 				<li>
@@ -69,16 +72,19 @@
 		           	Mylyn 2.0, Part 2: Automated context management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (August 2007)
 	            </li>
 			</ul>
-
+			-->
 			<h3>Documentation Portals</h3> 
 			<ul>
 				<li>
 					<a href="http://wiki.eclipse.org/index.php/Mylyn/User_Guide">Mylyn User Guide</a>: feature reference on Eclipsepedia
+				<!--
 				<li>
 					<a href="http://help.tasktop.com/">Tasktop Portal<img border="0" src="/mylyn/images/external-link.png"></a> documentation on Mylyn and third-party Mylyn Connectors
+				->
 				</li>
 			</ul>
 
+			<!--
 			<h3>Selected Publications</h3>
 			<ul>
 				<li>
@@ -93,7 +99,6 @@
 		            <a href="http://eclipse.sys-con.com/read/336896.htm">
 		           	Five Reasons to Love [Mylyn]<img border="0" src="/mylyn/images/external-link.png"></a> by Wayne Beaton (Feb 2007)
 	            </li>
-				<!--
 				<li>
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn1/">
 		           	Mylyn 2.0, Part 1: Integrated task management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (Aug 2007)
@@ -102,8 +107,8 @@
 		            <a href="http://www.ibm.com/developerworks/java/library/j-mylyn2/">
 		           	Mylyn 2.0, Part 2: Automated context management<img border="0" src="/mylyn/images/external-link.png"></a> by Mik Kersten (Aug 2007)
 	            </li>
-	            -->
 			</ul> 
+	        -->
 		</div>
 	</div>
 	</div>

@@ -31,7 +31,7 @@ $html = <<<EOHTML
             <br><i>Realigns the IDE around tasks so that you see only the code that's relevant</i>
             <br>&nbsp;
           <li><b>A task management tool for developers</b>
-            <br><i>Averaging 1 million downloads/month, Mylyn is the most popular IDE tool for ALM</i>
+            <br><i> Mylyn is a IDE tool for ALM</i>
             <br>&nbsp;
           </li>
           <li><b>A broad ecosystem of Agile and ALM integrations</b>

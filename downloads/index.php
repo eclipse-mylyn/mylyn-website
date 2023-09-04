@@ -76,7 +76,7 @@ $html = <<<EOHTML
 			<ul>
 				<li>
 					<a title="All Downloads" href="https://download.eclipse.org/mylyn/updates/">
-						<img border=0 src="/mylyn/images/icon-save.gif">
+						<img border=0 src="/mylyn/images/icon-save.gif"> https://download.eclipse.org/mylyn/updates/
 					</a>
 				</li>
 			</ul>
